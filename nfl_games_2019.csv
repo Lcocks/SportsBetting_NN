@@ -1,0 +1,269 @@
+game_id,date,home_team,away_team
+401127913,2019-09-06T00:20Z,Chicago Bears,Green Bay Packers
+401127928,2019-09-08T17:00Z,Cleveland Browns,Tennessee Titans
+401127954,2019-09-08T17:00Z,Miami Dolphins,Baltimore Ravens
+401127961,2019-09-08T17:00Z,Minnesota Vikings,Atlanta Falcons
+401127963,2019-09-08T17:00Z,New York Jets,Buffalo Bills
+401127968,2019-09-08T17:00Z,Philadelphia Eagles,Washington
+401127923,2019-09-08T17:00Z,Carolina Panthers,Los Angeles Rams
+401127931,2019-09-08T17:00Z,Jacksonville Jaguars,Kansas City Chiefs
+401127972,2019-09-08T20:05Z,Los Angeles Chargers,Indianapolis Colts
+401127995,2019-09-08T20:05Z,Seattle Seahawks,Cincinnati Bengals
+401128007,2019-09-08T20:25Z,Dallas Cowboys,New York Giants
+401127999,2019-09-08T20:25Z,Arizona Cardinals,Detroit Lions
+401128010,2019-09-08T20:25Z,Tampa Bay Buccaneers,San Francisco 49ers
+401127860,2019-09-09T00:20Z,New England Patriots,Pittsburgh Steelers
+401128021,2019-09-09T23:10Z,New Orleans Saints,Houston Texans
+401128025,2019-09-10T02:20Z,Oakland Raiders,Denver Broncos
+401128054,2019-09-13T00:20Z,Carolina Panthers,Tampa Bay Buccaneers
+401128066,2019-09-15T17:00Z,Cincinnati Bengals,San Francisco 49ers
+401128072,2019-09-15T17:00Z,Detroit Lions,Los Angeles Chargers
+401128098,2019-09-15T17:00Z,Green Bay Packers,Minnesota Vikings
+401128114,2019-09-15T17:00Z,Tennessee Titans,Indianapolis Colts
+401127862,2019-09-15T17:00Z,Miami Dolphins,New England Patriots
+401128106,2019-09-15T17:00Z,New York Giants,Buffalo Bills
+401128110,2019-09-15T17:00Z,Pittsburgh Steelers,Seattle Seahawks
+401128115,2019-09-15T17:00Z,Washington,Dallas Cowboys
+401128061,2019-09-15T17:00Z,Baltimore Ravens,Arizona Cardinals
+401128101,2019-09-15T17:00Z,Houston Texans,Jacksonville Jaguars
+401128118,2019-09-15T20:05Z,Oakland Raiders,Kansas City Chiefs
+401128120,2019-09-15T20:25Z,Denver Broncos,Chicago Bears
+401128122,2019-09-15T20:25Z,Los Angeles Rams,New Orleans Saints
+401128124,2019-09-16T00:20Z,Atlanta Falcons,Philadelphia Eagles
+401128127,2019-09-17T00:15Z,New York Jets,Cleveland Browns
+401127859,2019-09-20T00:20Z,Jacksonville Jaguars,Tennessee Titans
+401127915,2019-09-22T17:00Z,Buffalo Bills,Cincinnati Bengals
+401127921,2019-09-22T17:00Z,Dallas Cowboys,Miami Dolphins
+401127925,2019-09-22T17:00Z,Green Bay Packers,Denver Broncos
+401127929,2019-09-22T17:00Z,Indianapolis Colts,Atlanta Falcons
+401127953,2019-09-22T17:00Z,Kansas City Chiefs,Baltimore Ravens
+401127956,2019-09-22T17:00Z,Minnesota Vikings,Oakland Raiders
+401127861,2019-09-22T17:00Z,New England Patriots,New York Jets
+401127959,2019-09-22T17:00Z,Philadelphia Eagles,Detroit Lions
+401127962,2019-09-22T20:05Z,Arizona Cardinals,Carolina Panthers
+401127966,2019-09-22T20:05Z,Tampa Bay Buccaneers,New York Giants
+401127970,2019-09-22T20:25Z,Los Angeles Chargers,Houston Texans
+401127998,2019-09-22T20:25Z,San Francisco 49ers,Pittsburgh Steelers
+401127993,2019-09-22T20:25Z,Seattle Seahawks,New Orleans Saints
+401128125,2019-09-23T00:20Z,Cleveland Browns,Los Angeles Rams
+401128003,2019-09-24T00:15Z,Washington,Chicago Bears
+401127863,2019-09-27T00:20Z,Green Bay Packers,Philadelphia Eagles
+401128016,2019-09-29T17:00Z,Atlanta Falcons,Tennessee Titans
+401127866,2019-09-29T17:00Z,Buffalo Bills,New England Patriots
+401128023,2019-09-29T17:00Z,Detroit Lions,Kansas City Chiefs
+401128030,2019-09-29T17:00Z,Indianapolis Colts,Oakland Raiders
+401128055,2019-09-29T17:00Z,Miami Dolphins,Los Angeles Chargers
+401128059,2019-09-29T17:00Z,New York Giants,Washington
+401128018,2019-09-29T17:00Z,Baltimore Ravens,Cleveland Browns
+401128026,2019-09-29T17:00Z,Houston Texans,Carolina Panthers
+401128069,2019-09-29T20:05Z,Los Angeles Rams,Tampa Bay Buccaneers
+401128064,2019-09-29T20:05Z,Arizona Cardinals,Seattle Seahawks
+401128093,2019-09-29T20:25Z,Chicago Bears,Minnesota Vikings
+401128097,2019-09-29T20:25Z,Denver Broncos,Jacksonville Jaguars
+401128102,2019-09-30T00:20Z,New Orleans Saints,Dallas Cowboys
+401128109,2019-10-01T00:15Z,Pittsburgh Steelers,Cincinnati Bengals
+401127927,2019-10-04T00:20Z,Seattle Seahawks,Los Angeles Rams
+401127958,2019-10-06T17:00Z,Cincinnati Bengals,Arizona Cardinals
+401128014,2019-10-06T17:00Z,Tennessee Titans,Buffalo Bills
+401128001,2019-10-06T17:00Z,Oakland Raiders,Chicago Bears
+401127965,2019-10-06T17:00Z,New Orleans Saints,Tampa Bay Buccaneers
+401127971,2019-10-06T17:00Z,New York Giants,Minnesota Vikings
+401128006,2019-10-06T17:00Z,Philadelphia Eagles,New York Jets
+401128011,2019-10-06T17:00Z,Pittsburgh Steelers,Baltimore Ravens
+401127864,2019-10-06T17:00Z,Washington,New England Patriots
+401127932,2019-10-06T17:00Z,Carolina Panthers,Jacksonville Jaguars
+401127960,2019-10-06T17:00Z,Houston Texans,Atlanta Falcons
+401128019,2019-10-06T20:05Z,Los Angeles Chargers,Denver Broncos
+401128029,2019-10-06T20:25Z,Dallas Cowboys,Green Bay Packers
+401128053,2019-10-07T00:20Z,Kansas City Chiefs,Indianapolis Colts
+401128062,2019-10-08T00:15Z,San Francisco 49ers,Cleveland Browns
+401127917,2019-10-11T00:20Z,New England Patriots,New York Giants
+401128096,2019-10-13T13:30Z,Tampa Bay Buccaneers,Carolina Panthers
+401128111,2019-10-13T17:00Z,Cleveland Browns,Seattle Seahawks
+401128119,2019-10-13T17:00Z,Kansas City Chiefs,Houston Texans
+401128121,2019-10-13T17:00Z,Miami Dolphins,Washington
+401128123,2019-10-13T17:00Z,Minnesota Vikings,Philadelphia Eagles
+401128116,2019-10-13T17:00Z,Jacksonville Jaguars,New Orleans Saints
+401128105,2019-10-13T17:00Z,Baltimore Ravens,Cincinnati Bengals
+401128128,2019-10-13T20:05Z,Los Angeles Rams,San Francisco 49ers
+401128126,2019-10-13T20:05Z,Arizona Cardinals,Atlanta Falcons
+401128129,2019-10-13T20:25Z,Denver Broncos,Tennessee Titans
+401128130,2019-10-13T20:25Z,New York Jets,Dallas Cowboys
+401128131,2019-10-14T00:20Z,Los Angeles Chargers,Pittsburgh Steelers
+401128132,2019-10-15T00:15Z,Green Bay Packers,Detroit Lions
+401127902,2019-10-18T00:20Z,Denver Broncos,Kansas City Chiefs
+401127940,2019-10-20T17:00Z,Atlanta Falcons,Los Angeles Rams
+401127942,2019-10-20T17:00Z,Buffalo Bills,Miami Dolphins
+401127945,2019-10-20T17:00Z,Cincinnati Bengals,Jacksonville Jaguars
+401127947,2019-10-20T17:00Z,Detroit Lions,Minnesota Vikings
+401127949,2019-10-20T17:00Z,Green Bay Packers,Oakland Raiders
+401127951,2019-10-20T17:00Z,Indianapolis Colts,Houston Texans
+401127974,2019-10-20T17:00Z,New York Giants,Arizona Cardinals
+401127977,2019-10-20T17:00Z,Washington,San Francisco 49ers
+401127979,2019-10-20T20:05Z,Tennessee Titans,Los Angeles Chargers
+401127982,2019-10-20T20:25Z,Chicago Bears,New Orleans Saints
+401127985,2019-10-20T20:25Z,Seattle Seahawks,Baltimore Ravens
+401127987,2019-10-21T00:20Z,Dallas Cowboys,Philadelphia Eagles
+401127894,2019-10-22T00:15Z,New York Jets,New England Patriots
+401127905,2019-10-25T00:20Z,Minnesota Vikings,Washington
+401128035,2019-10-27T17:00Z,Atlanta Falcons,Seattle Seahawks
+401128037,2019-10-27T17:00Z,Buffalo Bills,Philadelphia Eagles
+401128039,2019-10-27T17:00Z,Chicago Bears,Los Angeles Chargers
+401128042,2019-10-27T17:00Z,Detroit Lions,New York Giants
+401128048,2019-10-27T17:00Z,Tennessee Titans,Tampa Bay Buccaneers
+401128051,2019-10-27T17:00Z,Indianapolis Colts,Denver Broncos
+401127912,2019-10-27T17:00Z,Los Angeles Rams,Cincinnati Bengals
+401128046,2019-10-27T17:00Z,New Orleans Saints,Arizona Cardinals
+401128045,2019-10-27T17:00Z,Jacksonville Jaguars,New York Jets
+401128050,2019-10-27T20:05Z,San Francisco 49ers,Carolina Panthers
+401127895,2019-10-27T20:25Z,New England Patriots,Cleveland Browns
+401128043,2019-10-27T20:25Z,Houston Texans,Oakland Raiders
+401128073,2019-10-28T00:20Z,Kansas City Chiefs,Green Bay Packers
+401128074,2019-10-29T00:15Z,Pittsburgh Steelers,Miami Dolphins
+401127908,2019-11-01T00:20Z,Arizona Cardinals,San Francisco 49ers
+401127936,2019-11-03T14:30Z,Jacksonville Jaguars,Houston Texans
+401128076,2019-11-03T18:00Z,Buffalo Bills,Washington
+401128079,2019-11-03T18:00Z,Kansas City Chiefs,Minnesota Vikings
+401128080,2019-11-03T18:00Z,Miami Dolphins,New York Jets
+401128082,2019-11-03T18:00Z,Philadelphia Eagles,Chicago Bears
+401128083,2019-11-03T18:00Z,Pittsburgh Steelers,Indianapolis Colts
+401128078,2019-11-03T18:00Z,Carolina Panthers,Tennessee Titans
+401128085,2019-11-03T21:05Z,Oakland Raiders,Detroit Lions
+401128087,2019-11-03T21:05Z,Seattle Seahawks,Tampa Bay Buccaneers
+401128088,2019-11-03T21:25Z,Denver Broncos,Cleveland Browns
+401128090,2019-11-03T21:25Z,Los Angeles Chargers,Green Bay Packers
+401127899,2019-11-04T01:20Z,Baltimore Ravens,New England Patriots
+401128091,2019-11-05T01:15Z,New York Giants,Dallas Cowboys
+401127907,2019-11-08T01:20Z,Oakland Raiders,Los Angeles Chargers
+401127911,2019-11-10T18:00Z,Chicago Bears,Detroit Lions
+401127934,2019-11-10T18:00Z,Cincinnati Bengals,Baltimore Ravens
+401127939,2019-11-10T18:00Z,Cleveland Browns,Buffalo Bills
+401127981,2019-11-10T18:00Z,Tennessee Titans,Kansas City Chiefs
+401127948,2019-11-10T18:00Z,New Orleans Saints,Atlanta Falcons
+401127952,2019-11-10T18:00Z,New York Jets,New York Giants
+401127976,2019-11-10T18:00Z,Tampa Bay Buccaneers,Arizona Cardinals
+401127986,2019-11-10T21:05Z,Indianapolis Colts,Miami Dolphins
+401127944,2019-11-10T21:25Z,Green Bay Packers,Carolina Panthers
+401127989,2019-11-10T21:25Z,Pittsburgh Steelers,Los Angeles Rams
+401128041,2019-11-11T01:20Z,Dallas Cowboys,Minnesota Vikings
+401127992,2019-11-12T01:15Z,San Francisco 49ers,Seattle Seahawks
+401128044,2019-11-15T01:20Z,Cleveland Browns,Pittsburgh Steelers
+401128052,2019-11-17T18:00Z,Detroit Lions,Dallas Cowboys
+401128075,2019-11-17T18:00Z,Indianapolis Colts,Jacksonville Jaguars
+401128077,2019-11-17T18:00Z,Miami Dolphins,Buffalo Bills
+401128081,2019-11-17T18:00Z,Minnesota Vikings,Denver Broncos
+401128084,2019-11-17T18:00Z,Tampa Bay Buccaneers,New Orleans Saints
+401128086,2019-11-17T18:00Z,Washington,New York Jets
+401128049,2019-11-17T18:00Z,Carolina Panthers,Atlanta Falcons
+401128047,2019-11-17T18:00Z,Baltimore Ravens,Houston Texans
+401128089,2019-11-17T21:05Z,San Francisco 49ers,Arizona Cardinals
+401128092,2019-11-17T21:25Z,Oakland Raiders,Cincinnati Bengals
+401127897,2019-11-17T21:25Z,Philadelphia Eagles,New England Patriots
+401128133,2019-11-18T01:20Z,Los Angeles Rams,Chicago Bears
+401128134,2019-11-19T01:15Z,Los Angeles Chargers,Kansas City Chiefs
+401127865,2019-11-22T01:20Z,Houston Texans,Indianapolis Colts
+401127870,2019-11-24T18:00Z,Atlanta Falcons,Tampa Bay Buccaneers
+401127872,2019-11-24T18:00Z,Buffalo Bills,Denver Broncos
+401127914,2019-11-24T18:00Z,Chicago Bears,New York Giants
+401127918,2019-11-24T18:00Z,Cincinnati Bengals,Pittsburgh Steelers
+401127919,2019-11-24T18:00Z,Cleveland Browns,Miami Dolphins
+401127922,2019-11-24T18:00Z,New Orleans Saints,Carolina Panthers
+401127924,2019-11-24T18:00Z,New York Jets,Oakland Raiders
+401128008,2019-11-24T18:00Z,Philadelphia Eagles,Seattle Seahawks
+401127996,2019-11-24T18:00Z,Washington,Detroit Lions
+401128000,2019-11-24T21:05Z,Tennessee Titans,Jacksonville Jaguars
+401127957,2019-11-24T21:25Z,New England Patriots,Dallas Cowboys
+401128004,2019-11-25T01:20Z,San Francisco 49ers,Green Bay Packers
+401128012,2019-11-26T01:15Z,Los Angeles Rams,Baltimore Ravens
+401128015,2019-11-28T17:30Z,Detroit Lions,Chicago Bears
+401128017,2019-11-28T21:30Z,Dallas Cowboys,Buffalo Bills
+401128022,2019-11-29T01:20Z,Atlanta Falcons,New Orleans Saints
+401128057,2019-12-01T18:00Z,Cincinnati Bengals,New York Jets
+401128058,2019-12-01T18:00Z,Indianapolis Colts,Tennessee Titans
+401128070,2019-12-01T18:00Z,Miami Dolphins,Philadelphia Eagles
+401128095,2019-12-01T18:00Z,New York Giants,Green Bay Packers
+401128107,2019-12-01T18:00Z,Pittsburgh Steelers,Cleveland Browns
+401128032,2019-12-01T18:00Z,Carolina Panthers,Washington
+401128063,2019-12-01T18:00Z,Jacksonville Jaguars,Tampa Bay Buccaneers
+401128027,2019-12-01T18:00Z,Baltimore Ravens,San Francisco 49ers
+401128100,2019-12-01T21:05Z,Arizona Cardinals,Los Angeles Rams
+401128104,2019-12-01T21:25Z,Denver Broncos,Los Angeles Chargers
+401128067,2019-12-01T21:25Z,Kansas City Chiefs,Oakland Raiders
+401127967,2019-12-02T01:20Z,Houston Texans,New England Patriots
+401128112,2019-12-03T01:15Z,Seattle Seahawks,Minnesota Vikings
+401127871,2019-12-06T01:20Z,Chicago Bears,Dallas Cowboys
+401127869,2019-12-08T18:00Z,Atlanta Falcons,Carolina Panthers
+401127868,2019-12-08T18:00Z,Buffalo Bills,Baltimore Ravens
+401127867,2019-12-08T18:00Z,Cleveland Browns,Cincinnati Bengals
+401127916,2019-12-08T18:00Z,Green Bay Packers,Washington
+401127926,2019-12-08T18:00Z,Minnesota Vikings,Detroit Lions
+401127964,2019-12-08T18:00Z,New Orleans Saints,San Francisco 49ers
+401127969,2019-12-08T18:00Z,New York Jets,Miami Dolphins
+401127994,2019-12-08T18:00Z,Tampa Bay Buccaneers,Indianapolis Colts
+401127920,2019-12-08T18:00Z,Houston Texans,Denver Broncos
+401127997,2019-12-08T21:05Z,Jacksonville Jaguars,Los Angeles Chargers
+401128005,2019-12-08T21:25Z,Oakland Raiders,Tennessee Titans
+401127930,2019-12-08T21:25Z,New England Patriots,Kansas City Chiefs
+401128002,2019-12-08T21:25Z,Arizona Cardinals,Pittsburgh Steelers
+401128009,2019-12-09T01:20Z,Los Angeles Rams,Seattle Seahawks
+401128013,2019-12-10T01:15Z,Philadelphia Eagles,New York Giants
+401128020,2019-12-13T01:20Z,Baltimore Ravens,New York Jets
+401127955,2019-12-15T18:00Z,Cincinnati Bengals,New England Patriots
+401128028,2019-12-15T18:00Z,Detroit Lions,Tampa Bay Buccaneers
+401128031,2019-12-15T18:00Z,Green Bay Packers,Chicago Bears
+401128068,2019-12-15T18:00Z,Tennessee Titans,Houston Texans
+401128056,2019-12-15T18:00Z,Kansas City Chiefs,Denver Broncos
+401128060,2019-12-15T18:00Z,New York Giants,Miami Dolphins
+401128071,2019-12-15T18:00Z,Washington,Philadelphia Eagles
+401128024,2019-12-15T18:00Z,Carolina Panthers,Seattle Seahawks
+401128099,2019-12-15T21:05Z,Oakland Raiders,Jacksonville Jaguars
+401128094,2019-12-15T21:05Z,Arizona Cardinals,Cleveland Browns
+401128113,2019-12-15T21:05Z,Los Angeles Chargers,Minnesota Vikings
+401128103,2019-12-15T21:25Z,Dallas Cowboys,Los Angeles Rams
+401128108,2019-12-15T21:25Z,San Francisco 49ers,Atlanta Falcons
+401128065,2019-12-16T01:20Z,Pittsburgh Steelers,Buffalo Bills
+401128117,2019-12-17T01:15Z,New Orleans Saints,Indianapolis Colts
+401127901,2019-12-21T18:00Z,Tampa Bay Buccaneers,Houston Texans
+401127898,2019-12-21T21:30Z,New England Patriots,Buffalo Bills
+401127900,2019-12-22T01:15Z,San Francisco 49ers,Los Angeles Rams
+401127903,2019-12-22T18:00Z,Atlanta Falcons,Jacksonville Jaguars
+401127904,2019-12-22T18:00Z,Cleveland Browns,Baltimore Ravens
+401127935,2019-12-22T18:00Z,Tennessee Titans,New Orleans Saints
+401127906,2019-12-22T18:00Z,Indianapolis Colts,Carolina Panthers
+401127910,2019-12-22T18:00Z,Miami Dolphins,Cincinnati Bengals
+401127933,2019-12-22T18:00Z,New York Jets,Pittsburgh Steelers
+401127937,2019-12-22T18:00Z,Washington,New York Giants
+401127893,2019-12-22T21:05Z,Denver Broncos,Detroit Lions
+401127896,2019-12-22T21:05Z,Los Angeles Chargers,Oakland Raiders
+401127938,2019-12-22T21:25Z,Philadelphia Eagles,Dallas Cowboys
+401127941,2019-12-22T21:25Z,Seattle Seahawks,Arizona Cardinals
+401127943,2019-12-23T01:20Z,Chicago Bears,Kansas City Chiefs
+401127946,2019-12-24T01:15Z,Minnesota Vikings,Green Bay Packers
+401127973,2019-12-29T18:00Z,Buffalo Bills,New York Jets
+401127978,2019-12-29T18:00Z,Cincinnati Bengals,Cleveland Browns
+401127983,2019-12-29T18:00Z,Detroit Lions,Green Bay Packers
+401127990,2019-12-29T18:00Z,Kansas City Chiefs,Los Angeles Chargers
+401127991,2019-12-29T18:00Z,Minnesota Vikings,Chicago Bears
+401127909,2019-12-29T18:00Z,New England Patriots,Miami Dolphins
+401128034,2019-12-29T18:00Z,Tampa Bay Buccaneers,Atlanta Falcons
+401127975,2019-12-29T18:00Z,Carolina Panthers,New Orleans Saints
+401127980,2019-12-29T21:25Z,Dallas Cowboys,Washington
+401128036,2019-12-29T21:25Z,Denver Broncos,Oakland Raiders
+401128038,2019-12-29T21:25Z,Los Angeles Rams,Arizona Cardinals
+401128033,2019-12-29T21:25Z,New York Giants,Philadelphia Eagles
+401127988,2019-12-29T21:25Z,Jacksonville Jaguars,Indianapolis Colts
+401127950,2019-12-29T21:25Z,Baltimore Ravens,Pittsburgh Steelers
+401127984,2019-12-29T21:25Z,Houston Texans,Tennessee Titans
+401128040,2019-12-30T01:20Z,Seattle Seahawks,San Francisco 49ers
+401131037,2020-01-04T21:35Z,Houston Texans,Buffalo Bills
+401131036,2020-01-05T01:25Z,New England Patriots,Tennessee Titans
+401131038,2020-01-05T18:05Z,New Orleans Saints,Minnesota Vikings
+401131039,2020-01-05T21:40Z,Philadelphia Eagles,Seattle Seahawks
+401131040,2020-01-11T21:35Z,San Francisco 49ers,Minnesota Vikings
+401131041,2020-01-12T01:15Z,Baltimore Ravens,Tennessee Titans
+401131043,2020-01-12T20:05Z,Kansas City Chiefs,Houston Texans
+401131042,2020-01-12T23:40Z,Green Bay Packers,Seattle Seahawks
+401131044,2020-01-19T20:05Z,Kansas City Chiefs,Tennessee Titans
+401131045,2020-01-19T23:40Z,San Francisco 49ers,Green Bay Packers
+401131046,2020-01-26T20:00Z,AFC All-Stars,NFC All-Stars
+401131047,2020-02-02T23:30Z,Kansas City Chiefs,San Francisco 49ers
