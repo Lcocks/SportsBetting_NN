@@ -1,0 +1,875 @@
+game_id,date,season,team,home_away,opposing_team,athlete_id,display_name,position,FG,PCT,LONG,XP,PTS
+401671617,2024-09-08,2024,Arizona Cardinals,away,Buffalo Bills,11122,Matt Prater,PK,2/2,100.0,31,2/2,8
+401671617,2024-09-08,2024,Buffalo Bills,home,Arizona Cardinals,3917232,Tyler Bass,PK,2/2,100.0,39,4/4,10
+401671861,2024-09-08,2024,Houston Texans,away,Indianapolis Colts,2971573,Ka'imi Fairbairn,PK,3/3,100.0,51,2/2,11
+401671861,2024-09-08,2024,Indianapolis Colts,home,Houston Texans,4571557,Spencer Shrader,PK,0/0,0.0,0,3/3,3
+401671709,2024-09-15,2024,New Orleans Saints,away,Dallas Cowboys,4259619,Blake Grupe,PK,1/1,100.0,26,5/6,8
+401671709,2024-09-15,2024,Dallas Cowboys,home,New Orleans Saints,3953687,Brandon Aubrey,PK,4/4,100.0,52,1/1,13
+401671723,2024-09-15,2024,Indianapolis Colts,away,Green Bay Packers,4249087,Matt Gay,PK,1/2,50.0,34,1/1,4
+401671723,2024-09-15,2024,Green Bay Packers,home,Indianapolis Colts,4361765,Brayden Narveson,PK,3/4,75.0,46,1/1,10
+401671770,2024-09-08,2024,Washington Commanders,away,Tampa Bay Buccaneers,4428963,Cade York,PK,0/2,0.0,0,2/2,2
+401671770,2024-09-08,2024,Tampa Bay Buccaneers,home,Washington Commanders,3150744,Chase McLaughlin,PK,3/3,100.0,56,4/4,13
+401671636,2024-09-15,2024,New York Jets,away,Tennessee Titans,14993,Greg Zuerlein,PK,1/1,100.0,33,3/3,6
+401671636,2024-09-15,2024,Tennessee Titans,home,New York Jets,10621,Nick Folk,PK,1/1,100.0,41,2/2,5
+401671734,2024-09-08,2024,Carolina Panthers,away,New Orleans Saints,4034949,Eddy Pineiro,PK,1/1,100.0,43,1/1,4
+401671734,2024-09-08,2024,New Orleans Saints,home,Carolina Panthers,4259619,Blake Grupe,PK,4/4,100.0,57,5/5,17
+401671721,2024-09-15,2024,Tampa Bay Buccaneers,away,Detroit Lions,3150744,Chase McLaughlin,PK,2/2,100.0,55,2/2,8
+401671721,2024-09-15,2024,Detroit Lions,home,Tampa Bay Buccaneers,4689936,Jake Bates,PK,3/3,100.0,35,1/1,10
+401671807,2024-09-13,2024,Buffalo Bills,away,Miami Dolphins,3917232,Tyler Bass,PK,1/2,50.0,43,4/4,7
+401671807,2024-09-13,2024,Miami Dolphins,home,Buffalo Bills,3124679,Jason Sanders,PK,1/1,100.0,34,1/1,4
+401671696,2024-09-10,2024,New York Jets,away,San Francisco 49ers,14993,Greg Zuerlein,PK,0/0,0.0,0,1/1,1
+401671696,2024-09-10,2024,San Francisco 49ers,home,New York Jets,4372066,Jake Moody,PK,6/6,100.0,53,2/2,20
+401671849,2024-09-08,2024,Jacksonville Jaguars,away,Miami Dolphins,4686361,Cam Little,PK,1/1,100.0,53,2/2,5
+401671849,2024-09-08,2024,Miami Dolphins,home,Jacksonville Jaguars,3124679,Jason Sanders,PK,2/3,67.0,52,2/2,8
+401671712,2024-09-08,2024,Minnesota Vikings,away,New York Giants,4567104,Will Reichard,PK,0/0,0.0,0,4/4,4
+401671712,2024-09-08,2024,New York Giants,home,Minnesota Vikings,12460,Graham Gano,PK,2/2,100.0,50,0/0,6
+401671664,2024-09-08,2024,Denver Broncos,away,Seattle Seahawks,2985659,Wil Lutz,PK,3/3,100.0,45,1/1,10
+401671664,2024-09-08,2024,Seattle Seahawks,home,Denver Broncos,2473037,Jason Myers,PK,2/2,100.0,50,2/2,8
+401671792,2024-09-09,2024,Los Angeles Rams,away,Detroit Lions,4566192,Joshua Karty,PK,2/2,100.0,41,2/2,8
+401671792,2024-09-09,2024,Detroit Lions,home,Los Angeles Rams,4689936,Jake Bates,PK,2/2,100.0,32,2/2,8
+401671659,2024-09-08,2024,Las Vegas Raiders,away,Los Angeles Chargers,3051909,Daniel Carlson,PK,1/2,50.0,32,1/1,4
+401671659,2024-09-08,2024,Los Angeles Chargers,home,Las Vegas Raiders,4362081,Cameron Dicker,PK,3/3,100.0,53,1/1,10
+401671624,2024-09-15,2024,Las Vegas Raiders,away,Baltimore Ravens,3051909,Daniel Carlson,PK,4/4,100.0,53,2/2,14
+401671624,2024-09-15,2024,Baltimore Ravens,home,Las Vegas Raiders,15683,Justin Tucker,PK,3/4,75.0,48,2/2,11
+401671702,2024-09-15,2024,Seattle Seahawks,away,New England Patriots,2473037,Jason Myers,PK,3/3,100.0,44,2/2,11
+401671702,2024-09-15,2024,New England Patriots,home,Seattle Seahawks,3124084,Joey Slye,PK,2/3,67.0,29,2/2,8
+401671652,2024-09-15,2024,Los Angeles Chargers,away,Carolina Panthers,4362081,Cameron Dicker,PK,2/2,100.0,46,2/3,8
+401671652,2024-09-15,2024,Carolina Panthers,home,Los Angeles Chargers,4034949,Eddy Pineiro,PK,1/1,100.0,38,0/0,3
+401671628,2024-09-08,2024,New England Patriots,away,Cincinnati Bengals,3124084,Joey Slye,PK,3/3,100.0,37,1/1,10
+401671628,2024-09-08,2024,Cincinnati Bengals,home,New England Patriots,4360234,Evan McPherson,PK,1/1,100.0,51,1/1,4
+401671805,2024-09-07,2024,Green Bay Packers,away,Philadelphia Eagles,4361765,Brayden Narveson,PK,3/4,75.0,31,2/2,11
+401671805,2024-09-07,2024,Philadelphia Eagles,home,Green Bay Packers,3050478,Jake Elliott,PK,2/2,100.0,38,4/4,10
+401671823,2024-09-22,2024,Green Bay Packers,away,Tennessee Titans,4361765,Brayden Narveson,PK,3/3,100.0,47,3/3,12
+401671823,2024-09-22,2024,Tennessee Titans,home,Green Bay Packers,10621,Nick Folk,PK,0/0,0.0,0,2/2,2
+401671645,2024-09-15,2024,San Francisco 49ers,away,Minnesota Vikings,4372066,Jake Moody,PK,1/1,100.0,31,2/2,5
+401671645,2024-09-15,2024,Minnesota Vikings,home,San Francisco 49ers,4567104,Will Reichard,PK,3/3,100.0,39,2/2,11
+401671716,2024-09-15,2024,New York Giants,away,Washington Commanders,3936185,Jamie Gillan,P,0/0,0.0,0,0/1,0
+401671716,2024-09-15,2024,Washington Commanders,home,New York Giants,3821683,Austin Seibert,PK,7/7,100.0,45,0/0,21
+401671789,2024-09-06,2024,Baltimore Ravens,away,Kansas City Chiefs,15683,Justin Tucker,PK,2/3,67.0,32,2/2,8
+401671789,2024-09-06,2024,Kansas City Chiefs,home,Baltimore Ravens,3055899,Harrison Butker,PK,2/2,100.0,32,3/3,9
+401671761,2024-09-08,2024,Dallas Cowboys,away,Cleveland Browns,3953687,Brandon Aubrey,PK,4/4,100.0,57,3/3,15
+401671761,2024-09-08,2024,Cleveland Browns,home,Dallas Cowboys,15965,Dustin Hopkins,PK,1/1,100.0,51,2/2,5
+401671719,2024-09-08,2024,Tennessee Titans,away,Chicago Bears,10621,Nick Folk,PK,1/1,100.0,40,2/2,5
+401671719,2024-09-08,2024,Chicago Bears,home,Tennessee Titans,17427,Cairo Santos,PK,3/3,100.0,50,1/1,10
+401671808,2024-09-20,2024,New England Patriots,away,New York Jets,3124084,Joey Slye,PK,1/1,100.0,44,0/0,3
+401671808,2024-09-20,2024,New York Jets,home,New England Patriots,14993,Greg Zuerlein,PK,1/2,50.0,28,3/3,6
+401671668,2024-09-15,2024,Pittsburgh Steelers,away,Denver Broncos,17372,Chris Boswell,PK,2/2,100.0,53,1/1,7
+401671668,2024-09-15,2024,Denver Broncos,home,Pittsburgh Steelers,2985659,Wil Lutz,PK,2/2,100.0,35,0/0,6
+401671744,2024-09-08,2024,Pittsburgh Steelers,away,Atlanta Falcons,17372,Chris Boswell,PK,6/6,100.0,57,0/0,18
+401671744,2024-09-08,2024,Atlanta Falcons,home,Pittsburgh Steelers,3049899,Younghoe Koo,PK,1/1,100.0,24,1/1,4
+401671670,2024-09-15,2024,Cincinnati Bengals,away,Kansas City Chiefs,4360234,Evan McPherson,PK,4/4,100.0,53,1/2,13
+401671670,2024-09-15,2024,Kansas City Chiefs,home,Cincinnati Bengals,3055899,Harrison Butker,PK,2/2,100.0,51,2/2,8
+401671855,2024-09-22,2024,New York Giants,away,Cleveland Browns,3975763,Greg Joseph,KR,0/1,0.0,0,3/3,3
+401671855,2024-09-22,2024,Cleveland Browns,home,New York Giants,15965,Dustin Hopkins,PK,0/1,0.0,0,1/1,1
+401671736,2024-09-22,2024,Philadelphia Eagles,away,New Orleans Saints,3050478,Jake Elliott,PK,0/1,0.0,0,1/1,1
+401671736,2024-09-22,2024,New Orleans Saints,home,Philadelphia Eagles,4259619,Blake Grupe,PK,2/2,100.0,38,0/0,6
+401671691,2024-09-17,2024,Atlanta Falcons,away,Philadelphia Eagles,3049899,Younghoe Koo,PK,3/3,100.0,39,1/1,10
+401671691,2024-09-17,2024,Philadelphia Eagles,home,Atlanta Falcons,3050478,Jake Elliott,PK,2/2,100.0,29,1/1,7
+401671865,2024-09-22,2024,Chicago Bears,away,Indianapolis Colts,17427,Cairo Santos,PK,1/2,50.0,53,1/1,4
+401671865,2024-09-22,2024,Indianapolis Colts,home,Chicago Bears,4249087,Matt Gay,PK,0/0,0.0,0,3/3,3
+401671754,2024-09-15,2024,Los Angeles Rams,away,Arizona Cardinals,4566192,Joshua Karty,PK,1/1,100.0,29,1/1,4
+401671754,2024-09-15,2024,Arizona Cardinals,home,Los Angeles Rams,11122,Matt Prater,PK,2/2,100.0,57,5/5,11
+401671741,2024-09-22,2024,Denver Broncos,away,Tampa Bay Buccaneers,2985659,Wil Lutz,PK,4/4,100.0,43,2/2,14
+401671741,2024-09-22,2024,Tampa Bay Buccaneers,home,Denver Broncos,3150744,Chase McLaughlin,PK,0/0,0.0,0,1/1,1
+401671772,2024-09-22,2024,San Francisco 49ers,away,Los Angeles Rams,4372066,Jake Moody,PK,1/2,50.0,26,3/3,6
+401671772,2024-09-22,2024,Los Angeles Rams,home,San Francisco 49ers,4566192,Joshua Karty,PK,2/2,100.0,37,3/3,9
+401671763,2024-09-22,2024,Baltimore Ravens,away,Dallas Cowboys,15683,Justin Tucker,PK,0/1,0.0,0,4/4,4
+401671763,2024-09-22,2024,Dallas Cowboys,home,Baltimore Ravens,3953687,Brandon Aubrey,PK,2/2,100.0,65,1/1,7
+401671771,2024-09-22,2024,Detroit Lions,away,Arizona Cardinals,4689936,Jake Bates,PK,0/0,0.0,0,2/3,2
+401671771,2024-09-22,2024,Arizona Cardinals,home,Detroit Lions,11122,Matt Prater,PK,2/2,100.0,45,1/1,7
+401671786,2024-09-16,2024,Chicago Bears,away,Houston Texans,17427,Cairo Santos,PK,2/2,100.0,54,1/1,7
+401671786,2024-09-16,2024,Houston Texans,home,Chicago Bears,2971573,Ka'imi Fairbairn,PK,4/4,100.0,59,1/1,13
+401671871,2024-09-29,2024,Los Angeles Rams,away,Chicago Bears,4566192,Joshua Karty,PK,4/5,80.0,52,0/0,12
+401671871,2024-09-29,2024,Chicago Bears,home,Los Angeles Rams,17427,Cairo Santos,PK,1/1,100.0,40,3/3,6
+401671812,2024-09-27,2024,Dallas Cowboys,away,New York Giants,3953687,Brandon Aubrey,PK,2/3,67.0,60,2/2,8
+401671812,2024-09-27,2024,New York Giants,home,Dallas Cowboys,3975763,Greg Joseph,KR,5/5,100.0,52,0/0,15
+401671727,2024-09-29,2024,New Orleans Saints,away,Atlanta Falcons,4259619,Blake Grupe,PK,1/1,100.0,43,3/3,6
+401671727,2024-09-29,2024,Atlanta Falcons,home,New Orleans Saints,3049899,Younghoe Koo,PK,4/4,100.0,58,2/2,14
+401671632,2024-09-22,2024,Los Angeles Chargers,away,Pittsburgh Steelers,4362081,Cameron Dicker,PK,1/1,100.0,28,1/1,4
+401671632,2024-09-22,2024,Pittsburgh Steelers,home,Los Angeles Chargers,17372,Chris Boswell,PK,2/3,67.0,38,2/2,8
+401671857,2024-09-29,2024,Jacksonville Jaguars,away,Houston Texans,4686361,Cam Little,PK,2/2,100.0,52,2/2,8
+401671857,2024-09-29,2024,Houston Texans,home,Jacksonville Jaguars,2971573,Ka'imi Fairbairn,PK,1/1,100.0,30,3/3,6
+401671646,2024-09-22,2024,Houston Texans,away,Minnesota Vikings,2971573,Ka'imi Fairbairn,PK,0/1,0.0,0,1/1,1
+401671646,2024-09-22,2024,Minnesota Vikings,home,Houston Texans,4567104,Will Reichard,PK,2/2,100.0,58,4/4,10
+401671662,2024-09-22,2024,Miami Dolphins,away,Seattle Seahawks,3124679,Jason Sanders,PK,1/2,50.0,23,0/0,3
+401671662,2024-09-22,2024,Seattle Seahawks,home,Miami Dolphins,2473037,Jason Myers,PK,1/2,50.0,56,3/3,6
+401671755,2024-09-29,2024,Washington Commanders,away,Arizona Cardinals,3821683,Austin Seibert,PK,2/2,100.0,45,4/4,10
+401671755,2024-09-29,2024,Arizona Cardinals,home,Washington Commanders,11122,Matt Prater,PK,0/0,0.0,0,2/2,2
+401671635,2024-09-15,2024,Cleveland Browns,away,Jacksonville Jaguars,15965,Dustin Hopkins,PK,3/3,100.0,53,1/1,10
+401671635,2024-09-15,2024,Jacksonville Jaguars,home,Cleveland Browns,4686361,Cam Little,PK,2/3,67.0,25,1/1,7
+401671793,2024-09-23,2024,Kansas City Chiefs,away,Atlanta Falcons,3055899,Harrison Butker,PK,3/3,100.0,53,1/2,10
+401671793,2024-09-23,2024,Atlanta Falcons,home,Kansas City Chiefs,3049899,Younghoe Koo,PK,1/1,100.0,54,2/2,5
+401671643,2024-09-29,2024,Minnesota Vikings,away,Green Bay Packers,4567104,Will Reichard,PK,1/1,100.0,33,4/4,7
+401671643,2024-09-29,2024,Green Bay Packers,home,Minnesota Vikings,4361765,Brayden Narveson,PK,0/2,0.0,0,3/3,3
+401671867,2024-09-29,2024,Pittsburgh Steelers,away,Indianapolis Colts,17372,Chris Boswell,PK,1/1,100.0,50,3/3,6
+401671867,2024-09-29,2024,Indianapolis Colts,home,Pittsburgh Steelers,4249087,Matt Gay,PK,2/3,67.0,35,3/3,9
+401671682,2024-09-23,2024,Jacksonville Jaguars,away,Buffalo Bills,4686361,Cam Little,PK,1/1,100.0,41,1/1,4
+401671682,2024-09-23,2024,Buffalo Bills,home,Jacksonville Jaguars,3917232,Tyler Bass,PK,2/2,100.0,43,5/6,11
+401671622,2024-09-29,2024,Denver Broncos,away,New York Jets,2985659,Wil Lutz,PK,1/2,50.0,47,1/1,4
+401671622,2024-09-29,2024,New York Jets,home,Denver Broncos,14993,Greg Zuerlein,PK,3/4,75.0,40,0/0,9
+401671674,2024-09-29,2024,Kansas City Chiefs,away,Los Angeles Chargers,3055899,Harrison Butker,PK,1/2,50.0,37,2/2,5
+401671674,2024-09-29,2024,Los Angeles Chargers,home,Kansas City Chiefs,4362081,Cameron Dicker,PK,1/2,50.0,50,1/1,4
+401671758,2024-09-29,2024,New England Patriots,away,San Francisco 49ers,3124084,Joey Slye,PK,2/2,100.0,63,1/1,7
+401671758,2024-09-29,2024,San Francisco 49ers,home,New England Patriots,4372066,Jake Moody,PK,3/3,100.0,41,3/3,12
+401671490,2024-09-24,2024,Washington Commanders,away,Cincinnati Bengals,3821683,Austin Seibert,PK,1/1,100.0,42,5/5,8
+401671490,2024-09-24,2024,Cincinnati Bengals,home,Washington Commanders,4360234,Evan McPherson,PK,2/3,67.0,31,3/3,9
+401671658,2024-09-22,2024,Carolina Panthers,away,Las Vegas Raiders,4034949,Eddy Pineiro,PK,3/3,100.0,43,3/3,12
+401671658,2024-09-22,2024,Las Vegas Raiders,home,Carolina Panthers,3051909,Daniel Carlson,PK,0/1,0.0,0,2/2,2
+401671740,2024-09-29,2024,Philadelphia Eagles,away,Tampa Bay Buccaneers,3050478,Jake Elliott,PK,0/0,0.0,0,2/2,2
+401671740,2024-09-29,2024,Tampa Bay Buccaneers,home,Philadelphia Eagles,3150744,Chase McLaughlin,PK,2/2,100.0,52,3/4,9
+401671745,2024-09-29,2024,Cincinnati Bengals,away,Carolina Panthers,4360234,Evan McPherson,PK,2/2,100.0,56,4/4,10
+401671745,2024-09-29,2024,Carolina Panthers,home,Cincinnati Bengals,4034949,Eddy Pineiro,PK,1/1,100.0,48,3/3,6
+401671804,2024-10-06,2024,New York Jets,away,Minnesota Vikings,14993,Greg Zuerlein,PK,1/1,100.0,32,2/2,5
+401671804,2024-10-06,2024,Minnesota Vikings,home,New York Jets,4567104,Will Reichard,PK,3/3,100.0,54,2/2,11
+401671815,2024-10-04,2024,Tampa Bay Buccaneers,away,Atlanta Falcons,3150744,Chase McLaughlin,PK,3/3,100.0,53,3/3,12
+401671815,2024-10-04,2024,Atlanta Falcons,home,Tampa Bay Buccaneers,3049899,Younghoe Koo,PK,3/5,60.0,54,3/3,12
+401671633,2024-10-06,2024,Indianapolis Colts,away,Jacksonville Jaguars,4249087,Matt Gay,PK,2/2,100.0,37,4/4,10
+401671633,2024-10-06,2024,Jacksonville Jaguars,home,Indianapolis Colts,4686361,Cam Little,PK,3/3,100.0,49,4/4,13
+401671672,2024-09-29,2024,Cleveland Browns,away,Las Vegas Raiders,15965,Dustin Hopkins,PK,1/1,100.0,56,1/2,4
+401671672,2024-09-29,2024,Las Vegas Raiders,home,Cleveland Browns,3051909,Daniel Carlson,PK,2/2,100.0,52,2/2,8
+401671747,2024-10-06,2024,Las Vegas Raiders,away,Denver Broncos,3051909,Daniel Carlson,PK,1/1,100.0,40,1/1,4
+401671747,2024-10-06,2024,Denver Broncos,home,Las Vegas Raiders,2985659,Wil Lutz,PK,2/2,100.0,51,4/4,10
+401671491,2024-10-01,2024,Seattle Seahawks,away,Detroit Lions,2473037,Jason Myers,PK,0/1,0.0,0,3/3,3
+401671491,2024-10-01,2024,Detroit Lions,home,Seattle Seahawks,4689936,Jake Bates,PK,0/0,0.0,0,6/6,6
+401671783,2024-09-30,2024,Buffalo Bills,away,Baltimore Ravens,3917232,Tyler Bass,PK,1/2,50.0,50,1/1,4
+401671783,2024-09-30,2024,Baltimore Ravens,home,Buffalo Bills,15683,Justin Tucker,PK,0/0,0.0,0,5/5,5
+401671683,2024-09-30,2024,Tennessee Titans,away,Miami Dolphins,10621,Nick Folk,PK,5/5,100.0,53,2/2,17
+401671683,2024-09-30,2024,Miami Dolphins,home,Tennessee Titans,3124679,Jason Sanders,PK,2/2,100.0,56,0/0,6
+401671859,2024-10-06,2024,Buffalo Bills,away,Houston Texans,3917232,Tyler Bass,PK,2/2,100.0,38,2/2,8
+401671859,2024-10-06,2024,Houston Texans,home,Buffalo Bills,2971573,Ka'imi Fairbairn,PK,3/3,100.0,59,2/2,11
+401671687,2024-10-08,2024,New Orleans Saints,away,Kansas City Chiefs,4259619,Blake Grupe,PK,0/0,0.0,0,1/2,1
+401671687,2024-10-08,2024,Kansas City Chiefs,home,New Orleans Saints,3055899,Harrison Butker,PK,4/5,80.0,38,2/2,14
+401671679,2024-10-06,2024,Green Bay Packers,away,Los Angeles Rams,4361765,Brayden Narveson,PK,1/1,100.0,46,3/3,6
+401671679,2024-10-06,2024,Los Angeles Rams,home,Green Bay Packers,4566192,Joshua Karty,PK,0/0,0.0,0,1/2,1
+401671756,2024-10-06,2024,Arizona Cardinals,away,San Francisco 49ers,4363538,Chad Ryland,PK,3/4,75.0,42,1/1,10
+401671756,2024-10-06,2024,San Francisco 49ers,home,Arizona Cardinals,4372066,Jake Moody,PK,2/2,100.0,28,2/2,8
+401671756,2024-10-06,2024,San Francisco 49ers,home,Arizona Cardinals,4035685,Mitch Wishnowsky,P,1/1,100.0,26,0/0,3
+401671714,2024-10-13,2024,Cleveland Browns,away,Philadelphia Eagles,15965,Dustin Hopkins,PK,3/4,75.0,49,1/1,10
+401671714,2024-10-13,2024,Philadelphia Eagles,home,Cleveland Browns,3050478,Jake Elliott,PK,2/3,67.0,49,2/2,8
+401671680,2024-10-06,2024,New York Giants,away,Seattle Seahawks,3975763,Greg Joseph,KR,3/3,100.0,38,2/2,11
+401671680,2024-10-06,2024,Seattle Seahawks,home,New York Giants,2473037,Jason Myers,PK,2/3,67.0,48,2/2,8
+401671626,2024-10-06,2024,Baltimore Ravens,away,Cincinnati Bengals,15683,Justin Tucker,PK,2/2,100.0,56,5/5,11
+401671626,2024-10-06,2024,Cincinnati Bengals,home,Baltimore Ravens,4360234,Evan McPherson,PK,0/1,0.0,0,4/4,4
+401671718,2024-10-06,2024,Cleveland Browns,away,Washington Commanders,15965,Dustin Hopkins,PK,2/2,100.0,51,1/1,7
+401671718,2024-10-06,2024,Washington Commanders,home,Cleveland Browns,3821683,Austin Seibert,PK,2/2,100.0,30,4/4,10
+401671722,2024-10-13,2024,Arizona Cardinals,away,Green Bay Packers,4363538,Chad Ryland,PK,2/2,100.0,40,1/1,7
+401671722,2024-10-13,2024,Green Bay Packers,home,Arizona Cardinals,4361765,Brayden Narveson,PK,2/3,67.0,41,4/4,10
+401671655,2024-10-13,2024,Los Angeles Chargers,away,Denver Broncos,4362081,Cameron Dicker,PK,3/3,100.0,46,2/2,11
+401671655,2024-10-13,2024,Denver Broncos,home,Los Angeles Chargers,2985659,Wil Lutz,PK,1/1,100.0,40,1/1,4
+401671625,2024-10-13,2024,Washington Commanders,away,Baltimore Ravens,3821683,Austin Seibert,PK,3/4,75.0,55,2/2,11
+401671625,2024-10-13,2024,Baltimore Ravens,home,Washington Commanders,15683,Justin Tucker,PK,3/3,100.0,45,3/3,12
+401671700,2024-10-06,2024,Miami Dolphins,away,New England Patriots,3124679,Jason Sanders,PK,3/4,75.0,54,0/0,9
+401671700,2024-10-06,2024,New England Patriots,home,Miami Dolphins,3124084,Joey Slye,PK,1/2,50.0,38,1/1,4
+401671769,2024-10-13,2024,Atlanta Falcons,away,Carolina Panthers,3049899,Younghoe Koo,PK,3/3,100.0,35,3/3,12
+401671769,2024-10-13,2024,Carolina Panthers,home,Atlanta Falcons,4034949,Eddy Pineiro,PK,2/2,100.0,40,2/2,8
+401671784,2024-10-07,2024,Dallas Cowboys,away,Pittsburgh Steelers,3953687,Brandon Aubrey,PK,2/3,67.0,55,2/2,8
+401671784,2024-10-07,2024,Pittsburgh Steelers,home,Dallas Cowboys,17372,Chris Boswell,PK,1/1,100.0,41,2/2,5
+401671801,2024-10-20,2024,New England Patriots,away,Jacksonville Jaguars,3124084,Joey Slye,PK,1/1,100.0,41,1/1,4
+401671801,2024-10-20,2024,Jacksonville Jaguars,home,New England Patriots,4686361,Cam Little,PK,1/1,100.0,21,3/3,6
+401671616,2024-10-20,2024,Tennessee Titans,away,Buffalo Bills,10621,Nick Folk,PK,1/1,100.0,25,1/1,4
+401671616,2024-10-20,2024,Buffalo Bills,home,Tennessee Titans,3917232,Tyler Bass,PK,2/2,100.0,30,4/4,10
+401671819,2024-10-11,2024,San Francisco 49ers,away,Seattle Seahawks,3128444,Matthew Wright,PK,3/3,100.0,41,3/3,12
+401671819,2024-10-11,2024,Seattle Seahawks,home,San Francisco 49ers,2473037,Jason Myers,PK,1/1,100.0,20,3/3,6
+401671802,2024-10-13,2024,Jacksonville Jaguars,away,Chicago Bears,4686361,Cam Little,PK,1/1,100.0,30,1/1,4
+401671802,2024-10-13,2024,Chicago Bears,home,Jacksonville Jaguars,17427,Cairo Santos,PK,0/1,0.0,0,5/5,5
+401671684,2024-10-15,2024,Buffalo Bills,away,New York Jets,3917232,Tyler Bass,PK,1/2,50.0,22,2/3,5
+401671684,2024-10-15,2024,New York Jets,home,Buffalo Bills,14993,Greg Zuerlein,PK,2/4,50.0,34,2/2,8
+401671619,2024-10-13,2024,Houston Texans,away,New England Patriots,2971573,Ka'imi Fairbairn,PK,2/3,67.0,46,5/5,11
+401671619,2024-10-13,2024,New England Patriots,home,Houston Texans,3124084,Joey Slye,PK,0/0,0.0,0,3/3,3
+401671864,2024-10-20,2024,Miami Dolphins,away,Indianapolis Colts,3124679,Jason Sanders,PK,1/2,50.0,33,1/1,4
+401671864,2024-10-20,2024,Indianapolis Colts,home,Miami Dolphins,4249087,Matt Gay,PK,3/3,100.0,52,1/1,10
+401671817,2024-10-25,2024,Minnesota Vikings,away,Los Angeles Rams,4567104,Will Reichard,PK,2/2,100.0,35,2/2,8
+401671817,2024-10-25,2024,Los Angeles Rams,home,Minnesota Vikings,4566192,Joshua Karty,PK,0/0,0.0,0,4/4,4
+401671663,2024-10-20,2024,Las Vegas Raiders,away,Los Angeles Rams,3051909,Daniel Carlson,PK,5/5,100.0,47,0/0,15
+401671663,2024-10-20,2024,Los Angeles Rams,home,Las Vegas Raiders,4566192,Joshua Karty,PK,0/1,0.0,0,2/3,2
+401671657,2024-10-13,2024,Pittsburgh Steelers,away,Las Vegas Raiders,17372,Chris Boswell,PK,4/4,100.0,52,2/2,14
+401671657,2024-10-13,2024,Las Vegas Raiders,home,Pittsburgh Steelers,3051909,Daniel Carlson,PK,0/0,0.0,0,1/1,1
+401671735,2024-10-13,2024,Tampa Bay Buccaneers,away,New Orleans Saints,3150744,Chase McLaughlin,PK,1/1,100.0,26,6/6,9
+401671735,2024-10-13,2024,New Orleans Saints,home,Tampa Bay Buccaneers,4259619,Blake Grupe,PK,2/2,100.0,42,3/3,9
+401671695,2024-10-22,2024,Baltimore Ravens,away,Tampa Bay Buccaneers,15683,Justin Tucker,PK,2/2,100.0,52,5/5,11
+401671695,2024-10-22,2024,Tampa Bay Buccaneers,home,Baltimore Ravens,3150744,Chase McLaughlin,PK,1/2,50.0,23,2/2,5
+401671724,2024-10-20,2024,Detroit Lions,away,Minnesota Vikings,4689936,Jake Bates,PK,1/1,100.0,44,4/4,7
+401671724,2024-10-20,2024,Minnesota Vikings,home,Detroit Lions,4567104,Will Reichard,PK,3/3,100.0,57,2/2,11
+401671791,2024-10-14,2024,Cincinnati Bengals,away,New York Giants,4360234,Evan McPherson,PK,1/1,100.0,37,2/2,5
+401671791,2024-10-14,2024,New York Giants,home,Cincinnati Bengals,3975763,Greg Joseph,KR,0/2,0.0,0,1/1,1
+401671730,2024-10-20,2024,Seattle Seahawks,away,Atlanta Falcons,2473037,Jason Myers,PK,2/2,100.0,59,4/4,10
+401671730,2024-10-20,2024,Atlanta Falcons,home,Seattle Seahawks,3049899,Younghoe Koo,PK,0/1,0.0,0,2/2,2
+401671699,2024-10-22,2024,Los Angeles Chargers,away,Arizona Cardinals,4362081,Cameron Dicker,PK,5/5,100.0,59,0/0,15
+401671699,2024-10-22,2024,Arizona Cardinals,home,Los Angeles Chargers,4363538,Chad Ryland,PK,1/1,100.0,32,2/2,5
+401671739,2024-10-27,2024,Atlanta Falcons,away,Tampa Bay Buccaneers,3049899,Younghoe Koo,PK,1/2,50.0,39,4/4,7
+401671739,2024-10-27,2024,Tampa Bay Buccaneers,home,Atlanta Falcons,3150744,Chase McLaughlin,PK,1/1,100.0,52,3/3,6
+401671816,2024-10-18,2024,Denver Broncos,away,New Orleans Saints,2985659,Wil Lutz,PK,4/4,100.0,52,3/3,15
+401671816,2024-10-18,2024,New Orleans Saints,home,Denver Broncos,4259619,Blake Grupe,PK,1/1,100.0,35,1/1,4
+401671853,2024-10-20,2024,Cincinnati Bengals,away,Cleveland Browns,4360234,Evan McPherson,PK,0/1,0.0,0,3/3,3
+401671853,2024-10-20,2024,Cleveland Browns,home,Cincinnati Bengals,15965,Dustin Hopkins,PK,0/1,0.0,0,0/1,0
+401671618,2024-10-27,2024,New York Jets,away,New England Patriots,14993,Greg Zuerlein,PK,1/2,50.0,29,1/2,4
+401671618,2024-10-27,2024,New England Patriots,home,New York Jets,3124084,Joey Slye,PK,1/1,100.0,23,2/2,5
+401671644,2024-10-20,2024,Houston Texans,away,Green Bay Packers,2971573,Ka'imi Fairbairn,PK,3/3,100.0,52,1/1,10
+401671644,2024-10-20,2024,Green Bay Packers,home,Houston Texans,16339,Brandon McManus,PK,1/1,100.0,45,3/3,6
+401671671,2024-10-27,2024,Kansas City Chiefs,away,Las Vegas Raiders,3055899,Harrison Butker,PK,2/2,100.0,42,3/3,9
+401671671,2024-10-27,2024,Las Vegas Raiders,home,Kansas City Chiefs,3051909,Daniel Carlson,PK,2/2,100.0,54,2/2,8
+401671777,2024-10-20,2024,Kansas City Chiefs,away,San Francisco 49ers,3055899,Harrison Butker,PK,0/0,0.0,0,4/4,4
+401671777,2024-10-20,2024,San Francisco 49ers,home,Kansas City Chiefs,4242519,Anders Carlson,PK,2/2,100.0,55,0/1,6
+401671785,2024-10-21,2024,New York Jets,away,Pittsburgh Steelers,14993,Greg Zuerlein,PK,0/1,0.0,0,1/1,1
+401671785,2024-10-21,2024,Pittsburgh Steelers,home,New York Jets,17372,Chris Boswell,PK,3/3,100.0,46,4/4,13
+401671599,2024-10-27,2024,Chicago Bears,away,Washington Commanders,17427,Cairo Santos,PK,0/0,0.0,0,1/1,1
+401671599,2024-10-27,2024,Washington Commanders,home,Chicago Bears,3821683,Austin Seibert,PK,4/5,80.0,47,0/0,12
+401671852,2024-10-27,2024,Baltimore Ravens,away,Cleveland Browns,15683,Justin Tucker,PK,1/2,50.0,49,3/3,6
+401671852,2024-10-27,2024,Cleveland Browns,home,Baltimore Ravens,15965,Dustin Hopkins,PK,3/3,100.0,48,2/2,11
+401671667,2024-10-27,2024,Philadelphia Eagles,away,Cincinnati Bengals,3050478,Jake Elliott,PK,3/3,100.0,49,4/4,13
+401671667,2024-10-27,2024,Cincinnati Bengals,home,Philadelphia Eagles,4360234,Evan McPherson,PK,1/2,50.0,27,2/2,5
+401671640,2024-10-20,2024,Carolina Panthers,away,Washington Commanders,4034949,Eddy Pineiro,PK,0/0,0.0,0,1/1,1
+401671640,2024-10-20,2024,Washington Commanders,home,Carolina Panthers,3821683,Austin Seibert,PK,4/4,100.0,49,4/4,16
+401671600,2024-10-27,2024,Carolina Panthers,away,Denver Broncos,4034949,Eddy Pineiro,PK,0/0,0.0,0,2/2,2
+401671600,2024-10-27,2024,Denver Broncos,home,Carolina Panthers,2985659,Wil Lutz,PK,0/0,0.0,0,4/4,4
+401671707,2024-10-27,2024,Green Bay Packers,away,Jacksonville Jaguars,16339,Brandon McManus,PK,3/3,100.0,38,3/3,12
+401671707,2024-10-27,2024,Jacksonville Jaguars,home,Green Bay Packers,4686361,Cam Little,PK,2/2,100.0,47,3/3,9
+401671856,2024-10-27,2024,Indianapolis Colts,away,Houston Texans,4249087,Matt Gay,PK,2/2,100.0,46,2/2,8
+401671856,2024-10-27,2024,Houston Texans,home,Indianapolis Colts,2971573,Ka'imi Fairbairn,PK,3/3,100.0,35,2/2,11
+401671764,2024-10-13,2024,Detroit Lions,away,Dallas Cowboys,4689936,Jake Bates,PK,4/4,100.0,48,5/5,17
+401671764,2024-10-13,2024,Dallas Cowboys,home,Detroit Lions,3953687,Brandon Aubrey,PK,3/3,100.0,50,0/0,9
+401671760,2024-10-27,2024,Buffalo Bills,away,Seattle Seahawks,3917232,Tyler Bass,PK,1/1,100.0,27,4/4,7
+401671760,2024-10-27,2024,Seattle Seahawks,home,Buffalo Bills,2473037,Jason Myers,PK,1/1,100.0,38,1/1,4
+401671710,2024-10-20,2024,Philadelphia Eagles,away,New York Giants,3050478,Jake Elliott,PK,0/0,0.0,0,4/4,4
+401671710,2024-10-20,2024,New York Giants,home,Philadelphia Eagles,3975763,Greg Joseph,KR,1/1,100.0,38,0/0,3
+401671623,2024-11-03,2024,Denver Broncos,away,Baltimore Ravens,2985659,Wil Lutz,PK,1/1,100.0,37,1/1,4
+401671623,2024-11-03,2024,Baltimore Ravens,home,Denver Broncos,15683,Justin Tucker,PK,2/2,100.0,37,5/5,11
+401671850,2024-10-27,2024,Arizona Cardinals,away,Miami Dolphins,4363538,Chad Ryland,PK,2/2,100.0,57,2/2,8
+401671850,2024-10-27,2024,Miami Dolphins,home,Arizona Cardinals,3124679,Jason Sanders,PK,2/2,100.0,53,3/3,9
+401671795,2024-10-28,2024,Dallas Cowboys,away,San Francisco 49ers,3953687,Brandon Aubrey,PK,1/1,100.0,29,3/3,6
+401671795,2024-10-28,2024,San Francisco 49ers,home,Dallas Cowboys,4242519,Anders Carlson,PK,3/3,100.0,50,3/3,12
+401671685,2024-10-29,2024,New York Giants,away,Pittsburgh Steelers,3975763,Greg Joseph,KR,4/4,100.0,48,0/0,12
+401671685,2024-10-29,2024,Pittsburgh Steelers,home,New York Giants,17372,Chris Boswell,PK,4/4,100.0,31,2/2,14
+401671750,2024-10-27,2024,New Orleans Saints,away,Los Angeles Chargers,4259619,Blake Grupe,PK,2/3,67.0,43,0/0,6
+401671750,2024-10-27,2024,Los Angeles Chargers,home,New Orleans Saints,4362081,Cameron Dicker,PK,2/2,100.0,46,2/3,8
+401671493,2024-11-03,2024,Miami Dolphins,away,Buffalo Bills,3124679,Jason Sanders,PK,2/2,100.0,39,3/3,9
+401671493,2024-11-03,2024,Buffalo Bills,home,Miami Dolphins,3917232,Tyler Bass,PK,3/3,100.0,61,1/2,10
+401671728,2024-11-03,2024,Dallas Cowboys,away,Atlanta Falcons,3953687,Brandon Aubrey,PK,2/2,100.0,57,1/1,7
+401671728,2024-11-03,2024,Atlanta Falcons,home,Dallas Cowboys,3049899,Younghoe Koo,PK,0/0,0.0,0,3/3,3
+401671647,2024-11-04,2024,Indianapolis Colts,away,Minnesota Vikings,4249087,Matt Gay,PK,2/3,67.0,54,1/1,7
+401671647,2024-11-04,2024,Minnesota Vikings,home,Indianapolis Colts,4567104,Will Reichard,PK,0/2,0.0,0,3/3,3
+401671688,2024-11-05,2024,Tampa Bay Buccaneers,away,Kansas City Chiefs,3150744,Chase McLaughlin,PK,1/1,100.0,47,3/3,6
+401671688,2024-11-05,2024,Kansas City Chiefs,home,Tampa Bay Buccaneers,3055899,Harrison Butker,PK,1/1,100.0,40,3/3,6
+401671629,2024-11-03,2024,Los Angeles Chargers,away,Cleveland Browns,4362081,Cameron Dicker,PK,0/1,0.0,0,3/4,3
+401671629,2024-11-03,2024,Cleveland Browns,home,Los Angeles Chargers,15965,Dustin Hopkins,PK,1/2,50.0,38,1/1,4
+401671711,2024-11-03,2024,Washington Commanders,away,New York Giants,3821683,Austin Seibert,PK,2/2,100.0,31,3/3,9
+401671711,2024-11-03,2024,New York Giants,home,Washington Commanders,5092436,Jude McAtamney,PK,1/1,100.0,31,1/1,4
+401671822,2024-11-03,2024,New England Patriots,away,Tennessee Titans,3124084,Joey Slye,PK,1/2,50.0,52,2/2,5
+401671822,2024-11-03,2024,Tennessee Titans,home,New England Patriots,10621,Nick Folk,PK,2/2,100.0,25,2/2,8
+401671742,2024-11-10,2024,San Francisco 49ers,away,Tampa Bay Buccaneers,4372066,Jake Moody,PK,3/6,50.0,44,2/2,11
+401671742,2024-11-10,2024,Tampa Bay Buccaneers,home,San Francisco 49ers,3150744,Chase McLaughlin,PK,2/2,100.0,30,2/2,8
+401671767,2024-11-03,2024,Detroit Lions,away,Green Bay Packers,4689936,Jake Bates,PK,1/1,100.0,27,3/3,6
+401671767,2024-11-03,2024,Green Bay Packers,home,Detroit Lions,16339,Brandon McManus,PK,2/3,67.0,38,0/0,6
+401671776,2024-11-03,2024,Los Angeles Rams,away,Seattle Seahawks,4566192,Joshua Karty,PK,2/2,100.0,38,2/2,8
+401671776,2024-11-03,2024,Seattle Seahawks,home,Los Angeles Rams,2473037,Jason Myers,PK,0/0,0.0,0,2/3,2
+401671678,2024-11-10,2024,New York Jets,away,Arizona Cardinals,4571557,Spencer Shrader,PK,2/2,100.0,45,0/0,6
+401671678,2024-11-10,2024,Arizona Cardinals,home,New York Jets,4363538,Chad Ryland,PK,1/1,100.0,37,4/4,7
+401671720,2024-10-27,2024,Tennessee Titans,away,Detroit Lions,10621,Nick Folk,PK,0/0,0.0,0,2/2,2
+401671720,2024-10-27,2024,Detroit Lions,home,Tennessee Titans,4689936,Jake Bates,PK,1/1,100.0,51,7/7,10
+401671797,2024-11-03,2024,Jacksonville Jaguars,away,Philadelphia Eagles,4686361,Cam Little,PK,0/0,0.0,0,1/1,1
+401671797,2024-11-03,2024,Philadelphia Eagles,home,Jacksonville Jaguars,3050478,Jake Elliott,PK,1/2,50.0,43,1/1,4
+401671641,2024-11-10,2024,Pittsburgh Steelers,away,Washington Commanders,17372,Chris Boswell,PK,0/0,0.0,0,4/4,4
+401671641,2024-11-10,2024,Washington Commanders,home,Pittsburgh Steelers,3043234,Zane Gonzalez,PK,2/2,100.0,48,3/3,9
+401671809,2024-11-01,2024,Houston Texans,away,New York Jets,2971573,Ka'imi Fairbairn,PK,2/4,50.0,54,1/1,7
+401671809,2024-11-01,2024,New York Jets,home,Houston Texans,4243371,Riley Patterson,PK,0/0,0.0,0,3/3,3
+401671813,,2024,Washington Commanders,away,Philadelphia Eagles,3043234,Zane Gonzalez,PK,1/1,100.0,45,1/1,4
+401671813,,2024,Philadelphia Eagles,home,Washington Commanders,3050478,Jake Elliott,PK,2/4,50.0,31,2/3,8
+401671637,2024-11-10,2024,Denver Broncos,away,Kansas City Chiefs,2985659,Wil Lutz,PK,0/2,0.0,0,2/2,2
+401671637,2024-11-10,2024,Kansas City Chiefs,home,Denver Broncos,3055899,Harrison Butker,PK,3/3,100.0,36,1/1,10
+401671782,,2024,Indianapolis Colts,away,New York Jets,4249087,Matt Gay,PK,3/3,100.0,56,1/1,10
+401671782,,2024,New York Jets,home,Indianapolis Colts,4242519,Anders Carlson,PK,2/2,100.0,58,3/3,9
+401671650,2024-11-03,2024,New Orleans Saints,away,Carolina Panthers,4259619,Blake Grupe,PK,3/3,100.0,51,1/1,10
+401671650,2024-11-03,2024,Carolina Panthers,home,New Orleans Saints,4034949,Eddy Pineiro,PK,1/1,100.0,48,2/2,5
+401671803,2024-11-10,2024,New York Giants,away,Carolina Panthers,12460,Graham Gano,PK,1/2,50.0,42,2/2,5
+401671803,2024-11-10,2024,Carolina Panthers,home,New York Giants,4034949,Eddy Pineiro,PK,2/2,100.0,53,2/2,8
+401671810,2024-11-08,2024,Cincinnati Bengals,away,Baltimore Ravens,4360234,Evan McPherson,PK,0/0,0.0,0,4/4,4
+401671810,2024-11-08,2024,Baltimore Ravens,home,Cincinnati Bengals,15683,Justin Tucker,PK,0/0,0.0,0,3/4,3
+401671661,2024-11-03,2024,Chicago Bears,away,Arizona Cardinals,17427,Cairo Santos,PK,3/3,100.0,53,0/0,9
+401671661,2024-11-03,2024,Arizona Cardinals,home,Chicago Bears,4363538,Chad Ryland,PK,2/2,100.0,55,3/3,9
+401671873,2024-11-10,2024,New England Patriots,away,Chicago Bears,3124084,Joey Slye,PK,4/4,100.0,37,1/1,13
+401671873,2024-11-10,2024,Chicago Bears,home,New England Patriots,17427,Cairo Santos,PK,1/1,100.0,33,0/0,3
+401671693,2024-11-12,2024,Miami Dolphins,away,Los Angeles Rams,3124679,Jason Sanders,PK,3/3,100.0,50,2/2,11
+401671693,2024-11-12,2024,Los Angeles Rams,home,Miami Dolphins,4566192,Joshua Karty,PK,5/6,83.0,55,0/0,15
+401671704,2024-11-03,2024,Las Vegas Raiders,away,Cincinnati Bengals,3051909,Daniel Carlson,PK,1/1,100.0,46,3/3,6
+401671704,2024-11-03,2024,Cincinnati Bengals,home,Las Vegas Raiders,4360234,Evan McPherson,PK,2/2,100.0,44,5/5,11
+401671630,,2024,Baltimore Ravens,away,Pittsburgh Steelers,15683,Justin Tucker,PK,1/3,33.3,54,1/1,4
+401671630,,2024,Pittsburgh Steelers,home,Baltimore Ravens,17372,Chris Boswell,PK,6/6,100.0,57,0/0,18
+401671851,,2024,Las Vegas Raiders,away,Miami Dolphins,3051909,Daniel Carlson,PK,2/2,100.0,27,1/1,7
+401671851,,2024,Miami Dolphins,home,Las Vegas Raiders,3124679,Jason Sanders,PK,2/2,100.0,46,4/4,10
+401671751,2024-11-10,2024,Tennessee Titans,away,Los Angeles Chargers,10621,Nick Folk,PK,1/2,50.0,27,2/2,5
+401671751,2024-11-10,2024,Los Angeles Chargers,home,Tennessee Titans,4362081,Cameron Dicker,PK,2/2,100.0,37,3/3,9
+401671676,2024-11-10,2024,Philadelphia Eagles,away,Dallas Cowboys,3050478,Jake Elliott,PK,2/2,100.0,39,4/4,10
+401671676,2024-11-10,2024,Dallas Cowboys,home,Philadelphia Eagles,3953687,Brandon Aubrey,PK,2/2,100.0,46,0/0,6
+401671642,,2024,Jacksonville Jaguars,away,Detroit Lions,4686361,Cam Little,PK,2/2,100.0,59,0/0,6
+401671642,,2024,Detroit Lions,home,Jacksonville Jaguars,4689936,Jake Bates,PK,1/1,100.0,54,7/7,10
+401671870,2024-11-24,2024,Minnesota Vikings,away,Chicago Bears,4051167,Parker Romo,PK,3/3,100.0,40,3/3,12
+401671870,2024-11-24,2024,Chicago Bears,home,Minnesota Vikings,17427,Cairo Santos,PK,2/3,66.7,49,1/1,7
+401671708,2024-11-10,2024,Minnesota Vikings,away,Jacksonville Jaguars,4051167,Parker Romo,PK,4/4,100.0,45,0/0,12
+401671708,2024-11-10,2024,Jacksonville Jaguars,home,Minnesota Vikings,4686361,Cam Little,PK,0/0,0.0,0,1/1,1
+401671869,,2024,Green Bay Packers,away,Chicago Bears,16339,Brandon McManus,PK,0/0,0.0,0,2/2,2
+401671869,,2024,Chicago Bears,home,Green Bay Packers,17427,Cairo Santos,PK,2/3,66.7,53,1/1,7
+401671863,2024-11-10,2024,Buffalo Bills,away,Indianapolis Colts,3917232,Tyler Bass,PK,3/3,100.0,47,3/3,12
+401671863,2024-11-10,2024,Indianapolis Colts,home,Buffalo Bills,4249087,Matt Gay,PK,2/2,100.0,27,2/2,8
+401671701,,2024,Los Angeles Rams,away,New England Patriots,4566192,Joshua Karty,PK,0/1,0.0,0,4/4,4
+401671701,,2024,New England Patriots,home,Los Angeles Rams,3124084,Joey Slye,PK,3/3,100.0,42,1/2,10
+401671775,2024-11-24,2024,Arizona Cardinals,away,Seattle Seahawks,4363538,Chad Ryland,PK,2/3,66.7,35,0/0,6
+401671775,2024-11-24,2024,Seattle Seahawks,home,Arizona Cardinals,2473037,Jason Myers,PK,1/1,100.0,50,1/2,4
+401671824,,2024,Minnesota Vikings,away,Tennessee Titans,4051167,Parker Romo,PK,1/1,100.0,40,2/3,5
+401671824,,2024,Tennessee Titans,home,Minnesota Vikings,10621,Nick Folk,PK,2/2,100.0,43,1/1,7
+401671675,,2024,Cincinnati Bengals,away,Los Angeles Chargers,4360234,Evan McPherson,PK,2/4,50.0,27,3/3,9
+401671675,,2024,Los Angeles Chargers,home,Cincinnati Bengals,4362081,Cameron Dicker,PK,2/2,100.0,53,4/4,10
+401671638,2024-11-24,2024,Tampa Bay Buccaneers,away,New York Giants,3150744,Chase McLaughlin,PK,1/1,100.0,23,3/4,6
+401671638,2024-11-24,2024,New York Giants,home,Tampa Bay Buccaneers,12460,Graham Gano,PK,0/0,0.0,0,1/1,1
+401671656,2024-11-24,2024,Denver Broncos,away,Las Vegas Raiders,2985659,Wil Lutz,PK,5/5,100.0,54,2/2,17
+401671656,2024-11-24,2024,Las Vegas Raiders,home,Denver Broncos,3051909,Daniel Carlson,PK,4/4,100.0,53,1/1,13
+401671866,2024-11-24,2024,Detroit Lions,away,Indianapolis Colts,4689936,Jake Bates,PK,1/1,100.0,56,3/3,6
+401671866,2024-11-24,2024,Indianapolis Colts,home,Detroit Lions,4249087,Matt Gay,PK,2/2,100.0,29,0/0,6
+401671733,2024-11-10,2024,Atlanta Falcons,away,New Orleans Saints,3049899,Younghoe Koo,PK,1/4,25.0,27,2/2,5
+401671733,2024-11-10,2024,New Orleans Saints,home,Atlanta Falcons,4259619,Blake Grupe,PK,2/2,100.0,38,2/2,8
+401671875,2024-11-22,2024,Pittsburgh Steelers,away,Cleveland Browns,17372,Chris Boswell,PK,2/3,66.7,48,1/1,7
+401671875,2024-11-22,2024,Cleveland Browns,home,Pittsburgh Steelers,15965,Dustin Hopkins,PK,1/1,100.0,34,1/1,4
+401671847,2024-11-24,2024,New England Patriots,away,Miami Dolphins,3124084,Joey Slye,PK,0/1,0.0,0,1/1,1
+401671847,2024-11-24,2024,Miami Dolphins,home,New England Patriots,3124679,Jason Sanders,PK,2/2,100.0,51,4/4,10
+401671798,2024-11-29,2024,Miami Dolphins,away,Green Bay Packers,3124679,Jason Sanders,PK,1/1,100.0,33,0/0,3
+401671798,2024-11-29,2024,Green Bay Packers,home,Miami Dolphins,16339,Brandon McManus,PK,3/3,100.0,46,3/3,12
+401671689,2024-11-26,2024,Baltimore Ravens,away,Los Angeles Chargers,15683,Justin Tucker,PK,1/1,100.0,45,3/3,6
+401671689,2024-11-26,2024,Los Angeles Chargers,home,Baltimore Ravens,4362081,Cameron Dicker,PK,3/3,100.0,52,2/2,11
+401671746,,2024,Cleveland Browns,away,New Orleans Saints,15965,Dustin Hopkins,PK,0/2,0.0,0,0/0,0
+401671746,,2024,New Orleans Saints,home,Cleveland Browns,4259619,Blake Grupe,PK,0/0,0.0,0,5/5,5
+401671794,2024-11-25,2024,Philadelphia Eagles,away,Los Angeles Rams,3050478,Jake Elliott,PK,3/3,100.0,31,4/4,13
+401671794,2024-11-25,2024,Los Angeles Rams,home,Philadelphia Eagles,4566192,Joshua Karty,PK,0/1,0.0,0,2/2,2
+401671787,2024-11-11,2024,Detroit Lions,away,Houston Texans,4689936,Jake Bates,PK,2/2,100.0,58,2/2,8
+401671787,2024-11-11,2024,Houston Texans,home,Detroit Lions,2971573,Ka'imi Fairbairn,PK,3/4,75.0,56,2/2,11
+401671748,,2024,Atlanta Falcons,away,Denver Broncos,3049899,Younghoe Koo,PK,2/2,100.0,51,0/0,6
+401671748,,2024,Denver Broncos,home,Atlanta Falcons,2985659,Wil Lutz,PK,1/1,100.0,45,5/5,8
+401671715,2024-11-24,2024,Dallas Cowboys,away,Washington Commanders,3953687,Brandon Aubrey,PK,2/4,50.0,48,4/4,9
+401671715,2024-11-24,2024,Washington Commanders,home,Dallas Cowboys,3821683,Austin Seibert,PK,2/3,66.7,51,0/2,7
+401671651,2024-11-24,2024,Kansas City Chiefs,away,Carolina Panthers,4571557,Spencer Shrader,PK,3/3,100.0,41,3/3,12
+401671651,2024-11-24,2024,Carolina Panthers,home,Kansas City Chiefs,4034949,Eddy Pineiro,PK,4/4,100.0,33,1/1,13
+401671757,,2024,Seattle Seahawks,away,San Francisco 49ers,2473037,Jason Myers,PK,2/2,100.0,57,2/2,8
+401671757,,2024,San Francisco 49ers,home,Seattle Seahawks,4372066,Jake Moody,PK,1/1,100.0,33,2/2,5
+401671705,2024-12-01,2024,Houston Texans,away,Jacksonville Jaguars,2971573,Ka'imi Fairbairn,PK,3/3,100.0,53,2/2,11
+401671705,2024-12-01,2024,Jacksonville Jaguars,home,Houston Texans,4686361,Cam Little,PK,2/3,66.7,33,0/0,6
+401671492,2024-11-28,2024,Chicago Bears,away,Detroit Lions,17427,Cairo Santos,PK,0/0,0.0,0,2/2,2
+401671492,2024-11-28,2024,Detroit Lions,home,Chicago Bears,4689936,Jake Bates,PK,3/4,75.0,48,2/2,11
+401671779,2024-11-28,2024,New York Giants,away,Dallas Cowboys,12460,Graham Gano,PK,2/2,100.0,47,2/2,8
+401671779,2024-11-28,2024,Dallas Cowboys,home,New York Giants,3953687,Brandon Aubrey,PK,2/2,100.0,33,3/3,9
+401671627,2024-12-01,2024,Pittsburgh Steelers,away,Cincinnati Bengals,17372,Chris Boswell,PK,3/4,75.0,50,5/5,14
+401671627,2024-12-01,2024,Cincinnati Bengals,home,Pittsburgh Steelers,4360234,Evan McPherson,PK,1/1,100.0,38,5/5,8
+401671665,,2024,Kansas City Chiefs,away,Buffalo Bills,4571557,Spencer Shrader,PK,0/0,0.0,0,3/3,3
+401671665,,2024,Buffalo Bills,home,Kansas City Chiefs,3917232,Tyler Bass,PK,1/1,100.0,33,3/4,6
+401671649,2024-12-01,2024,Los Angeles Chargers,away,Atlanta Falcons,4362081,Cameron Dicker,PK,3/3,100.0,51,0/0,9
+401671649,2024-12-01,2024,Atlanta Falcons,home,Los Angeles Chargers,3049899,Younghoe Koo,PK,2/3,66.7,41,1/1,7
+401671753,2024-12-01,2024,Los Angeles Rams,away,New Orleans Saints,4566192,Joshua Karty,PK,0/0,0.0,0,3/3,3
+401671753,2024-12-01,2024,New Orleans Saints,home,Los Angeles Rams,4259619,Blake Grupe,PK,2/3,66.7,54,0/0,6
+401671694,,2024,Houston Texans,away,Dallas Cowboys,2971573,Ka'imi Fairbairn,PK,2/2,100.0,33,4/4,10
+401671694,,2024,Dallas Cowboys,home,Houston Texans,3953687,Brandon Aubrey,PK,1/2,50.0,53,1/1,4
+401671806,2024-11-29,2024,Las Vegas Raiders,away,Kansas City Chiefs,3051909,Daniel Carlson,PK,1/4,25.0,27,2/2,5
+401671806,2024-11-29,2024,Kansas City Chiefs,home,Las Vegas Raiders,3128444,Matthew Wright,PK,4/5,80.0,42,1/1,13
+401671768,2024-11-24,2024,San Francisco 49ers,away,Green Bay Packers,4372066,Jake Moody,PK,1/1,100.0,48,1/1,4
+401671768,2024-11-24,2024,Green Bay Packers,home,San Francisco 49ers,16339,Brandon McManus,PK,1/1,100.0,51,5/5,8
+401671726,2024-12-01,2024,Arizona Cardinals,away,Minnesota Vikings,4363538,Chad Ryland,PK,5/6,83.3,40,1/1,16
+401671726,2024-12-01,2024,Minnesota Vikings,home,Arizona Cardinals,4051167,Parker Romo,PK,3/4,75.0,55,2/2,11
+401671620,2024-12-01,2024,Indianapolis Colts,away,New England Patriots,4249087,Matt Gay,PK,1/1,100.0,25,2/2,5
+401671620,2024-12-01,2024,New England Patriots,home,Indianapolis Colts,3124084,Joey Slye,PK,3/5,60.0,54,1/1,10
+401671848,2024-12-08,2024,New York Jets,away,Miami Dolphins,4242519,Anders Carlson,PK,4/4,100.0,42,2/2,14
+401671848,2024-12-08,2024,Miami Dolphins,home,New York Jets,3124679,Jason Sanders,PK,4/4,100.0,57,0/1,12
+401671703,2024-12-01,2024,Seattle Seahawks,away,New York Jets,2473037,Jason Myers,PK,2/2,100.0,54,2/3,9
+401671703,2024-12-01,2024,New York Jets,home,Seattle Seahawks,4242519,Anders Carlson,PK,0/0,0.0,0,1/2,1
+401671666,2024-12-01,2024,Philadelphia Eagles,away,Baltimore Ravens,3050478,Jake Elliott,PK,1/1,100.0,35,3/3,6
+401671666,2024-12-01,2024,Baltimore Ravens,home,Philadelphia Eagles,15683,Justin Tucker,PK,2/4,50.0,50,1/2,7
+401671858,2024-11-24,2024,Tennessee Titans,away,Houston Texans,10621,Nick Folk,PK,3/3,100.0,56,3/3,12
+401671858,2024-11-24,2024,Houston Texans,home,Tennessee Titans,2971573,Ka'imi Fairbairn,PK,2/3,66.7,54,3/3,9
+401671814,2024-12-06,2024,Green Bay Packers,away,Detroit Lions,16339,Brandon McManus,PK,1/1,100.0,32,4/4,7
+401671814,2024-12-06,2024,Detroit Lions,home,Green Bay Packers,4689936,Jake Bates,PK,2/2,100.0,43,4/4,10
+401671648,2024-12-08,2024,Atlanta Falcons,away,Minnesota Vikings,3049899,Younghoe Koo,PK,2/2,100.0,29,1/1,7
+401671648,2024-12-08,2024,Minnesota Vikings,home,Atlanta Falcons,4567104,Will Reichard,PK,0/1,0.0,0,6/6,6
+401671743,2024-12-01,2024,Tennessee Titans,away,Washington Commanders,10621,Nick Folk,PK,2/2,100.0,44,1/1,7
+401671743,2024-12-01,2024,Washington Commanders,home,Tennessee Titans,3043234,Zane Gonzalez,PK,0/2,0.0,0,6/6,6
+401671773,2024-12-08,2024,Buffalo Bills,away,Los Angeles Rams,3917232,Tyler Bass,PK,0/0,0.0,0,6/6,5
+401671773,2024-12-08,2024,Los Angeles Rams,home,Buffalo Bills,4566192,Joshua Karty,PK,1/1,100.0,22,5/6,8
+401671781,2024-12-02,2024,San Francisco 49ers,away,Buffalo Bills,4372066,Jake Moody,PK,1/3,33.3,33,1/1,4
+401671781,2024-12-02,2024,Buffalo Bills,home,San Francisco 49ers,3917232,Tyler Bass,PK,0/1,0.0,0,5/5,5
+401671737,2024-12-15,2024,Washington Commanders,away,New Orleans Saints,3975763,Greg Joseph,KR,2/3,66.7,41,2/2,8
+401671737,2024-12-15,2024,New Orleans Saints,home,Washington Commanders,4259619,Blake Grupe,PK,2/2,100.0,51,1/1,7
+401671601,2024-12-08,2024,New Orleans Saints,away,New York Giants,4259619,Blake Grupe,PK,0/2,0.0,0,2/2,2
+401671601,2024-12-08,2024,New York Giants,home,New Orleans Saints,12460,Graham Gano,PK,1/2,50.0,43,0/0,3
+401671631,2024-12-08,2024,Cleveland Browns,away,Pittsburgh Steelers,15965,Dustin Hopkins,PK,0/2,0.0,0,2/2,2
+401671631,2024-12-08,2024,Pittsburgh Steelers,home,Cleveland Browns,17372,Chris Boswell,PK,2/2,100.0,54,3/3,9
+401671821,2024-12-08,2024,Jacksonville Jaguars,away,Tennessee Titans,4686361,Cam Little,PK,1/1,100.0,23,1/1,4
+401671821,2024-12-08,2024,Tennessee Titans,home,Jacksonville Jaguars,10621,Nick Folk,PK,2/2,100.0,46,0/0,6
+401671752,2024-12-01,2024,Tampa Bay Buccaneers,away,Carolina Panthers,3150744,Chase McLaughlin,PK,4/5,80.0,51,2/2,14
+401671752,2024-12-01,2024,Carolina Panthers,home,Tampa Bay Buccaneers,4034949,Eddy Pineiro,PK,3/5,60.0,47,2/2,11
+401671686,2024-12-03,2024,Cleveland Browns,away,Denver Broncos,15965,Dustin Hopkins,PK,1/2,50.0,45,3/3,6
+401671686,2024-12-03,2024,Denver Broncos,home,Cleveland Browns,2985659,Wil Lutz,PK,2/2,100.0,36,5/5,11
+401671774,2024-12-08,2024,Chicago Bears,away,San Francisco 49ers,17427,Cairo Santos,PK,0/0,0.0,0,1/1,1
+401671774,2024-12-08,2024,San Francisco 49ers,home,Chicago Bears,4372066,Jake Moody,PK,1/1,100.0,23,5/5,8
+401671669,2024-12-15,2024,Indianapolis Colts,away,Denver Broncos,4249087,Matt Gay,PK,2/2,100.0,49,1/1,7
+401671669,2024-12-15,2024,Denver Broncos,home,Indianapolis Colts,2985659,Wil Lutz,PK,1/1,100.0,44,4/4,7
+401671766,2024-12-15,2024,Pittsburgh Steelers,away,Philadelphia Eagles,17372,Chris Boswell,PK,2/2,100.0,49,1/1,7
+401671766,2024-12-15,2024,Philadelphia Eagles,home,Pittsburgh Steelers,3050478,Jake Elliott,PK,2/2,100.0,41,3/3,9
+401671731,2024-12-15,2024,Dallas Cowboys,away,Carolina Panthers,3953687,Brandon Aubrey,PK,3/4,75.0,52,3/3,12
+401671731,2024-12-15,2024,Carolina Panthers,home,Dallas Cowboys,4034949,Eddy Pineiro,PK,0/0,0.0,0,2/2,2
+401671818,2024-12-13,2024,Los Angeles Rams,away,San Francisco 49ers,4566192,Joshua Karty,PK,4/4,100.0,48,0/0,12
+401671818,2024-12-13,2024,San Francisco 49ers,home,Los Angeles Rams,4372066,Jake Moody,PK,2/2,100.0,53,0/0,6
+401671690,2024-12-10,2024,Cincinnati Bengals,away,Dallas Cowboys,4428963,Cade York,PK,2/2,100.0,37,3/3,9
+401671690,2024-12-10,2024,Dallas Cowboys,home,Cincinnati Bengals,3953687,Brandon Aubrey,PK,2/2,100.0,47,2/2,8
+401671654,2024-12-08,2024,Las Vegas Raiders,away,Tampa Bay Buccaneers,3051909,Daniel Carlson,PK,2/2,100.0,27,1/1,7
+401671654,2024-12-08,2024,Tampa Bay Buccaneers,home,Las Vegas Raiders,3150744,Chase McLaughlin,PK,0/0,0.0,0,4/4,4
+401671762,2024-12-15,2024,Tampa Bay Buccaneers,away,Los Angeles Chargers,3150744,Chase McLaughlin,PK,4/4,100.0,43,4/4,16
+401671762,2024-12-15,2024,Los Angeles Chargers,home,Tampa Bay Buccaneers,4362081,Cameron Dicker,PK,1/1,100.0,41,2/2,5
+401671660,2024-12-08,2024,Seattle Seahawks,away,Arizona Cardinals,2473037,Jason Myers,PK,3/3,100.0,36,3/3,12
+401671660,2024-12-08,2024,Arizona Cardinals,home,Seattle Seahawks,4363538,Chad Ryland,PK,1/2,50.0,28,1/1,4
+401671713,2024-12-08,2024,Carolina Panthers,away,Philadelphia Eagles,4034949,Eddy Pineiro,PK,1/1,100.0,38,1/2,4
+401671713,2024-12-08,2024,Philadelphia Eagles,home,Carolina Panthers,3050478,Jake Elliott,PK,0/1,0.0,0,2/2,2
+401671788,2024-12-09,2024,Los Angeles Chargers,away,Kansas City Chiefs,4362081,Cameron Dicker,PK,1/1,100.0,37,2/2,5
+401671788,2024-12-09,2024,Kansas City Chiefs,home,Los Angeles Chargers,3128444,Matthew Wright,PK,4/4,100.0,50,1/1,13
+401671778,2024-12-21,2024,Pittsburgh Steelers,away,Baltimore Ravens,17372,Chris Boswell,PK,1/1,100.0,51,2/2,5
+401671778,2024-12-21,2024,Baltimore Ravens,home,Pittsburgh Steelers,15683,Justin Tucker,PK,2/2,100.0,51,4/4,10
+401671706,2024-12-15,2024,New York Jets,away,Jacksonville Jaguars,4242519,Anders Carlson,PK,1/2,50.0,43,3/3,6
+401671706,2024-12-15,2024,Jacksonville Jaguars,home,New York Jets,4686361,Cam Little,PK,4/4,100.0,43,1/1,13
+401671796,2024-12-16,2024,Green Bay Packers,away,Seattle Seahawks,16339,Brandon McManus,PK,3/3,100.0,39,3/3,12
+401671796,2024-12-16,2024,Seattle Seahawks,home,Green Bay Packers,2473037,Jason Myers,PK,2/2,100.0,48,1/1,7
+401671811,2024-12-22,2024,Cleveland Browns,away,Cincinnati Bengals,15965,Dustin Hopkins,PK,0/0,0.0,0,0/1,0
+401671811,2024-12-22,2024,Cincinnati Bengals,home,Cleveland Browns,4428963,Cade York,PK,1/2,50.0,59,3/3,6
+401671639,2024-12-15,2024,Baltimore Ravens,away,New York Giants,15683,Justin Tucker,PK,0/0,0.0,0,5/5,5
+401671639,2024-12-15,2024,New York Giants,home,Baltimore Ravens,12460,Graham Gano,PK,0/0,0.0,0,2/2,2
+401671681,2024-12-15,2024,Buffalo Bills,away,Detroit Lions,3917232,Tyler Bass,PK,2/3,66.7,50,6/6,12
+401671681,2024-12-15,2024,Detroit Lions,home,Buffalo Bills,4689936,Jake Bates,PK,0/1,0.0,0,6/6,6
+401671673,2024-12-22,2024,Jacksonville Jaguars,away,Las Vegas Raiders,4686361,Cam Little,PK,0/0,0.0,0,2/2,2
+401671673,2024-12-22,2024,Las Vegas Raiders,home,Jacksonville Jaguars,3051909,Daniel Carlson,PK,2/3,66.7,49,1/1,7
+401671697,2024-12-17,2024,Atlanta Falcons,away,Las Vegas Raiders,3049899,Younghoe Koo,PK,2/3,66.7,48,1/1,7
+401671697,2024-12-17,2024,Las Vegas Raiders,home,Atlanta Falcons,3051909,Daniel Carlson,PK,1/1,100.0,52,0/1,3
+401671862,2024-12-22,2024,Tennessee Titans,away,Indianapolis Colts,4361765,Brayden Narveson,PK,0/1,0.0,0,2/2,2
+401671862,2024-12-22,2024,Indianapolis Colts,home,Tennessee Titans,4249087,Matt Gay,PK,1/2,50.0,31,5/5,8
+401671717,2024-12-22,2024,Philadelphia Eagles,away,Washington Commanders,3050478,Jake Elliott,PK,4/5,80.0,50,3/3,15
+401671717,2024-12-22,2024,Washington Commanders,home,Philadelphia Eagles,3043234,Zane Gonzalez,PK,0/0,0.0,0,4/4,4
+401671790,2024-12-23,2024,Tampa Bay Buccaneers,away,Dallas Cowboys,3150744,Chase McLaughlin,PK,1/1,100.0,45,3/3,6
+401671790,2024-12-23,2024,Dallas Cowboys,home,Tampa Bay Buccaneers,3953687,Brandon Aubrey,PK,4/4,100.0,58,2/2,14
+401671677,2024-12-15,2024,New England Patriots,away,Arizona Cardinals,3124084,Joey Slye,PK,1/2,50.0,50,2/2,5
+401671677,2024-12-15,2024,Arizona Cardinals,home,New England Patriots,4363538,Chad Ryland,PK,3/3,100.0,49,3/3,12
+401671621,2024-12-22,2024,Los Angeles Rams,away,New York Jets,4566192,Joshua Karty,PK,2/2,100.0,45,1/2,7
+401671621,2024-12-22,2024,New York Jets,home,Los Angeles Rams,4242519,Anders Carlson,PK,1/2,50.0,21,0/1,3
+401671854,2024-12-15,2024,Kansas City Chiefs,away,Cleveland Browns,3055899,Harrison Butker,PK,0/1,0.0,0,3/3,3
+401671854,2024-12-15,2024,Cleveland Browns,home,Kansas City Chiefs,4243371,Riley Patterson,PK,0/0,0.0,0,1/1,1
+401671732,2024-12-22,2024,Arizona Cardinals,away,Carolina Panthers,4363538,Chad Ryland,PK,3/3,100.0,58,3/3,12
+401671732,2024-12-22,2024,Carolina Panthers,home,Arizona Cardinals,4034949,Eddy Pineiro,PK,1/1,100.0,29,3/4,6
+401671874,2024-12-22,2024,San Francisco 49ers,away,Miami Dolphins,4372066,Jake Moody,PK,1/2,50.0,21,2/2,5
+401671874,2024-12-22,2024,Miami Dolphins,home,San Francisco 49ers,3124679,Jason Sanders,PK,5/5,100.0,54,2/2,17
+401671729,2024-12-22,2024,New York Giants,away,Atlanta Falcons,12460,Graham Gano,PK,0/0,0.0,0,1/1,1
+401671729,2024-12-22,2024,Atlanta Falcons,home,New York Giants,4243371,Riley Patterson,PK,2/3,66.7,52,4/4,10
+401671868,2024-12-22,2024,Detroit Lions,away,Chicago Bears,4689936,Jake Bates,PK,2/3,66.7,34,4/4,10
+401671868,2024-12-22,2024,Chicago Bears,home,Detroit Lions,17427,Cairo Santos,PK,1/1,100.0,30,2/2,5
+401671829,2024-12-29,2024,Arizona Cardinals,away,Los Angeles Rams,4363538,Chad Ryland,PK,1/1,100.0,28,0/1,3
+401671829,2024-12-29,2024,Los Angeles Rams,home,Arizona Cardinals,4566192,Joshua Karty,PK,2/2,100.0,53,1/1,7
+401671800,2024-12-25,2024,Baltimore Ravens,away,Houston Texans,15683,Justin Tucker,PK,1/1,100.0,52,4/4,7
+401671692,2024-12-24,2024,Green Bay Packers,home,New Orleans Saints,16339,Brandon McManus,PK,2/2,100.0,55,4/4,10
+401671634,2024-12-29,2024,Tennessee Titans,away,Jacksonville Jaguars,3128444,Matthew Wright,PK,2/2,100.0,39,1/1,7
+401671634,2024-12-29,2024,Jacksonville Jaguars,home,Tennessee Titans,4686361,Cam Little,PK,2/2,100.0,48,2/2,8
+401671860,2024-12-15,2024,Miami Dolphins,away,Houston Texans,3124679,Jason Sanders,PK,2/2,100.0,55,0/1,6
+401671860,2024-12-15,2024,Houston Texans,home,Miami Dolphins,2971573,Ka'imi Fairbairn,PK,2/2,100.0,44,2/2,8
+401671846,2024-12-29,2024,Indianapolis Colts,away,New York Giants,4249087,Matt Gay,PK,2/3,66.7,32,3/3,10
+401671846,2024-12-29,2024,New York Giants,home,Indianapolis Colts,12460,Graham Gano,PK,1/1,100.0,30,6/6,8
+401671494,2024-12-22,2024,New England Patriots,away,Buffalo Bills,3124084,Joey Slye,PK,0/0,0.0,0,3/3,3
+401671494,2024-12-22,2024,Buffalo Bills,home,New England Patriots,3917232,Tyler Bass,PK,1/1,100.0,50,3/3,6
+401671825,2024-12-15,2024,Cincinnati Bengals,away,Tennessee Titans,4428963,Cade York,PK,1/1,100.0,21,4/5,7
+401671825,2024-12-15,2024,Tennessee Titans,home,Cincinnati Bengals,10621,Nick Folk,PK,0/0,0.0,0,3/3,3
+401671489,2024-12-17,2024,Chicago Bears,away,Minnesota Vikings,17427,Cairo Santos,PK,2/2,100.0,39,0/0,6
+401671489,2024-12-17,2024,Minnesota Vikings,home,Chicago Bears,4567104,Will Reichard,PK,3/3,100.0,52,3/3,12
+401671749,2024-12-20,2024,Denver Broncos,away,Los Angeles Chargers,2985659,Wil Lutz,PK,2/2,100.0,55,3/3,9
+401671749,2024-12-20,2024,Los Angeles Chargers,home,Denver Broncos,4362081,Cameron Dicker,PK,2/2,100.0,57,2/2,8
+401671759,2024-12-22,2024,Minnesota Vikings,away,Seattle Seahawks,4567104,Will Reichard,PK,2/2,100.0,52,3/3,9
+401671759,2024-12-22,2024,Seattle Seahawks,home,Minnesota Vikings,2473037,Jason Myers,PK,1/2,50.0,43,3/3,6
+401671725,2024-12-29,2024,Green Bay Packers,away,Minnesota Vikings,16339,Brandon McManus,PK,1/1,100.0,22,2/2,5
+401671725,2024-12-29,2024,Minnesota Vikings,home,Green Bay Packers,4567104,Will Reichard,PK,2/4,50.0,50,3/3,9
+401671842,2024-12-30,2024,Atlanta Falcons,away,Washington Commanders,4243371,Riley Patterson,PK,1/2,50.0,39,3/3,6
+401671842,2024-12-30,2024,Washington Commanders,home,Atlanta Falcons,3043234,Zane Gonzalez,PK,1/1,100.0,31,3/3,6
+401671836,2025-01-05,2024,Cincinnati Bengals,away,Pittsburgh Steelers,4428963,Cade York,PK,4/4,100.0,48,1/1,13
+401671836,2025-01-05,2024,Pittsburgh Steelers,home,Cincinnati Bengals,17372,Chris Boswell,PK,1/1,100.0,54,2/2,5
+401671837,2025-01-05,2024,Jacksonville Jaguars,away,Indianapolis Colts,4686361,Cam Little,PK,3/3,100.0,53,2/2,11
+401671837,2025-01-05,2024,Indianapolis Colts,home,Jacksonville Jaguars,4249087,Matt Gay,PK,4/5,80.0,49,2/2,14
+401671780,2024-12-21,2024,Houston Texans,away,Kansas City Chiefs,2971573,Ka'imi Fairbairn,PK,2/2,100.0,38,1/2,7
+401671780,2024-12-21,2024,Kansas City Chiefs,home,Houston Texans,3055899,Harrison Butker,PK,2/2,100.0,44,3/3,9
+401671876,2024-12-27,2024,Seattle Seahawks,away,Chicago Bears,2473037,Jason Myers,PK,2/2,100.0,50,0/0,6
+401671876,2024-12-27,2024,Chicago Bears,home,Seattle Seahawks,17427,Cairo Santos,PK,1/1,100.0,42,0/0,3
+401671832,2024-12-28,2024,Los Angeles Chargers,away,New England Patriots,4362081,Cameron Dicker,PK,4/4,100.0,41,4/4,16
+401671832,2024-12-28,2024,New England Patriots,home,Los Angeles Chargers,3124084,Joey Slye,PK,0/0,0.0,0,1/1,1
+401671843,2025-01-06,2024,Minnesota Vikings,away,Detroit Lions,4567104,Will Reichard,PK,3/4,75.0,51,0/0,9
+401671843,2025-01-06,2024,Detroit Lions,home,Minnesota Vikings,4689936,Jake Bates,PK,1/1,100.0,48,4/4,7
+401671799,2024-12-25,2024,Kansas City Chiefs,away,Pittsburgh Steelers,3055899,Harrison Butker,PK,1/1,100.0,32,2/3,5
+401671799,2024-12-25,2024,Pittsburgh Steelers,home,Kansas City Chiefs,17372,Chris Boswell,PK,1/1,100.0,36,1/1,4
+401671653,2024-12-29,2024,Carolina Panthers,away,Tampa Bay Buccaneers,4034949,Eddy Pineiro,PK,0/1,0.0,0,2/2,2
+401671653,2024-12-29,2024,Tampa Bay Buccaneers,home,Carolina Panthers,3150744,Chase McLaughlin,PK,2/2,100.0,34,6/6,12
+401671840,2025-01-05,2024,Washington Commanders,away,Dallas Cowboys,3043234,Zane Gonzalez,PK,1/1,100.0,47,2/2,5
+401671840,2025-01-05,2024,Dallas Cowboys,home,Washington Commanders,3953687,Brandon Aubrey,PK,4/4,100.0,41,1/1,13
+401671877,2024-12-29,2024,Miami Dolphins,away,Cleveland Browns,3124679,Jason Sanders,PK,2/2,100.0,54,2/2,8
+401671877,2024-12-29,2024,Cleveland Browns,home,Miami Dolphins,15965,Dustin Hopkins,PK,1/1,100.0,25,0/0,3
+401671839,2025-01-05,2024,Los Angeles Chargers,away,Las Vegas Raiders,4362081,Cameron Dicker,PK,4/5,80.0,49,2/2,14
+401671839,2025-01-05,2024,Las Vegas Raiders,home,Los Angeles Chargers,3051909,Daniel Carlson,PK,2/2,100.0,47,2/2,8
+401671881,2025-01-12,2024,Denver Broncos,away,Buffalo Bills,2985659,Wil Lutz,PK,0/1,0.0,0,1/1,1
+401671881,2025-01-12,2024,Buffalo Bills,home,Denver Broncos,3917232,Tyler Bass,PK,3/3,100.0,34,2/2,11
+401671878,2025-01-11,2024,Los Angeles Chargers,away,Houston Texans,4362081,Cameron Dicker,PK,2/2,100.0,39,0/1,6
+401671878,2025-01-11,2024,Houston Texans,home,Los Angeles Chargers,2971573,Ka'imi Fairbairn,PK,3/3,100.0,41,3/3,12
+401671879,2025-01-12,2024,Pittsburgh Steelers,away,Baltimore Ravens,17372,Chris Boswell,PK,0/0,0.0,0,2/2,2
+401671879,2025-01-12,2024,Baltimore Ravens,home,Pittsburgh Steelers,15683,Justin Tucker,PK,0/0,0.0,0,4/4,4
+401671828,2025-01-05,2024,New Orleans Saints,away,Tampa Bay Buccaneers,4259619,Blake Grupe,PK,4/4,100.0,49,1/1,13
+401671828,2025-01-05,2024,Tampa Bay Buccaneers,home,New Orleans Saints,3150744,Chase McLaughlin,PK,2/2,100.0,52,3/3,9
+401671880,2025-01-12,2024,Green Bay Packers,away,Philadelphia Eagles,16339,Brandon McManus,PK,1/2,50.0,26,1/1,4
+401671880,2025-01-12,2024,Philadelphia Eagles,home,Green Bay Packers,3050478,Jake Elliott,PK,3/3,100.0,32,1/2,10
+401671495,2024-12-29,2024,Buffalo Bills,home,New York Jets,3917232,Tyler Bass,PK,1/1,100.0,39,5/5,8
+401671738,2024-12-29,2024,Las Vegas Raiders,away,New Orleans Saints,3051909,Daniel Carlson,PK,4/4,100.0,54,1/2,13
+401671738,2024-12-29,2024,New Orleans Saints,home,Las Vegas Raiders,4259619,Blake Grupe,PK,1/1,100.0,34,1/1,4
+401671886,2025-01-19,2024,Baltimore Ravens,away,Buffalo Bills,15683,Justin Tucker,PK,2/2,100.0,47,1/1,7
+401671886,2025-01-19,2024,Buffalo Bills,home,Baltimore Ravens,3917232,Tyler Bass,PK,2/2,100.0,51,3/3,9
+401671833,2025-01-05,2024,Miami Dolphins,away,New York Jets,3124679,Jason Sanders,PK,2/2,100.0,28,2/2,8
+401671833,2025-01-05,2024,New York Jets,home,Miami Dolphins,3975763,Greg Joseph,KR,1/1,100.0,20,3/3,6
+401671888,2025-01-26,2024,Washington Commanders,away,Philadelphia Eagles,3043234,Zane Gonzalez,PK,3/3,100.0,46,0/0,9
+401671888,2025-01-26,2024,Philadelphia Eagles,home,Washington Commanders,3050478,Jake Elliott,PK,0/1,0.0,0,7/7,7
+401671887,2025-01-26,2024,Buffalo Bills,away,Kansas City Chiefs,3917232,Tyler Bass,PK,1/1,100.0,53,2/2,5
+401671887,2025-01-26,2024,Kansas City Chiefs,home,Buffalo Bills,3055899,Harrison Butker,PK,1/1,100.0,35,3/3,6
+401671883,2025-01-13,2024,Washington Commanders,away,Tampa Bay Buccaneers,3043234,Zane Gonzalez,PK,3/3,100.0,52,2/2,11
+401671883,2025-01-13,2024,Tampa Bay Buccaneers,home,Washington Commanders,3150744,Chase McLaughlin,PK,2/2,100.0,50,2/2,8
+401671844,2025-01-05,2024,Chicago Bears,away,Green Bay Packers,17427,Cairo Santos,PK,1/1,100.0,51,3/3,6
+401671844,2025-01-05,2024,Green Bay Packers,home,Chicago Bears,16339,Brandon McManus,PK,3/3,100.0,55,1/1,10
+401671765,2024-12-29,2024,Dallas Cowboys,away,Philadelphia Eagles,3953687,Brandon Aubrey,PK,0/1,0.0,0,1/1,1
+401671765,2024-12-29,2024,Philadelphia Eagles,home,Dallas Cowboys,3050478,Jake Elliott,PK,2/2,100.0,31,5/5,11
+401671827,2025-01-05,2024,Carolina Panthers,away,Atlanta Falcons,4034949,Eddy Pineiro,PK,1/1,100.0,35,5/5,8
+401671827,2025-01-05,2024,Atlanta Falcons,home,Carolina Panthers,4243371,Riley Patterson,PK,1/2,50.0,31,5/5,8
+401671882,2025-01-14,2024,Minnesota Vikings,away,Los Angeles Rams,4567104,Will Reichard,PK,1/1,100.0,34,0/0,3
+401671882,2025-01-14,2024,Los Angeles Rams,home,Minnesota Vikings,4566192,Joshua Karty,PK,2/2,100.0,44,3/3,9
+401671830,2025-01-05,2024,Seattle Seahawks,away,Los Angeles Rams,2473037,Jason Myers,PK,1/1,100.0,56,3/3,6
+401671830,2025-01-05,2024,Los Angeles Rams,home,Seattle Seahawks,4566192,Joshua Karty,PK,4/4,100.0,58,1/1,13
+401671937,2025-01-19,2024,Los Angeles Rams,away,Philadelphia Eagles,4566192,Joshua Karty,PK,2/2,100.0,34,2/2,8
+401671937,2025-01-19,2024,Philadelphia Eagles,home,Los Angeles Rams,3050478,Jake Elliott,PK,3/3,100.0,44,1/3,10
+401671834,2025-01-04,2024,Cleveland Browns,away,Baltimore Ravens,15965,Dustin Hopkins,PK,1/1,100.0,23,1/1,4
+401671834,2025-01-04,2024,Baltimore Ravens,home,Cleveland Browns,15683,Justin Tucker,PK,0/0,0.0,0,5/5,5
+401671889,2025-02-09,2024,Philadelphia Eagles,home,Kansas City Chiefs,3050478,Jake Elliott,PK,4/4,100.0,50,4/4,16
+401671885,2025-01-19,2024,Washington Commanders,away,Detroit Lions,3043234,Zane Gonzalez,PK,1/2,50.0,47,6/6,9
+401671885,2025-01-19,2024,Detroit Lions,home,Washington Commanders,4689936,Jake Bates,PK,1/1,100.0,28,4/4,7
+401671884,2025-01-18,2024,Houston Texans,away,Kansas City Chiefs,2971573,Ka'imi Fairbairn,PK,2/4,50.0,48,0/1,6
+401671884,2025-01-18,2024,Kansas City Chiefs,home,Houston Texans,3055899,Harrison Butker,PK,3/3,100.0,36,2/2,11
+401671826,2025-01-05,2024,Houston Texans,away,Tennessee Titans,2971573,Ka'imi Fairbairn,PK,1/1,100.0,27,2/3,5
+401671826,2025-01-05,2024,Tennessee Titans,home,Houston Texans,3128444,Matthew Wright,PK,2/2,100.0,38,0/0,6
+401671838,2025-01-05,2024,Kansas City Chiefs,away,Denver Broncos,3055899,Harrison Butker,PK,0/1,0.0,0,0/0,0
+401671838,2025-01-05,2024,Denver Broncos,home,Kansas City Chiefs,2985659,Wil Lutz,PK,1/1,100.0,33,5/5,8
+401671845,2025-01-05,2024,San Francisco 49ers,away,Arizona Cardinals,4372066,Jake Moody,PK,1/2,50.0,51,3/3,6
+401671845,2025-01-05,2024,Arizona Cardinals,home,San Francisco 49ers,4363538,Chad Ryland,PK,2/2,100.0,51,5/5,11
+401671841,2025-01-05,2024,New York Giants,away,Philadelphia Eagles,12460,Graham Gano,PK,2/2,100.0,53,1/1,7
+401671841,2025-01-05,2024,Philadelphia Eagles,home,New York Giants,3050478,Jake Elliott,PK,2/3,66.7,32,2/2,8
+401671831,2025-01-05,2024,Buffalo Bills,away,New England Patriots,3917232,Tyler Bass,PK,1/1,100.0,49,1/2,4
+401671831,2025-01-05,2024,New England Patriots,home,Buffalo Bills,3124084,Joey Slye,PK,3/3,100.0,50,2/2,11
+401772827,2025-09-07,2025,New York Giants,away,Washington Commanders,12460,Graham Gano,PK,2/2,100.0,55,0/0,6
+401772827,2025-09-07,2025,Washington Commanders,home,New York Giants,4249087,Matt Gay,PK,0/0,0.0,0,3/3,3
+401772510,2025-09-05,2025,Dallas Cowboys,away,Philadelphia Eagles,3953687,Brandon Aubrey,PK,2/2,100.0,53,2/2,8
+401772510,2025-09-05,2025,Philadelphia Eagles,home,Dallas Cowboys,3050478,Jake Elliott,PK,1/1,100.0,58,3/3,6
+401772718,2025-09-07,2025,Arizona Cardinals,away,New Orleans Saints,4363538,Chad Ryland,PK,2/3,66.7,50,2/2,8
+401772718,2025-09-07,2025,New Orleans Saints,home,Arizona Cardinals,4259619,Blake Grupe,PK,2/3,66.7,36,1/1,7
+401772722,2025-09-07,2025,Detroit Lions,away,Green Bay Packers,4689936,Jake Bates,PK,2/2,100.0,30,1/1,7
+401772722,2025-09-07,2025,Green Bay Packers,home,Detroit Lions,16339,Brandon McManus,PK,2/2,100.0,38,3/3,9
+401772936,2025-09-12,2025,Washington Commanders,away,Green Bay Packers,4249087,Matt Gay,PK,1/3,33.3,51,1/1,4
+401772936,2025-09-12,2025,Green Bay Packers,home,Washington Commanders,16339,Brandon McManus,PK,2/3,66.7,56,3/3,9
+401772723,2025-09-07,2025,Houston Texans,away,Los Angeles Rams,2971573,Ka'imi Fairbairn,PK,3/3,100.0,53,0/0,9
+401772723,2025-09-07,2025,Los Angeles Rams,home,Houston Texans,4566192,Joshua Karty,PK,0/0,0.0,0,2/2,2
+401772831,2025-09-07,2025,San Francisco 49ers,away,Seattle Seahawks,4372066,Jake Moody,PK,1/3,33.3,32,2/2,5
+401772831,2025-09-07,2025,Seattle Seahawks,home,San Francisco 49ers,2473037,Jason Myers,PK,2/2,100.0,48,1/1,7
+401772714,2025-09-06,2025,Kansas City Chiefs,away,Los Angeles Chargers,3055899,Harrison Butker,PK,3/3,100.0,59,0/1,9
+401772714,2025-09-06,2025,Los Angeles Chargers,home,Kansas City Chiefs,4362081,Cameron Dicker,PK,2/2,100.0,39,3/3,9
+401772721,2025-09-07,2025,Pittsburgh Steelers,away,New York Jets,17372,Chris Boswell,PK,2/2,100.0,60,4/4,10
+401772721,2025-09-07,2025,New York Jets,home,Pittsburgh Steelers,10621,Nick Folk,PK,2/2,100.0,51,2/2,8
+401772836,2025-09-14,2025,Seattle Seahawks,away,Pittsburgh Steelers,2473037,Jason Myers,PK,1/2,50.0,54,4/4,6
+401772836,2025-09-14,2025,Pittsburgh Steelers,home,Seattle Seahawks,17372,Chris Boswell,PK,3/3,100.0,48,0/0,9
+401772828,2025-09-07,2025,Carolina Panthers,away,Jacksonville Jaguars,4568263,Ryan Fitzgerald,PK,1/1,100.0,48,1/1,4
+401772828,2025-09-07,2025,Jacksonville Jaguars,home,Carolina Panthers,4686361,Cam Little,PK,4/4,100.0,47,2/2,14
+401772833,2025-09-14,2025,San Francisco 49ers,away,New Orleans Saints,4034949,Eddy Pineiro,PK,2/2,100.0,46,2/3,8
+401772833,2025-09-14,2025,New Orleans Saints,home,San Francisco 49ers,4259619,Blake Grupe,PK,0/1,0.0,0,3/3,3
+401772830,2025-09-07,2025,Tampa Bay Buccaneers,away,Atlanta Falcons,3150744,Chase McLaughlin,PK,1/2,50.0,48,2/3,5
+401772830,2025-09-07,2025,Atlanta Falcons,home,Tampa Bay Buccaneers,3049899,Younghoe Koo,PK,2/3,66.7,41,2/2,8
+401772918,2025-09-08,2025,Baltimore Ravens,away,Buffalo Bills,4697745,Tyler Loop,PK,2/2,100.0,52,4/5,10
+401772918,2025-09-08,2025,Buffalo Bills,home,Baltimore Ravens,11122,Matt Prater,PK,3/3,100.0,43,2/2,11
+401772832,2025-09-07,2025,Tennessee Titans,away,Denver Broncos,3124084,Joey Slye,PK,4/4,100.0,50,0/0,12
+401772832,2025-09-07,2025,Denver Broncos,home,Tennessee Titans,2985659,Wil Lutz,PK,2/2,100.0,39,2/2,8
+401772919,2025-09-15,2025,Atlanta Falcons,away,Minnesota Vikings,4051167,Parker Romo,PK,5/5,100.0,54,1/1,16
+401772919,2025-09-15,2025,Minnesota Vikings,home,Atlanta Falcons,4567104,Will Reichard,PK,2/2,100.0,51,0/0,6
+401772724,2025-09-14,2025,Los Angeles Rams,away,Tennessee Titans,4566192,Joshua Karty,PK,2/2,100.0,21,3/4,9
+401772724,2025-09-14,2025,Tennessee Titans,home,Los Angeles Rams,3124084,Joey Slye,PK,4/4,100.0,57,1/1,13
+401772728,2025-09-14,2025,New England Patriots,away,Miami Dolphins,4569923,Andy Borregales,PK,2/2,100.0,53,1/3,7
+401772728,2025-09-14,2025,Miami Dolphins,home,New England Patriots,4243371,Riley Patterson,PK,2/2,100.0,44,3/3,9
+401772734,2025-09-21,2025,Houston Texans,away,Jacksonville Jaguars,2971573,Ka'imi Fairbairn,PK,1/2,50.0,27,1/1,4
+401772734,2025-09-21,2025,Jacksonville Jaguars,home,Houston Texans,4686361,Cam Little,PK,1/2,50.0,39,2/2,5
+401772715,2025-09-15,2025,Tampa Bay Buccaneers,away,Houston Texans,3150744,Chase McLaughlin,PK,0/1,0.0,0,2/2,2
+401772715,2025-09-15,2025,Houston Texans,home,Tampa Bay Buccaneers,2971573,Ka'imi Fairbairn,PK,2/2,100.0,53,1/1,7
+401772829,2025-09-07,2025,Cincinnati Bengals,away,Cleveland Browns,4360234,Evan McPherson,PK,1/1,100.0,35,2/2,5
+401772829,2025-09-07,2025,Cleveland Browns,home,Cincinnati Bengals,4258620,Andre Szmyt,PK,1/2,50.0,45,1/2,4
+401772834,2025-09-14,2025,New York Giants,away,Dallas Cowboys,12460,Graham Gano,PK,3/3,100.0,38,4/4,13
+401772834,2025-09-14,2025,Dallas Cowboys,home,New York Giants,3953687,Brandon Aubrey,PK,4/4,100.0,64,4/4,16
+401772841,2025-09-21,2025,Las Vegas Raiders,away,Washington Commanders,3051909,Daniel Carlson,PK,1/1,100.0,37,1/1,4
+401772841,2025-09-21,2025,Washington Commanders,home,Las Vegas Raiders,4249087,Matt Gay,PK,2/3,66.7,56,5/5,11
+401772720,2025-09-07,2025,Las Vegas Raiders,away,New England Patriots,3051909,Daniel Carlson,PK,2/3,66.7,51,2/2,8
+401772720,2025-09-07,2025,New England Patriots,home,Las Vegas Raiders,4569923,Andy Borregales,PK,2/3,66.7,44,1/1,7
+401772839,2025-09-21,2025,Los Angeles Rams,away,Philadelphia Eagles,4566192,Joshua Karty,PK,4/6,66.7,51,2/2,14
+401772839,2025-09-21,2025,Philadelphia Eagles,home,Los Angeles Rams,3050478,Jake Elliott,PK,0/0,0.0,0,3/3,3
+401772725,2025-09-14,2025,Jacksonville Jaguars,away,Cincinnati Bengals,4686361,Cam Little,PK,2/2,100.0,42,3/3,9
+401772725,2025-09-14,2025,Cincinnati Bengals,home,Jacksonville Jaguars,4360234,Evan McPherson,PK,1/1,100.0,31,4/4,7
+401772937,2025-09-19,2025,Miami Dolphins,away,Buffalo Bills,4243371,Riley Patterson,PK,0/0,0.0,0,3/3,3
+401772937,2025-09-19,2025,Buffalo Bills,home,Miami Dolphins,11122,Matt Prater,PK,1/2,50.0,48,4/4,7
+401772726,2025-09-14,2025,Cleveland Browns,away,Baltimore Ravens,4258620,Andre Szmyt,PK,1/1,100.0,38,2/2,5
+401772726,2025-09-14,2025,Baltimore Ravens,home,Cleveland Browns,4697745,Tyler Loop,PK,2/2,100.0,43,5/5,11
+401772835,2025-09-14,2025,Chicago Bears,away,Detroit Lions,17427,Cairo Santos,PK,0/0,0.0,0,3/3,3
+401772835,2025-09-14,2025,Detroit Lions,home,Chicago Bears,4689936,Jake Bates,PK,1/2,50.0,34,7/7,10
+401772810,2025-09-09,2025,Minnesota Vikings,away,Chicago Bears,4567104,Will Reichard,PK,2/2,100.0,59,1/1,7
+401772810,2025-09-09,2025,Chicago Bears,home,Minnesota Vikings,17427,Cairo Santos,PK,1/2,50.0,42,3/3,6
+401772727,2025-09-14,2025,Buffalo Bills,away,New York Jets,11122,Matt Prater,PK,3/3,100.0,52,3/3,12
+401772727,2025-09-14,2025,New York Jets,home,Buffalo Bills,10621,Nick Folk,PK,1/1,100.0,51,1/1,4
+401772729,2025-09-14,2025,Denver Broncos,away,Indianapolis Colts,2985659,Wil Lutz,PK,0/1,0.0,0,4/4,4
+401772729,2025-09-14,2025,Indianapolis Colts,home,Denver Broncos,4571557,Spencer Shrader,PK,5/5,100.0,45,2/2,17
+401772837,2025-09-14,2025,Philadelphia Eagles,away,Kansas City Chiefs,3050478,Jake Elliott,PK,2/2,100.0,58,2/2,8
+401772837,2025-09-14,2025,Kansas City Chiefs,home,Philadelphia Eagles,3055899,Harrison Butker,PK,1/2,50.0,56,2/2,5
+401772920,2025-09-22,2025,Kansas City Chiefs,away,New York Giants,3055899,Harrison Butker,PK,3/4,75.0,54,1/2,10
+401772920,2025-09-22,2025,New York Giants,home,Kansas City Chiefs,12460,Graham Gano,PK,1/1,100.0,25,0/0,3
+401772920,2025-09-22,2025,New York Giants,home,Kansas City Chiefs,3936185,Jamie Gillan,P,0/0,0.0,0,0/1,0
+401772737,2025-09-28,2025,Los Angeles Chargers,away,New York Giants,4362081,Cameron Dicker,PK,1/1,100.0,43,1/1,4
+401772737,2025-09-28,2025,New York Giants,home,Los Angeles Chargers,5092436,Jude McAtamney,PK,2/2,100.0,31,1/1,7
+401772719,2025-09-07,2025,Indianapolis Colts,home,Miami Dolphins,4571557,Spencer Shrader,PK,4/4,100.0,48,3/3,15
+401772844,2025-09-21,2025,Dallas Cowboys,away,Chicago Bears,3953687,Brandon Aubrey,PK,2/2,100.0,53,0/0,6
+401772844,2025-09-21,2025,Chicago Bears,home,Dallas Cowboys,17427,Cairo Santos,PK,1/1,100.0,30,4/4,7
+401772842,2025-09-21,2025,Green Bay Packers,away,Cleveland Browns,16339,Brandon McManus,PK,1/2,50.0,39,1/1,4
+401772842,2025-09-21,2025,Cleveland Browns,home,Green Bay Packers,4258620,Andre Szmyt,PK,2/2,100.0,55,1/1,7
+401772732,2025-09-21,2025,Pittsburgh Steelers,away,New England Patriots,17372,Chris Boswell,PK,0/0,0.0,0,3/3,3
+401772732,2025-09-21,2025,New England Patriots,home,Pittsburgh Steelers,4569923,Andy Borregales,PK,0/0,0.0,0,2/2,2
+401772811,2025-09-16,2025,Los Angeles Chargers,away,Las Vegas Raiders,4362081,Cameron Dicker,PK,2/2,100.0,38,2/2,8
+401772811,2025-09-16,2025,Las Vegas Raiders,home,Los Angeles Chargers,3051909,Daniel Carlson,PK,3/3,100.0,54,0/0,9
+401772738,2025-09-28,2025,Tennessee Titans,away,Houston Texans,3124084,Joey Slye,PK,0/2,0.0,0,0/0,0
+401772738,2025-09-28,2025,Houston Texans,home,Tennessee Titans,2971573,Ka'imi Fairbairn,PK,2/3,66.7,47,2/2,8
+401772812,2025-09-23,2025,Detroit Lions,away,Baltimore Ravens,4689936,Jake Bates,PK,1/2,50.0,45,5/5,8
+401772812,2025-09-23,2025,Baltimore Ravens,home,Detroit Lions,4697745,Tyler Loop,PK,1/1,100.0,41,3/3,6
+401772739,2025-09-28,2025,Washington Commanders,away,Atlanta Falcons,4249087,Matt Gay,PK,4/4,100.0,52,1/1,13
+401772739,2025-09-28,2025,Atlanta Falcons,home,Washington Commanders,4051167,Parker Romo,PK,2/2,100.0,38,4/4,10
+401772733,2025-09-21,2025,Indianapolis Colts,away,Tennessee Titans,4571557,Spencer Shrader,PK,2/3,66.7,36,5/5,11
+401772733,2025-09-21,2025,Tennessee Titans,home,Indianapolis Colts,3124084,Joey Slye,PK,2/4,50.0,57,2/2,8
+401772730,2025-09-14,2025,Carolina Panthers,away,Arizona Cardinals,4568263,Ryan Fitzgerald,PK,1/1,100.0,27,1/1,4
+401772730,2025-09-14,2025,Arizona Cardinals,home,Carolina Panthers,4363538,Chad Ryland,PK,2/2,100.0,47,3/3,9
+401772735,2025-09-21,2025,Denver Broncos,away,Los Angeles Chargers,2985659,Wil Lutz,PK,2/2,100.0,42,2/2,8
+401772735,2025-09-21,2025,Los Angeles Chargers,home,Denver Broncos,4362081,Cameron Dicker,PK,3/3,100.0,43,2/2,11
+401772736,2025-09-21,2025,New Orleans Saints,away,Seattle Seahawks,4259619,Blake Grupe,PK,2/3,66.7,27,1/1,7
+401772736,2025-09-21,2025,Seattle Seahawks,home,New Orleans Saints,2473037,Jason Myers,PK,3/3,100.0,56,5/5,14
+401772847,2025-09-28,2025,Carolina Panthers,away,New England Patriots,4568263,Ryan Fitzgerald,PK,0/1,0.0,0,1/2,1
+401772847,2025-09-28,2025,New England Patriots,home,Carolina Panthers,4569923,Andy Borregales,PK,0/0,0.0,0,6/6,6
+401772848,2025-09-28,2025,Jacksonville Jaguars,away,San Francisco 49ers,4686361,Cam Little,PK,2/3,66.7,44,2/2,8
+401772848,2025-09-28,2025,San Francisco 49ers,home,Jacksonville Jaguars,4034949,Eddy Pineiro,PK,2/2,100.0,26,1/1,7
+401772938,2025-09-26,2025,Seattle Seahawks,away,Arizona Cardinals,2473037,Jason Myers,PK,3/4,75.0,52,2/2,11
+401772938,2025-09-26,2025,Arizona Cardinals,home,Seattle Seahawks,4363538,Chad Ryland,PK,2/2,100.0,57,2/2,8
+401772846,2025-09-28,2025,Cleveland Browns,away,Detroit Lions,4258620,Andre Szmyt,PK,1/2,50.0,33,1/1,4
+401772846,2025-09-28,2025,Detroit Lions,home,Cleveland Browns,4689936,Jake Bates,PK,2/2,100.0,58,4/4,10
+401772840,2025-09-21,2025,New York Jets,away,Tampa Bay Buccaneers,10621,Nick Folk,PK,2/2,100.0,42,3/3,9
+401772840,2025-09-21,2025,Tampa Bay Buccaneers,home,New York Jets,3150744,Chase McLaughlin,PK,5/6,83.3,55,2/2,17
+401772632,2025-09-28,2025,Minnesota Vikings,away,Pittsburgh Steelers,4567104,Will Reichard,PK,2/2,100.0,41,1/1,7
+401772632,2025-09-28,2025,Pittsburgh Steelers,home,Minnesota Vikings,17372,Chris Boswell,PK,1/2,50.0,33,3/3,6
+401772921,2025-09-29,2025,Green Bay Packers,away,Dallas Cowboys,16339,Brandon McManus,PK,2/2,100.0,53,4/5,10
+401772921,2025-09-29,2025,Dallas Cowboys,home,Green Bay Packers,3953687,Brandon Aubrey,PK,1/1,100.0,22,5/5,8
+401772716,2025-09-30,2025,Cincinnati Bengals,away,Denver Broncos,4360234,Evan McPherson,PK,1/1,100.0,26,0/0,3
+401772716,2025-09-30,2025,Denver Broncos,home,Cincinnati Bengals,2985659,Wil Lutz,PK,0/0,0.0,0,4/4,4
+401772740,2025-09-28,2025,New Orleans Saints,away,Buffalo Bills,4259619,Blake Grupe,PK,2/2,100.0,54,1/1,7
+401772740,2025-09-28,2025,Buffalo Bills,home,New Orleans Saints,11122,Matt Prater,PK,1/1,100.0,35,4/4,7
+401772744,2025-10-05,2025,New York Giants,away,New Orleans Saints,5092436,Jude McAtamney,PK,0/0,0.0,0,2/2,2
+401772744,2025-10-05,2025,New Orleans Saints,home,New York Giants,4259619,Blake Grupe,PK,4/6,66.7,53,2/2,14
+401772843,2025-09-21,2025,Arizona Cardinals,away,San Francisco 49ers,4363538,Chad Ryland,PK,2/3,66.7,34,1/1,7
+401772843,2025-09-21,2025,San Francisco 49ers,home,Arizona Cardinals,4034949,Eddy Pineiro,PK,3/3,100.0,51,1/1,10
+401772838,2025-09-21,2025,Atlanta Falcons,away,Carolina Panthers,4051167,Parker Romo,PK,0/2,0.0,0,0/0,0
+401772838,2025-09-21,2025,Carolina Panthers,home,Atlanta Falcons,4568263,Ryan Fitzgerald,PK,3/3,100.0,57,3/3,12
+401772745,2025-10-05,2025,Denver Broncos,away,Philadelphia Eagles,2985659,Wil Lutz,PK,2/2,100.0,55,1/1,7
+401772745,2025-10-05,2025,Philadelphia Eagles,home,Denver Broncos,3050478,Jake Elliott,PK,1/1,100.0,31,2/2,5
+401772853,2025-10-05,2025,Washington Commanders,away,Los Angeles Chargers,4249087,Matt Gay,PK,2/2,100.0,36,3/3,9
+401772853,2025-10-05,2025,Los Angeles Chargers,home,Washington Commanders,4362081,Cameron Dicker,PK,1/1,100.0,55,1/1,4
+401772814,2025-10-07,2025,Kansas City Chiefs,away,Jacksonville Jaguars,3055899,Harrison Butker,PK,0/0,0.0,0,4/4,4
+401772814,2025-10-07,2025,Jacksonville Jaguars,home,Kansas City Chiefs,4686361,Cam Little,PK,1/1,100.0,52,4/4,7
+401772922,2025-10-06,2025,New England Patriots,away,Buffalo Bills,4569923,Andy Borregales,PK,3/3,100.0,52,2/2,11
+401772922,2025-10-06,2025,Buffalo Bills,home,New England Patriots,11122,Matt Prater,PK,2/2,100.0,45,2/2,8
+401772845,2025-09-28,2025,Philadelphia Eagles,away,Tampa Bay Buccaneers,3050478,Jake Elliott,PK,1/1,100.0,39,4/4,7
+401772845,2025-09-28,2025,Tampa Bay Buccaneers,home,Philadelphia Eagles,3150744,Chase McLaughlin,PK,3/3,100.0,65,2/2,11
+401772747,2025-10-05,2025,Tennessee Titans,away,Arizona Cardinals,3124084,Joey Slye,PK,3/3,100.0,51,1/2,10
+401772747,2025-10-05,2025,Arizona Cardinals,home,Tennessee Titans,4363538,Chad Ryland,PK,0/0,0.0,0,3/3,3
+401772854,2025-10-05,2025,Detroit Lions,away,Cincinnati Bengals,4689936,Jake Bates,PK,0/0,0.0,0,5/5,5
+401772854,2025-10-05,2025,Cincinnati Bengals,home,Detroit Lions,4360234,Evan McPherson,PK,1/1,100.0,50,3/3,6
+401772849,2025-09-28,2025,Indianapolis Colts,away,Los Angeles Rams,4571557,Spencer Shrader,PK,2/2,100.0,52,2/2,8
+401772849,2025-09-28,2025,Los Angeles Rams,home,Indianapolis Colts,4566192,Joshua Karty,PK,2/2,100.0,42,3/3,9
+401772743,2025-10-05,2025,Houston Texans,away,Baltimore Ravens,2971573,Ka'imi Fairbairn,PK,3/3,100.0,57,5/5,14
+401772743,2025-10-05,2025,Baltimore Ravens,home,Houston Texans,4697745,Tyler Loop,PK,1/2,50.0,27,1/1,4
+401772742,2025-09-28,2025,Chicago Bears,away,Las Vegas Raiders,17427,Cairo Santos,PK,4/4,100.0,52,1/1,13
+401772742,2025-09-28,2025,Las Vegas Raiders,home,Chicago Bears,3051909,Daniel Carlson,PK,1/2,50.0,29,3/3,6
+401772741,2025-09-28,2025,Baltimore Ravens,away,Kansas City Chiefs,4697745,Tyler Loop,PK,2/2,100.0,43,2/2,8
+401772741,2025-09-28,2025,Kansas City Chiefs,home,Baltimore Ravens,3055899,Harrison Butker,PK,3/4,75.0,38,4/4,13
+401772813,2025-09-29,2025,New York Jets,away,Miami Dolphins,10621,Nick Folk,PK,2/2,100.0,58,1/1,7
+401772813,2025-09-29,2025,Miami Dolphins,home,New York Jets,4243371,Riley Patterson,PK,2/2,100.0,47,3/3,9
+401772939,2025-10-03,2025,San Francisco 49ers,away,Los Angeles Rams,4034949,Eddy Pineiro,PK,4/4,100.0,59,2/2,14
+401772939,2025-10-03,2025,Los Angeles Rams,home,San Francisco 49ers,4566192,Joshua Karty,PK,1/2,50.0,48,2/3,5
+401772859,2025-10-12,2025,Tennessee Titans,away,Las Vegas Raiders,3128444,Matthew Wright,PK,1/1,100.0,46,1/1,4
+401772859,2025-10-12,2025,Las Vegas Raiders,home,Tennessee Titans,3051909,Daniel Carlson,PK,2/2,100.0,50,2/2,8
+401772815,2025-10-13,2025,Buffalo Bills,away,Atlanta Falcons,11122,Matt Prater,PK,0/0,0.0,0,2/2,2
+401772815,2025-10-13,2025,Atlanta Falcons,home,Buffalo Bills,4051167,Parker Romo,PK,1/2,50.0,33,3/3,6
+401772633,2025-10-05,2025,Minnesota Vikings,away,Cleveland Browns,4567104,Will Reichard,PK,0/1,0.0,0,3/3,3
+401772633,2025-10-05,2025,Cleveland Browns,home,Minnesota Vikings,4258620,Andre Szmyt,PK,1/1,100.0,31,2/2,5
+401772852,2025-10-05,2025,Miami Dolphins,away,Carolina Panthers,4243371,Riley Patterson,PK,1/1,100.0,43,3/3,6
+401772852,2025-10-05,2025,Carolina Panthers,home,Miami Dolphins,4568263,Ryan Fitzgerald,PK,2/2,100.0,49,3/3,9
+401772746,2025-10-05,2025,Tampa Bay Buccaneers,away,Seattle Seahawks,3150744,Chase McLaughlin,PK,3/3,100.0,39,3/3,12
+401772746,2025-10-05,2025,Seattle Seahawks,home,Tampa Bay Buccaneers,2473037,Jason Myers,PK,0/1,0.0,0,5/5,5
+401772634,2025-10-12,2025,Denver Broncos,away,New York Jets,2985659,Wil Lutz,PK,2/2,100.0,57,1/1,7
+401772634,2025-10-12,2025,New York Jets,home,Denver Broncos,10621,Nick Folk,PK,3/3,100.0,52,0/0,9
+401772858,2025-10-12,2025,Dallas Cowboys,away,Carolina Panthers,3953687,Brandon Aubrey,PK,2/2,100.0,28,3/3,9
+401772858,2025-10-12,2025,Carolina Panthers,home,Dallas Cowboys,4568263,Ryan Fitzgerald,PK,3/3,100.0,55,3/3,12
+401772717,2025-10-14,2025,Chicago Bears,away,Washington Commanders,4372066,Jake Moody,PK,4/5,80.0,48,1/1,13
+401772717,2025-10-14,2025,Washington Commanders,home,Chicago Bears,4249087,Matt Gay,PK,1/2,50.0,53,3/3,6
+401772850,2025-10-05,2025,Dallas Cowboys,away,New York Jets,3953687,Brandon Aubrey,PK,1/1,100.0,35,4/5,7
+401772850,2025-10-05,2025,New York Jets,home,Dallas Cowboys,10621,Nick Folk,PK,2/2,100.0,48,0/0,6
+401772856,2025-10-12,2025,Arizona Cardinals,away,Indianapolis Colts,4363538,Chad Ryland,PK,2/2,100.0,44,3/3,9
+401772856,2025-10-12,2025,Indianapolis Colts,home,Arizona Cardinals,3123052,Michael Badgley,PK,1/1,100.0,45,4/4,7
+401772751,2025-10-12,2025,New England Patriots,away,New Orleans Saints,4569923,Andy Borregales,PK,1/1,100.0,24,2/2,5
+401772751,2025-10-12,2025,New Orleans Saints,home,New England Patriots,4259619,Blake Grupe,PK,4/4,100.0,54,1/1,13
+401772749,2025-10-12,2025,San Francisco 49ers,away,Tampa Bay Buccaneers,4034949,Eddy Pineiro,PK,4/4,100.0,54,1/1,13
+401772749,2025-10-12,2025,Tampa Bay Buccaneers,home,San Francisco 49ers,3150744,Chase McLaughlin,PK,1/2,50.0,45,3/3,6
+401772750,2025-10-12,2025,Los Angeles Chargers,away,Miami Dolphins,4362081,Cameron Dicker,PK,5/5,100.0,35,2/2,17
+401772750,2025-10-12,2025,Miami Dolphins,home,Los Angeles Chargers,4243371,Riley Patterson,PK,2/3,66.7,47,3/3,9
+401772731,2025-09-21,2025,Cincinnati Bengals,away,Minnesota Vikings,4360234,Evan McPherson,PK,1/1,100.0,45,1/1,4
+401772731,2025-09-21,2025,Minnesota Vikings,home,Cincinnati Bengals,4567104,Will Reichard,PK,2/2,100.0,62,6/6,12
+401772851,2025-10-05,2025,Las Vegas Raiders,away,Indianapolis Colts,3051909,Daniel Carlson,PK,2/3,66.7,37,0/0,6
+401772851,2025-10-05,2025,Indianapolis Colts,home,Las Vegas Raiders,4571557,Spencer Shrader,PK,0/0,0.0,0,2/2,1
+401772635,2025-10-19,2025,Los Angeles Rams,away,Jacksonville Jaguars,4566192,Joshua Karty,PK,0/0,0.0,0,5/5,5
+401772635,2025-10-19,2025,Jacksonville Jaguars,home,Los Angeles Rams,4686361,Cam Little,PK,0/1,0.0,0,1/1,1
+401772861,2025-10-19,2025,New Orleans Saints,away,Chicago Bears,4259619,Blake Grupe,PK,0/1,0.0,0,2/2,2
+401772861,2025-10-19,2025,Chicago Bears,home,New Orleans Saints,4372066,Jake Moody,PK,4/4,100.0,39,2/2,14
+401772857,2025-10-12,2025,Seattle Seahawks,away,Jacksonville Jaguars,2473037,Jason Myers,PK,2/2,100.0,53,2/2,8
+401772857,2025-10-12,2025,Jacksonville Jaguars,home,Seattle Seahawks,4686361,Cam Little,PK,0/1,0.0,0,0/1,0
+401772923,2025-10-13,2025,Detroit Lions,away,Kansas City Chiefs,4689936,Jake Bates,PK,1/1,100.0,28,2/2,5
+401772923,2025-10-13,2025,Kansas City Chiefs,home,Detroit Lions,3055899,Harrison Butker,PK,1/1,100.0,33,3/4,6
+401772748,2025-10-12,2025,Cleveland Browns,away,Pittsburgh Steelers,4258620,Andre Szmyt,PK,3/3,100.0,53,0/0,9
+401772748,2025-10-12,2025,Pittsburgh Steelers,home,Cleveland Browns,17372,Chris Boswell,PK,3/4,75.0,50,2/2,11
+401772941,2025-10-17,2025,Pittsburgh Steelers,away,Cincinnati Bengals,17372,Chris Boswell,PK,1/1,100.0,41,4/4,7
+401772941,2025-10-17,2025,Cincinnati Bengals,home,Pittsburgh Steelers,4360234,Evan McPherson,PK,4/4,100.0,49,3/3,15
+401772752,2025-10-12,2025,Cincinnati Bengals,away,Green Bay Packers,4360234,Evan McPherson,PK,1/3,33.3,45,1/1,4
+401772752,2025-10-12,2025,Green Bay Packers,home,Cincinnati Bengals,4245661,Lucas Havrisik,PK,2/2,100.0,43,3/3,9
+401772826,2025-10-21,2025,Houston Texans,away,Seattle Seahawks,2971573,Ka'imi Fairbairn,PK,2/2,100.0,46,1/1,7
+401772826,2025-10-21,2025,Seattle Seahawks,home,Houston Texans,2473037,Jason Myers,PK,2/3,66.7,47,3/3,9
+401772862,2025-10-19,2025,Philadelphia Eagles,away,Minnesota Vikings,3050478,Jake Elliott,PK,0/1,0.0,0,4/4,4
+401772862,2025-10-19,2025,Minnesota Vikings,home,Philadelphia Eagles,4567104,Will Reichard,PK,5/5,100.0,59,1/1,16
+401772755,2025-10-19,2025,New England Patriots,away,Tennessee Titans,4569923,Andy Borregales,PK,1/1,100.0,36,4/4,7
+401772755,2025-10-19,2025,Tennessee Titans,home,New England Patriots,3124084,Joey Slye,PK,2/2,100.0,50,1/1,7
+401772753,2025-10-19,2025,Kansas City Chiefs,home,Las Vegas Raiders,3055899,Harrison Butker,PK,1/1,100.0,38,4/4,7
+401772940,2025-10-10,2025,Philadelphia Eagles,away,New York Giants,3050478,Jake Elliott,PK,1/1,100.0,42,2/2,5
+401772940,2025-10-10,2025,New York Giants,home,Philadelphia Eagles,5092436,Jude McAtamney,PK,0/0,0.0,0,4/5,4
+401772863,2025-10-19,2025,Green Bay Packers,away,Arizona Cardinals,4245661,Lucas Havrisik,PK,2/2,100.0,61,3/3,9
+401772863,2025-10-19,2025,Arizona Cardinals,home,Green Bay Packers,4363538,Chad Ryland,PK,3/3,100.0,40,2/2,11
+401772869,2025-10-26,2025,Tampa Bay Buccaneers,away,New Orleans Saints,3150744,Chase McLaughlin,PK,3/3,100.0,55,2/2,11
+401772869,2025-10-26,2025,New Orleans Saints,home,Tampa Bay Buccaneers,4259619,Blake Grupe,PK,1/1,100.0,48,0/0,3
+401772864,2025-10-19,2025,Washington Commanders,away,Dallas Cowboys,4249087,Matt Gay,PK,0/0,0.0,0,2/2,2
+401772864,2025-10-19,2025,Dallas Cowboys,home,Washington Commanders,3953687,Brandon Aubrey,PK,3/3,100.0,61,5/5,14
+401772758,2025-10-26,2025,New York Jets,away,Cincinnati Bengals,10621,Nick Folk,PK,3/3,100.0,46,2/2,11
+401772758,2025-10-26,2025,Cincinnati Bengals,home,New York Jets,4360234,Evan McPherson,PK,1/1,100.0,26,5/5,8
+401772866,2025-10-26,2025,San Francisco 49ers,away,Houston Texans,4034949,Eddy Pineiro,PK,0/0,0.0,0,1/1,1
+401772866,2025-10-26,2025,Houston Texans,home,San Francisco 49ers,2971573,Ka'imi Fairbairn,PK,4/4,100.0,37,2/2,14
+401772855,2025-10-12,2025,Los Angeles Rams,away,Baltimore Ravens,4566192,Joshua Karty,PK,1/2,50.0,36,2/2,5
+401772855,2025-10-12,2025,Baltimore Ravens,home,Los Angeles Rams,4697745,Tyler Loop,PK,1/1,100.0,37,0/0,3
+401772759,2025-10-26,2025,Chicago Bears,away,Baltimore Ravens,17427,Cairo Santos,PK,3/4,75.0,47,1/1,10
+401772759,2025-10-26,2025,Baltimore Ravens,home,Chicago Bears,4697745,Tyler Loop,PK,3/3,100.0,42,3/3,12
+401772860,2025-10-19,2025,Carolina Panthers,away,New York Jets,4568263,Ryan Fitzgerald,PK,2/2,100.0,30,1/1,7
+401772860,2025-10-19,2025,New York Jets,home,Carolina Panthers,10621,Nick Folk,PK,2/2,100.0,47,0/0,6
+401772754,2025-10-19,2025,Miami Dolphins,away,Cleveland Browns,4243371,Riley Patterson,PK,2/2,100.0,33,0/0,6
+401772754,2025-10-19,2025,Cleveland Browns,home,Miami Dolphins,4258620,Andre Szmyt,PK,1/1,100.0,30,4/4,7
+401772867,2025-10-26,2025,New York Giants,away,Philadelphia Eagles,12460,Graham Gano,PK,2/2,100.0,47,2/2,8
+401772867,2025-10-26,2025,Philadelphia Eagles,home,New York Giants,3050478,Jake Elliott,PK,1/2,50.0,40,5/5,8
+401772817,2025-10-28,2025,Washington Commanders,away,Kansas City Chiefs,3128444,Matthew Wright,PK,0/0,0.0,0,1/1,1
+401772817,2025-10-28,2025,Kansas City Chiefs,home,Washington Commanders,3055899,Harrison Butker,PK,0/0,0.0,0,4/4,4
+401772760,2025-10-26,2025,Miami Dolphins,away,Atlanta Falcons,4243371,Riley Patterson,PK,2/2,100.0,36,4/4,10
+401772760,2025-10-26,2025,Atlanta Falcons,home,Miami Dolphins,4051167,Parker Romo,PK,1/1,100.0,45,1/1,4
+401772756,2025-10-19,2025,Indianapolis Colts,away,Los Angeles Chargers,3123052,Michael Badgley,PK,1/1,100.0,36,3/4,6
+401772756,2025-10-19,2025,Los Angeles Chargers,home,Indianapolis Colts,4362081,Cameron Dicker,PK,1/1,100.0,43,3/3,6
+401772924,2025-10-20,2025,Atlanta Falcons,away,San Francisco 49ers,4051167,Parker Romo,PK,1/1,100.0,38,1/1,4
+401772924,2025-10-20,2025,San Francisco 49ers,home,Atlanta Falcons,4034949,Eddy Pineiro,PK,2/2,100.0,55,2/2,8
+401772942,2025-10-24,2025,Minnesota Vikings,away,Los Angeles Chargers,4567104,Will Reichard,PK,1/2,50.0,54,1/1,4
+401772942,2025-10-24,2025,Los Angeles Chargers,home,Minnesota Vikings,4362081,Cameron Dicker,PK,3/4,75.0,45,4/4,13
+401772871,2025-11-02,2025,Minnesota Vikings,away,Detroit Lions,4567104,Will Reichard,PK,2/2,100.0,50,3/3,9
+401772871,2025-11-02,2025,Detroit Lions,home,Minnesota Vikings,4689936,Jake Bates,PK,1/2,50.0,41,3/3,6
+401772762,2025-10-26,2025,Dallas Cowboys,away,Denver Broncos,3953687,Brandon Aubrey,PK,1/1,100.0,24,3/3,6
+401772762,2025-10-26,2025,Denver Broncos,home,Dallas Cowboys,2985659,Wil Lutz,PK,1/1,100.0,42,5/5,8
+401772874,2025-11-02,2025,New Orleans Saints,away,Los Angeles Rams,4259619,Blake Grupe,PK,1/1,100.0,39,1/1,4
+401772874,2025-11-02,2025,Los Angeles Rams,home,New Orleans Saints,4566192,Joshua Karty,PK,0/1,0.0,0,4/5,4
+401772868,2025-10-26,2025,Cleveland Browns,away,New England Patriots,4258620,Andre Szmyt,PK,0/1,0.0,0,1/1,1
+401772868,2025-10-26,2025,New England Patriots,home,Cleveland Browns,4569923,Andy Borregales,PK,3/3,100.0,42,3/3,12
+401772768,2025-11-02,2025,Kansas City Chiefs,away,Buffalo Bills,3055899,Harrison Butker,PK,2/2,100.0,46,1/1,7
+401772768,2025-11-02,2025,Buffalo Bills,home,Kansas City Chiefs,11122,Matt Prater,PK,0/1,0.0,0,4/4,4
+401772925,2025-10-27,2025,Green Bay Packers,away,Pittsburgh Steelers,16339,Brandon McManus,PK,2/4,50.0,28,3/3,9
+401772925,2025-10-27,2025,Pittsburgh Steelers,home,Green Bay Packers,17372,Chris Boswell,PK,4/4,100.0,56,1/1,13
+401772767,2025-11-02,2025,San Francisco 49ers,away,New York Giants,4034949,Eddy Pineiro,PK,2/2,100.0,54,4/4,10
+401772767,2025-11-02,2025,New York Giants,home,San Francisco 49ers,12460,Graham Gano,PK,1/2,50.0,22,3/3,6
+401772757,2025-10-19,2025,New York Giants,away,Denver Broncos,5092436,Jude McAtamney,PK,0/0,0.0,0,2/4,2
+401772757,2025-10-19,2025,Denver Broncos,home,New York Giants,2985659,Wil Lutz,PK,1/1,100.0,39,2/2,5
+401772766,2025-11-02,2025,Indianapolis Colts,away,Pittsburgh Steelers,3123052,Michael Badgley,PK,2/2,100.0,53,2/2,8
+401772766,2025-11-02,2025,Pittsburgh Steelers,home,Indianapolis Colts,17372,Chris Boswell,PK,2/2,100.0,46,3/3,9
+401772872,2025-11-02,2025,Carolina Panthers,away,Green Bay Packers,4568263,Ryan Fitzgerald,PK,1/1,100.0,49,1/2,4
+401772872,2025-11-02,2025,Green Bay Packers,home,Carolina Panthers,16339,Brandon McManus,PK,2/3,66.7,49,1/1,7
+401772870,2025-11-02,2025,Denver Broncos,away,Houston Texans,2985659,Wil Lutz,PK,1/2,50.0,34,1/1,4
+401772870,2025-11-02,2025,Houston Texans,home,Denver Broncos,2971573,Ka'imi Fairbairn,PK,5/6,83.3,41,0/0,15
+401772764,2025-11-02,2025,Los Angeles Chargers,away,Tennessee Titans,4362081,Cameron Dicker,PK,2/2,100.0,52,3/3,9
+401772764,2025-11-02,2025,Tennessee Titans,home,Los Angeles Chargers,3124084,Joey Slye,PK,2/2,100.0,49,2/2,8
+401772816,2025-10-20,2025,Tampa Bay Buccaneers,away,Detroit Lions,3150744,Chase McLaughlin,PK,1/1,100.0,53,0/0,3
+401772816,2025-10-20,2025,Detroit Lions,home,Tampa Bay Buccaneers,4689936,Jake Bates,PK,1/2,50.0,58,3/3,6
+401772765,2025-11-02,2025,Chicago Bears,away,Cincinnati Bengals,17427,Cairo Santos,PK,2/3,66.7,36,5/5,11
+401772765,2025-11-02,2025,Cincinnati Bengals,home,Chicago Bears,4360234,Evan McPherson,PK,2/3,66.7,41,4/4,10
+401772772,2025-11-09,2025,New England Patriots,away,Tampa Bay Buccaneers,4569923,Andy Borregales,PK,0/0,0.0,0,4/4,4
+401772772,2025-11-09,2025,Tampa Bay Buccaneers,home,New England Patriots,3150744,Chase McLaughlin,PK,1/1,100.0,36,2/2,5
+401772877,2025-11-09,2025,New Orleans Saints,away,Carolina Panthers,4259619,Blake Grupe,PK,1/1,100.0,20,2/2,5
+401772877,2025-11-09,2025,Carolina Panthers,home,New Orleans Saints,4568263,Ryan Fitzgerald,PK,0/1,0.0,0,1/1,1
+401772761,2025-10-26,2025,Tennessee Titans,away,Indianapolis Colts,3124084,Joey Slye,PK,0/1,0.0,0,2/2,2
+401772761,2025-10-26,2025,Indianapolis Colts,home,Tennessee Titans,3123052,Michael Badgley,PK,1/1,100.0,43,5/5,8
+401772865,2025-10-26,2025,Buffalo Bills,away,Carolina Panthers,11122,Matt Prater,PK,2/2,100.0,45,4/5,10
+401772865,2025-10-26,2025,Carolina Panthers,home,Buffalo Bills,4568263,Ryan Fitzgerald,PK,1/2,50.0,48,0/1,3
+401772875,2025-11-09,2025,New York Giants,away,Chicago Bears,3049899,Younghoe Koo,PK,2/2,100.0,32,2/2,8
+401772875,2025-11-09,2025,Chicago Bears,home,New York Giants,17427,Cairo Santos,PK,1/1,100.0,22,3/3,6
+401772763,2025-11-02,2025,Atlanta Falcons,away,New England Patriots,4051167,Parker Romo,PK,1/1,100.0,38,2/3,5
+401772763,2025-11-02,2025,New England Patriots,home,Atlanta Falcons,4569923,Andy Borregales,PK,1/1,100.0,32,3/3,6
+401772944,2025-11-07,2025,Las Vegas Raiders,away,Denver Broncos,3051909,Daniel Carlson,PK,0/1,0.0,0,1/1,1
+401772944,2025-11-07,2025,Denver Broncos,home,Las Vegas Raiders,2985659,Wil Lutz,PK,1/2,50.0,32,1/1,4
+401772818,2025-11-04,2025,Arizona Cardinals,away,Dallas Cowboys,4363538,Chad Ryland,PK,2/2,100.0,48,3/3,9
+401772818,2025-11-04,2025,Dallas Cowboys,home,Arizona Cardinals,3953687,Brandon Aubrey,PK,1/2,50.0,26,2/2,5
+401772630,2025-11-11,2025,Philadelphia Eagles,away,Green Bay Packers,3050478,Jake Elliott,PK,1/1,100.0,39,1/1,4
+401772630,2025-11-11,2025,Green Bay Packers,home,Philadelphia Eagles,16339,Brandon McManus,PK,0/1,0.0,0,1/1,1
+401772636,2025-11-09,2025,Atlanta Falcons,away,Indianapolis Colts,3043234,Zane Gonzalez,PK,1/1,100.0,43,2/2,5
+401772636,2025-11-09,2025,Indianapolis Colts,home,Atlanta Falcons,3123052,Michael Badgley,PK,2/3,66.7,44,1/2,7
+401772927,2025-11-10,2025,Pittsburgh Steelers,away,Los Angeles Chargers,17372,Chris Boswell,PK,1/2,50.0,59,1/1,4
+401772927,2025-11-10,2025,Los Angeles Chargers,home,Pittsburgh Steelers,4362081,Cameron Dicker,PK,3/4,75.0,59,2/2,11
+401772770,2025-11-09,2025,Jacksonville Jaguars,away,Houston Texans,4686361,Cam Little,PK,3/3,100.0,53,2/2,11
+401772770,2025-11-09,2025,Houston Texans,home,Jacksonville Jaguars,3128444,Matthew Wright,PK,1/1,100.0,23,1/1,4
+401772876,2025-11-09,2025,Baltimore Ravens,away,Minnesota Vikings,4697745,Tyler Loop,PK,4/5,80.0,44,1/1,13
+401772876,2025-11-09,2025,Minnesota Vikings,home,Baltimore Ravens,4567104,Will Reichard,PK,2/2,100.0,49,1/1,7
+401772943,2025-10-31,2025,Baltimore Ravens,away,Miami Dolphins,4697745,Tyler Loop,PK,0/0,0.0,0,4/4,4
+401772943,2025-10-31,2025,Miami Dolphins,home,Baltimore Ravens,4243371,Riley Patterson,PK,2/3,66.7,49,0/0,6
+401772880,2025-11-16,2025,Chicago Bears,away,Minnesota Vikings,17427,Cairo Santos,PK,2/2,100.0,54,1/1,7
+401772880,2025-11-16,2025,Minnesota Vikings,home,Chicago Bears,4567104,Will Reichard,PK,1/1,100.0,31,0/0,3
+401772771,2025-11-09,2025,Buffalo Bills,away,Miami Dolphins,11122,Matt Prater,PK,0/0,0.0,0,1/1,1
+401772771,2025-11-09,2025,Miami Dolphins,home,Buffalo Bills,4243371,Riley Patterson,PK,1/1,100.0,46,3/4,6
+401772769,2025-11-09,2025,Cleveland Browns,away,New York Jets,4258620,Andre Szmyt,PK,2/2,100.0,45,2/2,8
+401772769,2025-11-09,2025,New York Jets,home,Cleveland Browns,10621,Nick Folk,PK,2/2,100.0,37,3/3,9
+401772926,2025-11-03,2025,Seattle Seahawks,away,Washington Commanders,2473037,Jason Myers,PK,1/1,100.0,41,5/5,8
+401772926,2025-11-03,2025,Washington Commanders,home,Seattle Seahawks,4249087,Matt Gay,PK,0/0,0.0,0,2/2,2
+401772873,2025-11-02,2025,Jacksonville Jaguars,away,Las Vegas Raiders,4686361,Cam Little,PK,3/3,100.0,68,3/3,12
+401772873,2025-11-02,2025,Las Vegas Raiders,home,Jacksonville Jaguars,3051909,Daniel Carlson,PK,1/1,100.0,24,2/3,5
+401772878,2025-11-09,2025,Detroit Lions,away,Washington Commanders,4689936,Jake Bates,PK,3/3,100.0,48,3/4,12
+401772878,2025-11-09,2025,Washington Commanders,home,Detroit Lions,4249087,Matt Gay,PK,1/1,100.0,44,1/1,4
+401772945,2025-11-14,2025,New York Jets,away,New England Patriots,10621,Nick Folk,PK,0/0,0.0,0,2/2,2
+401772945,2025-11-14,2025,New England Patriots,home,New York Jets,4569923,Andy Borregales,PK,2/3,66.7,44,3/3,9
+401772775,2025-11-16,2025,Los Angeles Chargers,away,Jacksonville Jaguars,4362081,Cameron Dicker,PK,2/2,100.0,46,0/0,6
+401772775,2025-11-16,2025,Jacksonville Jaguars,home,Los Angeles Chargers,4686361,Cam Little,PK,0/0,0.0,0,3/3,3
+401772881,2025-11-16,2025,Houston Texans,away,Tennessee Titans,3128444,Matthew Wright,PK,0/0,0.0,0,1/1,1
+401772881,2025-11-16,2025,Tennessee Titans,home,Houston Texans,3124084,Joey Slye,PK,2/2,100.0,56,0/0,6
+401772883,2025-11-16,2025,Green Bay Packers,away,New York Giants,4245661,Lucas Havrisik,PK,0/0,0.0,0,1/3,1
+401772883,2025-11-16,2025,New York Giants,home,Green Bay Packers,3049899,Younghoe Koo,PK,0/0,0.0,0,1/2,1
+401772879,2025-11-09,2025,Los Angeles Rams,away,San Francisco 49ers,4574716,Harrison Mevis,PK,0/0,0.0,0,6/6,6
+401772879,2025-11-09,2025,San Francisco 49ers,home,Los Angeles Rams,4034949,Eddy Pineiro,PK,0/0,0.0,0,2/3,2
+401772774,2025-11-16,2025,Cincinnati Bengals,away,Pittsburgh Steelers,4360234,Evan McPherson,PK,1/1,100.0,43,0/0,3
+401772774,2025-11-16,2025,Pittsburgh Steelers,home,Cincinnati Bengals,17372,Chris Boswell,PK,1/1,100.0,25,1/1,4
+401772776,2025-11-16,2025,Tampa Bay Buccaneers,away,Buffalo Bills,3150744,Chase McLaughlin,PK,2/2,100.0,24,2/2,8
+401772776,2025-11-16,2025,Buffalo Bills,home,Tampa Bay Buccaneers,11122,Matt Prater,PK,0/0,0.0,0,3/3,3
+401772773,2025-11-09,2025,Arizona Cardinals,away,Seattle Seahawks,4363538,Chad Ryland,PK,0/0,0.0,0,2/2,2
+401772773,2025-11-09,2025,Seattle Seahawks,home,Arizona Cardinals,2473037,Jason Myers,PK,3/3,100.0,46,5/5,14
+401772882,2025-11-16,2025,Carolina Panthers,away,Atlanta Falcons,4568263,Ryan Fitzgerald,PK,1/1,100.0,29,1/1,4
+401772882,2025-11-16,2025,Atlanta Falcons,home,Carolina Panthers,3043234,Zane Gonzalez,PK,0/0,0.0,0,3/3,3
+401772631,2025-11-16,2025,Washington Commanders,away,Miami Dolphins,4249087,Matt Gay,PK,2/4,50.0,30,1/1,7
+401772631,2025-11-16,2025,Miami Dolphins,home,Washington Commanders,4243371,Riley Patterson,PK,3/3,100.0,46,1/1,10

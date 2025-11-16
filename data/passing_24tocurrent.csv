@@ -1,0 +1,1072 @@
+game_id,date,season,team,home_away,opposing_team,athlete_id,display_name,position,C_ATT,YDS,AVG,TD,INT,SACKS,QBR,RTG
+401671617,2024-09-08,2024,Arizona Cardinals,away,Buffalo Bills,3917315,Kyler Murray,QB,21/31,162,5.2,1,0,4-16,80.5,91.1
+401671617,2024-09-08,2024,Buffalo Bills,home,Arizona Cardinals,3918298,Josh Allen,QB,18/23,232,10.1,2,0,2-10,89.8,137.7
+401671861,2024-09-08,2024,Houston Texans,away,Indianapolis Colts,4432577,C.J. Stroud,QB,24/32,234,7.3,2,0,4-30,70.4,115.9
+401671861,2024-09-08,2024,Indianapolis Colts,home,Houston Texans,4429084,Anthony Richardson Sr.,QB,9/19,212,11.2,2,1,2-13,91.0,101.2
+401671709,2024-09-15,2024,New Orleans Saints,away,Dallas Cowboys,16757,Derek Carr,QB,11/16,243,15.2,2,1,1-1,99.1,125.0
+401671709,2024-09-15,2024,Dallas Cowboys,home,New Orleans Saints,2577417,Dak Prescott,QB,27/39,293,7.5,1,2,3-14,45.1,78.3
+401671709,2024-09-15,2024,Dallas Cowboys,home,New Orleans Saints,2972515,Cooper Rush,QB,1/3,6,2.0,0,0,0-0,0.9,42.4
+401671723,2024-09-15,2024,Indianapolis Colts,away,Green Bay Packers,4429084,Anthony Richardson Sr.,QB,17/34,204,6.0,1,3,1-6,31.5,41.8
+401671723,2024-09-15,2024,Green Bay Packers,home,Indianapolis Colts,4242512,Malik Willis,QB,12/14,122,8.7,1,0,0-0,84.5,126.8
+401671770,2024-09-08,2024,Washington Commanders,away,Tampa Bay Buccaneers,4426348,Jayden Daniels,QB,17/24,184,7.7,0,0,2-23,31.3,93.1
+401671770,2024-09-08,2024,Tampa Bay Buccaneers,home,Washington Commanders,3052587,Baker Mayfield,QB,24/30,289,9.6,4,0,1-9,86.1,146.4
+401671636,2024-09-15,2024,New York Jets,away,Tennessee Titans,8439,Aaron Rodgers,QB,18/30,176,5.9,2,0,2-12,39.1,98.7
+401671636,2024-09-15,2024,Tennessee Titans,home,New York Jets,4361418,Will Levis,QB,19/28,192,6.9,1,1,4-22,32.4,84.2
+401671734,2024-09-08,2024,Carolina Panthers,away,New Orleans Saints,4685720,Bryce Young,QB,13/30,161,5.4,0,2,4-26,9.2,32.8
+401671734,2024-09-08,2024,Carolina Panthers,away,New Orleans Saints,14012,Andy Dalton,QB,0/1,0,0.0,0,0,0-0,1.3,39.6
+401671734,2024-09-08,2024,New Orleans Saints,home,Carolina Panthers,16757,Derek Carr,QB,19/23,200,8.7,3,0,1-1,76.6,142.5
+401671734,2024-09-08,2024,New Orleans Saints,home,Carolina Panthers,4243322,Jake Haener,QB,0/1,0,0.0,0,0,0-0,6.0,39.6
+401671721,2024-09-15,2024,Tampa Bay Buccaneers,away,Detroit Lions,3052587,Baker Mayfield,QB,12/19,185,9.7,1,1,5-39,54.4,90.9
+401671721,2024-09-15,2024,Detroit Lions,home,Tampa Bay Buccaneers,3046779,Jared Goff,QB,34/55,307,5.6,0,2,0-0,22.4,61.7
+401671721,2024-09-15,2024,Detroit Lions,home,Tampa Bay Buccaneers,3916370,Jack Fox,P,1/1,17,17.0,0,0,0-0,--,118.8
+401671807,2024-09-13,2024,Buffalo Bills,away,Miami Dolphins,3918298,Josh Allen,QB,13/19,139,7.3,1,0,0-0,85.2,107.1
+401671807,2024-09-13,2024,Miami Dolphins,home,Buffalo Bills,4241479,Tua Tagovailoa,QB,17/25,145,5.8,1,3,1-6,16.2,56.7
+401671807,2024-09-13,2024,Miami Dolphins,home,Buffalo Bills,4036419,Skylar Thompson,QB,8/14,80,5.7,0,0,1-7,0.6,73.5
+401671696,2024-09-10,2024,New York Jets,away,San Francisco 49ers,8439,Aaron Rodgers,QB,13/21,167,8.0,1,1,1-5,46.3,82.8
+401671696,2024-09-10,2024,New York Jets,away,San Francisco 49ers,14163,Tyrod Taylor,QB,6/8,36,4.5,1,0,0-0,95.1,122.9
+401671696,2024-09-10,2024,San Francisco 49ers,home,New York Jets,4361741,Brock Purdy,QB,19/29,231,8.0,0,0,2-6,78.5,89.9
+401671696,2024-09-10,2024,San Francisco 49ers,home,New York Jets,3126486,Deebo Samuel,WR,0/0,0,0.0,0,0,1-4,0.0,0.0
+401671849,2024-09-08,2024,Jacksonville Jaguars,away,Miami Dolphins,4360310,Trevor Lawrence,QB,12/21,162,7.7,1,0,3-23,68.5,97.7
+401671849,2024-09-08,2024,Miami Dolphins,home,Jacksonville Jaguars,4241479,Tua Tagovailoa,QB,23/37,338,9.1,1,0,3-19,38.4,101.0
+401671712,2024-09-08,2024,Minnesota Vikings,away,New York Giants,3912547,Sam Darnold,QB,19/24,208,8.7,2,1,1-7,73.6,113.2
+401671712,2024-09-08,2024,New York Giants,home,Minnesota Vikings,3917792,Daniel Jones,QB,22/42,186,4.4,0,2,5-20,20.9,44.3
+401671664,2024-09-08,2024,Denver Broncos,away,Seattle Seahawks,4426338,Bo Nix,QB,26/42,138,3.3,0,2,2-6,34.2,47.5
+401671664,2024-09-08,2024,Seattle Seahawks,home,Denver Broncos,15864,Geno Smith,QB,18/25,171,6.8,1,1,2-13,71.3,87.2
+401671792,2024-09-09,2024,Los Angeles Rams,away,Detroit Lions,12483,Matthew Stafford,QB,34/49,317,6.5,1,1,2-13,62.6,85.2
+401671792,2024-09-09,2024,Detroit Lions,home,Los Angeles Rams,3046779,Jared Goff,QB,18/28,217,7.8,1,1,2-17,36.4,85.0
+401671659,2024-09-08,2024,Las Vegas Raiders,away,Los Angeles Chargers,4038524,Gardner Minshew,QB,25/33,257,7.8,1,1,4-32,31.9,95.1
+401671659,2024-09-08,2024,Los Angeles Chargers,home,Las Vegas Raiders,4038941,Justin Herbert,QB,17/26,144,5.5,1,0,1-4,24.1,92.5
+401671624,2024-09-15,2024,Las Vegas Raiders,away,Baltimore Ravens,4038524,Gardner Minshew,QB,30/38,276,7.3,1,1,5-43,52.3,94.7
+401671624,2024-09-15,2024,Baltimore Ravens,home,Las Vegas Raiders,3916387,Lamar Jackson,QB,21/34,247,7.3,1,1,2-15,39.7,81.4
+401671702,2024-09-15,2024,Seattle Seahawks,away,New England Patriots,15864,Geno Smith,QB,33/44,327,7.4,1,0,3-15,67.2,103.1
+401671702,2024-09-15,2024,New England Patriots,home,Seattle Seahawks,2578570,Jacoby Brissett,QB,15/27,149,5.5,1,0,3-24,35.8,83.7
+401671652,2024-09-15,2024,Los Angeles Chargers,away,Carolina Panthers,4038941,Justin Herbert,QB,14/20,130,6.5,2,1,1-0,82.9,100.0
+401671652,2024-09-15,2024,Carolina Panthers,home,Los Angeles Chargers,4685720,Bryce Young,QB,18/26,84,3.2,0,1,2-15,5.6,57.2
+401671628,2024-09-08,2024,New England Patriots,away,Cincinnati Bengals,2578570,Jacoby Brissett,QB,15/24,121,5.0,0,0,1-1,78.2,75.2
+401671628,2024-09-08,2024,Cincinnati Bengals,home,New England Patriots,3915511,Joe Burrow,QB,21/29,164,5.7,0,0,3-10,40.9,86.0
+401671805,2024-09-07,2024,Green Bay Packers,away,Philadelphia Eagles,4036378,Jordan Love,QB,17/34,260,7.6,2,1,1-5,25.1,83.0
+401671805,2024-09-07,2024,Green Bay Packers,away,Philadelphia Eagles,4242512,Malik Willis,QB,0/1,0,0.0,0,0,1-4,23.4,39.6
+401671805,2024-09-07,2024,Philadelphia Eagles,home,Green Bay Packers,4040715,Jalen Hurts,QB,20/34,278,8.2,2,2,2-12,44.7,80.3
+401671823,2024-09-22,2024,Green Bay Packers,away,Tennessee Titans,4242512,Malik Willis,QB,13/19,202,10.6,1,0,3-12,92.6,120.9
+401671823,2024-09-22,2024,Tennessee Titans,home,Green Bay Packers,4361418,Will Levis,QB,26/34,260,7.6,2,2,8-56,12.1,92.8
+401671645,2024-09-15,2024,San Francisco 49ers,away,Minnesota Vikings,4361741,Brock Purdy,QB,28/36,319,8.9,1,1,6-25,44.4,101.3
+401671645,2024-09-15,2024,Minnesota Vikings,home,San Francisco 49ers,3912547,Sam Darnold,QB,17/26,268,10.3,2,1,3-10,59.8,109.1
+401671645,2024-09-15,2024,Minnesota Vikings,home,San Francisco 49ers,4242431,Ty Chandler,RB,0/0,0,0.0,0,0,1-1,1.1,0.0
+401671716,2024-09-15,2024,New York Giants,away,Washington Commanders,3917792,Daniel Jones,QB,16/28,178,6.4,2,0,1-3,70.5,100.0
+401671716,2024-09-15,2024,Washington Commanders,home,New York Giants,4426348,Jayden Daniels,QB,23/29,226,7.8,0,0,5-16,37.8,99.1
+401671789,2024-09-06,2024,Baltimore Ravens,away,Kansas City Chiefs,3916387,Lamar Jackson,QB,26/41,273,6.7,1,0,1-6,59.3,90.8
+401671789,2024-09-06,2024,Kansas City Chiefs,home,Baltimore Ravens,3139477,Patrick Mahomes,QB,20/28,291,10.4,1,1,2-10,65.9,101.9
+401671761,2024-09-08,2024,Dallas Cowboys,away,Cleveland Browns,2577417,Dak Prescott,QB,19/32,179,5.6,1,0,3-16,20.7,85.3
+401671761,2024-09-08,2024,Cleveland Browns,home,Dallas Cowboys,3122840,Deshaun Watson,QB,24/45,169,3.8,1,2,6-32,7.1,51.1
+401671719,2024-09-08,2024,Tennessee Titans,away,Chicago Bears,4361418,Will Levis,QB,19/32,127,4.0,1,2,3-23,31.0,52.5
+401671719,2024-09-08,2024,Chicago Bears,home,Tennessee Titans,4431611,Caleb Williams,QB,14/29,93,3.2,0,0,2-29,22.5,55.7
+401671808,2024-09-20,2024,New England Patriots,away,New York Jets,2578570,Jacoby Brissett,QB,12/18,98,5.4,0,0,5-46,18.7,80.3
+401671808,2024-09-20,2024,New England Patriots,away,New York Jets,4431452,Drake Maye,QB,4/8,22,2.8,0,0,2-13,10.8,56.2
+401671808,2024-09-20,2024,New York Jets,home,New England Patriots,8439,Aaron Rodgers,QB,27/35,281,8.0,2,0,2-14,79.2,118.9
+401671668,2024-09-15,2024,Pittsburgh Steelers,away,Denver Broncos,4362887,Justin Fields,QB,13/20,117,5.9,1,0,2-7,51.8,97.3
+401671668,2024-09-15,2024,Denver Broncos,home,Pittsburgh Steelers,4426338,Bo Nix,QB,20/35,246,7.0,0,2,2-15,27.1,55.2
+401671744,2024-09-08,2024,Pittsburgh Steelers,away,Atlanta Falcons,4362887,Justin Fields,QB,17/23,156,6.8,0,0,2-23,31.1,91.9
+401671744,2024-09-08,2024,Atlanta Falcons,home,Pittsburgh Steelers,14880,Kirk Cousins,QB,16/26,155,6.0,1,2,2-18,30.4,59.0
+401671670,2024-09-15,2024,Cincinnati Bengals,away,Kansas City Chiefs,3915511,Joe Burrow,QB,23/36,258,7.2,2,0,3-12,67.9,103.7
+401671670,2024-09-15,2024,Kansas City Chiefs,home,Cincinnati Bengals,3139477,Patrick Mahomes,QB,18/25,151,6.0,2,2,2-14,27.4,80.6
+401671855,2024-09-22,2024,New York Giants,away,Cleveland Browns,3917792,Daniel Jones,QB,24/34,236,6.9,2,0,2-8,65.2,109.4
+401671855,2024-09-22,2024,New York Giants,away,Cleveland Browns,4595348,Malik Nabers,WR,0/1,0,0.0,0,0,0-0,2.1,39.6
+401671855,2024-09-22,2024,Cleveland Browns,home,New York Giants,3122840,Deshaun Watson,QB,21/37,196,5.3,2,0,8-48,17.5,89.5
+401671736,2024-09-22,2024,Philadelphia Eagles,away,New Orleans Saints,4040715,Jalen Hurts,QB,29/38,311,8.2,0,1,4-23,32.8,88.8
+401671736,2024-09-22,2024,New Orleans Saints,home,Philadelphia Eagles,16757,Derek Carr,QB,14/25,142,5.7,1,1,1-12,44.1,69.1
+401671691,2024-09-17,2024,Atlanta Falcons,away,Philadelphia Eagles,14880,Kirk Cousins,QB,20/29,241,8.3,2,0,1-8,78.8,117.2
+401671691,2024-09-17,2024,Philadelphia Eagles,home,Atlanta Falcons,4040715,Jalen Hurts,QB,23/30,183,6.1,1,1,1-4,84.6,88.6
+401671865,2024-09-22,2024,Chicago Bears,away,Indianapolis Colts,4431611,Caleb Williams,QB,33/52,363,7.0,2,2,4-31,34.7,80.8
+401671865,2024-09-22,2024,Indianapolis Colts,home,Chicago Bears,4429084,Anthony Richardson Sr.,QB,10/20,167,8.4,0,2,1-11,14.3,39.0
+401671754,2024-09-15,2024,Los Angeles Rams,away,Arizona Cardinals,12483,Matthew Stafford,QB,19/27,216,8.0,0,0,5-24,27.8,94.1
+401671754,2024-09-15,2024,Arizona Cardinals,home,Los Angeles Rams,3917315,Kyler Murray,QB,17/21,266,12.7,3,0,1-8,98.0,158.3
+401671741,2024-09-22,2024,Denver Broncos,away,Tampa Bay Buccaneers,4426338,Bo Nix,QB,25/36,216,6.0,0,0,0-0,71.6,85.0
+401671741,2024-09-22,2024,Tampa Bay Buccaneers,home,Denver Broncos,3052587,Baker Mayfield,QB,25/33,163,4.9,1,1,7-31,9.2,83.3
+401671772,2024-09-22,2024,San Francisco 49ers,away,Los Angeles Rams,4361741,Brock Purdy,QB,22/30,292,9.7,3,0,1-4,89.6,137.1
+401671772,2024-09-22,2024,Los Angeles Rams,home,San Francisco 49ers,12483,Matthew Stafford,QB,16/25,221,8.8,1,0,3-23,63.6,105.6
+401671772,2024-09-22,2024,Los Angeles Rams,home,San Francisco 49ers,4360797,Tutu Atwell,WR,0/1,0,0.0,0,0,0-0,1.5,39.6
+401671763,2024-09-22,2024,Baltimore Ravens,away,Dallas Cowboys,3916387,Lamar Jackson,QB,12/15,182,12.1,1,0,0-0,96.3,139.4
+401671763,2024-09-22,2024,Dallas Cowboys,home,Baltimore Ravens,2577417,Dak Prescott,QB,28/51,379,7.4,2,0,3-18,51.1,91.9
+401671771,2024-09-22,2024,Detroit Lions,away,Arizona Cardinals,3046779,Jared Goff,QB,18/23,199,8.7,2,1,2-13,50.3,113.6
+401671771,2024-09-22,2024,Arizona Cardinals,home,Detroit Lions,3917315,Kyler Murray,QB,21/34,207,6.1,1,1,1-7,39.2,76.5
+401671786,2024-09-16,2024,Chicago Bears,away,Houston Texans,4431611,Caleb Williams,QB,23/37,174,4.7,0,2,7-40,24.4,51.0
+401671786,2024-09-16,2024,Houston Texans,home,Chicago Bears,4432577,C.J. Stroud,QB,23/36,260,7.2,1,0,3-25,55.3,94.7
+401671871,2024-09-29,2024,Los Angeles Rams,away,Chicago Bears,12483,Matthew Stafford,QB,20/29,224,7.7,0,1,3-21,48.2,77.4
+401671871,2024-09-29,2024,Chicago Bears,home,Los Angeles Rams,4431611,Caleb Williams,QB,17/23,157,6.8,1,0,3-24,45.2,106.6
+401671812,2024-09-27,2024,Dallas Cowboys,away,New York Giants,2577417,Dak Prescott,QB,22/27,221,8.2,2,0,1-8,63.9,125.5
+401671812,2024-09-27,2024,New York Giants,home,Dallas Cowboys,3917792,Daniel Jones,QB,29/40,281,7.0,0,1,1-4,57.9,81.4
+401671727,2024-09-29,2024,New Orleans Saints,away,Atlanta Falcons,16757,Derek Carr,QB,28/36,239,6.6,0,1,1-4,35.9,82.8
+401671727,2024-09-29,2024,Atlanta Falcons,home,New Orleans Saints,14880,Kirk Cousins,QB,21/35,238,6.8,0,1,1-11,18.7,68.5
+401671632,2024-09-22,2024,Los Angeles Chargers,away,Pittsburgh Steelers,4038941,Justin Herbert,QB,12/18,125,6.9,1,0,2-16,45.5,105.1
+401671632,2024-09-22,2024,Los Angeles Chargers,away,Pittsburgh Steelers,2565969,Taylor Heinicke,QB,2/2,24,12.0,0,0,3-28,4.5,116.7
+401671632,2024-09-22,2024,Pittsburgh Steelers,home,Los Angeles Chargers,4362887,Justin Fields,QB,25/32,245,7.7,1,1,2-13,52.8,96.0
+401671857,2024-09-29,2024,Jacksonville Jaguars,away,Houston Texans,4360310,Trevor Lawrence,QB,18/33,169,5.1,2,0,1-14,47.4,89.1
+401671857,2024-09-29,2024,Houston Texans,home,Jacksonville Jaguars,4432577,C.J. Stroud,QB,27/40,345,8.6,2,0,2-11,74.6,110.9
+401671646,2024-09-22,2024,Houston Texans,away,Minnesota Vikings,4432577,C.J. Stroud,QB,20/31,215,6.9,1,2,4-42,21.6,68.6
+401671646,2024-09-22,2024,Houston Texans,away,Minnesota Vikings,4242546,Davis Mills,QB,7/12,79,6.6,0,0,1-7,91.5,78.1
+401671646,2024-09-22,2024,Houston Texans,away,Minnesota Vikings,2976212,Stefon Diggs,WR,1/1,13,13.0,0,0,0-0,12.1,118.8
+401671646,2024-09-22,2024,Minnesota Vikings,home,Houston Texans,3912547,Sam Darnold,QB,17/28,181,6.5,4,0,4-25,78.8,119.2
+401671662,2024-09-22,2024,Miami Dolphins,away,Seattle Seahawks,4036419,Skylar Thompson,QB,13/19,107,5.6,0,0,5-37,5.2,82.6
+401671662,2024-09-22,2024,Miami Dolphins,away,Seattle Seahawks,3045169,Tim Boyle,QB,7/13,79,6.1,0,0,1-9,2.0,72.3
+401671662,2024-09-22,2024,Seattle Seahawks,home,Miami Dolphins,15864,Geno Smith,QB,26/34,289,8.5,1,2,3-19,42.5,86.5
+401671755,2024-09-29,2024,Washington Commanders,away,Arizona Cardinals,4426348,Jayden Daniels,QB,26/30,233,7.8,1,1,0-0,92.4,96.3
+401671755,2024-09-29,2024,Arizona Cardinals,home,Washington Commanders,3917315,Kyler Murray,QB,16/22,142,6.5,1,0,4-27,35.5,104.7
+401671635,2024-09-15,2024,Cleveland Browns,away,Jacksonville Jaguars,3122840,Deshaun Watson,QB,22/34,186,5.5,0,0,2-14,32.1,78.8
+401671635,2024-09-15,2024,Jacksonville Jaguars,home,Cleveland Browns,4360310,Trevor Lawrence,QB,14/30,220,7.3,0,0,4-24,40.1,71.5
+401671793,2024-09-23,2024,Kansas City Chiefs,away,Atlanta Falcons,3139477,Patrick Mahomes,QB,26/39,217,5.6,2,1,0-0,55.8,87.2
+401671793,2024-09-23,2024,Atlanta Falcons,home,Kansas City Chiefs,14880,Kirk Cousins,QB,20/29,230,7.9,1,1,2-1,31.4,89.7
+401671643,2024-09-29,2024,Minnesota Vikings,away,Green Bay Packers,3912547,Sam Darnold,QB,20/28,275,9.8,3,1,2-21,67.8,123.4
+401671643,2024-09-29,2024,Green Bay Packers,home,Minnesota Vikings,4036378,Jordan Love,QB,32/54,389,7.2,4,3,1-10,54.4,83.0
+401671867,2024-09-29,2024,Pittsburgh Steelers,away,Indianapolis Colts,4362887,Justin Fields,QB,22/34,312,9.2,1,0,4-30,59.8,104.0
+401671867,2024-09-29,2024,Indianapolis Colts,home,Pittsburgh Steelers,11252,Joe Flacco,QB,16/26,168,6.5,2,0,2-14,60.9,105.9
+401671867,2024-09-29,2024,Indianapolis Colts,home,Pittsburgh Steelers,4429084,Anthony Richardson Sr.,QB,3/4,71,17.8,0,0,0-0,31.1,116.7
+401671682,2024-09-23,2024,Jacksonville Jaguars,away,Buffalo Bills,4360310,Trevor Lawrence,QB,21/38,178,4.7,1,1,4-36,16.0,65.5
+401671682,2024-09-23,2024,Jacksonville Jaguars,away,Buffalo Bills,4241464,Mac Jones,QB,5/8,22,2.8,0,0,1-17,2.7,66.7
+401671682,2024-09-23,2024,Buffalo Bills,home,Jacksonville Jaguars,3918298,Josh Allen,QB,23/30,263,8.8,4,0,0-0,97.9,142.1
+401671682,2024-09-23,2024,Buffalo Bills,home,Jacksonville Jaguars,3039707,Mitchell Trubisky,QB,1/1,3,3.0,0,0,0-0,2.0,79.2
+401671622,2024-09-29,2024,Denver Broncos,away,New York Jets,4426338,Bo Nix,QB,12/25,60,2.4,1,0,0-0,27.3,67.9
+401671622,2024-09-29,2024,New York Jets,home,Denver Broncos,8439,Aaron Rodgers,QB,24/42,225,5.4,0,0,5-41,25.0,72.0
+401671674,2024-09-29,2024,Kansas City Chiefs,away,Los Angeles Chargers,3139477,Patrick Mahomes,QB,19/29,245,8.4,1,1,3-17,63.0,89.0
+401671674,2024-09-29,2024,Los Angeles Chargers,home,Kansas City Chiefs,4038941,Justin Herbert,QB,16/27,179,6.6,1,0,2-10,19.4,91.4
+401671758,2024-09-29,2024,New England Patriots,away,San Francisco 49ers,2578570,Jacoby Brissett,QB,19/32,168,5.3,1,1,6-25,23.1,70.8
+401671758,2024-09-29,2024,San Francisco 49ers,home,New England Patriots,4361741,Brock Purdy,QB,15/27,288,10.7,1,1,1-5,58.2,89.7
+401671490,2024-09-24,2024,Washington Commanders,away,Cincinnati Bengals,4426348,Jayden Daniels,QB,21/23,254,11.0,2,0,2-6,94.8,141.7
+401671490,2024-09-24,2024,Cincinnati Bengals,home,Washington Commanders,3915511,Joe Burrow,QB,29/38,324,8.5,3,0,2-12,80.3,127.5
+401671658,2024-09-22,2024,Carolina Panthers,away,Las Vegas Raiders,14012,Andy Dalton,QB,26/37,319,8.6,3,0,2-13,82.8,123.6
+401671658,2024-09-22,2024,Las Vegas Raiders,home,Carolina Panthers,4038524,Gardner Minshew,QB,18/28,214,7.6,1,1,2-8,29.6,84.5
+401671658,2024-09-22,2024,Las Vegas Raiders,home,Carolina Panthers,4260394,Aidan O'Connell,QB,9/12,82,6.8,1,0,1-12,89.5,120.8
+401671740,2024-09-29,2024,Philadelphia Eagles,away,Tampa Bay Buccaneers,4040715,Jalen Hurts,QB,18/30,158,5.3,1,0,6-44,42.9,85.1
+401671740,2024-09-29,2024,Tampa Bay Buccaneers,home,Philadelphia Eagles,3052587,Baker Mayfield,QB,30/47,347,7.4,2,0,2-13,78.1,100.2
+401671745,2024-09-29,2024,Cincinnati Bengals,away,Carolina Panthers,3915511,Joe Burrow,QB,22/31,232,7.5,2,1,0-0,86.3,100.5
+401671745,2024-09-29,2024,Carolina Panthers,home,Cincinnati Bengals,14012,Andy Dalton,QB,25/40,220,5.5,2,1,0-0,68.7,83.3
+401671745,2024-09-29,2024,Carolina Panthers,home,Cincinnati Bengals,15153,Johnny Hekker,P,0/1,0,0.0,0,0,0-0,--,39.6
+401671804,2024-10-06,2024,New York Jets,away,Minnesota Vikings,8439,Aaron Rodgers,QB,29/54,244,4.5,2,3,3-26,33.8,54.9
+401671804,2024-10-06,2024,Minnesota Vikings,home,New York Jets,3912547,Sam Darnold,QB,14/31,179,5.8,0,1,4-32,11.6,50.3
+401671804,2024-10-06,2024,Minnesota Vikings,home,New York Jets,3059989,Nick Mullens,QB,1/1,24,24.0,0,0,0-0,100.0,118.8
+401671815,2024-10-04,2024,Tampa Bay Buccaneers,away,Atlanta Falcons,3052587,Baker Mayfield,QB,19/24,180,7.5,3,0,1-7,81.8,137.5
+401671815,2024-10-04,2024,Atlanta Falcons,home,Tampa Bay Buccaneers,14880,Kirk Cousins,QB,42/58,509,8.8,4,1,4-32,74.9,114.8
+401671815,2024-10-04,2024,Atlanta Falcons,home,Tampa Bay Buccaneers,4040655,Darnell Mooney,WR,0/1,0,0.0,0,0,0-0,3.2,39.6
+401671633,2024-10-06,2024,Indianapolis Colts,away,Jacksonville Jaguars,11252,Joe Flacco,QB,33/44,359,8.2,3,0,4-35,79.2,121.3
+401671633,2024-10-06,2024,Indianapolis Colts,away,Jacksonville Jaguars,4597500,Adonai Mitchell,WR,1/1,24,24.0,0,0,0-0,70.2,118.8
+401671633,2024-10-06,2024,Jacksonville Jaguars,home,Indianapolis Colts,4360310,Trevor Lawrence,QB,28/34,371,10.9,2,1,0-0,81.1,119.5
+401671672,2024-09-29,2024,Cleveland Browns,away,Las Vegas Raiders,3122840,Deshaun Watson,QB,24/32,176,5.5,1,1,3-27,27.3,84.9
+401671672,2024-09-29,2024,Las Vegas Raiders,home,Cleveland Browns,4038524,Gardner Minshew,QB,14/24,130,5.4,0,0,2-14,30.7,73.3
+401671747,2024-10-06,2024,Las Vegas Raiders,away,Denver Broncos,4038524,Gardner Minshew,QB,12/17,137,8.1,1,2,2-9,36.6,74.5
+401671747,2024-10-06,2024,Las Vegas Raiders,away,Denver Broncos,4260394,Aidan O'Connell,QB,10/20,94,4.7,0,1,1-7,14.7,42.5
+401671747,2024-10-06,2024,Denver Broncos,home,Las Vegas Raiders,4426338,Bo Nix,QB,19/27,206,7.6,2,0,3-26,17.0,117.2
+401671491,2024-10-01,2024,Seattle Seahawks,away,Detroit Lions,15864,Geno Smith,QB,38/56,395,7.1,1,1,3-12,64.9,86.5
+401671491,2024-10-01,2024,Detroit Lions,home,Seattle Seahawks,3046779,Jared Goff,QB,18/18,292,16.2,2,0,3-26,93.4,155.8
+401671491,2024-10-01,2024,Detroit Lions,home,Seattle Seahawks,4374302,Amon-Ra St. Brown,WR,1/1,7,7.0,1,0,0-0,99.5,135.4
+401671783,2024-09-30,2024,Buffalo Bills,away,Baltimore Ravens,3918298,Josh Allen,QB,16/29,180,6.2,0,0,3-27,29.2,73.9
+401671783,2024-09-30,2024,Buffalo Bills,away,Baltimore Ravens,3039707,Mitchell Trubisky,QB,1/2,2,1.0,0,0,0-0,3.2,56.2
+401671783,2024-09-30,2024,Baltimore Ravens,home,Buffalo Bills,3916387,Lamar Jackson,QB,13/18,156,8.7,2,0,1-1,52.5,135.4
+401671783,2024-09-30,2024,Baltimore Ravens,home,Buffalo Bills,11394,Josh Johnson,QB,1/1,1,1.0,0,0,0-0,0.5,79.2
+401671683,2024-09-30,2024,Tennessee Titans,away,Miami Dolphins,3116407,Mason Rudolph,QB,9/17,85,5.0,0,0,1-8,44.3,67.0
+401671683,2024-09-30,2024,Tennessee Titans,away,Miami Dolphins,4361418,Will Levis,QB,3/4,25,6.3,0,1,0-0,0.9,51.0
+401671683,2024-09-30,2024,Miami Dolphins,home,Tennessee Titans,4035671,Tyler Huntley,QB,14/22,96,4.4,0,0,2-18,9.3,73.3
+401671859,2024-10-06,2024,Buffalo Bills,away,Houston Texans,3918298,Josh Allen,QB,9/30,131,4.4,1,0,1-5,59.7,56.4
+401671859,2024-10-06,2024,Houston Texans,home,Buffalo Bills,4432577,C.J. Stroud,QB,28/38,331,8.7,1,1,1-0,75.9,97.6
+401671687,2024-10-08,2024,New Orleans Saints,away,Kansas City Chiefs,16757,Derek Carr,QB,18/28,165,5.9,2,1,1-8,62.2,89.1
+401671687,2024-10-08,2024,New Orleans Saints,away,Kansas City Chiefs,4243322,Jake Haener,QB,2/7,17,2.4,0,0,0-0,23.1,39.6
+401671687,2024-10-08,2024,Kansas City Chiefs,home,New Orleans Saints,3139477,Patrick Mahomes,QB,28/39,331,8.5,0,1,2-10,60.4,86.6
+401671679,2024-10-06,2024,Green Bay Packers,away,Los Angeles Rams,4036378,Jordan Love,QB,15/26,224,8.6,2,1,2-22,65.5,95.7
+401671679,2024-10-06,2024,Los Angeles Rams,home,Green Bay Packers,12483,Matthew Stafford,QB,29/45,260,5.8,1,1,3-24,40.1,78.0
+401671756,2024-10-06,2024,Arizona Cardinals,away,San Francisco 49ers,3917315,Kyler Murray,QB,19/30,195,6.5,1,1,1-6,57.8,79.2
+401671756,2024-10-06,2024,San Francisco 49ers,home,Arizona Cardinals,4361741,Brock Purdy,QB,19/35,244,7.0,1,2,2-13,33.7,62.1
+401671714,2024-10-13,2024,Cleveland Browns,away,Philadelphia Eagles,3122840,Deshaun Watson,QB,16/23,168,7.3,0,0,5-24,36.0,90.5
+401671714,2024-10-13,2024,Philadelphia Eagles,home,Cleveland Browns,4040715,Jalen Hurts,QB,16/25,264,10.6,2,0,1-8,66.7,126.1
+401671680,2024-10-06,2024,New York Giants,away,Seattle Seahawks,3917792,Daniel Jones,QB,23/34,257,7.6,2,0,3-12,68.9,109.6
+401671680,2024-10-06,2024,Seattle Seahawks,home,New York Giants,15864,Geno Smith,QB,28/40,284,7.1,1,0,7-53,42.6,98.3
+401671626,2024-10-06,2024,Baltimore Ravens,away,Cincinnati Bengals,3916387,Lamar Jackson,QB,26/42,348,8.3,4,0,1-3,68.3,119.9
+401671626,2024-10-06,2024,Cincinnati Bengals,home,Baltimore Ravens,3915511,Joe Burrow,QB,30/39,392,10.1,5,1,3-21,77.9,137.0
+401671718,2024-10-06,2024,Cleveland Browns,away,Washington Commanders,3122840,Deshaun Watson,QB,15/28,125,4.5,1,0,7-33,9.4,77.2
+401671718,2024-10-06,2024,Cleveland Browns,away,Washington Commanders,2969939,Jameis Winston,QB,1/1,16,16.0,0,0,0-0,27.5,118.8
+401671718,2024-10-06,2024,Washington Commanders,home,Cleveland Browns,4426348,Jayden Daniels,QB,14/25,238,9.5,1,1,3-17,67.3,85.1
+401671718,2024-10-06,2024,Washington Commanders,home,Cleveland Browns,2576980,Marcus Mariota,QB,1/3,-2,-0.7,0,0,0-0,0.2,42.4
+401671722,2024-10-13,2024,Arizona Cardinals,away,Green Bay Packers,3917315,Kyler Murray,QB,22/32,214,6.7,1,0,0-0,47.2,97.7
+401671722,2024-10-13,2024,Green Bay Packers,home,Arizona Cardinals,4036378,Jordan Love,QB,22/32,258,8.1,4,1,0-0,84.8,119.5
+401671655,2024-10-13,2024,Los Angeles Chargers,away,Denver Broncos,4038941,Justin Herbert,QB,21/34,237,7.0,1,0,3-15,66.4,92.4
+401671655,2024-10-13,2024,Denver Broncos,home,Los Angeles Chargers,4426338,Bo Nix,QB,19/33,216,6.5,2,1,2-10,51.3,84.9
+401671625,2024-10-13,2024,Washington Commanders,away,Baltimore Ravens,4426348,Jayden Daniels,QB,24/35,269,7.7,2,0,3-16,76.3,110.3
+401671625,2024-10-13,2024,Baltimore Ravens,home,Washington Commanders,3916387,Lamar Jackson,QB,20/26,323,12.4,1,1,2-15,76.6,114.7
+401671700,2024-10-06,2024,Miami Dolphins,away,New England Patriots,4035671,Tyler Huntley,QB,18/31,194,6.3,0,1,3-15,31.7,63.1
+401671700,2024-10-06,2024,New England Patriots,home,Miami Dolphins,2578570,Jacoby Brissett,QB,18/34,160,4.7,0,0,2-12,30.2,65.8
+401671769,2024-10-13,2024,Atlanta Falcons,away,Carolina Panthers,14880,Kirk Cousins,QB,19/30,225,7.5,1,0,0-0,85.8,97.2
+401671769,2024-10-13,2024,Carolina Panthers,home,Atlanta Falcons,14012,Andy Dalton,QB,26/38,221,5.8,2,2,0-0,49.6,78.9
+401671784,2024-10-07,2024,Dallas Cowboys,away,Pittsburgh Steelers,2577417,Dak Prescott,QB,29/42,352,8.4,2,2,2-16,68.1,90.6
+401671784,2024-10-07,2024,Pittsburgh Steelers,home,Dallas Cowboys,4362887,Justin Fields,QB,15/27,131,4.9,2,0,3-16,31.7,93.3
+401671784,2024-10-07,2024,Pittsburgh Steelers,home,Dallas Cowboys,3115293,Kyle Allen,QB,1/1,19,19.0,0,0,0-0,99.3,118.8
+401671801,2024-10-20,2024,New England Patriots,away,Jacksonville Jaguars,4431452,Drake Maye,QB,26/37,276,7.5,2,0,2-19,45.2,109.7
+401671801,2024-10-20,2024,Jacksonville Jaguars,home,New England Patriots,4360310,Trevor Lawrence,QB,15/20,193,9.7,1,0,0-0,95.1,121.5
+401671616,2024-10-20,2024,Tennessee Titans,away,Buffalo Bills,3116407,Mason Rudolph,QB,25/40,215,5.4,1,1,3-15,39.6,74.5
+401671616,2024-10-20,2024,Buffalo Bills,home,Tennessee Titans,3918298,Josh Allen,QB,21/33,323,9.8,2,0,1-8,63.2,116.1
+401671819,2024-10-11,2024,San Francisco 49ers,away,Seattle Seahawks,4361741,Brock Purdy,QB,18/28,255,9.1,3,0,0-0,90.4,129.3
+401671819,2024-10-11,2024,Seattle Seahawks,home,San Francisco 49ers,15864,Geno Smith,QB,30/52,312,6.0,1,2,1-6,47.1,65.5
+401671802,2024-10-13,2024,Jacksonville Jaguars,away,Chicago Bears,4360310,Trevor Lawrence,QB,23/35,234,6.7,2,1,3-20,57.8,91.8
+401671802,2024-10-13,2024,Jacksonville Jaguars,away,Chicago Bears,4241464,Mac Jones,QB,1/1,6,6.0,0,0,1-10,5.7,91.7
+401671802,2024-10-13,2024,Chicago Bears,home,Jacksonville Jaguars,4431611,Caleb Williams,QB,23/29,226,7.8,4,1,3-5,90.8,124.4
+401671684,2024-10-15,2024,Buffalo Bills,away,New York Jets,3918298,Josh Allen,QB,19/25,215,8.6,2,0,2-5,79.6,127.9
+401671684,2024-10-15,2024,New York Jets,home,Buffalo Bills,8439,Aaron Rodgers,QB,23/35,294,8.4,2,1,3-22,54.1,99.0
+401671619,2024-10-13,2024,Houston Texans,away,New England Patriots,4432577,C.J. Stroud,QB,20/31,192,6.2,3,1,2-16,71.9,100.5
+401671619,2024-10-13,2024,Houston Texans,away,New England Patriots,4242546,Davis Mills,QB,0/1,0,0.0,0,0,0-0,1.3,39.6
+401671619,2024-10-13,2024,New England Patriots,home,Houston Texans,4431452,Drake Maye,QB,20/33,243,7.4,3,2,4-34,31.9,88.3
+401671864,2024-10-20,2024,Miami Dolphins,away,Indianapolis Colts,4035671,Tyler Huntley,QB,7/13,87,6.7,1,0,2-12,25.1,100.5
+401671864,2024-10-20,2024,Miami Dolphins,away,Indianapolis Colts,3045169,Tim Boyle,QB,8/13,74,5.7,0,0,0-0,70.7,77.1
+401671864,2024-10-20,2024,Indianapolis Colts,home,Miami Dolphins,4429084,Anthony Richardson Sr.,QB,10/24,129,5.4,0,0,0-0,20.3,59.2
+401671817,2024-10-25,2024,Minnesota Vikings,away,Los Angeles Rams,3912547,Sam Darnold,QB,18/25,240,9.6,2,0,3-28,77.7,128.8
+401671817,2024-10-25,2024,Los Angeles Rams,home,Minnesota Vikings,12483,Matthew Stafford,QB,25/34,279,8.2,4,1,0-0,86.1,124.5
+401671663,2024-10-20,2024,Las Vegas Raiders,away,Los Angeles Rams,4038524,Gardner Minshew,QB,15/34,154,4.5,0,3,2-11,12.4,21.0
+401671663,2024-10-20,2024,Las Vegas Raiders,away,Los Angeles Rams,4260394,Aidan O'Connell,QB,6/10,52,5.2,0,0,0-0,42.3,73.8
+401671663,2024-10-20,2024,Los Angeles Rams,home,Las Vegas Raiders,12483,Matthew Stafford,QB,14/23,154,6.7,0,1,1-10,30.6,62.6
+401671657,2024-10-13,2024,Pittsburgh Steelers,away,Las Vegas Raiders,4362887,Justin Fields,QB,14/24,145,6.0,0,0,3-35,63.4,75.9
+401671657,2024-10-13,2024,Las Vegas Raiders,home,Pittsburgh Steelers,4260394,Aidan O'Connell,QB,27/40,227,5.7,1,1,1-9,43.8,79.9
+401671735,2024-10-13,2024,Tampa Bay Buccaneers,away,New Orleans Saints,3052587,Baker Mayfield,QB,24/36,325,9.0,4,3,1-8,40.2,97.6
+401671735,2024-10-13,2024,New Orleans Saints,home,Tampa Bay Buccaneers,4426339,Spencer Rattler,QB,22/40,243,6.1,1,2,5-21,20.1,60.7
+401671695,2024-10-22,2024,Baltimore Ravens,away,Tampa Bay Buccaneers,3916387,Lamar Jackson,QB,17/22,281,12.8,5,0,2-17,89.2,158.1
+401671695,2024-10-22,2024,Tampa Bay Buccaneers,home,Baltimore Ravens,3052587,Baker Mayfield,QB,31/45,370,8.2,3,2,3-14,21.6,97.5
+401671724,2024-10-20,2024,Detroit Lions,away,Minnesota Vikings,3046779,Jared Goff,QB,22/25,280,11.2,2,0,4-33,84.4,140.0
+401671724,2024-10-20,2024,Minnesota Vikings,home,Detroit Lions,3912547,Sam Darnold,QB,22/27,259,9.6,1,1,4-15,42.9,103.5
+401671791,2024-10-14,2024,Cincinnati Bengals,away,New York Giants,3915511,Joe Burrow,QB,19/28,208,7.4,0,0,4-25,83.8,89.6
+401671791,2024-10-14,2024,New York Giants,home,Cincinnati Bengals,3917792,Daniel Jones,QB,22/41,205,5.0,0,1,2-15,20.0,57.5
+401671730,2024-10-20,2024,Seattle Seahawks,away,Atlanta Falcons,15864,Geno Smith,QB,18/28,207,7.4,2,0,1-6,60.3,110.3
+401671730,2024-10-20,2024,Seattle Seahawks,away,Atlanta Falcons,4430878,Jaxon Smith-Njigba,WR,1/1,35,35.0,0,0,0-0,100.0,118.8
+401671730,2024-10-20,2024,Atlanta Falcons,home,Seattle Seahawks,14880,Kirk Cousins,QB,24/35,232,6.6,1,2,3-32,41.0,72.6
+401671730,2024-10-20,2024,Atlanta Falcons,home,Seattle Seahawks,4360423,Michael Penix Jr.,QB,1/1,14,14.0,0,0,0-0,95.5,118.8
+401671699,2024-10-22,2024,Los Angeles Chargers,away,Arizona Cardinals,4038941,Justin Herbert,QB,27/39,349,8.9,0,0,3-13,64.8,97.1
+401671699,2024-10-22,2024,Arizona Cardinals,home,Los Angeles Chargers,3917315,Kyler Murray,QB,14/26,145,5.6,1,1,0-0,76.5,67.0
+401671739,2024-10-27,2024,Atlanta Falcons,away,Tampa Bay Buccaneers,14880,Kirk Cousins,QB,23/29,276,9.5,4,0,2-11,69.2,145.9
+401671739,2024-10-27,2024,Tampa Bay Buccaneers,home,Atlanta Falcons,3052587,Baker Mayfield,QB,37/50,330,6.6,3,2,0-0,50.8,94.6
+401671816,2024-10-18,2024,Denver Broncos,away,New Orleans Saints,4426338,Bo Nix,QB,16/26,164,6.3,0,0,0-0,77.2,79.6
+401671816,2024-10-18,2024,New Orleans Saints,home,Denver Broncos,4426339,Spencer Rattler,QB,25/35,172,4.9,0,0,6-36,44.4,82.1
+401671816,2024-10-18,2024,New Orleans Saints,home,Denver Broncos,4243322,Jake Haener,QB,3/4,38,9.5,1,0,0-0,99.7,143.8
+401671853,2024-10-20,2024,Cincinnati Bengals,away,Cleveland Browns,3915511,Joe Burrow,QB,15/25,181,7.2,2,0,3-17,29.4,108.9
+401671853,2024-10-20,2024,Cleveland Browns,home,Cincinnati Bengals,3122840,Deshaun Watson,QB,15/17,128,7.5,0,0,2-13,40.7,98.0
+401671853,2024-10-20,2024,Cleveland Browns,home,Cincinnati Bengals,4367178,Dorian Thompson-Robinson,QB,11/24,82,3.4,0,2,1-3,15.2,19.8
+401671853,2024-10-20,2024,Cleveland Browns,home,Cincinnati Bengals,2969939,Jameis Winston,QB,5/11,67,6.1,1,0,1-2,74.6,95.6
+401671618,2024-10-27,2024,New York Jets,away,New England Patriots,8439,Aaron Rodgers,QB,17/28,233,8.3,2,0,1-9,52.0,111.2
+401671618,2024-10-27,2024,New England Patriots,home,New York Jets,2578570,Jacoby Brissett,QB,15/24,132,5.5,0,0,1-11,71.3,77.1
+401671618,2024-10-27,2024,New England Patriots,home,New York Jets,4431452,Drake Maye,QB,3/6,23,3.8,0,0,1-8,93.7,59.7
+401671644,2024-10-20,2024,Houston Texans,away,Green Bay Packers,4432577,C.J. Stroud,QB,10/21,86,4.1,0,0,4-31,15.3,58.8
+401671644,2024-10-20,2024,Green Bay Packers,home,Houston Texans,4036378,Jordan Love,QB,24/33,220,6.7,3,2,3-25,62.7,95.5
+401671671,2024-10-27,2024,Kansas City Chiefs,away,Las Vegas Raiders,3139477,Patrick Mahomes,QB,27/38,262,6.9,2,1,1-10,83.4,96.6
+401671671,2024-10-27,2024,Las Vegas Raiders,home,Kansas City Chiefs,4038524,Gardner Minshew,QB,24/30,209,7.0,2,0,5-14,62.9,117.9
+401671777,2024-10-20,2024,Kansas City Chiefs,away,San Francisco 49ers,3139477,Patrick Mahomes,QB,16/27,154,5.7,0,2,2-9,78.7,44.4
+401671777,2024-10-20,2024,San Francisco 49ers,home,Kansas City Chiefs,4361741,Brock Purdy,QB,17/31,212,6.8,0,3,1-3,9.9,36.7
+401671785,2024-10-21,2024,New York Jets,away,Pittsburgh Steelers,8439,Aaron Rodgers,QB,24/39,276,7.1,1,2,1-7,46.8,70.0
+401671785,2024-10-21,2024,Pittsburgh Steelers,home,New York Jets,14881,Russell Wilson,QB,16/29,264,9.1,2,0,1-4,58.2,109.0
+401671599,2024-10-27,2024,Chicago Bears,away,Washington Commanders,4431611,Caleb Williams,QB,10/24,131,5.5,0,0,3-26,37.2,59.5
+401671599,2024-10-27,2024,Washington Commanders,home,Chicago Bears,4426348,Jayden Daniels,QB,21/38,326,8.6,1,0,2-13,63.9,92.7
+401671852,2024-10-27,2024,Baltimore Ravens,away,Cleveland Browns,3916387,Lamar Jackson,QB,23/38,289,7.6,2,0,3-26,75.4,101.8
+401671852,2024-10-27,2024,Cleveland Browns,home,Baltimore Ravens,2969939,Jameis Winston,QB,27/41,334,8.1,3,0,2-13,86.5,115.3
+401671667,2024-10-27,2024,Philadelphia Eagles,away,Cincinnati Bengals,4040715,Jalen Hurts,QB,16/20,236,11.8,1,0,0-0,96.1,132.5
+401671667,2024-10-27,2024,Cincinnati Bengals,home,Philadelphia Eagles,3915511,Joe Burrow,QB,26/37,234,6.3,1,1,1-12,90.0,84.7
+401671640,2024-10-20,2024,Carolina Panthers,away,Washington Commanders,14012,Andy Dalton,QB,11/16,93,5.8,0,2,2-4,3.7,44.0
+401671640,2024-10-20,2024,Carolina Panthers,away,Washington Commanders,4685720,Bryce Young,QB,2/2,-4,-2.0,0,0,0-0,75.9,79.2
+401671640,2024-10-20,2024,Washington Commanders,home,Carolina Panthers,2576980,Marcus Mariota,QB,18/23,205,8.9,2,0,1-4,63.8,132.8
+401671640,2024-10-20,2024,Washington Commanders,home,Carolina Panthers,4426348,Jayden Daniels,QB,2/2,6,3.0,0,0,0-0,72.3,79.2
+401671600,2024-10-27,2024,Carolina Panthers,away,Denver Broncos,4685720,Bryce Young,QB,24/37,224,6.1,2,2,2-9,26.8,76.9
+401671600,2024-10-27,2024,Carolina Panthers,away,Denver Broncos,15153,Johnny Hekker,P,0/1,0,0.0,0,0,0-0,--,39.6
+401671600,2024-10-27,2024,Denver Broncos,home,Carolina Panthers,4426338,Bo Nix,QB,28/37,284,7.7,3,0,2-17,78.3,124.2
+401671600,2024-10-27,2024,Denver Broncos,home,Carolina Panthers,3128429,Courtland Sutton,WR,1/1,28,28.0,0,0,0-0,100.0,118.8
+401671600,2024-10-27,2024,Denver Broncos,home,Carolina Panthers,2577619,Riley Dixon,P,1/1,3,3.0,0,0,0-0,--,79.2
+401671707,2024-10-27,2024,Green Bay Packers,away,Jacksonville Jaguars,4036378,Jordan Love,QB,14/22,196,8.9,0,1,0-0,42.4,73.3
+401671707,2024-10-27,2024,Green Bay Packers,away,Jacksonville Jaguars,4242512,Malik Willis,QB,4/5,56,11.2,1,0,1-0,71.8,152.9
+401671707,2024-10-27,2024,Jacksonville Jaguars,home,Green Bay Packers,4360310,Trevor Lawrence,QB,21/32,308,9.6,2,1,1-9,72.1,104.7
+401671856,2024-10-27,2024,Indianapolis Colts,away,Houston Texans,4429084,Anthony Richardson Sr.,QB,10/32,175,5.5,1,1,5-35,29.3,48.3
+401671856,2024-10-27,2024,Houston Texans,home,Indianapolis Colts,4432577,C.J. Stroud,QB,25/37,285,7.7,1,0,2-18,59.9,99.5
+401671764,2024-10-13,2024,Detroit Lions,away,Dallas Cowboys,3046779,Jared Goff,QB,18/25,315,12.6,3,0,2-17,66.9,153.8
+401671764,2024-10-13,2024,Detroit Lions,away,Dallas Cowboys,4240858,Hendon Hooker,QB,1/2,19,9.5,0,0,1-9,0.2,83.3
+401671764,2024-10-13,2024,Dallas Cowboys,home,Detroit Lions,2577417,Dak Prescott,QB,17/33,178,5.4,0,2,4-26,10.2,42.2
+401671764,2024-10-13,2024,Dallas Cowboys,home,Detroit Lions,2972515,Cooper Rush,QB,8/11,46,4.2,0,1,0-0,10.1,42.2
+401671760,2024-10-27,2024,Buffalo Bills,away,Seattle Seahawks,3918298,Josh Allen,QB,24/34,283,8.3,2,1,1-2,44.2,102.9
+401671760,2024-10-27,2024,Seattle Seahawks,home,Buffalo Bills,15864,Geno Smith,QB,21/29,212,7.3,0,1,1-11,8.0,78.5
+401671710,2024-10-20,2024,Philadelphia Eagles,away,New York Giants,4040715,Jalen Hurts,QB,10/14,114,8.1,1,0,4-36,61.4,119.3
+401671710,2024-10-20,2024,Philadelphia Eagles,away,New York Giants,4240703,Kenny Pickett,QB,0/1,0,0.0,0,0,1-8,0.9,39.6
+401671710,2024-10-20,2024,New York Giants,home,Philadelphia Eagles,3917792,Daniel Jones,QB,14/21,99,4.7,0,0,7-56,15.5,77.3
+401671710,2024-10-20,2024,New York Giants,home,Philadelphia Eagles,3924327,Drew Lock,QB,3/8,6,0.8,0,0,1-6,7.1,45.8
+401671623,2024-11-03,2024,Denver Broncos,away,Baltimore Ravens,4426338,Bo Nix,QB,19/33,223,6.8,0,1,4-28,57.3,65.6
+401671623,2024-11-03,2024,Denver Broncos,away,Baltimore Ravens,3128429,Courtland Sutton,WR,1/1,2,2.0,1,0,0-0,100.0,118.8
+401671623,2024-11-03,2024,Baltimore Ravens,home,Denver Broncos,3916387,Lamar Jackson,QB,16/19,280,14.7,3,0,1-11,95.7,158.3
+401671850,2024-10-27,2024,Arizona Cardinals,away,Miami Dolphins,3917315,Kyler Murray,QB,26/36,307,8.5,2,0,0-0,89.5,116.3
+401671850,2024-10-27,2024,Miami Dolphins,home,Arizona Cardinals,4241479,Tua Tagovailoa,QB,28/38,234,6.2,1,0,1-7,54.4,97.9
+401671795,2024-10-28,2024,Dallas Cowboys,away,San Francisco 49ers,2577417,Dak Prescott,QB,25/38,243,6.4,2,2,2-7,33.6,79.2
+401671795,2024-10-28,2024,San Francisco 49ers,home,Dallas Cowboys,4361741,Brock Purdy,QB,18/26,260,10.0,1,0,2-14,73.3,114.3
+401671685,2024-10-29,2024,New York Giants,away,Pittsburgh Steelers,3917792,Daniel Jones,QB,24/38,264,6.9,0,1,4-27,32.5,72.7
+401671685,2024-10-29,2024,Pittsburgh Steelers,home,New York Giants,14881,Russell Wilson,QB,20/28,278,9.9,1,0,4-19,36.4,114.9
+401671750,2024-10-27,2024,New Orleans Saints,away,Los Angeles Chargers,4426339,Spencer Rattler,QB,12/24,156,6.5,0,0,3-16,25.0,70.8
+401671750,2024-10-27,2024,New Orleans Saints,away,Los Angeles Chargers,4243322,Jake Haener,QB,9/17,122,7.2,0,0,2-16,37.1,76.1
+401671750,2024-10-27,2024,New Orleans Saints,away,Los Angeles Chargers,2468609,Taysom Hill,QB,1/1,3,3.0,0,0,0-0,56.0,79.2
+401671750,2024-10-27,2024,Los Angeles Chargers,home,New Orleans Saints,4038941,Justin Herbert,QB,20/32,279,8.7,2,0,3-23,60.3,111.3
+401671493,2024-11-03,2024,Miami Dolphins,away,Buffalo Bills,4241479,Tua Tagovailoa,QB,25/28,231,8.3,2,0,1-7,87.4,124.9
+401671493,2024-11-03,2024,Buffalo Bills,home,Miami Dolphins,3918298,Josh Allen,QB,25/39,235,6.0,3,1,1-4,71.3,95.6
+401671728,2024-11-03,2024,Dallas Cowboys,away,Atlanta Falcons,2577417,Dak Prescott,QB,18/24,133,5.5,1,0,3-7,39.0,101.6
+401671728,2024-11-03,2024,Dallas Cowboys,away,Atlanta Falcons,2972515,Cooper Rush,QB,13/25,115,4.6,1,0,0-0,44.1,77.9
+401671728,2024-11-03,2024,Dallas Cowboys,away,Atlanta Falcons,14950,Bryan Anger,P,0/1,0,0.0,0,0,0-0,--,39.6
+401671728,2024-11-03,2024,Atlanta Falcons,home,Dallas Cowboys,14880,Kirk Cousins,QB,19/24,222,9.3,3,0,2-12,56.3,144.8
+401671647,2024-11-04,2024,Indianapolis Colts,away,Minnesota Vikings,11252,Joe Flacco,QB,16/27,179,6.6,0,1,3-20,12.3,63.7
+401671647,2024-11-04,2024,Minnesota Vikings,home,Indianapolis Colts,3912547,Sam Darnold,QB,28/34,290,8.5,3,2,4-30,52.2,107.1
+401671647,2024-11-04,2024,Minnesota Vikings,home,Indianapolis Colts,4262921,Justin Jefferson,WR,1/1,22,22.0,0,0,0-0,28.4,118.8
+401671688,2024-11-05,2024,Tampa Bay Buccaneers,away,Kansas City Chiefs,3052587,Baker Mayfield,QB,23/31,200,6.5,2,0,2-11,56.9,112.3
+401671688,2024-11-05,2024,Kansas City Chiefs,home,Tampa Bay Buccaneers,3139477,Patrick Mahomes,QB,34/44,291,6.6,3,0,4-31,75.0,116.8
+401671629,2024-11-03,2024,Los Angeles Chargers,away,Cleveland Browns,4038941,Justin Herbert,QB,18/27,282,10.4,2,0,6-36,52.5,125.8
+401671629,2024-11-03,2024,Cleveland Browns,home,Los Angeles Chargers,2969939,Jameis Winston,QB,26/46,235,5.1,1,3,6-22,20.2,50.5
+401671711,2024-11-03,2024,Washington Commanders,away,New York Giants,4426348,Jayden Daniels,QB,15/22,209,9.5,2,0,0-0,95.1,128.8
+401671711,2024-11-03,2024,New York Giants,home,Washington Commanders,3917792,Daniel Jones,QB,20/26,174,6.7,2,0,2-12,76.1,119.7
+401671822,2024-11-03,2024,New England Patriots,away,Tennessee Titans,4431452,Drake Maye,QB,29/41,206,5.0,1,2,4-21,55.5,69.8
+401671822,2024-11-03,2024,Tennessee Titans,home,New England Patriots,3116407,Mason Rudolph,QB,20/33,240,7.3,2,1,1-7,57.7,90.5
+401671742,2024-11-10,2024,San Francisco 49ers,away,Tampa Bay Buccaneers,4361741,Brock Purdy,QB,25/36,353,9.8,2,0,3-15,78.5,119.3
+401671742,2024-11-10,2024,Tampa Bay Buccaneers,home,San Francisco 49ers,3052587,Baker Mayfield,QB,18/29,116,4.0,1,0,2-11,34.7,82.0
+401671767,2024-11-03,2024,Detroit Lions,away,Green Bay Packers,3046779,Jared Goff,QB,18/22,145,6.6,1,0,1-8,85.4,109.3
+401671767,2024-11-03,2024,Green Bay Packers,home,Detroit Lions,4036378,Jordan Love,QB,23/39,273,7.0,0,1,0-0,25.7,69.7
+401671776,2024-11-03,2024,Los Angeles Rams,away,Seattle Seahawks,12483,Matthew Stafford,QB,25/44,298,6.8,2,1,0-0,62.5,83.3
+401671776,2024-11-03,2024,Seattle Seahawks,home,Los Angeles Rams,15864,Geno Smith,QB,21/34,363,10.7,3,3,7-46,17.8,90.7
+401671678,2024-11-10,2024,New York Jets,away,Arizona Cardinals,8439,Aaron Rodgers,QB,22/35,151,4.3,0,0,3-23,24.3,72.4
+401671678,2024-11-10,2024,Arizona Cardinals,home,New York Jets,3917315,Kyler Murray,QB,22/24,266,11.1,1,0,1-7,94.9,126.7
+401671720,2024-10-27,2024,Tennessee Titans,away,Detroit Lions,3116407,Mason Rudolph,QB,22/38,266,7.0,1,2,1-8,62.0,66.3
+401671720,2024-10-27,2024,Detroit Lions,home,Tennessee Titans,3046779,Jared Goff,QB,12/15,85,5.7,3,0,4-33,14.0,129.9
+401671720,2024-10-27,2024,Detroit Lions,home,Tennessee Titans,4240858,Hendon Hooker,QB,2/3,6,2.0,0,0,0-0,65.0,70.1
+401671720,2024-10-27,2024,Detroit Lions,home,Tennessee Titans,4035538,David Montgomery,RB,1/1,3,3.0,1,0,0-0,100.0,118.8
+401671797,2024-11-03,2024,Jacksonville Jaguars,away,Philadelphia Eagles,4360310,Trevor Lawrence,QB,16/31,169,5.5,0,2,2-14,32.1,40.9
+401671797,2024-11-03,2024,Philadelphia Eagles,home,Jacksonville Jaguars,4040715,Jalen Hurts,QB,18/24,230,9.6,2,0,3-20,42.9,132.3
+401671641,2024-11-10,2024,Pittsburgh Steelers,away,Washington Commanders,14881,Russell Wilson,QB,14/28,195,7.0,3,1,3-23,75.6,93.6
+401671641,2024-11-10,2024,Pittsburgh Steelers,away,Washington Commanders,2575164,Miles Killebrew,S,0/1,0,0.0,0,0,0-0,--,39.6
+401671641,2024-11-10,2024,Washington Commanders,home,Pittsburgh Steelers,4426348,Jayden Daniels,QB,17/34,202,5.9,0,0,3-20,28.9,68.5
+401671809,2024-11-01,2024,Houston Texans,away,New York Jets,4432577,C.J. Stroud,QB,11/30,191,6.4,0,0,8-56,21.5,59.2
+401671809,2024-11-01,2024,Houston Texans,away,New York Jets,3116385,Joe Mixon,RB,0/1,0,0.0,0,0,0-0,0.9,39.6
+401671809,2024-11-01,2024,New York Jets,home,Houston Texans,8439,Aaron Rodgers,QB,22/32,211,6.6,3,0,2-18,80.1,118.1
+401671813,,2024,Washington Commanders,away,Philadelphia Eagles,4426348,Jayden Daniels,QB,22/32,191,6.0,1,1,3-20,18.8,81.6
+401671813,,2024,Philadelphia Eagles,home,Washington Commanders,4040715,Jalen Hurts,QB,18/28,221,7.9,0,0,2-15,47.9,88.5
+401671637,2024-11-10,2024,Denver Broncos,away,Kansas City Chiefs,4426338,Bo Nix,QB,22/30,215,7.2,2,0,2-33,63.4,115.3
+401671637,2024-11-10,2024,Kansas City Chiefs,home,Denver Broncos,3139477,Patrick Mahomes,QB,28/42,266,6.3,1,0,4-23,52.8,92.0
+401671782,,2024,Indianapolis Colts,away,New York Jets,4429084,Anthony Richardson Sr.,QB,20/30,272,9.1,1,0,2-31,72.5,106.5
+401671782,,2024,New York Jets,home,Indianapolis Colts,8439,Aaron Rodgers,QB,22/29,184,6.3,2,0,3-22,35.2,114.7
+401671650,2024-11-03,2024,New Orleans Saints,away,Carolina Panthers,16757,Derek Carr,QB,18/31,236,7.6,1,0,1-6,49.1,92.9
+401671650,2024-11-03,2024,New Orleans Saints,away,Carolina Panthers,2468609,Taysom Hill,QB,0/1,0,0.0,0,0,0-0,95.7,39.6
+401671650,2024-11-03,2024,Carolina Panthers,home,New Orleans Saints,4685720,Bryce Young,QB,16/26,171,6.6,1,1,1-5,37.9,77.6
+401671803,2024-11-10,2024,New York Giants,away,Carolina Panthers,3917792,Daniel Jones,QB,22/37,190,5.1,0,2,2-15,32.3,50.5
+401671803,2024-11-10,2024,Carolina Panthers,home,New York Giants,4685720,Bryce Young,QB,15/25,126,5.0,1,0,1-8,53.8,86.4
+401671810,2024-11-08,2024,Cincinnati Bengals,away,Baltimore Ravens,3915511,Joe Burrow,QB,34/56,428,7.6,4,0,3-7,69.1,108.3
+401671810,2024-11-08,2024,Baltimore Ravens,home,Cincinnati Bengals,3916387,Lamar Jackson,QB,25/33,290,8.8,4,0,0-0,86.1,141.4
+401671661,2024-11-03,2024,Chicago Bears,away,Arizona Cardinals,4431611,Caleb Williams,QB,22/41,217,5.3,0,0,6-45,19.7,68.9
+401671661,2024-11-03,2024,Arizona Cardinals,home,Chicago Bears,3917315,Kyler Murray,QB,13/20,154,7.7,0,0,3-17,22.1,88.3
+401671873,2024-11-10,2024,New England Patriots,away,Chicago Bears,4431452,Drake Maye,QB,15/25,184,7.4,1,1,1-0,60.1,79.4
+401671873,2024-11-10,2024,Chicago Bears,home,New England Patriots,4431611,Caleb Williams,QB,16/30,120,4.0,0,0,9-51,11.9,63.2
+401671693,2024-11-12,2024,Miami Dolphins,away,Los Angeles Rams,4241479,Tua Tagovailoa,QB,20/28,207,7.4,1,1,3-36,26.6,89.4
+401671693,2024-11-12,2024,Los Angeles Rams,home,Miami Dolphins,12483,Matthew Stafford,QB,32/46,293,6.4,0,1,4-36,34.0,77.5
+401671704,2024-11-03,2024,Las Vegas Raiders,away,Cincinnati Bengals,4038524,Gardner Minshew,QB,10/17,124,7.3,0,0,1-7,32.7,81.5
+401671704,2024-11-03,2024,Las Vegas Raiders,away,Cincinnati Bengals,4239086,Desmond Ridder,QB,11/16,74,4.6,1,0,4-34,36.6,99.5
+401671704,2024-11-03,2024,Cincinnati Bengals,home,Las Vegas Raiders,3915511,Joe Burrow,QB,27/39,251,6.4,5,1,1-8,81.5,115.5
+401671630,,2024,Baltimore Ravens,away,Pittsburgh Steelers,3916387,Lamar Jackson,QB,16/33,207,6.3,1,1,2-2,51.4,66.1
+401671630,,2024,Pittsburgh Steelers,home,Baltimore Ravens,14881,Russell Wilson,QB,23/36,205,5.7,0,1,4-24,15.6,67.5
+401671851,,2024,Las Vegas Raiders,away,Miami Dolphins,4038524,Gardner Minshew,QB,30/43,282,6.6,2,1,3-14,49.8,93.4
+401671851,,2024,Miami Dolphins,home,Las Vegas Raiders,4241479,Tua Tagovailoa,QB,28/36,288,8.0,3,0,2-17,89.9,127.8
+401671751,2024-11-10,2024,Tennessee Titans,away,Los Angeles Chargers,4361418,Will Levis,QB,18/23,175,7.6,2,0,7-18,55.7,127.4
+401671751,2024-11-10,2024,Los Angeles Chargers,home,Tennessee Titans,4038941,Justin Herbert,QB,14/18,164,9.1,1,0,0-0,84.0,123.1
+401671676,2024-11-10,2024,Philadelphia Eagles,away,Dallas Cowboys,4040715,Jalen Hurts,QB,14/20,202,10.1,2,1,5-46,55.6,115.0
+401671676,2024-11-10,2024,Philadelphia Eagles,away,Dallas Cowboys,4240703,Kenny Pickett,QB,1/2,5,2.5,0,0,0-0,35.2,56.2
+401671676,2024-11-10,2024,Dallas Cowboys,home,Philadelphia Eagles,2972515,Cooper Rush,QB,13/23,45,2.0,0,0,1-10,15.1,61.7
+401671676,2024-11-10,2024,Dallas Cowboys,home,Philadelphia Eagles,4383351,Trey Lance,QB,4/6,21,3.5,0,1,2-7,14.6,32.6
+401671642,,2024,Jacksonville Jaguars,away,Detroit Lions,4241464,Mac Jones,QB,17/29,138,4.8,0,1,1-9,23.6,56.4
+401671642,,2024,Detroit Lions,home,Jacksonville Jaguars,3046779,Jared Goff,QB,24/29,412,14.2,4,0,0-0,93.8,158.3
+401671642,,2024,Detroit Lions,home,Jacksonville Jaguars,4240858,Hendon Hooker,QB,3/4,37,9.3,0,0,0-0,86.8,103.1
+401671870,2024-11-24,2024,Minnesota Vikings,away,Chicago Bears,3912547,Sam Darnold,QB,22/34,330,9.7,2,0,3-16,80.5,116.1
+401671870,2024-11-24,2024,Minnesota Vikings,away,Chicago Bears,3059989,Nick Mullens,QB,1/1,14,14.0,0,0,0-0,25.3,118.8
+401671870,2024-11-24,2024,Chicago Bears,home,Minnesota Vikings,4431611,Caleb Williams,QB,32/47,340,7.2,2,0,3-20,71.4,103.1
+401671870,2024-11-24,2024,Chicago Bears,home,Minnesota Vikings,3915416,DJ Moore,WR,0/1,0,0.0,0,0,0-0,2.8,39.6
+401671708,2024-11-10,2024,Minnesota Vikings,away,Jacksonville Jaguars,3912547,Sam Darnold,QB,24/38,241,6.3,0,3,1-8,34.0,48.2
+401671708,2024-11-10,2024,Jacksonville Jaguars,home,Minnesota Vikings,4241464,Mac Jones,QB,14/22,111,5.0,0,2,3-24,9.6,38.3
+401671869,,2024,Green Bay Packers,away,Chicago Bears,4036378,Jordan Love,QB,13/17,261,15.4,1,1,1-1,77.1,113.0
+401671869,,2024,Chicago Bears,home,Green Bay Packers,4431611,Caleb Williams,QB,23/31,231,7.5,0,0,3-19,80.9,95.0
+401671863,2024-11-10,2024,Buffalo Bills,away,Indianapolis Colts,3918298,Josh Allen,QB,22/37,280,7.6,0,2,2-0,47.4,60.6
+401671863,2024-11-10,2024,Indianapolis Colts,home,Buffalo Bills,11252,Joe Flacco,QB,26/35,272,7.8,2,3,4-32,17.3,79.7
+401671701,,2024,Los Angeles Rams,away,New England Patriots,12483,Matthew Stafford,QB,18/27,295,10.9,4,0,0-0,81.9,142.7
+401671701,,2024,New England Patriots,home,Los Angeles Rams,4431452,Drake Maye,QB,29/39,282,7.1,2,1,3-25,71.1,100.6
+401671775,2024-11-24,2024,Arizona Cardinals,away,Seattle Seahawks,3917315,Kyler Murray,QB,24/37,285,7.7,0,1,5-36,49.8,77.0
+401671775,2024-11-24,2024,Seattle Seahawks,home,Arizona Cardinals,15864,Geno Smith,QB,22/31,254,8.2,1,1,5-34,42.2,92.7
+401671824,,2024,Minnesota Vikings,away,Tennessee Titans,3912547,Sam Darnold,QB,20/32,246,7.7,2,0,2-10,64.6,107.0
+401671824,,2024,Tennessee Titans,home,Minnesota Vikings,4361418,Will Levis,QB,17/31,295,9.5,1,1,5-34,34.3,84.7
+401671675,,2024,Cincinnati Bengals,away,Los Angeles Chargers,3915511,Joe Burrow,QB,28/50,356,7.1,3,0,3-14,80.2,98.4
+401671675,,2024,Los Angeles Chargers,home,Cincinnati Bengals,4038941,Justin Herbert,QB,17/36,297,8.3,2,0,2-17,44.2,94.3
+401671638,2024-11-24,2024,Tampa Bay Buccaneers,away,New York Giants,3052587,Baker Mayfield,QB,24/30,294,9.8,0,0,0-0,84.4,107.5
+401671638,2024-11-24,2024,New York Giants,home,Tampa Bay Buccaneers,4240391,Tommy DeVito,QB,21/31,189,6.1,0,0,4-23,13.5,83.9
+401671638,2024-11-24,2024,New York Giants,home,Tampa Bay Buccaneers,3924327,Drew Lock,QB,1/1,3,3.0,0,0,0-0,19.5,79.2
+401671656,2024-11-24,2024,Denver Broncos,away,Las Vegas Raiders,4426338,Bo Nix,QB,25/42,273,6.5,2,0,1-11,63.5,94.6
+401671656,2024-11-24,2024,Las Vegas Raiders,home,Denver Broncos,4038524,Gardner Minshew,QB,25/42,230,5.5,1,1,3-12,25.4,72.5
+401671656,2024-11-24,2024,Las Vegas Raiders,home,Denver Broncos,4239086,Desmond Ridder,QB,5/10,64,6.4,0,0,2-16,2.3,70.4
+401671656,2024-11-24,2024,Las Vegas Raiders,home,Denver Broncos,3686689,AJ Cole,P,1/1,34,34.0,0,0,0-0,--,118.8
+401671866,2024-11-24,2024,Detroit Lions,away,Indianapolis Colts,3046779,Jared Goff,QB,26/36,269,7.5,0,0,3-16,38.9,93.4
+401671866,2024-11-24,2024,Indianapolis Colts,home,Detroit Lions,4429084,Anthony Richardson Sr.,QB,11/28,172,6.1,0,0,0-0,38.8,60.4
+401671733,2024-11-10,2024,Atlanta Falcons,away,New Orleans Saints,14880,Kirk Cousins,QB,23/38,306,8.1,0,1,3-19,36.5,75.1
+401671733,2024-11-10,2024,New Orleans Saints,home,Atlanta Falcons,16757,Derek Carr,QB,16/25,269,10.8,2,0,0-0,45.5,126.9
+401671875,2024-11-22,2024,Pittsburgh Steelers,away,Cleveland Browns,14881,Russell Wilson,QB,21/28,270,9.6,1,0,4-22,73.7,116.7
+401671875,2024-11-22,2024,Pittsburgh Steelers,away,Cleveland Browns,4362887,Justin Fields,QB,0/1,0,0.0,0,0,0-0,2.2,39.6
+401671875,2024-11-22,2024,Cleveland Browns,home,Pittsburgh Steelers,2969939,Jameis Winston,QB,18/27,219,8.1,0,1,1-0,76.1,76.0
+401671847,2024-11-24,2024,New England Patriots,away,Miami Dolphins,4431452,Drake Maye,QB,22/37,222,6.0,1,1,4-39,43.7,74.4
+401671847,2024-11-24,2024,New England Patriots,away,Miami Dolphins,3045523,Kendrick Bourne,WR,0/1,0,0.0,0,0,0-0,3.7,39.6
+401671847,2024-11-24,2024,Miami Dolphins,home,New England Patriots,4241479,Tua Tagovailoa,QB,29/40,317,7.9,4,0,2-9,56.7,128.9
+401671798,2024-11-29,2024,Miami Dolphins,away,Green Bay Packers,4241479,Tua Tagovailoa,QB,37/46,365,7.9,2,0,5-29,55.8,114.2
+401671798,2024-11-29,2024,Green Bay Packers,home,Miami Dolphins,4036378,Jordan Love,QB,21/28,274,9.8,2,0,0-0,83.8,129.2
+401671689,2024-11-26,2024,Baltimore Ravens,away,Los Angeles Chargers,3916387,Lamar Jackson,QB,16/22,177,8.0,2,0,1-0,84.9,126.5
+401671689,2024-11-26,2024,Los Angeles Chargers,home,Baltimore Ravens,4038941,Justin Herbert,QB,21/36,218,6.1,0,0,4-16,72.4,75.9
+401671746,,2024,Cleveland Browns,away,New Orleans Saints,2969939,Jameis Winston,QB,30/46,395,8.6,2,0,3-18,60.7,106.7
+401671746,,2024,Cleveland Browns,away,New Orleans Saints,4367178,Dorian Thompson-Robinson,QB,0/1,0,0.0,0,0,0-0,6.1,39.6
+401671746,,2024,New Orleans Saints,home,Cleveland Browns,16757,Derek Carr,QB,21/27,248,9.2,2,0,1-7,62.5,129.6
+401671746,,2024,New Orleans Saints,home,Cleveland Browns,2468609,Taysom Hill,QB,1/2,18,9.0,0,1,0-0,100.0,41.7
+401671794,2024-11-25,2024,Philadelphia Eagles,away,Los Angeles Rams,4040715,Jalen Hurts,QB,15/22,179,8.1,1,0,1-12,76.5,108.0
+401671794,2024-11-25,2024,Los Angeles Rams,home,Philadelphia Eagles,12483,Matthew Stafford,QB,24/36,243,6.8,2,0,5-45,74.7,104.3
+401671787,2024-11-11,2024,Detroit Lions,away,Houston Texans,3046779,Jared Goff,QB,15/30,240,8.0,2,5,0-0,29.1,59.7
+401671787,2024-11-11,2024,Houston Texans,home,Detroit Lions,4432577,C.J. Stroud,QB,19/33,232,7.0,1,2,4-40,26.2,64.2
+401671748,,2024,Atlanta Falcons,away,Denver Broncos,14880,Kirk Cousins,QB,18/27,173,6.4,0,1,3-21,26.2,68.9
+401671748,,2024,Atlanta Falcons,away,Denver Broncos,4360423,Michael Penix Jr.,QB,2/4,24,6.0,0,0,1-0,92.6,68.8
+401671748,,2024,Denver Broncos,home,Atlanta Falcons,4426338,Bo Nix,QB,28/33,307,9.3,4,0,1-12,72.2,145.0
+401671715,2024-11-24,2024,Dallas Cowboys,away,Washington Commanders,2972515,Cooper Rush,QB,24/32,247,7.7,2,0,1-6,50.0,117.6
+401671715,2024-11-24,2024,Washington Commanders,home,Dallas Cowboys,4426348,Jayden Daniels,QB,25/38,275,7.2,2,2,4-8,58.9,82.7
+401671651,2024-11-24,2024,Kansas City Chiefs,away,Carolina Panthers,3139477,Patrick Mahomes,QB,27/37,269,7.3,3,0,5-43,63.3,120.2
+401671651,2024-11-24,2024,Carolina Panthers,home,Kansas City Chiefs,4685720,Bryce Young,QB,21/35,263,7.5,1,0,2-14,43.0,92.9
+401671757,,2024,Seattle Seahawks,away,San Francisco 49ers,15864,Geno Smith,QB,25/32,221,6.9,0,1,4-26,80.0,82.4
+401671757,,2024,San Francisco 49ers,home,Seattle Seahawks,4361741,Brock Purdy,QB,21/28,159,5.7,1,1,2-13,79.0,85.3
+401671705,2024-12-01,2024,Houston Texans,away,Jacksonville Jaguars,4432577,C.J. Stroud,QB,22/34,242,7.1,1,0,2-24,51.4,95.5
+401671705,2024-12-01,2024,Jacksonville Jaguars,home,Houston Texans,4241464,Mac Jones,QB,20/32,235,7.3,2,0,0-0,52.0,105.6
+401671705,2024-12-01,2024,Jacksonville Jaguars,home,Houston Texans,4360310,Trevor Lawrence,QB,4/10,41,4.1,0,1,0-0,13.5,12.9
+401671492,2024-11-28,2024,Chicago Bears,away,Detroit Lions,4431611,Caleb Williams,QB,20/39,256,6.6,3,0,5-33,57.8,97.8
+401671492,2024-11-28,2024,Detroit Lions,home,Chicago Bears,3046779,Jared Goff,QB,21/34,221,6.5,2,0,1-9,58.7,100.2
+401671492,2024-11-28,2024,Detroit Lions,home,Chicago Bears,4373825,Penei Sewell,OT,0/0,0,0.0,0,0,1-1,1.7,0.0
+401671779,2024-11-28,2024,New York Giants,away,Dallas Cowboys,3924327,Drew Lock,QB,21/32,178,5.6,0,1,6-47,36.7,66.9
+401671779,2024-11-28,2024,Dallas Cowboys,home,New York Giants,2972515,Cooper Rush,QB,21/36,195,5.4,1,0,0-0,43.2,82.5
+401671627,2024-12-01,2024,Pittsburgh Steelers,away,Cincinnati Bengals,14881,Russell Wilson,QB,29/38,414,10.9,3,1,2-4,83.9,126.4
+401671627,2024-12-01,2024,Cincinnati Bengals,home,Pittsburgh Steelers,3915511,Joe Burrow,QB,28/38,309,8.1,3,1,4-27,42.7,112.7
+401671665,,2024,Kansas City Chiefs,away,Buffalo Bills,3139477,Patrick Mahomes,QB,23/33,196,5.9,3,2,2-15,56.3,90.0
+401671665,,2024,Buffalo Bills,home,Kansas City Chiefs,3918298,Josh Allen,QB,27/40,262,6.6,1,1,0-0,81.1,83.5
+401671649,2024-12-01,2024,Los Angeles Chargers,away,Atlanta Falcons,4038941,Justin Herbert,QB,16/23,147,6.4,0,0,5-19,23.2,86.7
+401671649,2024-12-01,2024,Los Angeles Chargers,away,Atlanta Falcons,3126368,JK Scott,P,1/1,3,3.0,0,0,0-0,--,79.2
+401671649,2024-12-01,2024,Atlanta Falcons,home,Los Angeles Chargers,14880,Kirk Cousins,QB,24/39,245,6.3,0,4,1-11,29.7,40.0
+401671753,2024-12-01,2024,Los Angeles Rams,away,New Orleans Saints,12483,Matthew Stafford,QB,14/24,183,7.6,2,0,2-17,59.8,110.2
+401671753,2024-12-01,2024,New Orleans Saints,home,Los Angeles Rams,16757,Derek Carr,QB,24/37,184,5.0,1,0,0-0,73.8,85.9
+401671694,,2024,Houston Texans,away,Dallas Cowboys,4432577,C.J. Stroud,QB,23/34,257,7.6,0,1,1-7,48.3,77.7
+401671694,,2024,Dallas Cowboys,home,Houston Texans,2972515,Cooper Rush,QB,32/55,354,6.4,1,1,5-34,27.9,75.9
+401671694,,2024,Dallas Cowboys,home,Houston Texans,14950,Bryan Anger,P,1/1,4,4.0,0,0,0-0,--,83.3
+401671806,2024-11-29,2024,Las Vegas Raiders,away,Kansas City Chiefs,4260394,Aidan O'Connell,QB,23/35,340,9.7,2,0,3-22,58.3,116.4
+401671806,2024-11-29,2024,Kansas City Chiefs,home,Las Vegas Raiders,3139477,Patrick Mahomes,QB,26/46,306,6.7,1,0,5-40,43.7,84.1
+401671768,2024-11-24,2024,San Francisco 49ers,away,Green Bay Packers,2574511,Brandon Allen,QB,17/29,199,6.9,1,1,2-2,33.3,76.7
+401671768,2024-11-24,2024,Green Bay Packers,home,San Francisco 49ers,4036378,Jordan Love,QB,13/23,163,7.1,2,0,2-7,53.3,107.7
+401671726,2024-12-01,2024,Arizona Cardinals,away,Minnesota Vikings,3917315,Kyler Murray,QB,31/45,260,5.8,1,2,1-8,73.2,72.5
+401671726,2024-12-01,2024,Minnesota Vikings,home,Arizona Cardinals,3912547,Sam Darnold,QB,21/31,235,7.6,2,0,5-30,58.7,111.6
+401671620,2024-12-01,2024,Indianapolis Colts,away,New England Patriots,4429084,Anthony Richardson Sr.,QB,12/24,109,4.5,2,2,0-0,71.7,55.7
+401671620,2024-12-01,2024,New England Patriots,home,Indianapolis Colts,4431452,Drake Maye,QB,24/30,238,7.9,1,1,4-16,73.7,96.9
+401671848,2024-12-08,2024,New York Jets,away,Miami Dolphins,8439,Aaron Rodgers,QB,27/39,339,8.7,1,0,3-20,74.2,104.5
+401671848,2024-12-08,2024,Miami Dolphins,home,New York Jets,4241479,Tua Tagovailoa,QB,33/47,331,7.0,2,0,0-0,79.9,104.1
+401671703,2024-12-01,2024,Seattle Seahawks,away,New York Jets,15864,Geno Smith,QB,20/31,206,6.6,1,0,3-31,52.3,94.3
+401671703,2024-12-01,2024,New York Jets,home,Seattle Seahawks,8439,Aaron Rodgers,QB,21/39,185,4.7,2,1,2-16,27.2,73.1
+401671666,2024-12-01,2024,Philadelphia Eagles,away,Baltimore Ravens,4040715,Jalen Hurts,QB,11/19,118,6.2,1,0,2-6,55.5,93.8
+401671666,2024-12-01,2024,Baltimore Ravens,home,Philadelphia Eagles,3916387,Lamar Jackson,QB,23/36,237,6.6,2,0,3-31,35.7,101.3
+401671858,2024-11-24,2024,Tennessee Titans,away,Houston Texans,4361418,Will Levis,QB,18/24,278,11.6,2,1,8-41,63.7,123.3
+401671858,2024-11-24,2024,Tennessee Titans,away,Houston Texans,3045144,Tyler Boyd,WR,0/1,0,0.0,0,0,0-0,3.6,39.6
+401671858,2024-11-24,2024,Houston Texans,home,Tennessee Titans,4432577,C.J. Stroud,QB,20/33,247,7.5,2,2,4-27,21.1,78.7
+401671814,2024-12-06,2024,Green Bay Packers,away,Detroit Lions,4036378,Jordan Love,QB,12/20,206,10.3,1,0,1-7,90.4,111.7
+401671814,2024-12-06,2024,Detroit Lions,home,Green Bay Packers,3046779,Jared Goff,QB,32/41,283,6.9,3,1,1-3,90.3,109.7
+401671648,2024-12-08,2024,Atlanta Falcons,away,Minnesota Vikings,14880,Kirk Cousins,QB,23/37,344,9.3,0,2,1-6,60.4,70.1
+401671648,2024-12-08,2024,Minnesota Vikings,home,Atlanta Falcons,3912547,Sam Darnold,QB,22/28,347,12.4,5,0,4-29,81.9,157.9
+401671743,2024-12-01,2024,Tennessee Titans,away,Washington Commanders,4361418,Will Levis,QB,18/37,212,5.7,2,0,2-2,50.8,84.5
+401671743,2024-12-01,2024,Washington Commanders,home,Tennessee Titans,4426348,Jayden Daniels,QB,25/30,206,6.9,3,1,2-10,79.2,114.7
+401671773,2024-12-08,2024,Buffalo Bills,away,Los Angeles Rams,3918298,Josh Allen,QB,22/37,342,9.2,3,0,0-0,90.9,117.2
+401671773,2024-12-08,2024,Los Angeles Rams,home,Buffalo Bills,12483,Matthew Stafford,QB,23/30,320,10.7,2,0,0-0,97.2,132.6
+401671781,2024-12-02,2024,San Francisco 49ers,away,Buffalo Bills,4361741,Brock Purdy,QB,11/18,94,5.2,0,0,2-8,10.5,74.8
+401671781,2024-12-02,2024,Buffalo Bills,home,San Francisco 49ers,3918298,Josh Allen,QB,13/17,148,8.7,2,0,0-0,94.7,141.3
+401671781,2024-12-02,2024,Buffalo Bills,home,San Francisco 49ers,3039707,Mitchell Trubisky,QB,1/1,4,4.0,0,0,0-0,3.9,83.3
+401671737,2024-12-15,2024,Washington Commanders,away,New Orleans Saints,4426348,Jayden Daniels,QB,25/31,226,7.3,2,0,8-37,57.1,118.5
+401671737,2024-12-15,2024,New Orleans Saints,home,Washington Commanders,4426339,Spencer Rattler,QB,10/21,135,6.4,1,0,0-0,80.5,84.4
+401671737,2024-12-15,2024,New Orleans Saints,home,Washington Commanders,4243322,Jake Haener,QB,4/10,49,4.9,0,1,3-29,2.3,16.2
+401671737,2024-12-15,2024,New Orleans Saints,home,Washington Commanders,4036335,Cedrick Wilson Jr.,WR,1/1,21,21.0,1,0,0-0,100.0,158.3
+401671601,2024-12-08,2024,New Orleans Saints,away,New York Giants,16757,Derek Carr,QB,20/31,219,7.1,1,1,1-9,54.2,82.6
+401671601,2024-12-08,2024,New Orleans Saints,away,New York Giants,4243322,Jake Haener,QB,0/0,0,0.0,0,0,1-10,0.3,0.0
+401671601,2024-12-08,2024,New York Giants,home,New Orleans Saints,3924327,Drew Lock,QB,21/49,227,4.6,0,1,2-14,41.2,48.6
+401671631,2024-12-08,2024,Cleveland Browns,away,Pittsburgh Steelers,2969939,Jameis Winston,QB,24/41,212,5.2,2,2,3-16,31.0,68.3
+401671631,2024-12-08,2024,Pittsburgh Steelers,home,Cleveland Browns,14881,Russell Wilson,QB,15/26,158,6.1,2,0,1-11,49.6,101.1
+401671821,2024-12-08,2024,Jacksonville Jaguars,away,Tennessee Titans,4241464,Mac Jones,QB,23/31,220,7.1,0,2,1-0,28.0,66.6
+401671821,2024-12-08,2024,Tennessee Titans,home,Jacksonville Jaguars,4361418,Will Levis,QB,19/32,168,5.3,0,0,2-22,18.7,73.4
+401671752,2024-12-01,2024,Tampa Bay Buccaneers,away,Carolina Panthers,3052587,Baker Mayfield,QB,21/33,235,7.1,1,2,4-31,7.7,69.6
+401671752,2024-12-01,2024,Tampa Bay Buccaneers,away,Carolina Panthers,4034946,Kyle Trask,QB,1/1,5,5.0,0,0,0-0,88.1,87.5
+401671752,2024-12-01,2024,Carolina Panthers,home,Tampa Bay Buccaneers,4685720,Bryce Young,QB,26/46,298,6.5,1,0,1-9,57.1,83.4
+401671686,2024-12-03,2024,Cleveland Browns,away,Denver Broncos,2969939,Jameis Winston,QB,34/58,497,8.6,4,3,3-22,68.3,88.1
+401671686,2024-12-03,2024,Denver Broncos,home,Cleveland Browns,4426338,Bo Nix,QB,18/35,294,8.4,1,2,0-0,37.3,65.7
+401671774,2024-12-08,2024,Chicago Bears,away,San Francisco 49ers,4431611,Caleb Williams,QB,17/23,134,5.8,2,0,7-46,28.3,116.9
+401671774,2024-12-08,2024,Chicago Bears,away,San Francisco 49ers,4434153,Tyson Bagent,QB,1/1,6,6.0,0,0,0-0,66.3,91.7
+401671774,2024-12-08,2024,San Francisco 49ers,home,Chicago Bears,4361741,Brock Purdy,QB,20/25,325,13.0,2,0,1-4,96.8,145.4
+401671774,2024-12-08,2024,San Francisco 49ers,home,Chicago Bears,2574511,Brandon Allen,QB,0/1,0,0.0,0,1,0-0,0.3,0.0
+401671669,2024-12-15,2024,Indianapolis Colts,away,Denver Broncos,4429084,Anthony Richardson Sr.,QB,17/38,172,4.5,0,2,2-11,24.9,36.3
+401671669,2024-12-15,2024,Denver Broncos,home,Indianapolis Colts,4426338,Bo Nix,QB,20/33,130,3.9,3,3,1-9,12.9,61.4
+401671766,2024-12-15,2024,Pittsburgh Steelers,away,Philadelphia Eagles,14881,Russell Wilson,QB,14/22,128,5.8,1,0,2-21,32.7,94.5
+401671766,2024-12-15,2024,Philadelphia Eagles,home,Pittsburgh Steelers,4040715,Jalen Hurts,QB,25/32,290,9.1,2,0,3-20,72.5,125.3
+401671731,2024-12-15,2024,Dallas Cowboys,away,Carolina Panthers,2972515,Cooper Rush,QB,18/29,214,7.4,3,0,1-15,50.5,119.0
+401671731,2024-12-15,2024,Carolina Panthers,home,Dallas Cowboys,4685720,Bryce Young,QB,19/28,219,7.8,1,2,6-44,8.9,73.4
+401671818,2024-12-13,2024,Los Angeles Rams,away,San Francisco 49ers,12483,Matthew Stafford,QB,16/27,160,5.9,0,0,0-0,61.3,76.2
+401671818,2024-12-13,2024,San Francisco 49ers,home,Los Angeles Rams,4361741,Brock Purdy,QB,14/31,142,4.6,0,1,3-14,20.3,45.4
+401671690,2024-12-10,2024,Cincinnati Bengals,away,Dallas Cowboys,3915511,Joe Burrow,QB,33/44,369,8.4,3,1,2-10,70.2,112.8
+401671690,2024-12-10,2024,Dallas Cowboys,home,Cincinnati Bengals,2972515,Cooper Rush,QB,16/31,183,5.9,2,1,3-17,20.8,77.8
+401671654,2024-12-08,2024,Las Vegas Raiders,away,Tampa Bay Buccaneers,4260394,Aidan O'Connell,QB,11/19,104,5.5,0,1,1-10,6.8,51.2
+401671654,2024-12-08,2024,Las Vegas Raiders,away,Tampa Bay Buccaneers,4239086,Desmond Ridder,QB,12/18,101,5.6,0,0,1-0,60.1,81.0
+401671654,2024-12-08,2024,Tampa Bay Buccaneers,home,Las Vegas Raiders,3052587,Baker Mayfield,QB,18/29,295,10.2,3,2,4-27,39.8,101.9
+401671762,2024-12-15,2024,Tampa Bay Buccaneers,away,Los Angeles Chargers,3052587,Baker Mayfield,QB,22/27,288,10.7,4,1,1-5,94.2,135.3
+401671762,2024-12-15,2024,Los Angeles Chargers,home,Tampa Bay Buccaneers,4038941,Justin Herbert,QB,21/33,195,5.9,2,1,3-25,35.5,87.3
+401671762,2024-12-15,2024,Los Angeles Chargers,home,Tampa Bay Buccaneers,2565969,Taylor Heinicke,QB,1/1,4,4.0,0,0,0-0,54.5,83.3
+401671660,2024-12-08,2024,Seattle Seahawks,away,Arizona Cardinals,15864,Geno Smith,QB,24/30,233,7.8,1,0,0-0,42.6,110.1
+401671660,2024-12-08,2024,Arizona Cardinals,home,Seattle Seahawks,3917315,Kyler Murray,QB,25/38,259,6.8,2,2,2-24,37.4,80.9
+401671713,2024-12-08,2024,Carolina Panthers,away,Philadelphia Eagles,4685720,Bryce Young,QB,19/34,191,5.6,1,1,1-7,84.1,69.6
+401671713,2024-12-08,2024,Philadelphia Eagles,home,Carolina Panthers,4040715,Jalen Hurts,QB,14/21,108,5.1,2,0,4-25,66.4,110.8
+401671788,2024-12-09,2024,Los Angeles Chargers,away,Kansas City Chiefs,4038941,Justin Herbert,QB,21/30,213,7.1,1,0,3-19,65.0,101.1
+401671788,2024-12-09,2024,Kansas City Chiefs,home,Los Angeles Chargers,3139477,Patrick Mahomes,QB,24/37,210,5.7,1,0,3-8,54.7,88.8
+401671778,2024-12-21,2024,Pittsburgh Steelers,away,Baltimore Ravens,14881,Russell Wilson,QB,22/33,217,6.6,2,1,3-19,38.8,92.6
+401671778,2024-12-21,2024,Baltimore Ravens,home,Pittsburgh Steelers,3916387,Lamar Jackson,QB,15/23,207,9.0,3,1,1-9,61.7,115.4
+401671706,2024-12-15,2024,New York Jets,away,Jacksonville Jaguars,8439,Aaron Rodgers,QB,16/30,289,9.6,3,0,1-14,79.8,120.0
+401671706,2024-12-15,2024,Jacksonville Jaguars,home,New York Jets,4241464,Mac Jones,QB,31/46,294,6.4,2,2,2-9,46.3,81.2
+401671796,2024-12-16,2024,Green Bay Packers,away,Seattle Seahawks,4036378,Jordan Love,QB,20/27,229,8.5,2,0,0-0,89.2,123.8
+401671796,2024-12-16,2024,Seattle Seahawks,home,Green Bay Packers,15864,Geno Smith,QB,15/19,149,7.8,0,1,3-24,38.2,77.4
+401671796,2024-12-16,2024,Seattle Seahawks,home,Green Bay Packers,4426875,Sam Howell,QB,5/14,24,1.7,0,1,4-21,2.9,14.6
+401671811,2024-12-22,2024,Cleveland Browns,away,Cincinnati Bengals,4367178,Dorian Thompson-Robinson,QB,20/34,157,4.6,0,2,5-32,17.1,45.8
+401671811,2024-12-22,2024,Cincinnati Bengals,home,Cleveland Browns,3915511,Joe Burrow,QB,23/30,252,8.4,3,0,4-42,76.0,134.3
+401671639,2024-12-15,2024,Baltimore Ravens,away,New York Giants,3916387,Lamar Jackson,QB,21/25,290,11.6,5,0,2-10,92.4,154.6
+401671639,2024-12-15,2024,Baltimore Ravens,away,New York Giants,11394,Josh Johnson,QB,0/0,0,0.0,0,0,1-5,0.1,0.0
+401671639,2024-12-15,2024,New York Giants,home,Baltimore Ravens,3045169,Tim Boyle,QB,12/24,123,5.1,1,1,1-2,46.1,61.6
+401671639,2024-12-15,2024,New York Giants,home,Baltimore Ravens,4240391,Tommy DeVito,QB,10/13,68,5.2,0,0,2-8,42.5,88.0
+401671681,2024-12-15,2024,Buffalo Bills,away,Detroit Lions,3918298,Josh Allen,QB,23/34,362,10.6,2,0,0-0,94.6,122.4
+401671681,2024-12-15,2024,Detroit Lions,home,Buffalo Bills,3046779,Jared Goff,QB,38/59,494,8.4,5,0,3-21,73.8,118.9
+401671673,2024-12-22,2024,Jacksonville Jaguars,away,Las Vegas Raiders,4241464,Mac Jones,QB,25/39,247,6.3,1,0,1-11,39.9,90.4
+401671673,2024-12-22,2024,Las Vegas Raiders,home,Jacksonville Jaguars,4260394,Aidan O'Connell,QB,24/38,257,6.8,0,0,2-12,36.2,82.9
+401671697,2024-12-17,2024,Atlanta Falcons,away,Las Vegas Raiders,14880,Kirk Cousins,QB,11/17,112,6.6,1,1,3-19,7.5,78.6
+401671697,2024-12-17,2024,Las Vegas Raiders,home,Atlanta Falcons,4239086,Desmond Ridder,QB,23/39,208,5.3,1,2,3-14,22.5,60.6
+401671697,2024-12-17,2024,Las Vegas Raiders,home,Atlanta Falcons,3916433,Jakobi Meyers,WR,0/0,0,0.0,0,0,1-10,0.0,0.0
+401671862,2024-12-22,2024,Tennessee Titans,away,Indianapolis Colts,3116407,Mason Rudolph,QB,23/34,252,7.4,2,3,1-10,48.6,72.2
+401671862,2024-12-22,2024,Indianapolis Colts,home,Tennessee Titans,4429084,Anthony Richardson Sr.,QB,7/11,131,11.9,1,1,1-8,63.7,97.2
+401671717,2024-12-22,2024,Philadelphia Eagles,away,Washington Commanders,4240703,Kenny Pickett,QB,14/24,143,6.0,1,1,3-25,56.8,72.0
+401671717,2024-12-22,2024,Philadelphia Eagles,away,Washington Commanders,4040715,Jalen Hurts,QB,1/4,11,2.8,0,0,0-0,88.8,39.6
+401671717,2024-12-22,2024,Philadelphia Eagles,away,Washington Commanders,3929630,Saquon Barkley,RB,0/0,0,0.0,0,0,1-2,0.0,0.0
+401671717,2024-12-22,2024,Washington Commanders,home,Philadelphia Eagles,4426348,Jayden Daniels,QB,24/39,258,6.6,5,2,1-3,95.7,99.1
+401671790,2024-12-23,2024,Tampa Bay Buccaneers,away,Dallas Cowboys,3052587,Baker Mayfield,QB,31/43,303,7.0,2,1,4-27,61.4,97.3
+401671790,2024-12-23,2024,Dallas Cowboys,home,Tampa Bay Buccaneers,2972515,Cooper Rush,QB,26/35,292,8.3,1,0,1-6,67.3,108.3
+401671677,2024-12-15,2024,New England Patriots,away,Arizona Cardinals,4431452,Drake Maye,QB,19/23,202,8.8,1,1,2-7,34.6,99.6
+401671677,2024-12-15,2024,Arizona Cardinals,home,New England Patriots,3917315,Kyler Murray,QB,23/30,224,7.5,0,0,0-0,45.9,97.1
+401671677,2024-12-15,2024,Arizona Cardinals,home,New England Patriots,4360175,Clayton Tune,QB,2/2,8,4.0,0,0,0-0,94.3,83.3
+401671621,2024-12-22,2024,Los Angeles Rams,away,New York Jets,12483,Matthew Stafford,QB,14/19,110,5.8,1,1,0-0,45.9,83.2
+401671621,2024-12-22,2024,New York Jets,home,Los Angeles Rams,8439,Aaron Rodgers,QB,28/42,256,6.1,1,0,1-10,34.9,91.0
+401671854,2024-12-15,2024,Kansas City Chiefs,away,Cleveland Browns,3139477,Patrick Mahomes,QB,19/38,159,4.2,2,0,0-0,55.4,78.7
+401671854,2024-12-15,2024,Kansas City Chiefs,away,Cleveland Browns,2573079,Carson Wentz,QB,2/2,20,10.0,0,0,0-0,32.0,108.3
+401671854,2024-12-15,2024,Cleveland Browns,home,Kansas City Chiefs,2969939,Jameis Winston,QB,16/25,146,5.8,0,3,5-37,2.9,40.2
+401671854,2024-12-15,2024,Cleveland Browns,home,Kansas City Chiefs,4367178,Dorian Thompson-Robinson,QB,4/9,18,2.0,0,1,0-0,22.0,12.0
+401671732,2024-12-22,2024,Arizona Cardinals,away,Carolina Panthers,3917315,Kyler Murray,QB,20/32,202,6.3,1,1,3-26,54.4,77.9
+401671732,2024-12-22,2024,Carolina Panthers,home,Arizona Cardinals,4685720,Bryce Young,QB,17/26,158,6.1,2,0,3-9,79.8,107.5
+401671874,2024-12-22,2024,San Francisco 49ers,away,Miami Dolphins,4361741,Brock Purdy,QB,26/40,313,7.8,2,1,3-20,67.7,95.1
+401671874,2024-12-22,2024,Miami Dolphins,home,San Francisco 49ers,4241479,Tua Tagovailoa,QB,22/34,215,6.3,1,0,0-0,37.4,92.2
+401671729,2024-12-22,2024,New York Giants,away,Atlanta Falcons,3924327,Drew Lock,QB,22/39,210,5.4,1,2,3-21,6.3,58.7
+401671729,2024-12-22,2024,Atlanta Falcons,home,New York Giants,4360423,Michael Penix Jr.,QB,18/27,202,7.5,0,1,0-0,42.5,73.4
+401671868,2024-12-22,2024,Detroit Lions,away,Chicago Bears,3046779,Jared Goff,QB,23/32,336,10.5,3,0,1-7,78.5,137.0
+401671868,2024-12-22,2024,Chicago Bears,home,Detroit Lions,4431611,Caleb Williams,QB,26/40,334,8.4,2,0,2-11,34.9,107.7
+401671829,2024-12-29,2024,Arizona Cardinals,away,Los Angeles Rams,3917315,Kyler Murray,QB,33/48,321,6.7,1,2,4-38,53.6,76.8
+401671829,2024-12-29,2024,Los Angeles Rams,home,Arizona Cardinals,12483,Matthew Stafford,QB,17/32,189,5.9,0,0,0-0,46.5,71.0
+401671800,2024-12-25,2024,Baltimore Ravens,away,Houston Texans,3916387,Lamar Jackson,QB,10/15,168,11.2,2,0,1-3,99.8,143.9
+401671800,2024-12-25,2024,Baltimore Ravens,away,Houston Texans,11394,Josh Johnson,QB,1/2,16,8.0,0,0,0-0,72.6,77.1
+401671800,2024-12-25,2024,Houston Texans,home,Baltimore Ravens,4432577,C.J. Stroud,QB,17/31,185,6.0,0,1,5-37,12.7,59.2
+401671800,2024-12-25,2024,Houston Texans,home,Baltimore Ravens,4242546,Davis Mills,QB,1/1,5,5.0,0,0,0-0,94.2,87.5
+401671692,2024-12-24,2024,New Orleans Saints,away,Green Bay Packers,4426339,Spencer Rattler,QB,15/30,153,5.1,0,1,3-24,16.5,51.1
+401671692,2024-12-24,2024,Green Bay Packers,home,New Orleans Saints,4036378,Jordan Love,QB,16/28,182,6.5,1,0,0-0,85.6,88.7
+401671692,2024-12-24,2024,Green Bay Packers,home,New Orleans Saints,4242512,Malik Willis,QB,1/2,34,17.0,0,0,0-0,78.0,95.8
+401671634,2024-12-29,2024,Tennessee Titans,away,Jacksonville Jaguars,3116407,Mason Rudolph,QB,19/31,193,6.2,1,1,3-15,38.2,76.4
+401671634,2024-12-29,2024,Jacksonville Jaguars,home,Tennessee Titans,4241464,Mac Jones,QB,15/22,174,7.9,2,0,2-1,61.0,122.2
+401671860,2024-12-15,2024,Miami Dolphins,away,Houston Texans,4241479,Tua Tagovailoa,QB,29/40,196,4.9,1,3,3-24,41.4,60.0
+401671860,2024-12-15,2024,Houston Texans,home,Miami Dolphins,4432577,C.J. Stroud,QB,18/26,131,5.0,2,0,4-27,40.2,106.4
+401671846,2024-12-29,2024,Indianapolis Colts,away,New York Giants,11252,Joe Flacco,QB,26/38,330,8.7,2,2,2-10,55.3,90.9
+401671846,2024-12-29,2024,New York Giants,home,Indianapolis Colts,3924327,Drew Lock,QB,17/23,309,13.4,4,0,0-0,97.2,155.3
+401671494,2024-12-22,2024,New England Patriots,away,Buffalo Bills,4431452,Drake Maye,QB,22/36,261,7.3,2,1,2-8,64.2,90.2
+401671494,2024-12-22,2024,Buffalo Bills,home,New England Patriots,3918298,Josh Allen,QB,16/29,154,5.3,1,1,1-2,25.3,67.3
+401671825,2024-12-15,2024,Cincinnati Bengals,away,Tennessee Titans,3915511,Joe Burrow,QB,26/37,271,7.3,3,2,1-2,68.1,95.7
+401671825,2024-12-15,2024,Tennessee Titans,home,Cincinnati Bengals,3116407,Mason Rudolph,QB,21/26,209,8.0,2,1,0-0,50.7,109.8
+401671825,2024-12-15,2024,Tennessee Titans,home,Cincinnati Bengals,4361418,Will Levis,QB,8/12,89,7.4,0,3,1-7,1.1,49.0
+401671489,2024-12-17,2024,Chicago Bears,away,Minnesota Vikings,4431611,Caleb Williams,QB,18/31,191,6.2,1,0,2-25,21.1,86.9
+401671489,2024-12-17,2024,Chicago Bears,away,Minnesota Vikings,4434153,Tyson Bagent,QB,1/1,5,5.0,0,0,0-0,29.5,87.5
+401671489,2024-12-17,2024,Minnesota Vikings,home,Chicago Bears,3912547,Sam Darnold,QB,24/40,231,5.8,1,1,2-16,48.2,74.1
+401671749,2024-12-20,2024,Denver Broncos,away,Los Angeles Chargers,4426338,Bo Nix,QB,29/40,263,6.6,2,0,2-18,61.4,106.6
+401671749,2024-12-20,2024,Los Angeles Chargers,home,Denver Broncos,4038941,Justin Herbert,QB,23/31,284,9.2,2,1,2-21,83.0,110.1
+401671759,2024-12-22,2024,Minnesota Vikings,away,Seattle Seahawks,3912547,Sam Darnold,QB,22/35,246,7.0,3,0,3-29,76.5,112.3
+401671759,2024-12-22,2024,Seattle Seahawks,home,Minnesota Vikings,15864,Geno Smith,QB,31/43,314,7.3,3,2,2-12,55.4,96.5
+401671725,2024-12-29,2024,Green Bay Packers,away,Minnesota Vikings,4036378,Jordan Love,QB,19/30,185,6.2,1,0,3-18,80.7,91.7
+401671725,2024-12-29,2024,Minnesota Vikings,home,Green Bay Packers,3912547,Sam Darnold,QB,33/43,377,8.8,3,1,1-5,77.6,116.1
+401671842,2024-12-30,2024,Atlanta Falcons,away,Washington Commanders,4360423,Michael Penix Jr.,QB,19/35,223,6.4,1,1,2-12,38.4,71.5
+401671842,2024-12-30,2024,Washington Commanders,home,Atlanta Falcons,4426348,Jayden Daniels,QB,24/36,227,6.3,3,1,5-31,70.6,100.1
+401671836,2025-01-05,2024,Cincinnati Bengals,away,Pittsburgh Steelers,3915511,Joe Burrow,QB,37/46,277,6.0,1,1,4-31,40.3,89.9
+401671836,2025-01-05,2024,Pittsburgh Steelers,home,Cincinnati Bengals,14881,Russell Wilson,QB,17/31,148,4.8,1,0,4-29,28.7,78.4
+401671837,2025-01-05,2024,Jacksonville Jaguars,away,Indianapolis Colts,4241464,Mac Jones,QB,20/32,225,7.0,1,1,2-19,40.4,80.9
+401671837,2025-01-05,2024,Indianapolis Colts,home,Jacksonville Jaguars,11252,Joe Flacco,QB,23/40,264,6.6,1,0,3-12,41.5,85.8
+401671780,2024-12-21,2024,Houston Texans,away,Kansas City Chiefs,4432577,C.J. Stroud,QB,23/39,244,6.3,2,2,2-17,60.3,73.0
+401671780,2024-12-21,2024,Kansas City Chiefs,home,Houston Texans,3139477,Patrick Mahomes,QB,28/41,260,6.3,1,0,1-9,85.1,93.5
+401671876,2024-12-27,2024,Seattle Seahawks,away,Chicago Bears,15864,Geno Smith,QB,17/23,160,7.0,0,0,3-17,45.0,92.7
+401671876,2024-12-27,2024,Chicago Bears,home,Seattle Seahawks,4431611,Caleb Williams,QB,16/28,122,4.4,0,1,7-46,22.6,53.0
+401671832,2024-12-28,2024,Los Angeles Chargers,away,New England Patriots,4038941,Justin Herbert,QB,26/38,281,7.4,3,0,0-0,86.7,116.2
+401671832,2024-12-28,2024,Los Angeles Chargers,away,New England Patriots,2565969,Taylor Heinicke,QB,0/2,0,0.0,0,0,0-0,7.3,39.6
+401671832,2024-12-28,2024,New England Patriots,home,Los Angeles Chargers,4431452,Drake Maye,QB,12/22,117,5.3,1,0,4-30,32.0,84.8
+401671832,2024-12-28,2024,New England Patriots,home,Los Angeles Chargers,2578570,Jacoby Brissett,QB,1/2,-2,-1.0,0,0,0-0,0.8,56.2
+401671843,2025-01-06,2024,Minnesota Vikings,away,Detroit Lions,3912547,Sam Darnold,QB,18/41,166,4.0,0,0,2-24,14.3,55.5
+401671843,2025-01-06,2024,Detroit Lions,home,Minnesota Vikings,3046779,Jared Goff,QB,27/33,231,7.0,1,2,2-15,82.6,80.7
+401671799,2024-12-25,2024,Kansas City Chiefs,away,Pittsburgh Steelers,3139477,Patrick Mahomes,QB,29/38,320,8.4,3,0,0-0,88.5,127.1
+401671799,2024-12-25,2024,Pittsburgh Steelers,home,Kansas City Chiefs,14881,Russell Wilson,QB,23/37,205,5.5,0,1,5-43,36.8,65.7
+401671653,2024-12-29,2024,Carolina Panthers,away,Tampa Bay Buccaneers,4685720,Bryce Young,QB,15/28,203,7.3,2,0,5-38,57.2,100.7
+401671653,2024-12-29,2024,Tampa Bay Buccaneers,home,Carolina Panthers,3052587,Baker Mayfield,QB,27/32,359,11.2,5,0,2-10,88.8,153.0
+401671840,2025-01-05,2024,Washington Commanders,away,Dallas Cowboys,2576980,Marcus Mariota,QB,15/18,161,8.9,2,0,2-25,95.9,141.0
+401671840,2025-01-05,2024,Washington Commanders,away,Dallas Cowboys,4426348,Jayden Daniels,QB,6/12,38,3.2,0,0,4-18,16.7,56.9
+401671840,2025-01-05,2024,Washington Commanders,away,Dallas Cowboys,4361577,Dyami Brown,WR,0/1,0,0.0,0,0,0-0,4.8,39.6
+401671840,2025-01-05,2024,Dallas Cowboys,home,Washington Commanders,4383351,Trey Lance,QB,20/34,244,7.2,0,0,2-16,40.6,81.0
+401671877,2024-12-29,2024,Miami Dolphins,away,Cleveland Browns,4035671,Tyler Huntley,QB,22/26,225,8.7,1,0,4-19,70.7,115.5
+401671877,2024-12-29,2024,Cleveland Browns,home,Miami Dolphins,4367178,Dorian Thompson-Robinson,QB,24/47,170,3.6,0,1,1-8,18.9,50.8
+401671839,2025-01-05,2024,Los Angeles Chargers,away,Las Vegas Raiders,4038941,Justin Herbert,QB,28/36,346,9.6,2,0,1-10,92.2,125.2
+401671839,2025-01-05,2024,Las Vegas Raiders,home,Los Angeles Chargers,4260394,Aidan O'Connell,QB,24/34,214,6.3,2,1,0-0,46.0,94.5
+401671839,2025-01-05,2024,Las Vegas Raiders,home,Los Angeles Chargers,4239086,Desmond Ridder,QB,1/2,11,5.5,0,0,0-0,50.3,66.7
+401671881,2025-01-12,2024,Denver Broncos,away,Buffalo Bills,4426338,Bo Nix,QB,13/22,144,6.5,1,0,2-14,63.5,93.7
+401671881,2025-01-12,2024,Denver Broncos,away,Buffalo Bills,2577619,Riley Dixon,P,1/1,15,15.0,0,0,0-0,--,118.8
+401671881,2025-01-12,2024,Buffalo Bills,home,Denver Broncos,3918298,Josh Allen,QB,20/26,272,10.5,2,0,2-11,86.3,135.4
+401671878,2025-01-11,2024,Los Angeles Chargers,away,Houston Texans,4038941,Justin Herbert,QB,14/32,242,7.6,1,4,4-31,11.4,40.9
+401671878,2025-01-11,2024,Houston Texans,home,Los Angeles Chargers,4432577,C.J. Stroud,QB,22/33,282,8.5,1,1,3-21,61.9,90.7
+401671879,2025-01-12,2024,Pittsburgh Steelers,away,Baltimore Ravens,14881,Russell Wilson,QB,20/29,270,9.3,2,0,4-19,42.4,121.3
+401671879,2025-01-12,2024,Pittsburgh Steelers,away,Baltimore Ravens,4362887,Justin Fields,QB,0/1,0,0.0,0,0,0-0,5.1,39.6
+401671879,2025-01-12,2024,Baltimore Ravens,home,Pittsburgh Steelers,3916387,Lamar Jackson,QB,16/21,175,8.3,2,0,1-10,82.4,132.0
+401671828,2025-01-05,2024,New Orleans Saints,away,Tampa Bay Buccaneers,4426339,Spencer Rattler,QB,26/42,240,5.7,1,0,2-12,53.9,85.4
+401671828,2025-01-05,2024,Tampa Bay Buccaneers,home,New Orleans Saints,3052587,Baker Mayfield,QB,21/32,221,6.9,2,1,1-5,90.0,93.4
+401671880,2025-01-12,2024,Green Bay Packers,away,Philadelphia Eagles,4036378,Jordan Love,QB,20/33,212,6.4,0,3,2-17,34.7,41.5
+401671880,2025-01-12,2024,Philadelphia Eagles,home,Green Bay Packers,4040715,Jalen Hurts,QB,13/21,131,6.2,2,0,2-10,59.2,111.4
+401671495,2024-12-29,2024,New York Jets,away,Buffalo Bills,8439,Aaron Rodgers,QB,12/18,112,6.2,0,2,4-26,1.0,44.0
+401671495,2024-12-29,2024,New York Jets,away,Buffalo Bills,14163,Tyrod Taylor,QB,11/14,83,5.9,2,0,0-0,94.9,131.0
+401671495,2024-12-29,2024,Buffalo Bills,home,New York Jets,3918298,Josh Allen,QB,16/27,182,6.7,2,0,0-0,68.9,104.2
+401671495,2024-12-29,2024,Buffalo Bills,home,New York Jets,3039707,Mitchell Trubisky,QB,1/1,69,69.0,1,0,0-0,99.5,158.3
+401671738,2024-12-29,2024,Las Vegas Raiders,away,New Orleans Saints,4260394,Aidan O'Connell,QB,20/35,242,6.9,2,0,1-10,86.5,97.6
+401671738,2024-12-29,2024,New Orleans Saints,home,Las Vegas Raiders,4426339,Spencer Rattler,QB,20/36,218,6.1,1,2,3-27,32.2,59.7
+401671738,2024-12-29,2024,New Orleans Saints,home,Las Vegas Raiders,4036335,Cedrick Wilson Jr.,WR,0/0,0,0.0,0,0,1-3,0.5,0.0
+401671886,2025-01-19,2024,Baltimore Ravens,away,Buffalo Bills,3916387,Lamar Jackson,QB,18/25,254,10.2,2,1,2-14,83.6,114.4
+401671886,2025-01-19,2024,Buffalo Bills,home,Baltimore Ravens,3918298,Josh Allen,QB,16/22,127,5.8,0,0,1-1,68.2,86.7
+401671833,2025-01-05,2024,Miami Dolphins,away,New York Jets,4035671,Tyler Huntley,QB,25/41,227,5.5,1,2,4-28,28.5,63.8
+401671833,2025-01-05,2024,New York Jets,home,Miami Dolphins,8439,Aaron Rodgers,QB,23/36,274,7.6,4,1,3-17,41.1,112.5
+401671833,2025-01-05,2024,New York Jets,home,Miami Dolphins,3128390,Allen Lazard,WR,0/1,0,0.0,0,0,0-0,0.0,39.6
+401671888,2025-01-26,2024,Washington Commanders,away,Philadelphia Eagles,4426348,Jayden Daniels,QB,29/48,255,5.3,1,1,3-27,82.1,72.8
+401671888,2025-01-26,2024,Washington Commanders,away,Philadelphia Eagles,16166,Tress Way,P,1/1,23,23.0,0,0,0-0,--,118.8
+401671888,2025-01-26,2024,Philadelphia Eagles,home,Washington Commanders,4040715,Jalen Hurts,QB,20/28,246,8.8,1,0,2-16,69.4,110.1
+401671887,2025-01-26,2024,Buffalo Bills,away,Kansas City Chiefs,3918298,Josh Allen,QB,22/34,237,7.0,2,0,2-10,68.2,104.7
+401671887,2025-01-26,2024,Kansas City Chiefs,home,Buffalo Bills,3139477,Patrick Mahomes,QB,18/26,245,9.4,1,0,2-12,85.4,111.9
+401671883,2025-01-13,2024,Washington Commanders,away,Tampa Bay Buccaneers,4426348,Jayden Daniels,QB,24/35,268,7.7,2,0,1-0,78.2,110.2
+401671883,2025-01-13,2024,Tampa Bay Buccaneers,home,Washington Commanders,3052587,Baker Mayfield,QB,15/18,185,10.3,2,0,1-2,60.7,146.5
+401671844,2025-01-05,2024,Chicago Bears,away,Green Bay Packers,4431611,Caleb Williams,QB,21/29,148,5.1,1,0,1-7,57.3,95.2
+401671844,2025-01-05,2024,Chicago Bears,away,Green Bay Packers,15818,Keenan Allen,WR,0/1,0,0.0,0,1,0-0,0.0,0.0
+401671844,2025-01-05,2024,Green Bay Packers,home,Chicago Bears,4242512,Malik Willis,QB,10/13,136,10.5,0,0,3-21,31.1,109.8
+401671844,2025-01-05,2024,Green Bay Packers,home,Chicago Bears,4036378,Jordan Love,QB,7/12,69,5.8,0,0,0-0,47.2,74.7
+401671765,2024-12-29,2024,Dallas Cowboys,away,Philadelphia Eagles,2972515,Cooper Rush,QB,15/28,147,5.3,1,2,1-7,34.7,50.7
+401671765,2024-12-29,2024,Dallas Cowboys,away,Philadelphia Eagles,4383351,Trey Lance,QB,1/1,1,1.0,0,0,0-0,6.5,79.2
+401671765,2024-12-29,2024,Philadelphia Eagles,home,Dallas Cowboys,4240703,Kenny Pickett,QB,10/15,143,9.5,1,0,0-0,91.5,119.6
+401671765,2024-12-29,2024,Philadelphia Eagles,home,Dallas Cowboys,4685201,Tanner McKee,QB,3/4,54,13.5,2,0,0-0,96.1,156.2
+401671827,2025-01-05,2024,Carolina Panthers,away,Atlanta Falcons,4685720,Bryce Young,QB,25/34,251,7.4,3,0,0-0,93.6,123.5
+401671827,2025-01-05,2024,Carolina Panthers,away,Atlanta Falcons,4695883,Jalen Coker,WR,1/1,19,19.0,0,0,0-0,99.5,118.8
+401671827,2025-01-05,2024,Atlanta Falcons,home,Carolina Panthers,4360423,Michael Penix Jr.,QB,21/38,312,8.2,2,1,1-2,58.0,88.9
+401671882,2025-01-14,2024,Minnesota Vikings,away,Los Angeles Rams,3912547,Sam Darnold,QB,25/40,245,6.1,1,1,9-82,12.0,77.6
+401671882,2025-01-14,2024,Los Angeles Rams,home,Minnesota Vikings,12483,Matthew Stafford,QB,19/27,209,7.7,2,0,2-7,69.8,117.7
+401671830,2025-01-05,2024,Seattle Seahawks,away,Los Angeles Rams,15864,Geno Smith,QB,20/27,223,8.3,4,0,2-13,68.8,137.8
+401671830,2025-01-05,2024,Los Angeles Rams,home,Seattle Seahawks,16760,Jimmy Garoppolo,QB,27/41,334,8.1,2,1,3-15,44.9,97.0
+401671937,2025-01-19,2024,Los Angeles Rams,away,Philadelphia Eagles,12483,Matthew Stafford,QB,26/44,324,7.4,2,0,5-33,49.7,97.2
+401671937,2025-01-19,2024,Philadelphia Eagles,home,Los Angeles Rams,4040715,Jalen Hurts,QB,15/20,128,6.4,0,0,7-63,46.2,91.2
+401671834,2025-01-04,2024,Cleveland Browns,away,Baltimore Ravens,4250360,Bailey Zappe,QB,16/31,170,5.5,1,2,1-5,17.6,51.8
+401671834,2025-01-04,2024,Cleveland Browns,away,Baltimore Ravens,4367178,Dorian Thompson-Robinson,QB,2/3,13,4.3,0,0,1-4,14.9,75.7
+401671834,2025-01-04,2024,Baltimore Ravens,home,Cleveland Browns,3916387,Lamar Jackson,QB,16/32,217,6.8,2,0,0-0,67.8,92.8
+401671889,2025-02-09,2024,Kansas City Chiefs,away,Philadelphia Eagles,3139477,Patrick Mahomes,QB,21/32,257,8.0,3,2,6-31,10.0,95.4
+401671889,2025-02-09,2024,Philadelphia Eagles,home,Kansas City Chiefs,4040715,Jalen Hurts,QB,17/22,221,10.0,2,1,2-11,72.8,119.7
+401671889,2025-02-09,2024,Philadelphia Eagles,home,Kansas City Chiefs,4240703,Kenny Pickett,QB,0/1,0,0.0,0,0,0-0,0.4,39.6
+401671885,2025-01-19,2024,Washington Commanders,away,Detroit Lions,4426348,Jayden Daniels,QB,22/31,299,9.6,2,0,0-0,90.8,122.9
+401671885,2025-01-19,2024,Detroit Lions,home,Washington Commanders,3046779,Jared Goff,QB,23/40,313,7.8,1,3,2-16,37.6,59.7
+401671885,2025-01-19,2024,Detroit Lions,home,Washington Commanders,4035538,David Montgomery,RB,1/1,20,20.0,0,0,0-0,91.6,118.8
+401671885,2025-01-19,2024,Detroit Lions,home,Washington Commanders,16728,Teddy Bridgewater,QB,1/1,3,3.0,0,0,0-0,9.9,79.2
+401671885,2025-01-19,2024,Detroit Lions,home,Washington Commanders,4426388,Jameson Williams,WR,0/1,0,0.0,0,1,0-0,0.0,0.0
+401671884,2025-01-18,2024,Houston Texans,away,Kansas City Chiefs,4432577,C.J. Stroud,QB,19/28,245,8.8,0,0,8-58,61.7,95.1
+401671884,2025-01-18,2024,Kansas City Chiefs,home,Houston Texans,3139477,Patrick Mahomes,QB,16/25,177,7.1,1,0,3-15,63.3,98.2
+401671826,2025-01-05,2024,Houston Texans,away,Tennessee Titans,4242546,Davis Mills,QB,12/22,128,5.8,0,0,1-11,60.2,71.8
+401671826,2025-01-05,2024,Houston Texans,away,Tennessee Titans,4432577,C.J. Stroud,QB,6/6,50,8.3,1,0,0-0,94.8,141.0
+401671826,2025-01-05,2024,Tennessee Titans,home,Houston Texans,4361418,Will Levis,QB,9/17,175,10.3,1,0,1-8,1.2,108.7
+401671826,2025-01-05,2024,Tennessee Titans,home,Houston Texans,3116407,Mason Rudolph,QB,7/9,70,7.8,0,0,1-8,96.3,99.1
+401671838,2025-01-05,2024,Kansas City Chiefs,away,Denver Broncos,2573079,Carson Wentz,QB,10/17,98,5.8,0,0,4-22,19.1,75.1
+401671838,2025-01-05,2024,Kansas City Chiefs,away,Denver Broncos,4044111,Chris Oladokun,QB,0/0,0,0.0,0,0,1-5,0.0,0.0
+401671838,2025-01-05,2024,Denver Broncos,home,Kansas City Chiefs,4426338,Bo Nix,QB,26/29,321,11.1,4,0,0-0,96.8,152.4
+401671845,2025-01-05,2024,San Francisco 49ers,away,Arizona Cardinals,3044720,Joshua Dobbs,QB,29/43,326,7.6,2,2,2-28,23.4,86.0
+401671845,2025-01-05,2024,Arizona Cardinals,home,San Francisco 49ers,3917315,Kyler Murray,QB,25/35,242,6.9,4,0,0-0,56.1,128.5
+401671841,2025-01-05,2024,New York Giants,away,Philadelphia Eagles,3924327,Drew Lock,QB,22/29,138,4.8,1,1,0-0,33.8,82.3
+401671841,2025-01-05,2024,Philadelphia Eagles,home,New York Giants,4685201,Tanner McKee,QB,27/41,269,6.6,2,0,2-17,62.4,100.6
+401671831,2025-01-05,2024,Buffalo Bills,away,New England Patriots,3039707,Mitchell Trubisky,QB,15/21,101,4.8,1,0,0-0,62.3,97.5
+401671831,2025-01-05,2024,Buffalo Bills,away,New England Patriots,3051381,Mike White,QB,3/11,28,2.5,0,0,0-0,12.4,39.6
+401671831,2025-01-05,2024,New England Patriots,home,Buffalo Bills,4360698,Joe Milton III,QB,22/29,241,8.3,1,0,0-0,69.6,111.4
+401671831,2025-01-05,2024,New England Patriots,home,Buffalo Bills,4431452,Drake Maye,QB,0/1,0,0.0,0,0,1-9,0.8,39.6
+401772827,2025-09-07,2025,New York Giants,away,Washington Commanders,14881,Russell Wilson,QB,17/37,168,4.5,0,0,2-11,21.5,59.3
+401772827,2025-09-07,2025,Washington Commanders,home,New York Giants,4426348,Jayden Daniels,QB,19/30,233,7.8,1,0,3-21,48.1,98.3
+401772510,2025-09-05,2025,Dallas Cowboys,away,Philadelphia Eagles,2577417,Dak Prescott,QB,21/34,188,5.5,0,0,0-0,57.9,76.6
+401772510,2025-09-05,2025,Philadelphia Eagles,home,Dallas Cowboys,4040715,Jalen Hurts,QB,19/23,152,6.6,0,0,1-8,89.4,94.2
+401772718,2025-09-07,2025,Arizona Cardinals,away,New Orleans Saints,3917315,Kyler Murray,QB,21/29,163,5.6,2,0,5-33,42.7,108.8
+401772718,2025-09-07,2025,New Orleans Saints,home,Arizona Cardinals,4426339,Spencer Rattler,QB,27/46,214,4.7,0,0,1-6,52.1,70.4
+401772722,2025-09-07,2025,Detroit Lions,away,Green Bay Packers,3046779,Jared Goff,QB,31/39,225,5.8,1,1,4-25,57.3,88.6
+401772722,2025-09-07,2025,Green Bay Packers,home,Detroit Lions,4036378,Jordan Love,QB,16/22,188,8.5,2,0,0-0,94.4,128.6
+401772936,2025-09-12,2025,Washington Commanders,away,Green Bay Packers,4426348,Jayden Daniels,QB,24/42,200,4.8,2,0,4-21,23.7,85.4
+401772936,2025-09-12,2025,Green Bay Packers,home,Washington Commanders,4036378,Jordan Love,QB,19/31,292,9.4,2,0,2-23,52.8,113.9
+401772723,2025-09-07,2025,Houston Texans,away,Los Angeles Rams,4432577,C.J. Stroud,QB,19/27,188,7.0,0,1,3-37,47.4,74.3
+401772723,2025-09-07,2025,Los Angeles Rams,home,Houston Texans,12483,Matthew Stafford,QB,21/29,245,8.4,1,0,3-21,67.6,109.1
+401772831,2025-09-07,2025,San Francisco 49ers,away,Seattle Seahawks,4361741,Brock Purdy,QB,26/35,277,7.9,2,2,1-12,84.6,92.2
+401772831,2025-09-07,2025,Seattle Seahawks,home,San Francisco 49ers,3912547,Sam Darnold,QB,16/23,150,6.5,0,0,1-4,46.3,87.2
+401772714,2025-09-06,2025,Kansas City Chiefs,away,Los Angeles Chargers,3139477,Patrick Mahomes,QB,24/39,258,6.6,1,0,2-9,87.2,89.5
+401772714,2025-09-06,2025,Los Angeles Chargers,home,Kansas City Chiefs,4038941,Justin Herbert,QB,25/34,318,9.4,3,0,3-14,87.9,131.7
+401772721,2025-09-07,2025,Pittsburgh Steelers,away,New York Jets,8439,Aaron Rodgers,QB,22/30,244,8.1,4,0,4-26,55.0,136.7
+401772721,2025-09-07,2025,New York Jets,home,Pittsburgh Steelers,4362887,Justin Fields,QB,16/22,218,9.9,1,0,1-6,77.5,119.1
+401772836,2025-09-14,2025,Seattle Seahawks,away,Pittsburgh Steelers,3912547,Sam Darnold,QB,22/33,295,8.9,2,2,2-17,49.2,89.8
+401772836,2025-09-14,2025,Pittsburgh Steelers,home,Seattle Seahawks,8439,Aaron Rodgers,QB,18/33,203,6.2,1,2,3-20,39.4,58.0
+401772836,2025-09-14,2025,Pittsburgh Steelers,home,Seattle Seahawks,3116407,Mason Rudolph,QB,2/2,12,6.0,0,0,0-0,22.9,91.7
+401772828,2025-09-07,2025,Carolina Panthers,away,Jacksonville Jaguars,4685720,Bryce Young,QB,18/35,154,4.4,1,2,1-12,17.4,49.0
+401772828,2025-09-07,2025,Jacksonville Jaguars,home,Carolina Panthers,4360310,Trevor Lawrence,QB,19/31,178,5.7,1,1,0-0,71.1,74.4
+401772833,2025-09-14,2025,San Francisco 49ers,away,New Orleans Saints,4241464,Mac Jones,QB,26/39,279,7.2,3,0,3-12,61.9,113.1
+401772833,2025-09-14,2025,New Orleans Saints,home,San Francisco 49ers,4426339,Spencer Rattler,QB,25/34,207,6.1,3,0,3-21,46.9,118.1
+401772830,2025-09-07,2025,Tampa Bay Buccaneers,away,Atlanta Falcons,3052587,Baker Mayfield,QB,17/32,167,5.2,3,0,1-8,89.9,99.3
+401772830,2025-09-07,2025,Atlanta Falcons,home,Tampa Bay Buccaneers,4360423,Michael Penix Jr.,QB,27/42,298,7.1,1,0,1-9,86.5,93.2
+401772918,2025-09-08,2025,Baltimore Ravens,away,Buffalo Bills,3916387,Lamar Jackson,QB,14/19,209,11.0,2,0,2-15,93.5,144.4
+401772918,2025-09-08,2025,Buffalo Bills,home,Baltimore Ravens,3918298,Josh Allen,QB,33/46,394,8.6,2,0,1-5,78.9,112.0
+401772832,2025-09-07,2025,Tennessee Titans,away,Denver Broncos,4688380,Cam Ward,QB,12/28,112,4.0,0,0,6-50,12.0,54.5
+401772832,2025-09-07,2025,Denver Broncos,home,Tennessee Titans,4426338,Bo Nix,QB,25/40,176,4.4,1,2,1-10,16.0,60.0
+401772919,2025-09-15,2025,Atlanta Falcons,away,Minnesota Vikings,4360423,Michael Penix Jr.,QB,13/21,135,6.4,0,0,3-27,23.0,80.5
+401772919,2025-09-15,2025,Minnesota Vikings,home,Atlanta Falcons,4433970,J.J. McCarthy,QB,11/21,158,7.5,0,2,6-38,7.2,37.5
+401772724,2025-09-14,2025,Los Angeles Rams,away,Tennessee Titans,12483,Matthew Stafford,QB,23/33,298,9.0,2,1,1-8,64.3,105.4
+401772724,2025-09-14,2025,Tennessee Titans,home,Los Angeles Rams,4688380,Cam Ward,QB,19/33,175,5.3,1,0,5-32,33.9,82.3
+401772728,2025-09-14,2025,New England Patriots,away,Miami Dolphins,4431452,Drake Maye,QB,19/23,230,10.0,2,0,3-19,77.4,137.3
+401772728,2025-09-14,2025,Miami Dolphins,home,New England Patriots,4241479,Tua Tagovailoa,QB,26/32,315,9.8,2,1,5-18,41.8,115.5
+401772734,2025-09-21,2025,Houston Texans,away,Jacksonville Jaguars,4432577,C.J. Stroud,QB,25/38,204,5.4,1,2,2-20,43.4,66.1
+401772734,2025-09-21,2025,Jacksonville Jaguars,home,Houston Texans,4360310,Trevor Lawrence,QB,20/40,222,5.6,0,1,2-17,34.9,56.5
+401772715,2025-09-15,2025,Tampa Bay Buccaneers,away,Houston Texans,3052587,Baker Mayfield,QB,25/38,215,5.7,2,0,4-24,69.2,98.0
+401772715,2025-09-15,2025,Houston Texans,home,Tampa Bay Buccaneers,4432577,C.J. Stroud,QB,13/24,207,8.6,1,0,3-25,24.8,97.0
+401772829,2025-09-07,2025,Cincinnati Bengals,away,Cleveland Browns,3915511,Joe Burrow,QB,14/23,113,4.9,1,0,3-18,59.1,87.8
+401772829,2025-09-07,2025,Cleveland Browns,home,Cincinnati Bengals,11252,Joe Flacco,QB,31/45,290,6.4,1,2,2-12,30.6,75.2
+401772834,2025-09-14,2025,New York Giants,away,Dallas Cowboys,14881,Russell Wilson,QB,30/41,450,11.0,3,1,3-28,74.8,123.0
+401772834,2025-09-14,2025,Dallas Cowboys,home,New York Giants,2577417,Dak Prescott,QB,38/52,361,6.9,2,1,3-18,68.2,96.7
+401772841,2025-09-21,2025,Las Vegas Raiders,away,Washington Commanders,15864,Geno Smith,QB,19/29,289,10.0,3,0,5-28,70.3,132.7
+401772841,2025-09-21,2025,Washington Commanders,home,Las Vegas Raiders,2576980,Marcus Mariota,QB,15/21,207,9.9,1,0,1-8,57.4,118.6
+401772720,2025-09-07,2025,Las Vegas Raiders,away,New England Patriots,15864,Geno Smith,QB,24/34,362,10.6,1,1,4-29,64.6,102.8
+401772720,2025-09-07,2025,New England Patriots,home,Las Vegas Raiders,4431452,Drake Maye,QB,30/46,287,6.2,1,1,4-11,43.5,80.6
+401772839,2025-09-21,2025,Los Angeles Rams,away,Philadelphia Eagles,12483,Matthew Stafford,QB,19/33,196,5.9,2,1,1-0,64.8,82.4
+401772839,2025-09-21,2025,Los Angeles Rams,away,Philadelphia Eagles,4566192,Joshua Karty,PK,0/1,0,0.0,0,0,0-0,0.0,39.6
+401772839,2025-09-21,2025,Philadelphia Eagles,home,Los Angeles Rams,4040715,Jalen Hurts,QB,21/32,226,7.1,3,0,4-24,66.7,117.4
+401772725,2025-09-14,2025,Jacksonville Jaguars,away,Cincinnati Bengals,4360310,Trevor Lawrence,QB,24/42,271,6.5,3,2,1-10,24.2,80.6
+401772725,2025-09-14,2025,Cincinnati Bengals,home,Jacksonville Jaguars,3886812,Jake Browning,QB,21/32,241,7.5,2,3,1-7,62.1,69.9
+401772725,2025-09-14,2025,Cincinnati Bengals,home,Jacksonville Jaguars,3915511,Joe Burrow,QB,7/13,76,5.8,1,0,2-8,56.8,97.0
+401772937,2025-09-19,2025,Miami Dolphins,away,Buffalo Bills,4241479,Tua Tagovailoa,QB,22/34,146,4.3,2,1,0-0,68.0,81.2
+401772937,2025-09-19,2025,Buffalo Bills,home,Miami Dolphins,3918298,Josh Allen,QB,22/28,213,7.6,3,0,2-10,65.4,134.1
+401772726,2025-09-14,2025,Cleveland Browns,away,Baltimore Ravens,11252,Joe Flacco,QB,25/45,199,4.4,1,1,2-11,28.3,65.0
+401772726,2025-09-14,2025,Cleveland Browns,away,Baltimore Ravens,4427238,Dillon Gabriel,QB,3/3,19,6.7,1,0,0-0,100.0,132.6
+401772726,2025-09-14,2025,Baltimore Ravens,home,Cleveland Browns,3916387,Lamar Jackson,QB,19/29,225,7.8,4,0,3-28,76.5,128.6
+401772835,2025-09-14,2025,Chicago Bears,away,Detroit Lions,4431611,Caleb Williams,QB,19/30,207,6.9,2,1,4-29,54.1,91.9
+401772835,2025-09-14,2025,Chicago Bears,away,Detroit Lions,4434153,Tyson Bagent,QB,2/3,27,9.0,0,0,0-0,1.1,95.1
+401772835,2025-09-14,2025,Detroit Lions,home,Chicago Bears,3046779,Jared Goff,QB,23/28,334,11.9,5,0,0-0,93.6,156.0
+401772810,2025-09-09,2025,Minnesota Vikings,away,Chicago Bears,4433970,J.J. McCarthy,QB,13/20,143,7.2,2,1,3-9,48.4,98.5
+401772810,2025-09-09,2025,Chicago Bears,home,Minnesota Vikings,4431611,Caleb Williams,QB,21/35,210,6.0,1,0,2-12,62.0,86.6
+401772727,2025-09-14,2025,Buffalo Bills,away,New York Jets,3918298,Josh Allen,QB,14/25,148,5.9,0,0,1-1,80.5,73.4
+401772727,2025-09-14,2025,Buffalo Bills,away,New York Jets,3039707,Mitchell Trubisky,QB,1/2,32,16.0,0,0,0-0,99.8,95.8
+401772727,2025-09-14,2025,New York Jets,home,Buffalo Bills,14163,Tyrod Taylor,QB,7/11,56,5.1,1,0,2-10,94.1,106.6
+401772727,2025-09-14,2025,New York Jets,home,Buffalo Bills,4362887,Justin Fields,QB,3/11,27,2.5,0,0,2-19,1.2,39.6
+401772729,2025-09-14,2025,Denver Broncos,away,Indianapolis Colts,4426338,Bo Nix,QB,22/30,206,6.9,3,1,0-0,76.1,111.2
+401772729,2025-09-14,2025,Indianapolis Colts,home,Denver Broncos,3917792,Daniel Jones,QB,23/34,316,9.3,1,0,1-10,83.4,107.0
+401772837,2025-09-14,2025,Philadelphia Eagles,away,Kansas City Chiefs,4040715,Jalen Hurts,QB,15/22,101,4.6,0,0,2-7,48.2,78.0
+401772837,2025-09-14,2025,Kansas City Chiefs,home,Philadelphia Eagles,3139477,Patrick Mahomes,QB,16/29,187,6.4,1,1,2-14,80.7,72.1
+401772920,2025-09-22,2025,Kansas City Chiefs,away,New York Giants,3139477,Patrick Mahomes,QB,22/37,224,6.1,1,0,2-23,48.4,85.9
+401772920,2025-09-22,2025,New York Giants,home,Kansas City Chiefs,14881,Russell Wilson,QB,18/32,160,5.0,0,2,2-9,6.0,43.8
+401772737,2025-09-28,2025,Los Angeles Chargers,away,New York Giants,4038941,Justin Herbert,QB,23/41,203,5.0,1,2,2-17,36.8,57.3
+401772737,2025-09-28,2025,New York Giants,home,Los Angeles Chargers,4689114,Jaxson Dart,QB,13/20,111,5.6,1,0,5-25,49.7,96.0
+401772737,2025-09-28,2025,New York Giants,home,Los Angeles Chargers,14881,Russell Wilson,QB,1/1,8,8.0,0,0,1-5,0.8,100.0
+401772719,2025-09-07,2025,Miami Dolphins,away,Indianapolis Colts,4241479,Tua Tagovailoa,QB,14/23,114,5.0,1,2,3-13,3.3,51.7
+401772719,2025-09-07,2025,Miami Dolphins,away,Indianapolis Colts,4361259,Zach Wilson,QB,5/8,32,4.0,0,0,0-0,18.9,70.8
+401772719,2025-09-07,2025,Indianapolis Colts,home,Miami Dolphins,3917792,Daniel Jones,QB,22/29,272,9.4,1,0,1-10,84.4,115.9
+401772844,2025-09-21,2025,Dallas Cowboys,away,Chicago Bears,2577417,Dak Prescott,QB,31/40,251,6.3,1,2,2-17,37.3,80.3
+401772844,2025-09-21,2025,Dallas Cowboys,away,Chicago Bears,4360698,Joe Milton III,QB,3/5,41,8.2,0,1,0-0,32.3,46.7
+401772844,2025-09-21,2025,Chicago Bears,home,Dallas Cowboys,4431611,Caleb Williams,QB,19/28,298,10.6,4,0,0-0,88.6,142.6
+401772842,2025-09-21,2025,Green Bay Packers,away,Cleveland Browns,4036378,Jordan Love,QB,18/25,183,7.3,1,1,5-34,52.5,89.2
+401772842,2025-09-21,2025,Cleveland Browns,home,Green Bay Packers,11252,Joe Flacco,QB,21/36,142,3.9,0,1,2-17,34.3,55.6
+401772732,2025-09-21,2025,Pittsburgh Steelers,away,New England Patriots,8439,Aaron Rodgers,QB,16/23,139,6.0,2,1,0-0,41.9,96.1
+401772732,2025-09-21,2025,New England Patriots,home,Pittsburgh Steelers,4431452,Drake Maye,QB,28/37,268,7.2,2,1,5-18,64.5,102.1
+401772811,2025-09-16,2025,Los Angeles Chargers,away,Las Vegas Raiders,4038941,Justin Herbert,QB,19/27,242,9.0,2,0,2-6,77.5,122.8
+401772811,2025-09-16,2025,Las Vegas Raiders,home,Los Angeles Chargers,15864,Geno Smith,QB,24/43,180,4.2,0,3,3-30,24.8,37.0
+401772738,2025-09-28,2025,Tennessee Titans,away,Houston Texans,4688380,Cam Ward,QB,10/26,108,4.2,0,1,2-15,31.2,35.4
+401772738,2025-09-28,2025,Houston Texans,home,Tennessee Titans,4432577,C.J. Stroud,QB,22/28,233,8.3,2,0,2-9,73.1,125.1
+401772812,2025-09-23,2025,Detroit Lions,away,Baltimore Ravens,3046779,Jared Goff,QB,20/28,202,7.2,1,0,0-0,73.9,103.6
+401772812,2025-09-23,2025,Baltimore Ravens,home,Detroit Lions,3916387,Lamar Jackson,QB,21/27,288,10.7,3,0,7-55,79.1,148.1
+401772812,2025-09-23,2025,Baltimore Ravens,home,Detroit Lions,3043078,Derrick Henry,RB,0/1,0,0.0,0,0,0-0,19.9,39.6
+401772739,2025-09-28,2025,Washington Commanders,away,Atlanta Falcons,2576980,Marcus Mariota,QB,16/27,156,5.8,2,1,2-9,77.2,84.8
+401772739,2025-09-28,2025,Atlanta Falcons,home,Washington Commanders,4360423,Michael Penix Jr.,QB,20/26,313,12.0,2,1,1-6,88.7,126.0
+401772733,2025-09-21,2025,Indianapolis Colts,away,Tennessee Titans,3917792,Daniel Jones,QB,18/25,228,9.1,1,0,0-0,92.4,113.4
+401772733,2025-09-21,2025,Tennessee Titans,home,Indianapolis Colts,4688380,Cam Ward,QB,23/38,219,5.8,1,1,4-23,33.8,74.3
+401772730,2025-09-14,2025,Carolina Panthers,away,Arizona Cardinals,4685720,Bryce Young,QB,35/55,328,6.0,3,1,3-25,41.7,90.6
+401772730,2025-09-14,2025,Arizona Cardinals,home,Carolina Panthers,3917315,Kyler Murray,QB,17/25,220,8.8,1,1,1-9,68.1,92.1
+401772735,2025-09-21,2025,Denver Broncos,away,Los Angeles Chargers,4426338,Bo Nix,QB,14/25,153,6.1,1,0,2-6,46.3,87.6
+401772735,2025-09-21,2025,Los Angeles Chargers,home,Denver Broncos,4038941,Justin Herbert,QB,28/47,300,6.4,1,1,5-30,51.4,76.6
+401772736,2025-09-21,2025,New Orleans Saints,away,Seattle Seahawks,4426339,Spencer Rattler,QB,28/39,218,5.6,1,1,2-13,49.4,83.1
+401772736,2025-09-21,2025,New Orleans Saints,away,Seattle Seahawks,4360689,Tyler Shough,QB,0/2,0,0.0,0,0,0-0,3.2,39.6
+401772736,2025-09-21,2025,Seattle Seahawks,home,New Orleans Saints,3912547,Sam Darnold,QB,14/18,218,12.1,2,0,0-0,97.6,154.2
+401772736,2025-09-21,2025,Seattle Seahawks,home,New Orleans Saints,3924327,Drew Lock,QB,2/3,15,5.0,0,0,0-0,4.4,78.5
+401772847,2025-09-28,2025,Carolina Panthers,away,New England Patriots,4685720,Bryce Young,QB,18/30,150,5.0,1,0,1-11,41.0,84.0
+401772847,2025-09-28,2025,Carolina Panthers,away,New England Patriots,14012,Andy Dalton,QB,5/6,58,9.7,1,0,0-0,100.0,146.5
+401772847,2025-09-28,2025,New England Patriots,home,Carolina Panthers,4431452,Drake Maye,QB,14/17,203,11.9,2,0,1-0,93.1,155.6
+401772847,2025-09-28,2025,New England Patriots,home,Carolina Panthers,3044720,Joshua Dobbs,QB,0/1,0,0.0,0,0,0-0,1.0,39.6
+401772848,2025-09-28,2025,Jacksonville Jaguars,away,San Francisco 49ers,4360310,Trevor Lawrence,QB,21/31,174,5.6,1,0,0-0,61.4,92.7
+401772848,2025-09-28,2025,San Francisco 49ers,home,Jacksonville Jaguars,4361741,Brock Purdy,QB,22/38,309,8.1,2,2,1-3,45.3,79.8
+401772938,2025-09-26,2025,Seattle Seahawks,away,Arizona Cardinals,3912547,Sam Darnold,QB,18/26,242,9.3,1,0,3-13,75.6,111.4
+401772938,2025-09-26,2025,Arizona Cardinals,home,Seattle Seahawks,3917315,Kyler Murray,QB,27/41,200,4.9,2,2,6-36,28.3,73.2
+401772846,2025-09-28,2025,Cleveland Browns,away,Detroit Lions,11252,Joe Flacco,QB,16/34,184,5.4,0,2,3-14,15.3,39.3
+401772846,2025-09-28,2025,Cleveland Browns,away,Detroit Lions,4427238,Dillon Gabriel,QB,0/1,0,0.0,0,0,0-0,0.4,39.6
+401772846,2025-09-28,2025,Detroit Lions,home,Cleveland Browns,3046779,Jared Goff,QB,16/27,168,6.2,2,1,0-0,52.3,86.7
+401772840,2025-09-21,2025,New York Jets,away,Tampa Bay Buccaneers,14163,Tyrod Taylor,QB,26/36,197,5.5,2,1,4-29,54.2,92.0
+401772840,2025-09-21,2025,Tampa Bay Buccaneers,home,New York Jets,3052587,Baker Mayfield,QB,19/29,233,8.0,1,0,1-8,59.8,101.7
+401772632,2025-09-28,2025,Minnesota Vikings,away,Pittsburgh Steelers,2573079,Carson Wentz,QB,30/46,350,7.6,2,2,6-48,43.1,84.5
+401772632,2025-09-28,2025,Pittsburgh Steelers,home,Minnesota Vikings,8439,Aaron Rodgers,QB,18/22,200,9.1,1,0,2-18,31.5,119.7
+401772921,2025-09-29,2025,Green Bay Packers,away,Dallas Cowboys,4036378,Jordan Love,QB,31/43,337,7.8,3,0,1-12,63.6,118.1
+401772921,2025-09-29,2025,Dallas Cowboys,home,Green Bay Packers,2577417,Dak Prescott,QB,31/40,319,8.0,3,0,1-0,95.5,124.9
+401772716,2025-09-30,2025,Cincinnati Bengals,away,Denver Broncos,3886812,Jake Browning,QB,14/25,125,5.0,0,0,3-19,32.0,69.6
+401772716,2025-09-30,2025,Denver Broncos,home,Cincinnati Bengals,4426338,Bo Nix,QB,29/42,326,7.8,2,1,0-0,74.2,97.9
+401772740,2025-09-28,2025,New Orleans Saints,away,Buffalo Bills,4426339,Spencer Rattler,QB,18/27,126,4.7,1,0,3-17,77.8,89.4
+401772740,2025-09-28,2025,New Orleans Saints,away,Buffalo Bills,4361370,Chris Olave,WR,0/1,0,0.0,0,1,0-0,0.0,0.0
+401772740,2025-09-28,2025,Buffalo Bills,home,New Orleans Saints,3918298,Josh Allen,QB,16/22,209,9.5,2,1,3-18,88.8,113.6
+401772744,2025-10-05,2025,New York Giants,away,New Orleans Saints,4689114,Jaxson Dart,QB,26/40,202,5.1,2,2,1-3,48.5,73.1
+401772744,2025-10-05,2025,New Orleans Saints,home,New York Giants,4426339,Spencer Rattler,QB,21/31,225,7.5,1,0,0-0,57.8,99.5
+401772744,2025-10-05,2025,New Orleans Saints,home,New York Giants,2468609,Taysom Hill,QB,1/1,19,19.0,0,0,0-0,22.6,118.8
+401772843,2025-09-21,2025,Arizona Cardinals,away,San Francisco 49ers,3917315,Kyler Murray,QB,22/35,159,4.5,1,0,1-5,46.6,82.9
+401772843,2025-09-21,2025,San Francisco 49ers,home,Arizona Cardinals,4241464,Mac Jones,QB,27/41,284,6.9,1,1,1-2,63.3,83.8
+401772838,2025-09-21,2025,Atlanta Falcons,away,Carolina Panthers,4360423,Michael Penix Jr.,QB,18/36,172,4.8,0,2,0-0,9.9,40.5
+401772838,2025-09-21,2025,Atlanta Falcons,away,Carolina Panthers,14880,Kirk Cousins,QB,5/7,29,4.1,0,0,0-0,8.6,78.9
+401772838,2025-09-21,2025,Carolina Panthers,home,Atlanta Falcons,4685720,Bryce Young,QB,16/24,121,5.0,0,0,1-7,74.4,78.6
+401772745,2025-10-05,2025,Denver Broncos,away,Philadelphia Eagles,4426338,Bo Nix,QB,24/39,242,6.2,1,0,2-14,61.4,87.8
+401772745,2025-10-05,2025,Philadelphia Eagles,home,Denver Broncos,4040715,Jalen Hurts,QB,23/38,280,7.4,2,0,6-23,59.6,100.8
+401772853,2025-10-05,2025,Washington Commanders,away,Los Angeles Chargers,4426348,Jayden Daniels,QB,15/26,231,8.9,1,0,1-5,76.6,100.0
+401772853,2025-10-05,2025,Los Angeles Chargers,home,Washington Commanders,4038941,Justin Herbert,QB,22/29,166,5.7,1,1,4-24,53.1,86.3
+401772853,2025-10-05,2025,Los Angeles Chargers,home,Washington Commanders,4383351,Trey Lance,QB,3/4,44,11.0,0,0,1-5,51.9,110.4
+401772814,2025-10-07,2025,Kansas City Chiefs,away,Jacksonville Jaguars,3139477,Patrick Mahomes,QB,29/41,318,7.8,1,1,0-0,75.5,91.3
+401772814,2025-10-07,2025,Jacksonville Jaguars,home,Kansas City Chiefs,4360310,Trevor Lawrence,QB,18/25,221,8.8,1,1,3-11,48.5,95.6
+401772922,2025-10-06,2025,New England Patriots,away,Buffalo Bills,4431452,Drake Maye,QB,22/30,273,9.1,0,0,4-6,71.4,101.1
+401772922,2025-10-06,2025,Buffalo Bills,home,New England Patriots,3918298,Josh Allen,QB,22/31,253,8.2,2,1,1-8,46.8,103.3
+401772845,2025-09-28,2025,Philadelphia Eagles,away,Tampa Bay Buccaneers,4040715,Jalen Hurts,QB,15/24,130,5.4,2,0,2-18,59.3,104.5
+401772845,2025-09-28,2025,Tampa Bay Buccaneers,home,Philadelphia Eagles,3052587,Baker Mayfield,QB,22/40,289,7.2,2,1,2-17,19.5,84.3
+401772747,2025-10-05,2025,Tennessee Titans,away,Arizona Cardinals,4688380,Cam Ward,QB,21/39,265,6.8,0,1,2-16,34.8,64.6
+401772747,2025-10-05,2025,Arizona Cardinals,home,Tennessee Titans,3917315,Kyler Murray,QB,23/31,220,7.1,0,0,3-28,49.0,93.5
+401772747,2025-10-05,2025,Arizona Cardinals,home,Tennessee Titans,2578570,Jacoby Brissett,QB,0/1,0,0.0,0,0,0-0,1.1,39.6
+401772854,2025-10-05,2025,Detroit Lions,away,Cincinnati Bengals,3046779,Jared Goff,QB,19/23,258,11.2,3,0,4-14,63.5,153.0
+401772854,2025-10-05,2025,Detroit Lions,away,Cincinnati Bengals,4035538,David Montgomery,RB,1/1,3,3.0,1,0,0-0,99.6,118.8
+401772854,2025-10-05,2025,Cincinnati Bengals,home,Detroit Lions,3886812,Jake Browning,QB,26/40,251,6.3,3,3,2-14,21.5,76.1
+401772849,2025-09-28,2025,Indianapolis Colts,away,Los Angeles Rams,3917792,Daniel Jones,QB,24/33,262,7.9,1,2,2-14,57.8,80.6
+401772849,2025-09-28,2025,Los Angeles Rams,home,Indianapolis Colts,12483,Matthew Stafford,QB,29/41,375,9.1,3,0,3-15,77.8,123.5
+401772743,2025-10-05,2025,Houston Texans,away,Baltimore Ravens,4432577,C.J. Stroud,QB,23/27,244,9.0,4,0,2-17,99.5,143.9
+401772743,2025-10-05,2025,Houston Texans,away,Baltimore Ravens,4242546,Davis Mills,QB,2/4,23,5.8,0,0,0-0,47.9,67.7
+401772743,2025-10-05,2025,Baltimore Ravens,home,Houston Texans,2972515,Cooper Rush,QB,14/20,179,9.0,0,3,1-16,31.9,58.1
+401772742,2025-09-28,2025,Chicago Bears,away,Las Vegas Raiders,4431611,Caleb Williams,QB,22/37,212,5.7,1,1,1-10,48.5,73.3
+401772742,2025-09-28,2025,Las Vegas Raiders,home,Chicago Bears,15864,Geno Smith,QB,14/21,117,5.6,2,3,0-0,21.3,73.0
+401772741,2025-09-28,2025,Baltimore Ravens,away,Kansas City Chiefs,3916387,Lamar Jackson,QB,14/20,147,7.4,1,1,3-5,32.0,86.9
+401772741,2025-09-28,2025,Baltimore Ravens,away,Kansas City Chiefs,2972515,Cooper Rush,QB,9/13,52,4.0,0,0,0-0,36.1,76.4
+401772741,2025-09-28,2025,Kansas City Chiefs,home,Baltimore Ravens,3139477,Patrick Mahomes,QB,25/37,270,7.3,4,0,1-6,76.0,124.8
+401772813,2025-09-29,2025,New York Jets,away,Miami Dolphins,4362887,Justin Fields,QB,20/27,226,8.4,1,0,2-19,79.7,111.0
+401772813,2025-09-29,2025,Miami Dolphins,home,New York Jets,4241479,Tua Tagovailoa,QB,17/25,177,7.1,2,0,0-0,55.8,114.9
+401772939,2025-10-03,2025,San Francisco 49ers,away,Los Angeles Rams,4241464,Mac Jones,QB,33/49,342,7.0,2,0,1-9,73.5,100.9
+401772939,2025-10-03,2025,Los Angeles Rams,home,San Francisco 49ers,12483,Matthew Stafford,QB,30/47,389,8.3,3,0,1-11,49.5,111.0
+401772859,2025-10-12,2025,Tennessee Titans,away,Las Vegas Raiders,4688380,Cam Ward,QB,26/38,222,5.8,1,1,6-62,13.0,81.3
+401772859,2025-10-12,2025,Las Vegas Raiders,home,Tennessee Titans,15864,Geno Smith,QB,17/23,174,7.6,1,1,2-16,31.3,91.6
+401772815,2025-10-13,2025,Buffalo Bills,away,Atlanta Falcons,3918298,Josh Allen,QB,15/26,180,6.9,2,2,4-23,18.6,72.6
+401772815,2025-10-13,2025,Atlanta Falcons,home,Buffalo Bills,4360423,Michael Penix Jr.,QB,20/32,250,7.8,1,0,2-17,37.3,97.1
+401772633,2025-10-05,2025,Minnesota Vikings,away,Cleveland Browns,2573079,Carson Wentz,QB,25/34,236,6.9,1,0,3-16,51.3,102.1
+401772633,2025-10-05,2025,Minnesota Vikings,away,Cleveland Browns,4240021,Cam Akers,RB,1/1,32,32.0,1,0,0-0,100.0,158.3
+401772633,2025-10-05,2025,Cleveland Browns,home,Minnesota Vikings,4427238,Dillon Gabriel,QB,19/33,190,5.8,2,0,2-8,29.2,94.3
+401772852,2025-10-05,2025,Miami Dolphins,away,Carolina Panthers,4241479,Tua Tagovailoa,QB,27/36,256,7.1,3,0,3-27,80.0,122.0
+401772852,2025-10-05,2025,Carolina Panthers,home,Miami Dolphins,4685720,Bryce Young,QB,19/30,198,6.6,2,1,3-19,39.6,90.7
+401772746,2025-10-05,2025,Tampa Bay Buccaneers,away,Seattle Seahawks,3052587,Baker Mayfield,QB,29/33,379,11.5,2,0,1-9,93.0,134.7
+401772746,2025-10-05,2025,Seattle Seahawks,home,Tampa Bay Buccaneers,3912547,Sam Darnold,QB,28/34,341,10.0,4,1,0-0,97.3,135.4
+401772634,2025-10-12,2025,Denver Broncos,away,New York Jets,4426338,Bo Nix,QB,19/30,174,5.8,1,0,1-6,33.3,90.1
+401772634,2025-10-12,2025,New York Jets,home,Denver Broncos,4362887,Justin Fields,QB,9/17,45,2.6,0,0,9-55,8.5,58.7
+401772858,2025-10-12,2025,Dallas Cowboys,away,Carolina Panthers,2577417,Dak Prescott,QB,25/34,261,7.7,3,0,0-0,92.4,124.8
+401772858,2025-10-12,2025,Carolina Panthers,home,Dallas Cowboys,4685720,Bryce Young,QB,17/25,199,8.0,3,1,1-5,53.0,114.8
+401772717,2025-10-14,2025,Chicago Bears,away,Washington Commanders,4431611,Caleb Williams,QB,17/29,252,8.7,1,0,3-16,30.6,98.6
+401772717,2025-10-14,2025,Washington Commanders,home,Chicago Bears,4426348,Jayden Daniels,QB,19/26,211,8.1,3,1,3-6,65.9,119.2
+401772850,2025-10-05,2025,Dallas Cowboys,away,New York Jets,2577417,Dak Prescott,QB,18/29,237,8.2,4,0,1-1,87.1,127.4
+401772850,2025-10-05,2025,New York Jets,home,Dallas Cowboys,4362887,Justin Fields,QB,32/46,283,6.2,2,0,5-49,24.5,100.2
+401772856,2025-10-12,2025,Arizona Cardinals,away,Indianapolis Colts,2578570,Jacoby Brissett,QB,27/44,320,7.3,2,1,2-8,68.7,89.2
+401772856,2025-10-12,2025,Indianapolis Colts,home,Arizona Cardinals,3917792,Daniel Jones,QB,22/30,212,7.1,2,1,1-7,66.9,101.0
+401772751,2025-10-12,2025,New England Patriots,away,New Orleans Saints,4431452,Drake Maye,QB,18/26,261,10.0,3,0,1-1,94.1,140.1
+401772751,2025-10-12,2025,New Orleans Saints,home,New England Patriots,4426339,Spencer Rattler,QB,20/26,227,8.7,0,0,2-4,71.1,102.6
+401772749,2025-10-12,2025,San Francisco 49ers,away,Tampa Bay Buccaneers,4241464,Mac Jones,QB,27/39,347,8.9,0,2,6-51,24.1,75.5
+401772749,2025-10-12,2025,Tampa Bay Buccaneers,home,San Francisco 49ers,3052587,Baker Mayfield,QB,17/23,256,11.1,2,0,1-8,78.1,139.0
+401772750,2025-10-12,2025,Los Angeles Chargers,away,Miami Dolphins,4038941,Justin Herbert,QB,29/38,264,6.9,2,0,1-1,67.6,112.2
+401772750,2025-10-12,2025,Miami Dolphins,home,Los Angeles Chargers,4241479,Tua Tagovailoa,QB,21/32,205,6.4,1,3,2-9,57.1,54.8
+401772750,2025-10-12,2025,Miami Dolphins,home,Los Angeles Chargers,4372016,Jaylen Waddle,WR,1/1,8,8.0,0,0,0-0,0.1,100.0
+401772731,2025-09-21,2025,Cincinnati Bengals,away,Minnesota Vikings,3886812,Jake Browning,QB,19/27,140,5.2,1,2,3-20,19.0,63.8
+401772731,2025-09-21,2025,Cincinnati Bengals,away,Minnesota Vikings,3722362,Brett Rypien,QB,0/0,0,0.0,0,0,1-2,0.0,0.0
+401772731,2025-09-21,2025,Minnesota Vikings,home,Cincinnati Bengals,2573079,Carson Wentz,QB,14/20,173,8.7,2,0,3-19,22.9,129.8
+401772731,2025-09-21,2025,Minnesota Vikings,home,Cincinnati Bengals,4573398,Max Brosmer,QB,2/4,29,7.3,0,0,0-0,2.0,74.0
+401772851,2025-10-05,2025,Las Vegas Raiders,away,Indianapolis Colts,15864,Geno Smith,QB,25/36,228,6.3,0,2,4-38,19.9,63.2
+401772851,2025-10-05,2025,Indianapolis Colts,home,Las Vegas Raiders,3917792,Daniel Jones,QB,20/29,212,7.3,2,0,0-0,81.6,113.0
+401772851,2025-10-05,2025,Indianapolis Colts,home,Las Vegas Raiders,4429084,Anthony Richardson Sr.,QB,1/2,9,4.5,0,0,0-0,2.1,62.5
+401772851,2025-10-05,2025,Indianapolis Colts,home,Las Vegas Raiders,4431459,Tyler Warren,TE,0/1,0,0.0,0,0,0-0,0.6,39.6
+401772635,2025-10-19,2025,Los Angeles Rams,away,Jacksonville Jaguars,12483,Matthew Stafford,QB,21/33,182,5.5,5,0,0-0,75.6,117.7
+401772635,2025-10-19,2025,Jacksonville Jaguars,home,Los Angeles Rams,4360310,Trevor Lawrence,QB,23/48,296,6.2,1,0,7-32,12.2,74.7
+401772861,2025-10-19,2025,New Orleans Saints,away,Chicago Bears,4426339,Spencer Rattler,QB,20/32,233,7.3,2,3,4-24,24.1,66.3
+401772861,2025-10-19,2025,Chicago Bears,home,New Orleans Saints,4431611,Caleb Williams,QB,15/26,172,6.6,0,1,1-8,21.6,61.7
+401772857,2025-10-12,2025,Seattle Seahawks,away,Jacksonville Jaguars,3912547,Sam Darnold,QB,16/27,295,10.9,2,0,1-9,69.6,121.7
+401772857,2025-10-12,2025,Jacksonville Jaguars,home,Seattle Seahawks,4360310,Trevor Lawrence,QB,27/42,258,6.1,2,0,7-44,51.9,97.1
+401772923,2025-10-13,2025,Detroit Lions,away,Kansas City Chiefs,3046779,Jared Goff,QB,23/29,203,7.0,2,0,1-4,82.1,118.8
+401772923,2025-10-13,2025,Kansas City Chiefs,home,Detroit Lions,3139477,Patrick Mahomes,QB,22/30,257,8.6,3,0,3-14,83.1,132.2
+401772748,2025-10-12,2025,Cleveland Browns,away,Pittsburgh Steelers,4427238,Dillon Gabriel,QB,29/52,221,4.3,0,0,6-38,31.4,66.3
+401772748,2025-10-12,2025,Pittsburgh Steelers,home,Cleveland Browns,8439,Aaron Rodgers,QB,21/30,235,7.8,2,0,0-0,69.1,115.3
+401772941,2025-10-17,2025,Pittsburgh Steelers,away,Cincinnati Bengals,8439,Aaron Rodgers,QB,23/34,249,7.3,4,2,0-0,71.0,103.7
+401772941,2025-10-17,2025,Cincinnati Bengals,home,Pittsburgh Steelers,11252,Joe Flacco,QB,31/47,342,7.3,3,0,2-14,76.3,108.6
+401772752,2025-10-12,2025,Cincinnati Bengals,away,Green Bay Packers,11252,Joe Flacco,QB,29/45,219,4.9,2,0,1-6,72.8,90.9
+401772752,2025-10-12,2025,Green Bay Packers,home,Cincinnati Bengals,4036378,Jordan Love,QB,19/26,259,10.0,1,1,1-3,76.5,101.3
+401772826,2025-10-21,2025,Houston Texans,away,Seattle Seahawks,4432577,C.J. Stroud,QB,23/49,229,4.7,1,1,3-31,26.9,59.0
+401772826,2025-10-21,2025,Seattle Seahawks,home,Houston Texans,3912547,Sam Darnold,QB,17/31,213,6.9,1,1,2-15,40.9,73.7
+401772826,2025-10-21,2025,Seattle Seahawks,home,Houston Texans,2977187,Cooper Kupp,WR,0/1,0,0.0,0,1,0-0,0.0,0.0
+401772862,2025-10-19,2025,Philadelphia Eagles,away,Minnesota Vikings,4040715,Jalen Hurts,QB,19/23,326,14.2,3,0,3-10,94.3,158.3
+401772862,2025-10-19,2025,Minnesota Vikings,home,Philadelphia Eagles,2573079,Carson Wentz,QB,26/42,313,7.5,0,2,2-15,47.1,64.9
+401772755,2025-10-19,2025,New England Patriots,away,Tennessee Titans,4431452,Drake Maye,QB,21/23,222,9.7,2,0,4-22,96.1,135.9
+401772755,2025-10-19,2025,New England Patriots,away,Tennessee Titans,3044720,Joshua Dobbs,QB,1/1,12,12.0,0,0,0-0,100.0,116.7
+401772755,2025-10-19,2025,Tennessee Titans,home,New England Patriots,4688380,Cam Ward,QB,25/34,255,7.5,1,1,5-39,17.7,92.2
+401772753,2025-10-19,2025,Las Vegas Raiders,away,Kansas City Chiefs,15864,Geno Smith,QB,10/16,67,4.2,0,0,1-5,6.7,71.6
+401772753,2025-10-19,2025,Las Vegas Raiders,away,Kansas City Chiefs,4240703,Kenny Pickett,QB,2/2,8,4.0,0,0,0-0,0.0,83.3
+401772753,2025-10-19,2025,Kansas City Chiefs,home,Las Vegas Raiders,3139477,Patrick Mahomes,QB,26/35,286,8.2,3,0,1-4,90.0,126.6
+401772940,2025-10-10,2025,Philadelphia Eagles,away,New York Giants,4040715,Jalen Hurts,QB,24/33,283,8.6,1,1,3-17,25.9,95.9
+401772940,2025-10-10,2025,New York Giants,home,Philadelphia Eagles,4689114,Jaxson Dart,QB,17/25,195,7.8,1,0,2-1,90.4,104.6
+401772940,2025-10-10,2025,New York Giants,home,Philadelphia Eagles,14881,Russell Wilson,QB,0/1,0,0.0,0,0,0-0,0.0,39.6
+401772863,2025-10-19,2025,Green Bay Packers,away,Arizona Cardinals,4036378,Jordan Love,QB,19/29,179,6.2,1,0,1-11,72.5,93.9
+401772863,2025-10-19,2025,Arizona Cardinals,home,Green Bay Packers,2578570,Jacoby Brissett,QB,25/36,279,7.8,2,0,6-43,31.4,110.8
+401772869,2025-10-26,2025,Tampa Bay Buccaneers,away,New Orleans Saints,3052587,Baker Mayfield,QB,15/24,152,6.3,0,0,3-28,40.6,80.6
+401772869,2025-10-26,2025,New Orleans Saints,home,Tampa Bay Buccaneers,4426339,Spencer Rattler,QB,15/21,136,6.5,0,1,3-19,13.8,68.8
+401772869,2025-10-26,2025,New Orleans Saints,home,Tampa Bay Buccaneers,4360689,Tyler Shough,QB,17/30,128,4.3,0,1,2-18,7.4,53.2
+401772864,2025-10-19,2025,Washington Commanders,away,Dallas Cowboys,4426348,Jayden Daniels,QB,12/22,156,7.1,1,0,2-5,43.4,92.2
+401772864,2025-10-19,2025,Washington Commanders,away,Dallas Cowboys,2576980,Marcus Mariota,QB,4/10,63,6.3,0,1,2-9,6.8,22.1
+401772864,2025-10-19,2025,Dallas Cowboys,home,Washington Commanders,2577417,Dak Prescott,QB,21/30,264,8.8,3,0,1-7,86.1,130.4
+401772758,2025-10-26,2025,New York Jets,away,Cincinnati Bengals,4362887,Justin Fields,QB,21/32,244,7.6,1,0,0-0,63.8,99.0
+401772758,2025-10-26,2025,New York Jets,away,Cincinnati Bengals,4427366,Breece Hall,RB,1/1,4,4.0,1,0,0-0,100.0,122.9
+401772758,2025-10-26,2025,Cincinnati Bengals,home,New York Jets,11252,Joe Flacco,QB,21/34,223,6.6,2,0,1-6,43.6,100.5
+401772866,2025-10-26,2025,San Francisco 49ers,away,Houston Texans,4241464,Mac Jones,QB,19/32,193,6.0,2,1,2-18,75.1,84.5
+401772866,2025-10-26,2025,Houston Texans,home,San Francisco 49ers,4432577,C.J. Stroud,QB,30/39,318,8.2,2,1,0-0,87.9,106.6
+401772855,2025-10-12,2025,Los Angeles Rams,away,Baltimore Ravens,12483,Matthew Stafford,QB,17/26,181,7.0,1,0,2-14,63.2,98.4
+401772855,2025-10-12,2025,Baltimore Ravens,home,Los Angeles Rams,2972515,Cooper Rush,QB,11/19,72,3.8,0,1,0-0,24.4,44.2
+401772855,2025-10-12,2025,Baltimore Ravens,home,Los Angeles Rams,4035671,Tyler Huntley,QB,10/15,68,4.5,0,0,4-23,62.2,76.5
+401772759,2025-10-26,2025,Chicago Bears,away,Baltimore Ravens,4431611,Caleb Williams,QB,25/38,285,7.5,0,1,1-9,69.4,77.2
+401772759,2025-10-26,2025,Baltimore Ravens,home,Chicago Bears,4035671,Tyler Huntley,QB,17/22,186,8.5,1,0,2-8,88.9,116.9
+401772860,2025-10-19,2025,Carolina Panthers,away,New York Jets,4685720,Bryce Young,QB,15/25,138,5.5,1,0,1-12,59.3,88.4
+401772860,2025-10-19,2025,Carolina Panthers,away,New York Jets,14012,Andy Dalton,QB,4/7,60,8.6,0,0,1-9,27.4,85.4
+401772860,2025-10-19,2025,New York Jets,home,Carolina Panthers,14163,Tyrod Taylor,QB,10/22,126,5.7,0,2,3-12,12.4,25.9
+401772860,2025-10-19,2025,New York Jets,home,Carolina Panthers,4362887,Justin Fields,QB,6/12,46,3.8,0,0,3-21,11.0,59.7
+401772754,2025-10-19,2025,Miami Dolphins,away,Cleveland Browns,4241479,Tua Tagovailoa,QB,12/23,100,4.3,0,3,2-13,3.6,24.1
+401772754,2025-10-19,2025,Miami Dolphins,away,Cleveland Browns,4889929,Quinn Ewers,QB,5/8,53,6.6,0,0,2-20,22.7,81.8
+401772754,2025-10-19,2025,Cleveland Browns,home,Miami Dolphins,4427238,Dillon Gabriel,QB,13/18,116,6.4,0,0,2-14,25.0,89.1
+401772867,2025-10-26,2025,New York Giants,away,Philadelphia Eagles,4689114,Jaxson Dart,QB,14/24,193,8.0,1,0,5-15,55.8,98.1
+401772867,2025-10-26,2025,Philadelphia Eagles,home,New York Giants,4040715,Jalen Hurts,QB,15/20,179,9.0,4,0,4-28,64.0,141.5
+401772817,2025-10-28,2025,Washington Commanders,away,Kansas City Chiefs,2576980,Marcus Mariota,QB,21/30,213,7.1,1,2,2-13,57.8,73.3
+401772817,2025-10-28,2025,Kansas City Chiefs,home,Washington Commanders,3139477,Patrick Mahomes,QB,25/34,299,8.8,3,2,3-15,57.9,104.9
+401772760,2025-10-26,2025,Miami Dolphins,away,Atlanta Falcons,4241479,Tua Tagovailoa,QB,20/26,205,7.9,4,0,1-8,67.3,138.6
+401772760,2025-10-26,2025,Miami Dolphins,away,Atlanta Falcons,4361259,Zach Wilson,QB,1/1,0,0.0,0,0,0-0,55.5,79.2
+401772760,2025-10-26,2025,Atlanta Falcons,home,Miami Dolphins,14880,Kirk Cousins,QB,21/31,173,5.6,0,0,1-5,36.2,81.8
+401772756,2025-10-19,2025,Indianapolis Colts,away,Los Angeles Chargers,3917792,Daniel Jones,QB,23/34,288,8.5,2,0,1-7,91.3,113.4
+401772756,2025-10-19,2025,Los Angeles Chargers,home,Indianapolis Colts,4038941,Justin Herbert,QB,37/55,420,7.6,3,2,3-29,60.8,93.0
+401772924,2025-10-20,2025,Atlanta Falcons,away,San Francisco 49ers,4360423,Michael Penix Jr.,QB,21/38,241,6.3,1,0,2-11,25.3,83.3
+401772924,2025-10-20,2025,San Francisco 49ers,home,Atlanta Falcons,4241464,Mac Jones,QB,17/26,152,5.8,0,1,1-2,64.3,64.9
+401772942,2025-10-24,2025,Minnesota Vikings,away,Los Angeles Chargers,2573079,Carson Wentz,QB,15/27,144,5.3,1,1,5-27,33.4,67.5
+401772942,2025-10-24,2025,Minnesota Vikings,away,Los Angeles Chargers,4573398,Max Brosmer,QB,3/4,13,3.3,0,0,0-0,73.9,78.1
+401772942,2025-10-24,2025,Los Angeles Chargers,home,Minnesota Vikings,4038941,Justin Herbert,QB,18/25,227,9.1,3,1,2-15,96.5,122.8
+401772871,2025-11-02,2025,Minnesota Vikings,away,Detroit Lions,4433970,J.J. McCarthy,QB,14/25,143,5.7,2,1,5-27,54.0,82.6
+401772871,2025-11-02,2025,Detroit Lions,home,Minnesota Vikings,3046779,Jared Goff,QB,25/37,284,7.7,2,0,5-44,44.1,108.4
+401772762,2025-10-26,2025,Dallas Cowboys,away,Denver Broncos,2577417,Dak Prescott,QB,19/31,188,6.1,0,2,2-15,67.0,51.5
+401772762,2025-10-26,2025,Dallas Cowboys,away,Denver Broncos,4360698,Joe Milton III,QB,3/4,58,14.5,1,0,0-0,99.8,156.2
+401772762,2025-10-26,2025,Denver Broncos,home,Dallas Cowboys,4426338,Bo Nix,QB,19/29,247,8.5,4,1,0-0,82.2,117.4
+401772874,2025-11-02,2025,New Orleans Saints,away,Los Angeles Rams,4360689,Tyler Shough,QB,15/24,176,7.3,1,1,1-9,70.3,81.2
+401772874,2025-11-02,2025,New Orleans Saints,away,Los Angeles Rams,2468609,Taysom Hill,QB,0/1,0,0.0,0,0,0-0,95.1,39.6
+401772874,2025-11-02,2025,Los Angeles Rams,home,New Orleans Saints,12483,Matthew Stafford,QB,24/32,281,8.8,4,0,2-14,72.9,140.8
+401772868,2025-10-26,2025,Cleveland Browns,away,New England Patriots,4427238,Dillon Gabriel,QB,21/35,156,4.5,2,2,1-11,15.8,65.9
+401772868,2025-10-26,2025,New England Patriots,home,Cleveland Browns,4431452,Drake Maye,QB,18/24,282,11.8,3,1,6-37,69.1,135.8
+401772768,2025-11-02,2025,Kansas City Chiefs,away,Buffalo Bills,3139477,Patrick Mahomes,QB,15/34,250,7.4,0,1,3-24,48.9,57.2
+401772768,2025-11-02,2025,Buffalo Bills,home,Kansas City Chiefs,3918298,Josh Allen,QB,23/26,273,10.5,1,0,3-10,83.4,123.2
+401772925,2025-10-27,2025,Green Bay Packers,away,Pittsburgh Steelers,4036378,Jordan Love,QB,29/37,360,9.7,3,0,0-0,91.2,134.2
+401772925,2025-10-27,2025,Pittsburgh Steelers,home,Green Bay Packers,8439,Aaron Rodgers,QB,24/36,219,6.1,2,0,3-17,39.0,101.5
+401772767,2025-11-02,2025,San Francisco 49ers,away,New York Giants,4241464,Mac Jones,QB,19/24,235,9.8,2,0,2-14,74.6,135.2
+401772767,2025-11-02,2025,New York Giants,home,San Francisco 49ers,4689114,Jaxson Dart,QB,24/33,191,5.8,2,0,2-12,51.2,107.0
+401772757,2025-10-19,2025,New York Giants,away,Denver Broncos,4689114,Jaxson Dart,QB,15/33,283,8.6,3,1,4-15,68.7,93.4
+401772757,2025-10-19,2025,Denver Broncos,home,New York Giants,4426338,Bo Nix,QB,27/50,279,5.6,2,0,2-14,79.6,83.7
+401772766,2025-11-02,2025,Indianapolis Colts,away,Pittsburgh Steelers,3917792,Daniel Jones,QB,31/50,342,6.8,1,3,5-29,13.5,63.9
+401772766,2025-11-02,2025,Pittsburgh Steelers,home,Indianapolis Colts,8439,Aaron Rodgers,QB,25/35,203,5.8,1,0,3-16,61.4,95.3
+401772872,2025-11-02,2025,Carolina Panthers,away,Green Bay Packers,4685720,Bryce Young,QB,11/20,102,5.1,0,1,1-0,47.2,48.3
+401772872,2025-11-02,2025,Green Bay Packers,home,Carolina Panthers,4036378,Jordan Love,QB,26/37,273,7.4,0,1,1-8,65.9,80.1
+401772870,2025-11-02,2025,Denver Broncos,away,Houston Texans,4426338,Bo Nix,QB,18/37,173,4.7,2,1,1-2,55.1,68.9
+401772870,2025-11-02,2025,Houston Texans,home,Denver Broncos,4242546,Davis Mills,QB,17/30,137,4.6,0,0,2-16,54.4,68.3
+401772870,2025-11-02,2025,Houston Texans,home,Denver Broncos,4432577,C.J. Stroud,QB,6/10,79,7.9,0,0,2-9,83.5,85.0
+401772764,2025-11-02,2025,Los Angeles Chargers,away,Tennessee Titans,4038941,Justin Herbert,QB,19/29,250,8.6,2,1,6-38,57.4,101.2
+401772764,2025-11-02,2025,Tennessee Titans,home,Los Angeles Chargers,4688380,Cam Ward,QB,12/21,145,6.9,0,0,4-27,15.3,78.5
+401772816,2025-10-20,2025,Tampa Bay Buccaneers,away,Detroit Lions,3052587,Baker Mayfield,QB,28/50,228,4.6,1,1,4-18,23.4,66.1
+401772816,2025-10-20,2025,Detroit Lions,home,Tampa Bay Buccaneers,3046779,Jared Goff,QB,20/29,241,8.3,1,1,4-26,32.7,91.3
+401772765,2025-11-02,2025,Chicago Bears,away,Cincinnati Bengals,4431611,Caleb Williams,QB,20/34,280,8.2,3,0,2-9,65.2,114.8
+401772765,2025-11-02,2025,Chicago Bears,away,Cincinnati Bengals,4434153,Tyson Bagent,QB,1/1,20,20.0,0,0,0-0,80.7,118.8
+401772765,2025-11-02,2025,Chicago Bears,away,Cincinnati Bengals,3915416,DJ Moore,WR,1/1,2,2.0,1,0,0-0,100.0,118.8
+401772765,2025-11-02,2025,Chicago Bears,away,Cincinnati Bengals,4258595,Cole Kmet,TE,0/1,0,0.0,0,0,0-0,2.0,39.6
+401772765,2025-11-02,2025,Cincinnati Bengals,home,Chicago Bears,11252,Joe Flacco,QB,31/47,470,10.0,4,2,3-21,74.6,109.4
+401772772,2025-11-09,2025,New England Patriots,away,Tampa Bay Buccaneers,4431452,Drake Maye,QB,16/31,270,8.7,2,1,1-1,55.1,89.4
+401772772,2025-11-09,2025,Tampa Bay Buccaneers,home,New England Patriots,3052587,Baker Mayfield,QB,28/43,273,6.3,3,0,2-15,58.6,106.1
+401772877,2025-11-09,2025,New Orleans Saints,away,Carolina Panthers,4360689,Tyler Shough,QB,19/27,282,10.4,2,0,2-16,65.0,128.9
+401772877,2025-11-09,2025,New Orleans Saints,away,Carolina Panthers,2468609,Taysom Hill,QB,0/1,0,0.0,0,0,0-0,4.7,39.6
+401772877,2025-11-09,2025,Carolina Panthers,home,New Orleans Saints,4685720,Bryce Young,QB,17/25,124,5.0,0,1,2-22,13.2,62.8
+401772761,2025-10-26,2025,Tennessee Titans,away,Indianapolis Colts,4688380,Cam Ward,QB,22/38,259,6.8,1,1,4-31,41.0,76.5
+401772761,2025-10-26,2025,Indianapolis Colts,home,Tennessee Titans,3917792,Daniel Jones,QB,21/29,272,9.4,3,0,3-16,66.2,136.0
+401772761,2025-10-26,2025,Indianapolis Colts,home,Tennessee Titans,4683423,Riley Leonard,QB,0/2,0,0.0,0,0,0-0,0.9,39.6
+401772865,2025-10-26,2025,Buffalo Bills,away,Carolina Panthers,3918298,Josh Allen,QB,12/19,163,8.6,1,0,2-20,44.0,108.0
+401772865,2025-10-26,2025,Buffalo Bills,away,Carolina Panthers,3039707,Mitchell Trubisky,QB,2/4,22,5.5,0,0,0-0,87.1,66.7
+401772865,2025-10-26,2025,Carolina Panthers,home,Buffalo Bills,14012,Andy Dalton,QB,16/24,175,7.3,0,1,7-45,4.2,70.7
+401772875,2025-11-09,2025,New York Giants,away,Chicago Bears,4689114,Jaxson Dart,QB,19/29,242,8.3,0,0,2-12,74.6,91.5
+401772875,2025-11-09,2025,New York Giants,away,Chicago Bears,14881,Russell Wilson,QB,3/7,45,6.4,0,0,2-13,8.5,64.6
+401772875,2025-11-09,2025,Chicago Bears,home,New York Giants,4431611,Caleb Williams,QB,20/36,220,6.1,1,0,0-0,71.6,83.1
+401772763,2025-11-02,2025,Atlanta Falcons,away,New England Patriots,4360423,Michael Penix Jr.,QB,22/37,221,6.0,3,0,1-4,89.6,103.5
+401772763,2025-11-02,2025,New England Patriots,home,Atlanta Falcons,4431452,Drake Maye,QB,19/29,259,8.9,2,1,6-38,52.0,102.5
+401772944,2025-11-07,2025,Las Vegas Raiders,away,Denver Broncos,15864,Geno Smith,QB,16/26,143,5.5,0,1,6-29,12.8,60.3
+401772944,2025-11-07,2025,Las Vegas Raiders,away,Denver Broncos,4240703,Kenny Pickett,QB,0/1,0,0.0,0,0,0-0,4.2,39.6
+401772944,2025-11-07,2025,Denver Broncos,home,Las Vegas Raiders,4426338,Bo Nix,QB,16/28,150,5.4,1,2,1-9,26.7,54.2
+401772944,2025-11-07,2025,Denver Broncos,home,Las Vegas Raiders,3128429,Courtland Sutton,WR,0/0,0,0.0,0,0,1-5,0.0,0.0
+401772818,2025-11-04,2025,Arizona Cardinals,away,Dallas Cowboys,2578570,Jacoby Brissett,QB,21/31,261,8.4,2,0,5-40,52.4,115.1
+401772818,2025-11-04,2025,Dallas Cowboys,home,Arizona Cardinals,2577417,Dak Prescott,QB,24/39,250,6.4,1,1,5-40,35.5,77.9
+401772630,2025-11-11,2025,Philadelphia Eagles,away,Green Bay Packers,4040715,Jalen Hurts,QB,15/26,183,7.0,1,0,0-0,42.2,92.3
+401772630,2025-11-11,2025,Green Bay Packers,home,Philadelphia Eagles,4036378,Jordan Love,QB,20/36,176,4.9,0,0,3-19,38.9,68.8
+401772636,2025-11-09,2025,Atlanta Falcons,away,Indianapolis Colts,4360423,Michael Penix Jr.,QB,12/28,177,6.3,1,0,3-27,29.8,76.0
+401772636,2025-11-09,2025,Indianapolis Colts,home,Atlanta Falcons,3917792,Daniel Jones,QB,19/26,255,9.8,1,1,7-59,31.8,100.6
+401772927,2025-11-10,2025,Pittsburgh Steelers,away,Los Angeles Chargers,8439,Aaron Rodgers,QB,16/31,161,5.2,1,2,3-13,4.6,50.6
+401772927,2025-11-10,2025,Los Angeles Chargers,home,Pittsburgh Steelers,4038941,Justin Herbert,QB,20/33,220,6.7,1,0,5-21,31.5,90.5
+401772770,2025-11-09,2025,Jacksonville Jaguars,away,Houston Texans,4360310,Trevor Lawrence,QB,13/23,158,6.9,1,1,5-39,27.9,74.2
+401772770,2025-11-09,2025,Houston Texans,home,Jacksonville Jaguars,4242546,Davis Mills,QB,27/45,292,6.5,2,1,2-10,57.5,84.7
+401772876,2025-11-09,2025,Baltimore Ravens,away,Minnesota Vikings,3916387,Lamar Jackson,QB,17/29,176,6.1,1,0,1-7,43.0,87.7
+401772876,2025-11-09,2025,Minnesota Vikings,home,Baltimore Ravens,4433970,J.J. McCarthy,QB,20/42,248,5.9,1,2,1-3,18.6,54.5
+401772943,2025-10-31,2025,Baltimore Ravens,away,Miami Dolphins,3916387,Lamar Jackson,QB,18/23,204,8.9,4,0,2-16,92.7,143.2
+401772943,2025-10-31,2025,Miami Dolphins,home,Baltimore Ravens,4241479,Tua Tagovailoa,QB,25/40,261,6.5,0,1,2-16,26.2,70.9
+401772880,2025-11-16,2025,Chicago Bears,away,Minnesota Vikings,4431611,Caleb Williams,QB,11/22,118,5.4,0,0,0-0,66.1,
+401772880,2025-11-16,2025,Minnesota Vikings,home,Chicago Bears,4433970,J.J. McCarthy,QB,10/20,74,3.7,0,2,0-0,19.6,
+401772771,2025-11-09,2025,Buffalo Bills,away,Miami Dolphins,3918298,Josh Allen,QB,28/40,306,7.7,2,1,3-17,28.9,98.5
+401772771,2025-11-09,2025,Miami Dolphins,home,Buffalo Bills,4241479,Tua Tagovailoa,QB,15/21,173,8.2,2,2,0-0,61.3,88.1
+401772769,2025-11-09,2025,Cleveland Browns,away,New York Jets,4427238,Dillon Gabriel,QB,17/32,167,5.2,2,0,6-47,48.5,88.9
+401772769,2025-11-09,2025,New York Jets,home,Cleveland Browns,4362887,Justin Fields,QB,6/11,54,4.9,1,1,3-12,15.9,60.4
+401772926,2025-11-03,2025,Seattle Seahawks,away,Washington Commanders,3912547,Sam Darnold,QB,21/24,330,13.8,4,1,0-0,97.6,141.0
+401772926,2025-11-03,2025,Washington Commanders,home,Seattle Seahawks,4426348,Jayden Daniels,QB,16/22,153,7.0,0,1,4-20,57.4,72.7
+401772873,2025-11-02,2025,Jacksonville Jaguars,away,Las Vegas Raiders,4360310,Trevor Lawrence,QB,23/34,220,6.5,0,1,1-4,62.2,73.2
+401772873,2025-11-02,2025,Las Vegas Raiders,home,Jacksonville Jaguars,15864,Geno Smith,QB,29/39,284,7.3,4,1,2-10,62.0,117.9
+401772878,2025-11-09,2025,Detroit Lions,away,Washington Commanders,3046779,Jared Goff,QB,25/33,320,9.7,3,0,0-0,94.4,135.9
+401772878,2025-11-09,2025,Detroit Lions,away,Washington Commanders,3115293,Kyle Allen,QB,0/2,0,0.0,0,0,0-0,3.0,39.6
+401772878,2025-11-09,2025,Washington Commanders,home,Detroit Lions,2576980,Marcus Mariota,QB,16/22,213,9.7,2,0,2-18,82.9,133.3
+401772945,2025-11-14,2025,New York Jets,away,New England Patriots,4362887,Justin Fields,QB,15/26,116,4.5,1,0,2-11,54.7,81.6
+401772945,2025-11-14,2025,New York Jets,away,New England Patriots,4569371,Isaiah Williams,WR,0/1,0,0.0,0,0,0-0,1.2,39.6
+401772945,2025-11-14,2025,New England Patriots,home,New York Jets,4431452,Drake Maye,QB,25/34,281,8.3,1,0,1-10,83.3,107.6
+401772775,2025-11-16,2025,Los Angeles Chargers,away,Jacksonville Jaguars,4038941,Justin Herbert,QB,10/17,81,4.8,0,0,2-18,71.0,
+401772775,2025-11-16,2025,Jacksonville Jaguars,home,Los Angeles Chargers,4360310,Trevor Lawrence,QB,13/19,152,8.0,0,1,0-0,70.5,
+401772881,2025-11-16,2025,Houston Texans,away,Tennessee Titans,4242546,Davis Mills,QB,18/26,188,7.2,1,0,2-21,102.7,
+401772881,2025-11-16,2025,Tennessee Titans,home,Houston Texans,4688380,Cam Ward,QB,13/22,117,5.3,0,0,0-0,73.5,
+401772883,2025-11-16,2025,Green Bay Packers,away,New York Giants,4036378,Jordan Love,QB,9/17,102,6.0,1,0,1-6,90.8,
+401772883,2025-11-16,2025,Green Bay Packers,away,New York Giants,4242512,Malik Willis,QB,2/2,6,3.0,1,0,0-0,118.8,
+401772883,2025-11-16,2025,New York Giants,home,Green Bay Packers,2969939,Jameis Winston,QB,8/12,86,7.2,0,0,0-0,87.5,
+401772879,2025-11-09,2025,Los Angeles Rams,away,San Francisco 49ers,12483,Matthew Stafford,QB,24/36,280,7.8,4,0,1-5,84.8,127.1
+401772879,2025-11-09,2025,San Francisco 49ers,home,Los Angeles Rams,4241464,Mac Jones,QB,33/39,319,8.2,3,1,0-0,88.7,115.7
+401772774,2025-11-16,2025,Cincinnati Bengals,away,Pittsburgh Steelers,11252,Joe Flacco,QB,12/21,91,4.3,1,0,0-0,83.6,
+401772774,2025-11-16,2025,Pittsburgh Steelers,home,Cincinnati Bengals,8439,Aaron Rodgers,QB,9/15,116,7.7,1,0,1-11,106.5,
+401772774,2025-11-16,2025,Pittsburgh Steelers,home,Cincinnati Bengals,3116407,Mason Rudolph,QB,6/8,53,6.6,0,0,0-0,92.2,
+401772776,2025-11-16,2025,Tampa Bay Buccaneers,away,Buffalo Bills,3052587,Baker Mayfield,QB,12/18,111,6.2,0,0,0-0,83.3,
+401772776,2025-11-16,2025,Buffalo Bills,home,Tampa Bay Buccaneers,3918298,Josh Allen,QB,9/18,152,8.4,2,2,0-0,76.4,
+401772773,2025-11-09,2025,Arizona Cardinals,away,Seattle Seahawks,2578570,Jacoby Brissett,QB,22/44,258,5.9,2,0,5-52,29.1,83.3
+401772773,2025-11-09,2025,Arizona Cardinals,away,Seattle Seahawks,4428512,Kedon Slovis,QB,0/1,0,0.0,0,0,0-0,1.6,39.6
+401772773,2025-11-09,2025,Seattle Seahawks,home,Arizona Cardinals,3912547,Sam Darnold,QB,10/12,178,14.8,1,1,1-4,82.4,111.8
+401772882,2025-11-16,2025,Carolina Panthers,away,Atlanta Falcons,4685720,Bryce Young,QB,18/22,224,10.2,2,0,3-17,139.4,
+401772882,2025-11-16,2025,Atlanta Falcons,home,Carolina Panthers,4360423,Michael Penix Jr.,QB,13/16,175,10.9,0,0,0-0,112.2,
+401772631,2025-11-16,2025,Washington Commanders,away,Miami Dolphins,2576980,Marcus Mariota,QB,20/30,213,7.1,1,1,1-6,47.3,84.4
+401772631,2025-11-16,2025,Miami Dolphins,home,Washington Commanders,4241479,Tua Tagovailoa,QB,14/20,171,8.6,0,0,3-29,29.0,96.0
