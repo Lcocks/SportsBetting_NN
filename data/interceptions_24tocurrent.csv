@@ -1,0 +1,582 @@
+game_id,date,season,team,home_away,opposing_team,athlete_id,display_name,position,INT,YDS,TD
+401671861,2024-09-08,2024,Houston Texans,away,Indianapolis Colts,4431517,Calen Bullock,S,1,0,0
+401671709,2024-09-15,2024,New Orleans Saints,away,Dallas Cowboys,4242547,Paulson Adebo,CB,1,47,0
+401671709,2024-09-15,2024,New Orleans Saints,away,Dallas Cowboys,15851,Tyrann Mathieu,S,1,0,0
+401671709,2024-09-15,2024,Dallas Cowboys,home,New Orleans Saints,3122135,Donovan Wilson,S,1,0,0
+401671723,2024-09-15,2024,Green Bay Packers,home,Indianapolis Colts,4241470,Xavier McKinney,S,1,18,0
+401671723,2024-09-15,2024,Green Bay Packers,home,Indianapolis Colts,4428863,Evan Williams,S,1,1,0
+401671723,2024-09-15,2024,Green Bay Packers,home,Indianapolis Colts,3056916,Eric Wilson,LB,1,0,0
+401671636,2024-09-15,2024,New York Jets,away,Tennessee Titans,4567979,Brandin Echols,CB,1,0,0
+401671734,2024-09-08,2024,New Orleans Saints,home,Carolina Panthers,3915297,Will Harris,S,1,7,0
+401671734,2024-09-08,2024,New Orleans Saints,home,Carolina Panthers,4360949,Jordan Howden,S,1,-5,0
+401671721,2024-09-15,2024,Tampa Bay Buccaneers,away,Detroit Lions,4372459,Christian Izien,S,1,17,0
+401671721,2024-09-15,2024,Tampa Bay Buccaneers,away,Detroit Lions,4250392,Zyon McCollum,CB,1,4,0
+401671721,2024-09-15,2024,Detroit Lions,home,Tampa Bay Buccaneers,4692025,Brian Branch,S,1,1,0
+401671807,2024-09-13,2024,Buffalo Bills,away,Miami Dolphins,4240059,Ja'Marcus Ingram,CB,2,56,1
+401671807,2024-09-13,2024,Buffalo Bills,away,Miami Dolphins,4379778,Christian Benford,CB,1,6,0
+401671696,2024-09-10,2024,San Francisco 49ers,home,New York Jets,3931424,Demetrius Flannigan-Fowles,LB,1,0,0
+401671712,2024-09-08,2024,Minnesota Vikings,away,New York Giants,3133487,Andrew Van Ginkel,LB,1,10,1
+401671712,2024-09-08,2024,Minnesota Vikings,away,New York Giants,14945,Harrison Smith,S,1,0,0
+401671712,2024-09-08,2024,New York Giants,home,Minnesota Vikings,4428072,Darius Muasau,LB,1,1,0
+401671664,2024-09-08,2024,Denver Broncos,away,Seattle Seahawks,2612151,Alex Singleton,LB,1,21,0
+401671664,2024-09-08,2024,Seattle Seahawks,home,Denver Broncos,4245185,Riq Woolen,CB,1,4,0
+401671664,2024-09-08,2024,Seattle Seahawks,home,Denver Broncos,4046675,Julian Love,S,1,0,0
+401671792,2024-09-09,2024,Los Angeles Rams,away,Detroit Lions,3046292,John Johnson III,S,1,0,0
+401671792,2024-09-09,2024,Detroit Lions,home,Los Angeles Rams,4360383,Kerby Joseph,S,1,0,0
+401671659,2024-09-08,2024,Los Angeles Chargers,home,Las Vegas Raiders,3125114,Poona Ford,DT,1,3,0
+401671624,2024-09-15,2024,Las Vegas Raiders,away,Baltimore Ravens,3129446,Robert Spillane,LB,1,0,0
+401671624,2024-09-15,2024,Baltimore Ravens,home,Las Vegas Raiders,3126356,Marlon Humphrey,CB,1,0,0
+401671652,2024-09-15,2024,Los Angeles Chargers,away,Carolina Panthers,4243328,Elijah Molden,CB,1,3,0
+401671652,2024-09-15,2024,Carolina Panthers,home,Los Angeles Chargers,4362847,Jaycee Horn,CB,1,0,0
+401671805,2024-09-07,2024,Green Bay Packers,away,Philadelphia Eagles,3895429,Jaire Alexander,CB,1,17,0
+401671805,2024-09-07,2024,Green Bay Packers,away,Philadelphia Eagles,4241470,Xavier McKinney,S,1,17,0
+401671805,2024-09-07,2024,Philadelphia Eagles,home,Green Bay Packers,4243956,Reed Blankenship,S,1,1,0
+401671823,2024-09-22,2024,Green Bay Packers,away,Tennessee Titans,3895429,Jaire Alexander,CB,1,35,1
+401671823,2024-09-22,2024,Green Bay Packers,away,Tennessee Titans,4241470,Xavier McKinney,S,1,0,0
+401671645,2024-09-15,2024,San Francisco 49ers,away,Minnesota Vikings,3138826,Fred Warner,LB,1,25,0
+401671645,2024-09-15,2024,Minnesota Vikings,home,San Francisco 49ers,4046537,Joshua Metellus,S,1,12,0
+401671789,2024-09-06,2024,Baltimore Ravens,away,Kansas City Chiefs,3915189,Roquan Smith,LB,1,0,0
+401671761,2024-09-08,2024,Dallas Cowboys,away,Cleveland Browns,2510863,Eric Kendricks,LB,1,8,0
+401671761,2024-09-08,2024,Dallas Cowboys,away,Cleveland Browns,4040966,Trevon Diggs,CB,1,1,0
+401671719,2024-09-08,2024,Chicago Bears,home,Tennessee Titans,4426374,Tyrique Stevenson,CB,1,43,1
+401671719,2024-09-08,2024,Chicago Bears,home,Tennessee Titans,4243253,Jaylon Johnson,CB,1,9,0
+401671668,2024-09-15,2024,Pittsburgh Steelers,away,Denver Broncos,2976099,Damontae Kazee,S,1,5,0
+401671668,2024-09-15,2024,Pittsburgh Steelers,away,Denver Broncos,4372492,Cory Trice Jr.,CB,1,0,0
+401671744,2024-09-08,2024,Pittsburgh Steelers,away,Atlanta Falcons,3843769,Donte Jackson,CB,1,49,0
+401671744,2024-09-08,2024,Pittsburgh Steelers,away,Atlanta Falcons,3929846,DeShon Elliott,S,1,0,0
+401671670,2024-09-15,2024,Cincinnati Bengals,away,Kansas City Chiefs,3917142,Akeem Davis-Gaither,LB,1,12,0
+401671670,2024-09-15,2024,Cincinnati Bengals,away,Kansas City Chiefs,4361196,Cam Taylor-Britt,CB,1,0,0
+401671736,2024-09-22,2024,Philadelphia Eagles,away,New Orleans Saints,4243956,Reed Blankenship,S,1,0,0
+401671736,2024-09-22,2024,New Orleans Saints,home,Philadelphia Eagles,15851,Tyrann Mathieu,S,1,23,0
+401671691,2024-09-17,2024,Atlanta Falcons,away,Philadelphia Eagles,3919512,Jessie Bates III,S,1,0,0
+401671865,2024-09-22,2024,Chicago Bears,away,Indianapolis Colts,4243253,Jaylon Johnson,CB,1,2,0
+401671865,2024-09-22,2024,Chicago Bears,away,Indianapolis Colts,3929950,Tremaine Edmunds,LB,1,0,0
+401671865,2024-09-22,2024,Indianapolis Colts,home,Chicago Bears,4685145,Jaylon Jones,CB,2,5,0
+401671741,2024-09-22,2024,Denver Broncos,away,Tampa Bay Buccaneers,4039059,Brandon Jones,S,1,37,0
+401671771,2024-09-22,2024,Detroit Lions,away,Arizona Cardinals,4360383,Kerby Joseph,S,1,0,0
+401671771,2024-09-22,2024,Arizona Cardinals,home,Detroit Lions,4334300,Dennis Gardeck,LB,1,10,0
+401671786,2024-09-16,2024,Houston Texans,home,Chicago Bears,4602699,Kamari Lassiter,CB,1,9,0
+401671786,2024-09-16,2024,Houston Texans,home,Chicago Bears,4426434,Derek Stingley Jr.,CB,1,0,0
+401671871,2024-09-29,2024,Chicago Bears,home,Los Angeles Rams,4570044,Jaquan Brisker,S,1,0,0
+401671812,2024-09-27,2024,Dallas Cowboys,away,New York Giants,3116175,Amani Oruwariye,CB,1,0,0
+401671727,2024-09-29,2024,New Orleans Saints,away,Atlanta Falcons,4242547,Paulson Adebo,CB,1,1,0
+401671727,2024-09-29,2024,Atlanta Falcons,home,New Orleans Saints,4247807,Troy Andersen,LB,1,47,1
+401671632,2024-09-22,2024,Los Angeles Chargers,away,Pittsburgh Steelers,2576702,Bud Dupree,LB,1,0,0
+401671646,2024-09-22,2024,Minnesota Vikings,home,Houston Texans,3050851,Kamu Grugier-Hill,LB,1,5,0
+401671646,2024-09-22,2024,Minnesota Vikings,home,Houston Texans,4035861,Cam Bynum,S,1,3,0
+401671662,2024-09-22,2024,Miami Dolphins,away,Seattle Seahawks,4291489,Kader Kohou,CB,1,2,0
+401671662,2024-09-22,2024,Miami Dolphins,away,Seattle Seahawks,3057956,Zach Sieler,DT,1,0,0
+401671755,2024-09-29,2024,Arizona Cardinals,home,Washington Commanders,4568506,Garrett Williams,CB,1,0,0
+401671793,2024-09-23,2024,Kansas City Chiefs,away,Atlanta Falcons,4361964,Chamarri Conner,S,1,3,0
+401671793,2024-09-23,2024,Kansas City Chiefs,away,Atlanta Falcons,4697639,Jaylen Watson,CB,0,12,0
+401671793,2024-09-23,2024,Atlanta Falcons,home,Kansas City Chiefs,2969860,Justin Simmons,S,1,0,0
+401671643,2024-09-29,2024,Minnesota Vikings,away,Green Bay Packers,3054026,Shaquill Griffin,CB,1,28,0
+401671643,2024-09-29,2024,Minnesota Vikings,away,Green Bay Packers,3050851,Kamu Grugier-Hill,LB,1,0,0
+401671643,2024-09-29,2024,Minnesota Vikings,away,Green Bay Packers,4038999,Byron Murphy Jr.,CB,1,0,0
+401671643,2024-09-29,2024,Green Bay Packers,home,Minnesota Vikings,4241470,Xavier McKinney,S,1,0,0
+401671682,2024-09-23,2024,Buffalo Bills,home,Jacksonville Jaguars,4036060,Damar Hamlin,S,1,19,0
+401671674,2024-09-29,2024,Los Angeles Chargers,home,Kansas City Chiefs,4035433,Kristian Fulton,CB,1,29,0
+401671758,2024-09-29,2024,New England Patriots,away,San Francisco 49ers,3115962,Jabrill Peppers,S,1,0,0
+401671758,2024-09-29,2024,San Francisco 49ers,home,New England Patriots,3138826,Fred Warner,LB,1,45,1
+401671658,2024-09-22,2024,Carolina Panthers,away,Las Vegas Raiders,3917853,Mike Jackson,CB,1,1,0
+401671745,2024-09-29,2024,Cincinnati Bengals,away,Carolina Panthers,3051388,Vonn Bell,S,1,32,0
+401671745,2024-09-29,2024,Carolina Panthers,home,Cincinnati Bengals,3040572,Xavier Woods,S,1,33,0
+401671804,2024-10-06,2024,New York Jets,away,Minnesota Vikings,4567979,Brandin Echols,CB,1,0,0
+401671804,2024-10-06,2024,Minnesota Vikings,home,New York Jets,3133487,Andrew Van Ginkel,LB,1,63,1
+401671804,2024-10-06,2024,Minnesota Vikings,home,New York Jets,14942,Stephon Gilmore,CB,1,0,0
+401671804,2024-10-06,2024,Minnesota Vikings,home,New York Jets,4035861,Cam Bynum,S,1,0,0
+401671815,2024-10-04,2024,Tampa Bay Buccaneers,away,Atlanta Falcons,14985,Lavonte David,LB,1,7,0
+401671633,2024-10-06,2024,Indianapolis Colts,away,Jacksonville Jaguars,4426403,Nick Cross,S,1,0,0
+401671672,2024-09-29,2024,Las Vegas Raiders,home,Cleveland Browns,4362487,Tre'von Moehrig,S,1,16,0
+401671747,2024-10-06,2024,Denver Broncos,home,Las Vegas Raiders,4372012,Pat Surtain II,CB,2,100,1
+401671747,2024-10-06,2024,Denver Broncos,home,Las Vegas Raiders,4382401,Riley Moss,CB,1,0,0
+401671491,2024-10-01,2024,Detroit Lions,home,Seattle Seahawks,4360383,Kerby Joseph,S,1,0,0
+401671683,2024-09-30,2024,Miami Dolphins,home,Tennessee Titans,2977740,Emmanuel Ogbah,DE,1,0,0
+401671859,2024-10-06,2024,Buffalo Bills,away,Houston Texans,4259166,Terrel Bernard,LB,1,1,0
+401671687,2024-10-08,2024,New Orleans Saints,away,Kansas City Chiefs,3121634,Khalen Saunders,DT,1,37,0
+401671687,2024-10-08,2024,Kansas City Chiefs,home,New Orleans Saints,4247726,Bryan Cook,S,1,0,0
+401671679,2024-10-06,2024,Green Bay Packers,away,Los Angeles Rams,4241470,Xavier McKinney,S,1,28,0
+401671679,2024-10-06,2024,Los Angeles Rams,home,Green Bay Packers,4427120,Jaylen McCollough,S,1,4,1
+401671756,2024-10-06,2024,Arizona Cardinals,away,San Francisco 49ers,4039254,Kyzir White,LB,1,0,0
+401671756,2024-10-06,2024,Arizona Cardinals,away,San Francisco 49ers,4040983,Mack Wilson Sr.,LB,1,0,0
+401671756,2024-10-06,2024,San Francisco 49ers,home,Arizona Cardinals,4040605,Nick Bosa,DE,1,30,0
+401671626,2024-10-06,2024,Baltimore Ravens,away,Cincinnati Bengals,3126356,Marlon Humphrey,CB,1,0,0
+401671718,2024-10-06,2024,Cleveland Browns,away,Washington Commanders,4258599,Jeremiah Owusu-Koramoah,LB,1,0,0
+401671722,2024-10-13,2024,Arizona Cardinals,away,Green Bay Packers,3932886,Sean Murphy-Bunting,CB,1,0,0
+401671655,2024-10-13,2024,Los Angeles Chargers,away,Denver Broncos,4243328,Elijah Molden,CB,1,25,0
+401671625,2024-10-13,2024,Washington Commanders,away,Baltimore Ravens,4428414,Mike Sainristil,CB,1,38,0
+401671700,2024-10-06,2024,New England Patriots,home,Miami Dolphins,4686772,Christian Gonzalez,CB,1,2,0
+401671769,2024-10-13,2024,Atlanta Falcons,away,Carolina Panthers,4429067,Clark Phillips III,CB,1,45,0
+401671769,2024-10-13,2024,Atlanta Falcons,away,Carolina Panthers,4239995,A.J. Terrell Jr.,CB,1,1,0
+401671784,2024-10-07,2024,Pittsburgh Steelers,home,Dallas Cowboys,4426506,Joey Porter Jr.,CB,1,16,0
+401671784,2024-10-07,2024,Pittsburgh Steelers,home,Dallas Cowboys,3843769,Donte Jackson,CB,1,2,0
+401671616,2024-10-20,2024,Buffalo Bills,home,Tennessee Titans,4036060,Damar Hamlin,S,1,0,0
+401671819,2024-10-11,2024,San Francisco 49ers,away,Seattle Seahawks,4427325,Renardo Green,CB,1,20,0
+401671819,2024-10-11,2024,San Francisco 49ers,away,Seattle Seahawks,4696211,Malik Mustapha,S,1,1,0
+401671802,2024-10-13,2024,Jacksonville Jaguars,away,Chicago Bears,4361939,Andre Cisco,S,1,22,0
+401671802,2024-10-13,2024,Chicago Bears,home,Jacksonville Jaguars,4240459,Josh Blackwell,CB,1,10,0
+401671684,2024-10-15,2024,Buffalo Bills,away,New York Jets,3121003,Taron Johnson,CB,1,0,0
+401671619,2024-10-13,2024,Houston Texans,away,New England Patriots,4431517,Calen Bullock,S,1,28,0
+401671619,2024-10-13,2024,Houston Texans,away,New England Patriots,2970716,Eric Murray,S,1,0,0
+401671619,2024-10-13,2024,New England Patriots,home,Houston Texans,4241720,Marcus Jones,CB,1,35,0
+401671817,2024-10-25,2024,Minnesota Vikings,away,Los Angeles Rams,4038999,Byron Murphy Jr.,CB,1,0,0
+401671663,2024-10-20,2024,Las Vegas Raiders,away,Los Angeles Rams,4240542,Nate Hobbs,CB,1,35,0
+401671663,2024-10-20,2024,Los Angeles Rams,home,Las Vegas Raiders,4427120,Jaylen McCollough,S,2,2,0
+401671663,2024-10-20,2024,Los Angeles Rams,home,Las Vegas Raiders,4384549,Cobie Durant,CB,1,0,0
+401671657,2024-10-13,2024,Pittsburgh Steelers,away,Las Vegas Raiders,3843769,Donte Jackson,CB,1,24,0
+401671735,2024-10-13,2024,Tampa Bay Buccaneers,away,New Orleans Saints,4250392,Zyon McCollum,CB,1,0,0
+401671735,2024-10-13,2024,Tampa Bay Buccaneers,away,New Orleans Saints,4428522,Tykee Smith,S,1,0,0
+401671735,2024-10-13,2024,New Orleans Saints,home,Tampa Bay Buccaneers,3728305,Johnathan Abram,S,1,30,0
+401671735,2024-10-13,2024,New Orleans Saints,home,Tampa Bay Buccaneers,4242547,Paulson Adebo,CB,1,20,0
+401671735,2024-10-13,2024,New Orleans Saints,home,Tampa Bay Buccaneers,13971,Cameron Jordan,DE,1,0,0
+401671695,2024-10-22,2024,Baltimore Ravens,away,Tampa Bay Buccaneers,3126356,Marlon Humphrey,CB,2,0,0
+401671724,2024-10-20,2024,Detroit Lions,away,Minnesota Vikings,4692025,Brian Branch,S,1,0,0
+401671791,2024-10-14,2024,Cincinnati Bengals,away,New York Giants,3116724,Germaine Pratt,LB,1,24,0
+401671730,2024-10-20,2024,Seattle Seahawks,away,Atlanta Falcons,4046675,Julian Love,S,1,26,0
+401671730,2024-10-20,2024,Seattle Seahawks,away,Atlanta Falcons,4239094,Coby Bryant,S,1,9,0
+401671699,2024-10-22,2024,Los Angeles Chargers,away,Arizona Cardinals,4374269,Teair Tart,DT,1,4,0
+401671739,2024-10-27,2024,Atlanta Falcons,away,Tampa Bay Buccaneers,3919512,Jessie Bates III,S,1,0,0
+401671739,2024-10-27,2024,Atlanta Falcons,away,Tampa Bay Buccaneers,4239995,A.J. Terrell Jr.,CB,1,0,0
+401671853,2024-10-20,2024,Cincinnati Bengals,away,Cleveland Browns,4240575,Geno Stone,S,1,49,0
+401671853,2024-10-20,2024,Cincinnati Bengals,away,Cleveland Browns,3121416,Sam Hubbard,DE,1,0,0
+401671644,2024-10-20,2024,Houston Texans,away,Green Bay Packers,3059880,Neville Hewitt,LB,1,45,0
+401671644,2024-10-20,2024,Houston Texans,away,Green Bay Packers,4431517,Calen Bullock,S,1,0,0
+401671671,2024-10-27,2024,Las Vegas Raiders,home,Kansas City Chiefs,4362487,Tre'von Moehrig,S,1,12,0
+401671777,2024-10-20,2024,Kansas City Chiefs,away,San Francisco 49ers,3931399,Justin Reid,S,1,8,0
+401671777,2024-10-20,2024,Kansas City Chiefs,away,San Francisco 49ers,4428383,Chris Roland-Wallace,CB,1,0,0
+401671777,2024-10-20,2024,Kansas City Chiefs,away,San Francisco 49ers,4685232,Jaden Hicks,S,1,0,0
+401671777,2024-10-20,2024,San Francisco 49ers,home,Kansas City Chiefs,4242488,Deommodore Lenoir,CB,1,33,0
+401671777,2024-10-20,2024,San Francisco 49ers,home,Kansas City Chiefs,4243541,Kalia Davis,DT,1,2,0
+401671785,2024-10-21,2024,Pittsburgh Steelers,home,New York Jets,4363052,Beanie Bishop Jr.,CB,2,41,0
+401671667,2024-10-27,2024,Philadelphia Eagles,away,Cincinnati Bengals,4034953,C.J. Gardner-Johnson,S,1,0,0
+401671640,2024-10-20,2024,Washington Commanders,home,Carolina Panthers,2980100,Dante Fowler Jr.,DE,1,67,1
+401671640,2024-10-20,2024,Washington Commanders,home,Carolina Panthers,4429767,Emmanuel Forbes Jr.,CB,1,19,0
+401671600,2024-10-27,2024,Denver Broncos,home,Carolina Panthers,4372012,Pat Surtain II,CB,1,28,0
+401671600,2024-10-27,2024,Denver Broncos,home,Carolina Panthers,4567462,Ja'Quan McMillian,CB,1,0,0
+401671707,2024-10-27,2024,Green Bay Packers,away,Jacksonville Jaguars,4241470,Xavier McKinney,S,1,0,0
+401671707,2024-10-27,2024,Jacksonville Jaguars,home,Green Bay Packers,4426448,Jarrian Jones,CB,1,0,0
+401671856,2024-10-27,2024,Houston Texans,home,Indianapolis Colts,4241223,Jalen Pitre,S,1,10,0
+401671764,2024-10-13,2024,Detroit Lions,away,Dallas Cowboys,4692025,Brian Branch,S,2,47,0
+401671764,2024-10-13,2024,Detroit Lions,away,Dallas Cowboys,4360383,Kerby Joseph,S,1,0,0
+401671760,2024-10-27,2024,Buffalo Bills,away,Seattle Seahawks,2979591,Austin Johnson,DT,1,5,0
+401671760,2024-10-27,2024,Seattle Seahawks,home,Buffalo Bills,4372020,Josh Jobe,CB,1,33,0
+401671623,2024-11-03,2024,Baltimore Ravens,home,Denver Broncos,4362492,Ar'Darius Washington,S,1,1,0
+401671795,2024-10-28,2024,San Francisco 49ers,home,Dallas Cowboys,4242488,Deommodore Lenoir,CB,1,0,0
+401671795,2024-10-28,2024,San Francisco 49ers,home,Dallas Cowboys,4693644,Ji'Ayir Brown,S,1,0,0
+401671685,2024-10-29,2024,Pittsburgh Steelers,home,New York Giants,4363052,Beanie Bishop Jr.,CB,1,5,0
+401671493,2024-11-03,2024,Miami Dolphins,away,Buffalo Bills,3045373,Jalen Ramsey,CB,1,0,0
+401671647,2024-11-04,2024,Indianapolis Colts,away,Minnesota Vikings,4426403,Nick Cross,S,1,20,0
+401671647,2024-11-04,2024,Indianapolis Colts,away,Minnesota Vikings,3124005,Zaire Franklin,LB,1,0,0
+401671647,2024-11-04,2024,Minnesota Vikings,home,Indianapolis Colts,4038999,Byron Murphy Jr.,CB,1,0,0
+401671629,2024-11-03,2024,Los Angeles Chargers,away,Cleveland Browns,4039413,Alohi Gilman,S,1,18,0
+401671629,2024-11-03,2024,Los Angeles Chargers,away,Cleveland Browns,4432571,Tarheeb Still,CB,1,1,0
+401671629,2024-11-03,2024,Los Angeles Chargers,away,Cleveland Browns,4243328,Elijah Molden,CB,1,0,0
+401671822,2024-11-03,2024,New England Patriots,away,Tennessee Titans,3124587,Jahlani Tavai,LB,1,0,0
+401671822,2024-11-03,2024,Tennessee Titans,home,New England Patriots,4036134,Amani Hooker,S,2,19,0
+401671767,2024-11-03,2024,Detroit Lions,away,Green Bay Packers,4360383,Kerby Joseph,S,1,27,1
+401671776,2024-11-03,2024,Los Angeles Rams,away,Seattle Seahawks,4596363,Kamren Kinchens,S,2,103,1
+401671776,2024-11-03,2024,Los Angeles Rams,away,Seattle Seahawks,4427120,Jaylen McCollough,S,1,0,0
+401671776,2024-11-03,2024,Seattle Seahawks,home,Los Angeles Rams,4245185,Riq Woolen,CB,1,0,0
+401671720,2024-10-27,2024,Detroit Lions,home,Tennessee Titans,4360383,Kerby Joseph,S,1,33,0
+401671720,2024-10-27,2024,Detroit Lions,home,Tennessee Titans,5144894,Trevor Nowaske,LB,1,8,0
+401671797,2024-11-03,2024,Philadelphia Eagles,home,Jacksonville Jaguars,3917657,Zack Baun,LB,1,0,0
+401671797,2024-11-03,2024,Philadelphia Eagles,home,Jacksonville Jaguars,4426340,Nakobe Dean,LB,1,0,0
+401671641,2024-11-10,2024,Washington Commanders,home,Pittsburgh Steelers,4043169,Jeremy Chinn,S,1,0,0
+401671813,,2024,Philadelphia Eagles,home,Washington Commanders,4243956,Reed Blankenship,S,1,0,0
+401671650,2024-11-03,2024,New Orleans Saints,away,Carolina Panthers,4036430,Shemar Jean-Charles,CB,1,0,0
+401671803,2024-11-10,2024,Carolina Panthers,home,New York Giants,3040572,Xavier Woods,S,1,4,0
+401671803,2024-11-10,2024,Carolina Panthers,home,New York Giants,3040150,Josey Jewell,LB,1,0,0
+401671873,2024-11-10,2024,Chicago Bears,home,New England Patriots,3121544,T.J. Edwards,LB,1,0,0
+401671693,2024-11-12,2024,Miami Dolphins,away,Los Angeles Rams,3045251,Anthony Walker Jr.,LB,1,5,0
+401671693,2024-11-12,2024,Los Angeles Rams,home,Miami Dolphins,3909013,Christian Rozeboom,LB,1,16,0
+401671704,2024-11-03,2024,Las Vegas Raiders,away,Cincinnati Bengals,4035686,Jack Jones,CB,1,29,1
+401671630,,2024,Baltimore Ravens,away,Pittsburgh Steelers,3126356,Marlon Humphrey,CB,1,0,0
+401671630,,2024,Pittsburgh Steelers,home,Baltimore Ravens,4361652,Payton Wilson,LB,1,0,0
+401671851,,2024,Miami Dolphins,home,Las Vegas Raiders,3045373,Jalen Ramsey,CB,1,7,0
+401671676,2024-11-10,2024,Philadelphia Eagles,away,Dallas Cowboys,4034953,C.J. Gardner-Johnson,S,1,0,0
+401671676,2024-11-10,2024,Dallas Cowboys,home,Philadelphia Eagles,4040966,Trevon Diggs,CB,1,0,0
+401671642,,2024,Detroit Lions,home,Jacksonville Jaguars,4360383,Kerby Joseph,S,1,0,0
+401671708,2024-11-10,2024,Minnesota Vikings,away,Jacksonville Jaguars,4038999,Byron Murphy Jr.,CB,1,2,0
+401671708,2024-11-10,2024,Minnesota Vikings,away,Jacksonville Jaguars,4035861,Cam Bynum,S,1,0,0
+401671708,2024-11-10,2024,Jacksonville Jaguars,home,Minnesota Vikings,3915419,Darnell Savage,S,1,16,0
+401671708,2024-11-10,2024,Jacksonville Jaguars,home,Minnesota Vikings,3050073,Foyesade Oluokun,LB,1,0,0
+401671708,2024-11-10,2024,Jacksonville Jaguars,home,Minnesota Vikings,4242149,Montaric Brown,CB,1,0,0
+401671869,,2024,Chicago Bears,home,Green Bay Packers,4360935,Terell Smith,CB,1,23,0
+401671863,2024-11-10,2024,Buffalo Bills,away,Indianapolis Colts,3121003,Taron Johnson,CB,1,23,1
+401671863,2024-11-10,2024,Buffalo Bills,away,Indianapolis Colts,2979591,Austin Johnson,DT,1,4,0
+401671863,2024-11-10,2024,Buffalo Bills,away,Indianapolis Colts,4039007,Taylor Rapp,S,1,0,0
+401671863,2024-11-10,2024,Indianapolis Colts,home,Buffalo Bills,3071353,E.J. Speed,LB,1,12,0
+401671863,2024-11-10,2024,Indianapolis Colts,home,Buffalo Bills,4218312,Kenny Moore II,CB,1,12,0
+401671701,,2024,Los Angeles Rams,away,New England Patriots,4596363,Kamren Kinchens,S,1,9,0
+401671775,2024-11-24,2024,Arizona Cardinals,away,Seattle Seahawks,4568506,Garrett Williams,CB,1,0,0
+401671775,2024-11-24,2024,Seattle Seahawks,home,Arizona Cardinals,4239094,Coby Bryant,S,1,69,1
+401671824,,2024,Minnesota Vikings,away,Tennessee Titans,14945,Harrison Smith,S,1,0,0
+401671656,2024-11-24,2024,Denver Broncos,away,Las Vegas Raiders,4039059,Brandon Jones,S,1,37,0
+401671733,2024-11-10,2024,New Orleans Saints,home,Atlanta Falcons,15851,Tyrann Mathieu,S,1,6,0
+401671875,2024-11-22,2024,Pittsburgh Steelers,away,Cleveland Browns,3843769,Donte Jackson,CB,1,2,0
+401671847,2024-11-24,2024,Miami Dolphins,home,New England Patriots,4035232,Tyrel Dodson,LB,1,0,0
+401671746,,2024,Cleveland Browns,away,New Orleans Saints,3915535,Denzel Ward,CB,1,0,0
+401671787,2024-11-11,2024,Detroit Lions,away,Houston Texans,3916923,Carlton Davis III,CB,2,0,0
+401671787,2024-11-11,2024,Houston Texans,home,Detroit Lions,4602699,Kamari Lassiter,CB,2,0,0
+401671787,2024-11-11,2024,Houston Texans,home,Detroit Lions,16717,Jimmie Ward,S,1,2,0
+401671787,2024-11-11,2024,Houston Texans,home,Detroit Lions,4426350,Henry To'oTo'o,LB,1,0,0
+401671787,2024-11-11,2024,Houston Texans,home,Detroit Lions,4431517,Calen Bullock,S,1,0,0
+401671748,,2024,Denver Broncos,home,Atlanta Falcons,3926229,Cody Barton,LB,1,15,0
+401671715,2024-11-24,2024,Dallas Cowboys,away,Washington Commanders,4036132,Chauncey Golston,DE,1,18,0
+401671715,2024-11-24,2024,Dallas Cowboys,away,Washington Commanders,4362855,Israel Mukuamu,S,1,5,0
+401671757,,2024,Seattle Seahawks,away,San Francisco 49ers,15841,Johnathan Hankins,DT,1,0,0
+401671757,,2024,San Francisco 49ers,home,Seattle Seahawks,3122797,Isaac Yiadom,CB,1,11,0
+401671705,2024-12-01,2024,Houston Texans,away,Jacksonville Jaguars,4426434,Derek Stingley Jr.,CB,1,31,0
+401671779,2024-11-28,2024,Dallas Cowboys,home,New York Giants,4362088,DeMarvion Overshown,LB,1,23,1
+401671627,2024-12-01,2024,Pittsburgh Steelers,away,Cincinnati Bengals,3843769,Donte Jackson,CB,1,11,0
+401671627,2024-12-01,2024,Cincinnati Bengals,home,Pittsburgh Steelers,4361196,Cam Taylor-Britt,CB,1,51,1
+401671665,,2024,Kansas City Chiefs,away,Buffalo Bills,4361964,Chamarri Conner,S,1,29,0
+401671665,,2024,Buffalo Bills,home,Kansas City Chiefs,4039007,Taylor Rapp,S,1,5,0
+401671665,,2024,Buffalo Bills,home,Kansas City Chiefs,4259166,Terrel Bernard,LB,1,0,0
+401671649,2024-12-01,2024,Los Angeles Chargers,away,Atlanta Falcons,4432571,Tarheeb Still,CB,2,66,1
+401671649,2024-12-01,2024,Los Angeles Chargers,away,Atlanta Falcons,3691739,Derwin James Jr.,S,1,2,0
+401671649,2024-12-01,2024,Los Angeles Chargers,away,Atlanta Falcons,2980110,Marcus Maye,S,1,0,0
+401671694,,2024,Houston Texans,away,Dallas Cowboys,4426434,Derek Stingley Jr.,CB,1,7,0
+401671694,,2024,Dallas Cowboys,home,Houston Texans,3121415,Malik Hooker,S,1,21,0
+401671768,2024-11-24,2024,Green Bay Packers,home,San Francisco 49ers,4241470,Xavier McKinney,S,1,48,0
+401671726,2024-12-01,2024,Minnesota Vikings,home,Arizona Cardinals,3054026,Shaquill Griffin,CB,1,0,0
+401671726,2024-12-01,2024,Minnesota Vikings,home,Arizona Cardinals,4038999,Byron Murphy Jr.,CB,1,0,0
+401671620,2024-12-01,2024,Indianapolis Colts,away,New England Patriots,4035661,Julian Blackmon,S,1,17,0
+401671620,2024-12-01,2024,New England Patriots,home,Indianapolis Colts,4245273,Christian Elliss,LB,1,6,0
+401671620,2024-12-01,2024,New England Patriots,home,Indianapolis Colts,4686772,Christian Gonzalez,CB,1,0,0
+401671703,2024-12-01,2024,Seattle Seahawks,away,New York Jets,2971622,Leonard Williams,DE,1,92,1
+401671858,2024-11-24,2024,Tennessee Titans,away,Houston Texans,4241394,Kenneth Murray Jr.,LB,1,6,0
+401671858,2024-11-24,2024,Tennessee Titans,away,Houston Texans,4426817,Jarvis Brownlee Jr.,CB,1,2,0
+401671858,2024-11-24,2024,Houston Texans,home,Tennessee Titans,16717,Jimmie Ward,S,1,65,1
+401671814,2024-12-06,2024,Green Bay Packers,away,Detroit Lions,4259493,Keisean Nixon,CB,1,16,0
+401671648,2024-12-08,2024,Minnesota Vikings,home,Atlanta Falcons,4046537,Joshua Metellus,S,1,4,0
+401671648,2024-12-08,2024,Minnesota Vikings,home,Atlanta Falcons,4038999,Byron Murphy Jr.,CB,1,0,0
+401671743,2024-12-01,2024,Tennessee Titans,away,Washington Commanders,4036134,Amani Hooker,S,1,0,0
+401671737,2024-12-15,2024,Washington Commanders,away,New Orleans Saints,4428414,Mike Sainristil,CB,1,0,0
+401671601,2024-12-08,2024,New Orleans Saints,away,New York Giants,14958,Demario Davis,LB,1,0,0
+401671601,2024-12-08,2024,New York Giants,home,New Orleans Saints,4686553,Tre Hawkins III,CB,1,0,0
+401671631,2024-12-08,2024,Pittsburgh Steelers,home,Cleveland Browns,4259252,James Pierre,CB,1,18,0
+401671631,2024-12-08,2024,Pittsburgh Steelers,home,Cleveland Browns,4426694,Keeanu Benton,DT,1,11,0
+401671821,2024-12-08,2024,Tennessee Titans,home,Jacksonville Jaguars,3052101,Chidobe Awuzie,CB,1,8,0
+401671821,2024-12-08,2024,Tennessee Titans,home,Jacksonville Jaguars,4379411,Otis Reese IV,LB,1,2,0
+401671752,2024-12-01,2024,Carolina Panthers,home,Tampa Bay Buccaneers,3040572,Xavier Woods,S,1,33,0
+401671752,2024-12-01,2024,Carolina Panthers,home,Tampa Bay Buccaneers,4697636,Chau Smith-Wade,CB,1,3,0
+401671686,2024-12-03,2024,Cleveland Browns,away,Denver Broncos,3915535,Denzel Ward,CB,1,0,0
+401671686,2024-12-03,2024,Cleveland Browns,away,Denver Broncos,4361266,Greg Newsome II,CB,1,-2,0
+401671686,2024-12-03,2024,Denver Broncos,home,Cleveland Browns,4360259,Nik Bonitto,LB,1,71,1
+401671686,2024-12-03,2024,Denver Broncos,home,Cleveland Browns,4567462,Ja'Quan McMillian,CB,1,44,1
+401671686,2024-12-03,2024,Denver Broncos,home,Cleveland Browns,3926229,Cody Barton,LB,1,56,0
+401671774,2024-12-08,2024,Chicago Bears,away,San Francisco 49ers,4331768,Jonathan Owens,S,1,0,0
+401671669,2024-12-15,2024,Indianapolis Colts,away,Denver Broncos,4426403,Nick Cross,S,1,5,0
+401671669,2024-12-15,2024,Indianapolis Colts,away,Denver Broncos,3124005,Zaire Franklin,LB,1,4,0
+401671669,2024-12-15,2024,Indianapolis Colts,away,Denver Broncos,4280416,Samuel Womack III,CB,1,0,0
+401671669,2024-12-15,2024,Denver Broncos,home,Indianapolis Colts,4372012,Pat Surtain II,CB,1,4,0
+401671669,2024-12-15,2024,Denver Broncos,home,Indianapolis Colts,4039059,Brandon Jones,S,1,0,0
+401671731,2024-12-15,2024,Dallas Cowboys,away,Carolina Panthers,4362855,Israel Mukuamu,S,1,15,0
+401671731,2024-12-15,2024,Dallas Cowboys,away,Carolina Panthers,2510863,Eric Kendricks,LB,1,7,0
+401671818,2024-12-13,2024,Los Angeles Rams,away,San Francisco 49ers,4239833,Darious Williams,CB,1,0,0
+401671690,2024-12-10,2024,Cincinnati Bengals,away,Dallas Cowboys,4240575,Geno Stone,S,1,0,0
+401671690,2024-12-10,2024,Dallas Cowboys,home,Cincinnati Bengals,3121415,Malik Hooker,S,1,-1,0
+401671654,2024-12-08,2024,Las Vegas Raiders,away,Tampa Bay Buccaneers,4035686,Jack Jones,CB,1,24,0
+401671654,2024-12-08,2024,Las Vegas Raiders,away,Tampa Bay Buccaneers,4242205,K'Lavon Chaisson,LB,1,0,0
+401671654,2024-12-08,2024,Tampa Bay Buccaneers,home,Las Vegas Raiders,4428522,Tykee Smith,S,1,0,0
+401671762,2024-12-15,2024,Tampa Bay Buccaneers,away,Los Angeles Chargers,3873935,Jamel Dean,CB,1,0,0
+401671762,2024-12-15,2024,Los Angeles Chargers,home,Tampa Bay Buccaneers,4432571,Tarheeb Still,CB,1,18,0
+401671660,2024-12-08,2024,Seattle Seahawks,away,Arizona Cardinals,4362851,Ernest Jones IV,LB,1,12,0
+401671660,2024-12-08,2024,Seattle Seahawks,away,Arizona Cardinals,4239094,Coby Bryant,S,1,9,0
+401671713,2024-12-08,2024,Philadelphia Eagles,home,Carolina Panthers,4034953,C.J. Gardner-Johnson,S,1,15,0
+401671778,2024-12-21,2024,Pittsburgh Steelers,away,Baltimore Ravens,3925345,Minkah Fitzpatrick,S,1,25,0
+401671778,2024-12-21,2024,Baltimore Ravens,home,Pittsburgh Steelers,3126356,Marlon Humphrey,CB,1,37,1
+401671706,2024-12-15,2024,New York Jets,away,Jacksonville Jaguars,2976540,Jalen Mills,S,1,0,0
+401671706,2024-12-15,2024,New York Jets,away,Jacksonville Jaguars,4427250,Sauce Gardner,CB,1,0,0
+401671796,2024-12-16,2024,Green Bay Packers,away,Seattle Seahawks,4430438,Edgerrin Cooper,LB,1,22,0
+401671796,2024-12-16,2024,Green Bay Packers,away,Seattle Seahawks,4430965,Carrington Valentine,CB,1,20,0
+401671811,2024-12-22,2024,Cincinnati Bengals,home,Cleveland Browns,4240575,Geno Stone,S,1,0,0
+401671811,2024-12-22,2024,Cincinnati Bengals,home,Cleveland Browns,4567098,Jordan Battle,S,1,0,0
+401671639,2024-12-15,2024,Baltimore Ravens,away,New York Giants,4362492,Ar'Darius Washington,S,1,32,0
+401671697,2024-12-17,2024,Atlanta Falcons,away,Las Vegas Raiders,2969860,Justin Simmons,S,1,0,0
+401671697,2024-12-17,2024,Atlanta Falcons,away,Las Vegas Raiders,3919512,Jessie Bates III,S,1,0,0
+401671697,2024-12-17,2024,Las Vegas Raiders,home,Atlanta Falcons,3129446,Robert Spillane,LB,1,0,0
+401671862,2024-12-22,2024,Tennessee Titans,away,Indianapolis Colts,4036134,Amani Hooker,S,1,19,0
+401671862,2024-12-22,2024,Indianapolis Colts,home,Tennessee Titans,4218312,Kenny Moore II,CB,2,16,0
+401671862,2024-12-22,2024,Indianapolis Colts,home,Tennessee Titans,4280416,Samuel Womack III,CB,1,4,0
+401671717,2024-12-22,2024,Philadelphia Eagles,away,Washington Commanders,4243956,Reed Blankenship,S,1,28,0
+401671717,2024-12-22,2024,Philadelphia Eagles,away,Washington Commanders,4034953,C.J. Gardner-Johnson,S,1,7,0
+401671717,2024-12-22,2024,Washington Commanders,home,Philadelphia Eagles,3127273,Frankie Luvu,LB,1,0,0
+401671790,2024-12-23,2024,Dallas Cowboys,home,Tampa Bay Buccaneers,3045207,Jourdan Lewis,CB,1,0,0
+401671677,2024-12-15,2024,Arizona Cardinals,home,New England Patriots,3932886,Sean Murphy-Bunting,CB,1,2,0
+401671621,2024-12-22,2024,New York Jets,home,Los Angeles Rams,4240532,Tony Adams,S,1,0,0
+401671854,2024-12-15,2024,Kansas City Chiefs,away,Cleveland Browns,4685232,Jaden Hicks,S,1,47,0
+401671854,2024-12-15,2024,Kansas City Chiefs,away,Cleveland Browns,4247726,Bryan Cook,S,1,0,0
+401671854,2024-12-15,2024,Kansas City Chiefs,away,Cleveland Browns,4362759,Nick Bolton,LB,1,0,0
+401671854,2024-12-15,2024,Kansas City Chiefs,away,Cleveland Browns,4426405,Trent McDuffie,CB,1,0,0
+401671732,2024-12-22,2024,Carolina Panthers,home,Arizona Cardinals,4426926,Demani Richardson,S,1,3,0
+401671874,2024-12-22,2024,Miami Dolphins,home,San Francisco 49ers,4291489,Kader Kohou,CB,1,0,0
+401671729,2024-12-22,2024,New York Giants,away,Atlanta Falcons,4429607,Cor'Dale Flott,CB,1,26,0
+401671729,2024-12-22,2024,Atlanta Falcons,home,New York Giants,3919512,Jessie Bates III,S,1,55,1
+401671729,2024-12-22,2024,Atlanta Falcons,home,New York Giants,3961466,Matthew Judon,LB,1,27,1
+401671829,2024-12-29,2024,Los Angeles Rams,home,Arizona Cardinals,4596363,Kamren Kinchens,S,1,11,0
+401671829,2024-12-29,2024,Los Angeles Rams,home,Arizona Cardinals,3122630,Ahkello Witherspoon,CB,1,0,0
+401671800,2024-12-25,2024,Baltimore Ravens,away,Houston Texans,4575517,Kyle Hamilton,S,1,0,0
+401671692,2024-12-24,2024,Green Bay Packers,home,New Orleans Saints,3932335,Zayne Anderson,S,1,18,0
+401671634,2024-12-29,2024,Jacksonville Jaguars,home,Tennessee Titans,4243256,Devin Lloyd,LB,1,3,0
+401671860,2024-12-15,2024,Houston Texans,home,Miami Dolphins,4426434,Derek Stingley Jr.,CB,2,10,0
+401671860,2024-12-15,2024,Houston Texans,home,Miami Dolphins,4431517,Calen Bullock,S,1,68,0
+401671846,2024-12-29,2024,New York Giants,home,Indianapolis Colts,4431321,Dru Phillips,CB,1,25,0
+401671846,2024-12-29,2024,New York Giants,home,Indianapolis Colts,4426686,Dane Belton,S,1,0,0
+401671494,2024-12-22,2024,New England Patriots,away,Buffalo Bills,4248899,Marte Mapu,LB,1,6,0
+401671494,2024-12-22,2024,Buffalo Bills,home,New England Patriots,3916577,Cam Lewis,CB,1,0,0
+401671825,2024-12-15,2024,Cincinnati Bengals,away,Tennessee Titans,4240575,Geno Stone,S,1,39,1
+401671825,2024-12-15,2024,Cincinnati Bengals,away,Tennessee Titans,4361196,Cam Taylor-Britt,CB,1,28,0
+401671825,2024-12-15,2024,Cincinnati Bengals,away,Tennessee Titans,4365319,Josh Newton,CB,1,12,0
+401671825,2024-12-15,2024,Cincinnati Bengals,away,Tennessee Titans,2980383,Mike Hilton,CB,1,0,0
+401671825,2024-12-15,2024,Tennessee Titans,home,Cincinnati Bengals,3042436,Daryl Worley,S,1,0,0
+401671825,2024-12-15,2024,Tennessee Titans,home,Cincinnati Bengals,3116097,Luke Gifford,LB,1,0,0
+401671489,2024-12-17,2024,Chicago Bears,away,Minnesota Vikings,4426374,Tyrique Stevenson,CB,1,0,0
+401671749,2024-12-20,2024,Denver Broncos,away,Los Angeles Chargers,4429193,Kris Abrams-Draine,CB,1,17,0
+401671759,2024-12-22,2024,Minnesota Vikings,away,Seattle Seahawks,4565190,Dallas Turner,LB,1,4,0
+401671759,2024-12-22,2024,Minnesota Vikings,away,Seattle Seahawks,4242436,Theo Jackson,S,1,3,0
+401671725,2024-12-29,2024,Green Bay Packers,away,Minnesota Vikings,4430965,Carrington Valentine,CB,1,31,0
+401671842,2024-12-30,2024,Atlanta Falcons,away,Washington Commanders,3124890,Kaden Elliss,LB,1,12,0
+401671842,2024-12-30,2024,Washington Commanders,home,Atlanta Falcons,4360378,Quan Martin,S,1,29,0
+401671836,2025-01-05,2024,Pittsburgh Steelers,home,Cincinnati Bengals,4363052,Beanie Bishop Jr.,CB,1,0,0
+401671837,2025-01-05,2024,Indianapolis Colts,home,Jacksonville Jaguars,4035661,Julian Blackmon,S,1,10,0
+401671780,2024-12-21,2024,Kansas City Chiefs,home,Houston Texans,4685232,Jaden Hicks,S,1,3,0
+401671780,2024-12-21,2024,Kansas City Chiefs,home,Houston Texans,4426405,Trent McDuffie,CB,1,0,0
+401671876,2024-12-27,2024,Seattle Seahawks,away,Chicago Bears,4245185,Riq Woolen,CB,1,7,0
+401671843,2025-01-06,2024,Minnesota Vikings,away,Detroit Lions,4430280,Ivan Pace Jr.,LB,1,6,0
+401671843,2025-01-06,2024,Minnesota Vikings,away,Detroit Lions,14945,Harrison Smith,S,1,0,0
+401671799,2024-12-25,2024,Kansas City Chiefs,away,Pittsburgh Steelers,3931399,Justin Reid,S,1,0,0
+401671877,2024-12-29,2024,Miami Dolphins,away,Cleveland Browns,4035232,Tyrel Dodson,LB,1,0,0
+401671839,2025-01-05,2024,Los Angeles Chargers,away,Las Vegas Raiders,4241597,Daiyan Henley,LB,1,4,0
+401671878,2025-01-11,2024,Los Angeles Chargers,away,Houston Texans,4690171,Deane Leonard,CB,1,0,0
+401671878,2025-01-11,2024,Houston Texans,home,Los Angeles Chargers,4426434,Derek Stingley Jr.,CB,2,70,0
+401671878,2025-01-11,2024,Houston Texans,home,Los Angeles Chargers,2970716,Eric Murray,S,1,38,1
+401671878,2025-01-11,2024,Houston Texans,home,Los Angeles Chargers,4602699,Kamari Lassiter,CB,1,0,0
+401671828,2025-01-05,2024,New Orleans Saints,away,Tampa Bay Buccaneers,4360949,Jordan Howden,S,1,3,0
+401671880,2025-01-12,2024,Philadelphia Eagles,home,Green Bay Packers,3917657,Zack Baun,LB,1,16,0
+401671880,2025-01-12,2024,Philadelphia Eagles,home,Green Bay Packers,15863,Darius Slay,CB,1,0,0
+401671880,2025-01-12,2024,Philadelphia Eagles,home,Green Bay Packers,4686273,Quinyon Mitchell,CB,1,0,0
+401671495,2024-12-29,2024,Buffalo Bills,home,New York Jets,4379778,Christian Benford,CB,1,24,0
+401671495,2024-12-29,2024,Buffalo Bills,home,New York Jets,2577466,Jordan Phillips,DT,1,2,0
+401671738,2024-12-29,2024,Las Vegas Raiders,away,New Orleans Saints,4569323,Thomas Harper,S,1,14,0
+401671738,2024-12-29,2024,Las Vegas Raiders,away,New Orleans Saints,4035686,Jack Jones,CB,1,0,0
+401671886,2025-01-19,2024,Buffalo Bills,home,Baltimore Ravens,4039007,Taylor Rapp,S,1,0,0
+401671833,2025-01-05,2024,Miami Dolphins,away,New York Jets,4035232,Tyrel Dodson,LB,1,7,0
+401671833,2025-01-05,2024,New York Jets,home,Miami Dolphins,3858271,Ashtyn Davis,S,2,18,0
+401671888,2025-01-26,2024,Philadelphia Eagles,home,Washington Commanders,4686273,Quinyon Mitchell,CB,1,0,0
+401671844,2025-01-05,2024,Green Bay Packers,home,Chicago Bears,4241470,Xavier McKinney,S,1,17,0
+401671765,2024-12-29,2024,Philadelphia Eagles,home,Dallas Cowboys,4034953,C.J. Gardner-Johnson,S,2,94,1
+401671827,2025-01-05,2024,Carolina Panthers,away,Atlanta Falcons,3917853,Mike Jackson,CB,1,19,0
+401671882,2025-01-14,2024,Los Angeles Rams,home,Minnesota Vikings,4384549,Cobie Durant,CB,1,0,0
+401671830,2025-01-05,2024,Seattle Seahawks,away,Los Angeles Rams,4046675,Julian Love,S,1,7,0
+401671834,2025-01-04,2024,Baltimore Ravens,home,Cleveland Browns,4601278,Nate Wiggins,CB,1,26,1
+401671834,2025-01-04,2024,Baltimore Ravens,home,Cleveland Browns,2972144,Michael Pierce,DT,1,6,0
+401671889,2025-02-09,2024,Kansas City Chiefs,away,Philadelphia Eagles,4247726,Bryan Cook,S,1,0,0
+401671889,2025-02-09,2024,Philadelphia Eagles,home,Kansas City Chiefs,4682618,Cooper DeJean,CB,1,38,1
+401671889,2025-02-09,2024,Philadelphia Eagles,home,Kansas City Chiefs,3917657,Zack Baun,LB,1,0,0
+401671885,2025-01-19,2024,Washington Commanders,away,Detroit Lions,4428414,Mike Sainristil,CB,2,22,0
+401671885,2025-01-19,2024,Washington Commanders,away,Detroit Lions,4360378,Quan Martin,S,1,40,1
+401671885,2025-01-19,2024,Washington Commanders,away,Detroit Lions,4043169,Jeremy Chinn,S,1,7,0
+401671845,2025-01-05,2024,Arizona Cardinals,home,San Francisco 49ers,3932886,Sean Murphy-Bunting,CB,1,0,0
+401671845,2025-01-05,2024,Arizona Cardinals,home,San Francisco 49ers,4426923,Kei'Trel Clark,CB,1,0,0
+401671841,2025-01-05,2024,Philadelphia Eagles,home,New York Giants,4360386,Sydney Brown,S,1,21,0
+401772722,2025-09-07,2025,Green Bay Packers,home,Detroit Lions,4428863,Evan Williams,S,1,0,0
+401772723,2025-09-07,2025,Los Angeles Rams,home,Houston Texans,4384549,Cobie Durant,CB,1,0,0
+401772831,2025-09-07,2025,Seattle Seahawks,home,San Francisco 49ers,4362851,Ernest Jones IV,LB,1,7,0
+401772831,2025-09-07,2025,Seattle Seahawks,home,San Francisco 49ers,4372020,Josh Jobe,CB,1,0,0
+401772836,2025-09-14,2025,Seattle Seahawks,away,Pittsburgh Steelers,4239094,Coby Bryant,S,1,28,0
+401772836,2025-09-14,2025,Seattle Seahawks,away,Pittsburgh Steelers,4360307,Derion Kendrick,CB,1,0,0
+401772836,2025-09-14,2025,Pittsburgh Steelers,home,Seattle Seahawks,4429164,Nick Herbig,LB,1,41,0
+401772836,2025-09-14,2025,Pittsburgh Steelers,home,Seattle Seahawks,3045373,Jalen Ramsey,CB,1,2,0
+401772828,2025-09-07,2025,Carolina Panthers,away,Jacksonville Jaguars,4362847,Jaycee Horn,CB,1,10,0
+401772828,2025-09-07,2025,Jacksonville Jaguars,home,Carolina Panthers,3045207,Jourdan Lewis,CB,1,0,0
+401772828,2025-09-07,2025,Jacksonville Jaguars,home,Carolina Panthers,3050073,Foyesade Oluokun,LB,1,0,0
+401772832,2025-09-07,2025,Tennessee Titans,away,Denver Broncos,3040572,Xavier Woods,S,1,16,0
+401772832,2025-09-07,2025,Tennessee Titans,away,Denver Broncos,4371973,Roger McCreary,CB,1,0,0
+401772919,2025-09-15,2025,Atlanta Falcons,away,Minnesota Vikings,4431005,Xavier Watts,S,1,0,0
+401772919,2025-09-15,2025,Atlanta Falcons,away,Minnesota Vikings,4431194,Billy Bowman Jr.,S,1,0,0
+401772724,2025-09-14,2025,Tennessee Titans,home,Los Angeles Rams,3926229,Cody Barton,LB,1,0,0
+401772728,2025-09-14,2025,New England Patriots,away,Miami Dolphins,4248899,Marte Mapu,LB,1,20,0
+401772734,2025-09-21,2025,Houston Texans,away,Jacksonville Jaguars,4241223,Jalen Pitre,S,1,0,0
+401772734,2025-09-21,2025,Jacksonville Jaguars,home,Houston Texans,3045207,Jourdan Lewis,CB,1,6,0
+401772734,2025-09-21,2025,Jacksonville Jaguars,home,Houston Texans,4429168,Antonio Johnson,S,1,0,0
+401772829,2025-09-07,2025,Cincinnati Bengals,away,Cleveland Browns,4572036,DJ Turner II,CB,1,7,0
+401772829,2025-09-07,2025,Cincinnati Bengals,away,Cleveland Browns,4567098,Jordan Battle,S,1,2,0
+401772834,2025-09-14,2025,New York Giants,away,Dallas Cowboys,4431321,Dru Phillips,CB,1,0,0
+401772834,2025-09-14,2025,Dallas Cowboys,home,New York Giants,3122135,Donovan Wilson,S,1,0,0
+401772720,2025-09-07,2025,Las Vegas Raiders,away,New England Patriots,4259632,Isaiah Pola-Mao,S,1,0,0
+401772720,2025-09-07,2025,New England Patriots,home,Las Vegas Raiders,3858276,Jaylinn Hawkins,S,1,1,0
+401772839,2025-09-21,2025,Philadelphia Eagles,home,Los Angeles Rams,3917657,Zack Baun,LB,1,0,0
+401772725,2025-09-14,2025,Jacksonville Jaguars,away,Cincinnati Bengals,3918331,Andrew Wingard,S,1,39,0
+401772725,2025-09-14,2025,Jacksonville Jaguars,away,Cincinnati Bengals,4243256,Devin Lloyd,LB,1,22,0
+401772725,2025-09-14,2025,Jacksonville Jaguars,away,Cincinnati Bengals,2970716,Eric Murray,S,1,12,0
+401772725,2025-09-14,2025,Cincinnati Bengals,home,Jacksonville Jaguars,4567098,Jordan Battle,S,1,4,0
+401772725,2025-09-14,2025,Cincinnati Bengals,home,Jacksonville Jaguars,4426422,Dax Hill,CB,1,0,0
+401772937,2025-09-19,2025,Buffalo Bills,home,Miami Dolphins,4259166,Terrel Bernard,LB,1,24,0
+401772726,2025-09-14,2025,Baltimore Ravens,home,Cleveland Browns,4601278,Nate Wiggins,CB,1,61,0
+401772835,2025-09-14,2025,Detroit Lions,home,Chicago Bears,4360383,Kerby Joseph,S,1,0,0
+401772810,2025-09-09,2025,Chicago Bears,home,Minnesota Vikings,4570470,Nahshon Wright,CB,1,74,1
+401772729,2025-09-14,2025,Indianapolis Colts,home,Denver Broncos,4035861,Cam Bynum,S,1,0,0
+401772837,2025-09-14,2025,Philadelphia Eagles,away,Kansas City Chiefs,4602197,Andrew Mukuba,S,1,41,0
+401772920,2025-09-22,2025,Kansas City Chiefs,away,New York Giants,4428383,Chris Roland-Wallace,CB,1,23,0
+401772920,2025-09-22,2025,Kansas City Chiefs,away,New York Giants,4697639,Jaylen Watson,CB,1,0,0
+401772737,2025-09-28,2025,New York Giants,home,Los Angeles Chargers,4431321,Dru Phillips,CB,1,56,0
+401772737,2025-09-28,2025,New York Giants,home,Los Angeles Chargers,4035483,Dexter Lawrence II,DT,1,37,0
+401772719,2025-09-07,2025,Indianapolis Colts,home,Miami Dolphins,4035861,Cam Bynum,S,1,14,0
+401772719,2025-09-07,2025,Indianapolis Colts,home,Miami Dolphins,4426473,Laiatu Latu,DE,1,6,0
+401772844,2025-09-21,2025,Chicago Bears,home,Dallas Cowboys,3929950,Tremaine Edmunds,LB,2,0,0
+401772844,2025-09-21,2025,Chicago Bears,home,Dallas Cowboys,2574056,Kevin Byard III,S,1,0,0
+401772842,2025-09-21,2025,Green Bay Packers,away,Cleveland Browns,4241470,Xavier McKinney,S,1,0,0
+401772842,2025-09-21,2025,Cleveland Browns,home,Green Bay Packers,4242208,Grant Delpit,S,1,25,0
+401772732,2025-09-21,2025,Pittsburgh Steelers,away,New England Patriots,4567979,Brandin Echols,CB,1,0,0
+401772732,2025-09-21,2025,New England Patriots,home,Pittsburgh Steelers,3129446,Robert Spillane,LB,1,37,0
+401772811,2025-09-16,2025,Los Angeles Chargers,away,Las Vegas Raiders,4241597,Daiyan Henley,LB,1,8,0
+401772811,2025-09-16,2025,Los Angeles Chargers,away,Las Vegas Raiders,16195,Tony Jefferson,S,1,0,0
+401772811,2025-09-16,2025,Los Angeles Chargers,away,Las Vegas Raiders,3843769,Donte Jackson,CB,1,0,0
+401772738,2025-09-28,2025,Houston Texans,home,Tennessee Titans,4426434,Derek Stingley Jr.,CB,1,20,0
+401772739,2025-09-28,2025,Washington Commanders,away,Atlanta Falcons,4428414,Mike Sainristil,CB,1,23,0
+401772739,2025-09-28,2025,Atlanta Falcons,home,Washington Commanders,4431005,Xavier Watts,S,1,0,0
+401772733,2025-09-21,2025,Indianapolis Colts,away,Tennessee Titans,4218312,Kenny Moore II,CB,1,32,1
+401772730,2025-09-14,2025,Carolina Panthers,away,Arizona Cardinals,4038849,D.J. Wonnum,LB,1,0,0
+401772730,2025-09-14,2025,Arizona Cardinals,home,Carolina Panthers,4241987,Baron Browning,LB,1,4,0
+401772735,2025-09-21,2025,Denver Broncos,away,Los Angeles Chargers,4039059,Brandon Jones,S,1,0,0
+401772736,2025-09-21,2025,Seattle Seahawks,home,New Orleans Saints,4360307,Derion Kendrick,CB,1,0,0
+401772848,2025-09-28,2025,Jacksonville Jaguars,away,San Francisco 49ers,4243256,Devin Lloyd,LB,2,8,0
+401772938,2025-09-26,2025,Seattle Seahawks,away,Arizona Cardinals,4362851,Ernest Jones IV,LB,1,29,0
+401772938,2025-09-26,2025,Seattle Seahawks,away,Arizona Cardinals,4239094,Coby Bryant,S,1,15,0
+401772846,2025-09-28,2025,Cleveland Browns,away,Detroit Lions,3915535,Denzel Ward,CB,1,13,0
+401772846,2025-09-28,2025,Detroit Lions,home,Cleveland Browns,3139387,D.J. Reed,CB,1,34,0
+401772846,2025-09-28,2025,Detroit Lions,home,Cleveland Browns,4360383,Kerby Joseph,S,1,0,0
+401772840,2025-09-21,2025,Tampa Bay Buccaneers,home,New York Jets,3873935,Jamel Dean,CB,1,55,1
+401772632,2025-09-28,2025,Pittsburgh Steelers,home,Minnesota Vikings,3045282,T.J. Watt,LB,1,13,0
+401772632,2025-09-28,2025,Pittsburgh Steelers,home,Minnesota Vikings,3929846,DeShon Elliott,S,1,-4,0
+401772716,2025-09-30,2025,Cincinnati Bengals,away,Denver Broncos,4427729,Demetrius Knight Jr.,LB,1,0,0
+401772740,2025-09-28,2025,New Orleans Saints,away,Buffalo Bills,4683813,Jonas Sanker,S,1,0,0
+401772740,2025-09-28,2025,Buffalo Bills,home,New Orleans Saints,4676004,Cole Bishop,S,1,4,0
+401772744,2025-10-05,2025,New Orleans Saints,home,New York Giants,4433975,Kool-Aid McKinstry,CB,2,0,0
+401772843,2025-09-21,2025,Arizona Cardinals,away,San Francisco 49ers,4428633,Dadrion Taylor-Demerson,S,1,18,0
+401772838,2025-09-21,2025,Carolina Panthers,home,Atlanta Falcons,4697636,Chau Smith-Wade,CB,1,11,1
+401772838,2025-09-21,2025,Carolina Panthers,home,Atlanta Falcons,3917853,Mike Jackson,CB,1,54,0
+401772853,2025-10-05,2025,Washington Commanders,away,Los Angeles Chargers,4428414,Mike Sainristil,CB,1,0,0
+401772814,2025-10-07,2025,Kansas City Chiefs,away,Jacksonville Jaguars,4426405,Trent McDuffie,CB,1,2,0
+401772814,2025-10-07,2025,Jacksonville Jaguars,home,Kansas City Chiefs,4243256,Devin Lloyd,LB,1,99,1
+401772922,2025-10-06,2025,New England Patriots,away,Buffalo Bills,4241720,Marcus Jones,CB,1,0,0
+401772845,2025-09-28,2025,Philadelphia Eagles,away,Tampa Bay Buccaneers,4685287,Jihaad Campbell,LB,1,0,0
+401772747,2025-10-05,2025,Arizona Cardinals,home,Tennessee Titans,4428633,Dadrion Taylor-Demerson,S,1,0,0
+401772854,2025-10-05,2025,Detroit Lions,away,Cincinnati Bengals,3043107,Alex Anzalone,LB,1,14,0
+401772854,2025-10-05,2025,Detroit Lions,away,Cincinnati Bengals,4239694,Amik Robertson,CB,1,2,0
+401772854,2025-10-05,2025,Detroit Lions,away,Cincinnati Bengals,4360383,Kerby Joseph,S,1,1,0
+401772849,2025-09-28,2025,Los Angeles Rams,home,Indianapolis Colts,4242154,Kam Curl,S,2,0,0
+401772743,2025-10-05,2025,Houston Texans,away,Baltimore Ravens,4241223,Jalen Pitre,S,2,20,0
+401772743,2025-10-05,2025,Houston Texans,away,Baltimore Ravens,4602699,Kamari Lassiter,CB,1,0,0
+401772742,2025-09-28,2025,Chicago Bears,away,Las Vegas Raiders,2574056,Kevin Byard III,S,2,47,0
+401772742,2025-09-28,2025,Chicago Bears,away,Las Vegas Raiders,4426374,Tyrique Stevenson,CB,1,3,0
+401772742,2025-09-28,2025,Las Vegas Raiders,home,Chicago Bears,3916655,Maxx Crosby,DE,1,19,0
+401772741,2025-09-28,2025,Kansas City Chiefs,home,Baltimore Ravens,4426901,Leo Chenal,LB,1,0,0
+401772859,2025-10-12,2025,Tennessee Titans,away,Las Vegas Raiders,3926229,Cody Barton,LB,1,1,0
+401772859,2025-10-12,2025,Las Vegas Raiders,home,Tennessee Titans,4035434,Devin White,LB,1,0,0
+401772815,2025-10-13,2025,Atlanta Falcons,home,Buffalo Bills,4243457,DeAngelo Malone,LB,1,6,0
+401772815,2025-10-13,2025,Atlanta Falcons,home,Buffalo Bills,4401823,Dee Alford,CB,1,0,0
+401772852,2025-10-05,2025,Miami Dolphins,away,Carolina Panthers,3925345,Minkah Fitzpatrick,S,1,7,0
+401772746,2025-10-05,2025,Tampa Bay Buccaneers,away,Seattle Seahawks,14985,Lavonte David,LB,1,3,0
+401772858,2025-10-12,2025,Dallas Cowboys,away,Carolina Panthers,3122135,Donovan Wilson,S,1,21,0
+401772717,2025-10-14,2025,Chicago Bears,away,Washington Commanders,4570044,Jaquan Brisker,S,1,32,0
+401772856,2025-10-12,2025,Arizona Cardinals,away,Indianapolis Colts,4040983,Mack Wilson Sr.,LB,1,9,0
+401772856,2025-10-12,2025,Indianapolis Colts,home,Arizona Cardinals,4360677,Mekhi Blackmon,CB,1,9,0
+401772749,2025-10-12,2025,Tampa Bay Buccaneers,home,San Francisco 49ers,4036651,Kindle Vildor,CB,1,13,0
+401772749,2025-10-12,2025,Tampa Bay Buccaneers,home,San Francisco 49ers,3873935,Jamel Dean,CB,1,6,0
+401772750,2025-10-12,2025,Los Angeles Chargers,away,Miami Dolphins,3691739,Derwin James Jr.,S,1,21,0
+401772750,2025-10-12,2025,Los Angeles Chargers,away,Miami Dolphins,16195,Tony Jefferson,S,1,2,0
+401772750,2025-10-12,2025,Los Angeles Chargers,away,Miami Dolphins,4258206,Benjamin St-Juste,CB,1,0,0
+401772731,2025-09-21,2025,Minnesota Vikings,home,Cincinnati Bengals,4044540,Isaiah Rodgers,CB,1,87,1
+401772731,2025-09-21,2025,Minnesota Vikings,home,Cincinnati Bengals,4046537,Joshua Metellus,S,1,0,0
+401772851,2025-10-05,2025,Indianapolis Colts,home,Las Vegas Raiders,4360677,Mekhi Blackmon,CB,1,32,0
+401772851,2025-10-05,2025,Indianapolis Colts,home,Las Vegas Raiders,4426473,Laiatu Latu,DE,1,0,0
+401772861,2025-10-19,2025,New Orleans Saints,away,Chicago Bears,4428350,Quincy Riley,CB,1,0,0
+401772861,2025-10-19,2025,Chicago Bears,home,New Orleans Saints,4570470,Nahshon Wright,CB,1,38,0
+401772861,2025-10-19,2025,Chicago Bears,home,New Orleans Saints,3929950,Tremaine Edmunds,LB,1,10,0
+401772861,2025-10-19,2025,Chicago Bears,home,New Orleans Saints,2574056,Kevin Byard III,S,1,0,0
+401772941,2025-10-17,2025,Cincinnati Bengals,home,Pittsburgh Steelers,4567098,Jordan Battle,S,1,0,0
+401772941,2025-10-17,2025,Cincinnati Bengals,home,Pittsburgh Steelers,4572036,DJ Turner II,CB,1,0,0
+401772752,2025-10-12,2025,Cincinnati Bengals,away,Green Bay Packers,4240575,Geno Stone,S,1,25,0
+401772826,2025-10-21,2025,Houston Texans,away,Seattle Seahawks,4426434,Derek Stingley Jr.,CB,1,17,0
+401772826,2025-10-21,2025,Houston Texans,away,Seattle Seahawks,4431517,Calen Bullock,S,1,11,0
+401772826,2025-10-21,2025,Seattle Seahawks,home,Houston Texans,4362851,Ernest Jones IV,LB,1,23,0
+401772862,2025-10-19,2025,Philadelphia Eagles,away,Minnesota Vikings,4571162,Jalyx Hunt,LB,1,42,1
+401772862,2025-10-19,2025,Philadelphia Eagles,away,Minnesota Vikings,4602197,Andrew Mukuba,S,1,0,0
+401772755,2025-10-19,2025,New England Patriots,away,Tennessee Titans,4241720,Marcus Jones,CB,1,32,0
+401772940,2025-10-10,2025,New York Giants,home,Philadelphia Eagles,4429607,Cor'Dale Flott,CB,1,68,0
+401772869,2025-10-26,2025,Tampa Bay Buccaneers,away,New Orleans Saints,3894856,Anthony Nelson,LB,1,3,1
+401772869,2025-10-26,2025,Tampa Bay Buccaneers,away,New Orleans Saints,4034790,Antoine Winfield Jr.,S,1,0,0
+401772864,2025-10-19,2025,Dallas Cowboys,home,Washington Commanders,4248911,DaRon Bland,CB,1,68,1
+401772866,2025-10-26,2025,San Francisco 49ers,away,Houston Texans,4242488,Deommodore Lenoir,CB,1,26,0
+401772866,2025-10-26,2025,Houston Texans,home,San Francisco 49ers,4602699,Kamari Lassiter,CB,1,0,0
+401772855,2025-10-12,2025,Los Angeles Rams,away,Baltimore Ravens,4249128,Quentin Lake,S,1,0,0
+401772759,2025-10-26,2025,Baltimore Ravens,home,Chicago Bears,4601278,Nate Wiggins,CB,1,9,0
+401772860,2025-10-19,2025,Carolina Panthers,away,New York Jets,4362847,Jaycee Horn,CB,2,0,0
+401772754,2025-10-19,2025,Cleveland Browns,home,Miami Dolphins,4379397,Tyson Campbell,CB,1,34,1
+401772754,2025-10-19,2025,Cleveland Browns,home,Miami Dolphins,4569620,Ronnie Hickman,S,1,16,0
+401772754,2025-10-19,2025,Cleveland Browns,home,Miami Dolphins,2969961,Rayshawn Jenkins,S,1,9,0
+401772817,2025-10-28,2025,Washington Commanders,away,Kansas City Chiefs,14979,Bobby Wagner,LB,1,1,0
+401772817,2025-10-28,2025,Washington Commanders,away,Kansas City Chiefs,3121421,Marshon Lattimore,CB,1,0,0
+401772817,2025-10-28,2025,Kansas City Chiefs,home,Washington Commanders,3915487,Mike Danna,DE,1,10,0
+401772817,2025-10-28,2025,Kansas City Chiefs,home,Washington Commanders,4249766,Jack Cochrane,LB,1,0,0
+401772756,2025-10-19,2025,Indianapolis Colts,away,Los Angeles Chargers,4058825,Grover Stewart,DT,1,3,0
+401772756,2025-10-19,2025,Indianapolis Colts,away,Los Angeles Chargers,4426403,Nick Cross,S,1,0,0
+401772924,2025-10-20,2025,Atlanta Falcons,away,San Francisco 49ers,3124890,Kaden Elliss,LB,1,16,0
+401772942,2025-10-24,2025,Minnesota Vikings,away,Los Angeles Chargers,4046537,Joshua Metellus,S,1,0,0
+401772942,2025-10-24,2025,Los Angeles Chargers,home,Minnesota Vikings,4429018,RJ Mickens,S,1,15,0
+401772871,2025-11-02,2025,Detroit Lions,home,Minnesota Vikings,4592837,Terrion Arnold,CB,1,0,0
+401772762,2025-10-26,2025,Dallas Cowboys,away,Denver Broncos,4426513,Trikweze Bridges,CB,1,7,0
+401772762,2025-10-26,2025,Denver Broncos,home,Dallas Cowboys,5216101,Dondrea Tillman,LB,1,36,0
+401772762,2025-10-26,2025,Denver Broncos,home,Dallas Cowboys,4430925,Jahdae Barron,CB,1,0,0
+401772874,2025-11-02,2025,Los Angeles Rams,home,New Orleans Saints,4429767,Emmanuel Forbes Jr.,CB,1,7,0
+401772868,2025-10-26,2025,Cleveland Browns,away,New England Patriots,4876017,Carson Schwesinger,LB,1,7,0
+401772868,2025-10-26,2025,New England Patriots,home,Cleveland Browns,3129446,Robert Spillane,LB,1,33,0
+401772868,2025-10-26,2025,New England Patriots,home,Cleveland Browns,3858276,Jaylinn Hawkins,S,1,0,0
+401772768,2025-11-02,2025,Buffalo Bills,home,Kansas City Chiefs,4688931,Maxwell Hairston,CB,1,0,0
+401772757,2025-10-19,2025,Denver Broncos,home,New York Giants,3919548,Justin Strnad,LB,1,21,0
+401772766,2025-11-02,2025,Pittsburgh Steelers,home,Indianapolis Colts,4361652,Payton Wilson,LB,1,17,0
+401772766,2025-11-02,2025,Pittsburgh Steelers,home,Indianapolis Colts,4431590,Jack Sawyer,LB,1,4,0
+401772766,2025-11-02,2025,Pittsburgh Steelers,home,Indianapolis Colts,4426506,Joey Porter Jr.,CB,1,0,0
+401772872,2025-11-02,2025,Carolina Panthers,away,Green Bay Packers,4362487,Tre'von Moehrig,S,1,36,0
+401772872,2025-11-02,2025,Green Bay Packers,home,Carolina Panthers,4241470,Xavier McKinney,S,1,0,0
+401772870,2025-11-02,2025,Houston Texans,home,Denver Broncos,4431517,Calen Bullock,S,1,0,0
+401772764,2025-11-02,2025,Tennessee Titans,home,Los Angeles Chargers,3926229,Cody Barton,LB,1,24,1
+401772816,2025-10-20,2025,Tampa Bay Buccaneers,away,Detroit Lions,3873935,Jamel Dean,CB,1,13,0
+401772816,2025-10-20,2025,Detroit Lions,home,Tampa Bay Buccaneers,3916144,Arthur Maulet,CB,1,0,0
+401772765,2025-11-02,2025,Chicago Bears,away,Cincinnati Bengals,4570470,Nahshon Wright,CB,1,6,0
+401772765,2025-11-02,2025,Chicago Bears,away,Cincinnati Bengals,3929950,Tremaine Edmunds,LB,1,0,0
+401772772,2025-11-09,2025,Tampa Bay Buccaneers,home,New England Patriots,4428522,Tykee Smith,S,1,0,0
+401772877,2025-11-09,2025,New Orleans Saints,away,Carolina Panthers,4369835,Alontae Taylor,CB,1,11,0
+401772761,2025-10-26,2025,Indianapolis Colts,home,Tennessee Titans,3128630,Chris Lammons,CB,1,0,0
+401772865,2025-10-26,2025,Buffalo Bills,away,Carolina Panthers,4240585,AJ Epenesa,DE,1,24,0
+401772763,2025-11-02,2025,Atlanta Falcons,away,New England Patriots,3919512,Jessie Bates III,S,1,17,0
+401772944,2025-11-07,2025,Las Vegas Raiders,away,Denver Broncos,4427695,Kyu Blu Kelly,CB,2,26,0
+401772944,2025-11-07,2025,Denver Broncos,home,Las Vegas Raiders,5216101,Dondrea Tillman,LB,1,23,0
+401772818,2025-11-04,2025,Arizona Cardinals,away,Dallas Cowboys,4432668,Denzel Burke,CB,1,0,0
+401772636,2025-11-09,2025,Atlanta Falcons,away,Indianapolis Colts,3919512,Jessie Bates III,S,1,3,0
+401772927,2025-11-10,2025,Los Angeles Chargers,home,Pittsburgh Steelers,3843769,Donte Jackson,CB,1,21,0
+401772927,2025-11-10,2025,Los Angeles Chargers,home,Pittsburgh Steelers,4429018,RJ Mickens,S,1,10,0
+401772770,2025-11-09,2025,Jacksonville Jaguars,away,Houston Texans,4426448,Jarrian Jones,CB,1,0,0
+401772770,2025-11-09,2025,Houston Texans,home,Jacksonville Jaguars,4426434,Derek Stingley Jr.,CB,1,0,0
+401772876,2025-11-09,2025,Baltimore Ravens,away,Minnesota Vikings,3126356,Marlon Humphrey,CB,1,27,0
+401772876,2025-11-09,2025,Baltimore Ravens,away,Minnesota Vikings,4685530,Malaki Starks,S,1,0,0
+401772943,2025-10-31,2025,Baltimore Ravens,away,Miami Dolphins,4685530,Malaki Starks,S,1,9,0
+401772880,2025-11-16,2025,Chicago Bears,away,Minnesota Vikings,2574056,Kevin Byard III,S,1,23,0
+401772880,2025-11-16,2025,Chicago Bears,away,Minnesota Vikings,4570470,Nahshon Wright,CB,1,0,0
+401772771,2025-11-09,2025,Buffalo Bills,away,Miami Dolphins,4688931,Maxwell Hairston,CB,1,1,0
+401772771,2025-11-09,2025,Buffalo Bills,away,Miami Dolphins,4676004,Cole Bishop,S,1,0,0
+401772771,2025-11-09,2025,Miami Dolphins,home,Buffalo Bills,4240401,Ifeatu Melifonwu,S,1,0,0
+401772769,2025-11-09,2025,Cleveland Browns,away,New York Jets,4569620,Ronnie Hickman,S,1,15,0
+401772926,2025-11-03,2025,Seattle Seahawks,away,Washington Commanders,4247808,Ty Okada,S,1,0,0
+401772926,2025-11-03,2025,Washington Commanders,home,Seattle Seahawks,4428414,Mike Sainristil,CB,1,0,0
+401772873,2025-11-02,2025,Jacksonville Jaguars,away,Las Vegas Raiders,4242149,Montaric Brown,CB,1,0,0
+401772873,2025-11-02,2025,Las Vegas Raiders,home,Jacksonville Jaguars,4259632,Isaiah Pola-Mao,S,1,0,0
+401772775,2025-11-16,2025,Los Angeles Chargers,away,Jacksonville Jaguars,3843769,Donte Jackson,CB,1,0,0
+401772879,2025-11-09,2025,Los Angeles Rams,away,San Francisco 49ers,4429767,Emmanuel Forbes Jr.,CB,1,5,0
+401772776,2025-11-16,2025,Tampa Bay Buccaneers,away,Buffalo Bills,4912847,Jacob Parrish,CB,1,3,0
+401772776,2025-11-16,2025,Tampa Bay Buccaneers,away,Buffalo Bills,4429511,SirVocea Dennis,LB,1,0,0
+401772773,2025-11-09,2025,Arizona Cardinals,away,Seattle Seahawks,4432668,Denzel Burke,CB,1,4,0
+401772631,2025-11-16,2025,Miami Dolphins,home,Washington Commanders,4035686,Jack Jones,CB,1,7,0
