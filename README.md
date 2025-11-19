@@ -59,7 +59,7 @@ End-to-end machine learning pipeline for predicting NFL player props (Over/Under
 - **Section 6**: Configuration of 8 props to train (e.g., Receiving YDS Over 50/65/75)
 - **Section 7**: Multi-prop training loop that trains all models and saves to `models/` directory
 - **Section 8**: Summary report showing best calibrated (lowest ECE) and discriminative (highest AUC) models
-- **Section 9**: Example predictions on top players from the dataset****
+- **Section 9**: Example predictions on top players from the dataset
 
 Models achieve AUC > 0.60 validation threshold with calibration curves saved to `plots/`. Final models output probability distributions for betting decisions with confidence scores and ECE metrics.
 
