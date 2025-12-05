@@ -1,270 +1,340 @@
-from __future__ import annotations
-from dataclasses import dataclass
-from typing import Dict, List
-
 import torch
 import torch.nn as nn
+import torch.optim as optim
+
+from torch.utils.data import TensorDataset, DataLoader
+from dataclasses import dataclass
+from typing import Tuple, Dict, Any, List
 
 @dataclass
-class TFTConfig:
-    hidden_size: int = 64
-    num_heads: int = 2
-    dropout: float = 0.1
-
-    n_past: int = 12               
-    n_future: int = 4           
-    static_cardinalities: List[int] = None 
-
-    n_epochs: int = 20
+class TrainConfig:
+    """
+    Configuration for training the TFT-style classifier.
+    """
+    n_epochs: int = 15
     batch_size: int = 64
     lr: float = 1e-3
+    device: str = "auto"   # "auto", "cpu", or "cuda"
+    verbose: bool = True
 
-    device: str = "cpu"
 
-
-class GatedResidualNetwork(nn.Module):
-    def __init__(self, inp: int, hidden: int, out: int | None = None, dropout: float = 0.1):
+class PositionalEncoding(nn.Module):
+    """
+    Standard sinusoidal positional encoding.
+    Expects input shape (T, B, D) and returns same shape.
+    """
+    def __init__(self, d_model: int, max_len: int = 500):
         super().__init__()
-        out = out or inp
 
-        self.fc1 = nn.Linear(inp, hidden)
-        self.elu = nn.ELU()
-        self.fc2 = nn.Linear(hidden, out)
-        self.dropout = nn.Dropout(dropout)
-
-        # gating
-        self.fc_gate = nn.Linear(out, out)
-        self.sigmoid = nn.Sigmoid()
-
-        # skip
-        if inp != out:
-            self.skip = nn.Linear(inp, out)
-        else:
-            self.skip = None
-
-    def forward(self, x: torch.Tensor) -> torch.Tensor:
-        residual = x if self.skip is None else self.skip(x)
-
-        x = self.fc1(x)
-        x = self.elu(x)
-        x = self.fc2(x)
-        x = self.dropout(x)
-
-        gate = self.sigmoid(self.fc_gate(x))
-        return residual + gate * x
-
-
-class VariableSelectionNetwork(nn.Module):
-
-    def __init__(self, n_inputs: int, d_inp: int, hidden_size: int, dropout: float = 0.1):
-        super().__init__()
-        self.n_inputs = n_inputs
-
-        self.weight_grn = GatedResidualNetwork(
-            n_inputs * d_inp,
-            hidden_size,
-            out=n_inputs,
-            dropout=dropout,
+        pe = torch.zeros(max_len, d_model)  # (max_len, d_model)
+        position = torch.arange(0, max_len, dtype=torch.float32).unsqueeze(1)  # (max_len, 1)
+        div_term = torch.exp(
+            torch.arange(0, d_model, 2, dtype=torch.float32)
+            * (-torch.log(torch.tensor(10000.0)) / d_model)
         )
-        self.softmax = nn.Softmax(dim=-1)
 
-        self.var_grns = nn.ModuleList([
-            GatedResidualNetwork(d_inp, hidden_size, out=hidden_size, dropout=dropout)
-            for _ in range(n_inputs)
-        ])
+        pe[:, 0::2] = torch.sin(position * div_term)  # even
+        pe[:, 1::2] = torch.cos(position * div_term)  # odd
+        pe = pe.unsqueeze(1)  # (max_len, 1, d_model)
+
+        self.register_buffer("pe", pe)
 
     def forward(self, x: torch.Tensor) -> torch.Tensor:
-        B, T, n_vars, d = x.shape
-
-        flat = x.reshape(B, T, n_vars * d)
-        w = self.weight_grn(flat)              # (B,T,n_vars)
-        w = self.softmax(w).unsqueeze(-1)      # (B,T,n_vars,1)
-
-        var_outs = []
-        for i, grn in enumerate(self.var_grns):
-            v = x[:, :, i, :]                  # (B,T,d_inp)
-            var_outs.append(grn(v))            # (B,T,hidden)
-        var_outs = torch.stack(var_outs, dim=2)  # (B,T,n_vars,hidden)
-
-        z = torch.sum(w * var_outs, dim=2)     # (B,T,hidden)
-        return z
+        """
+        x: (T, B, D)
+        """
+        T = x.size(0)
+        return x + self.pe[:T]
 
 
+# ============================================================
+# 3. TFT-STYLE BACKBONE (TRANSFORMER ENCODER)
+# ============================================================
 
-class TemporalFusionTransformer(nn.Module):
+class SimpleTFTBackbone(nn.Module):
+    """
+    A simplified TFT-style backbone:
+      - Linear projection from E -> d_model
+      - Sinusoidal positional encoding
+      - TransformerEncoder over time dimension
+      - Uses last time step hidden state as summary
 
-
+    Input:  x (B, T, E), lengths (B,)  [lengths currently unused]
+    Output: h_last (B, d_model)
+    """
     def __init__(
         self,
-        hidden_size: int,
-        n_static_cat: int,
-        n_future: int,
-        n_past: int,
-        static_cardinalities: List[int],
-        num_heads: int = 2,
+        input_size: int,
+        d_model: int = 128,
+        n_heads: int = 4,
+        num_layers: int = 2,
         dropout: float = 0.1,
     ):
         super().__init__()
+        self.input_proj = nn.Linear(input_size, d_model)
 
-        assert len(static_cardinalities) == n_static_cat, (
-            "len(static_cardinalities) must equal n_static_cat"
+        encoder_layer = nn.TransformerEncoderLayer(
+            d_model=d_model,
+            nhead=n_heads,
+            dim_feedforward=4 * d_model,
+            dropout=dropout,
+            batch_first=False,  # we will use (T, B, D)
+        )
+        self.encoder = nn.TransformerEncoder(
+            encoder_layer,
+            num_layers=num_layers,
         )
 
-        self.hidden_size = hidden_size
-        self.n_static_cat = n_static_cat
-        self.n_future = n_future
-        self.n_past = n_past
+        self.pos_encoder = PositionalEncoding(d_model)
+        self.d_model = d_model
 
-        # Embeddings for static categorical variables
-        self.static_emb_layers = nn.ModuleList([
-            nn.Embedding(num_embeddings=card, embedding_dim=hidden_size)
-            for card in static_cardinalities
-        ])
+    def forward(self, x: torch.Tensor, lengths: torch.Tensor) -> torch.Tensor:
+        """
+        x:       (B, T, E)
+        lengths: (B,) - currently unused (assumes full sequences)
+        returns: (B, d_model) - representation of last time step
+        """
+        B, T, E = x.shape
 
-        # Static variable selection
-        self.static_vsn = VariableSelectionNetwork(
-            n_inputs=n_static_cat,
-            d_inp=hidden_size,
-            hidden_size=hidden_size,
+        # Project to model dimension
+        x_proj = self.input_proj(x)      # (B, T, d_model)
+
+        # TransformerEncoder expects (T, B, D)
+        x_proj = x_proj.transpose(0, 1)  # (T, B, d_model)
+
+        # Add positional encoding
+        x_pe = self.pos_encoder(x_proj)  # (T, B, d_model)
+
+        # Encode
+        enc_out = self.encoder(x_pe)     # (T, B, d_model)
+
+        # Use last time step as summary
+        h_last = enc_out[-1]             # (B, d_model)
+
+        return h_last
+
+
+# ============================================================
+# 4. DUAL-HEAD TFT MODEL (REGRESSION + BINARY)
+# ============================================================
+
+class DualHeadTFTModel(nn.Module):
+    """
+    TFT-style sequence encoder with two heads:
+
+      - Regression head: predicts a continuous stat (e.g. yards).
+      - Binary head: predicts logits for over/under classification.
+
+    For betting, you typically:
+      - use the classification head: probs = sigmoid(logits_bin)
+      - optionally inspect y_reg as an auxiliary signal.
+    """
+    def __init__(
+        self,
+        input_size: int,
+        d_model: int = 128,
+        n_heads: int = 4,
+        num_layers: int = 2,
+        dropout: float = 0.1,
+    ):
+        super().__init__()
+        self.backbone = SimpleTFTBackbone(
+            input_size=input_size,
+            d_model=d_model,
+            n_heads=n_heads,
+            num_layers=num_layers,
             dropout=dropout,
         )
 
-        # Past observed VSN
-        self.past_vsn = VariableSelectionNetwork(
-            n_inputs=n_past,
-            d_inp=1,
-            hidden_size=hidden_size,
-            dropout=dropout,
-        )
+        # Regression head
+        self.fc_reg = nn.Linear(d_model, 1)
+        # Classification head
+        self.fc_bin = nn.Linear(d_model, 1)
 
-        # Known future VSN
-        self.future_vsn = VariableSelectionNetwork(
-            n_inputs=n_future,
-            d_inp=1,
-            hidden_size=hidden_size,
-            dropout=dropout,
-        )
-
-        # LSTM encoder/decoder
-        self.encoder = nn.LSTM(
-            input_size=hidden_size,
-            hidden_size=hidden_size,
-            batch_first=True,
-        )
-        self.decoder = nn.LSTM(
-            input_size=hidden_size,
-            hidden_size=hidden_size,
-            batch_first=True,
-        )
-
-        # Attention
-        self.attn = nn.MultiheadAttention(
-            embed_dim=hidden_size,
-            num_heads=num_heads,
-            dropout=dropout,
-            batch_first=True,
-        )
-
-        # Final head
-        self.fc = nn.Linear(hidden_size, 1)
+        with torch.no_grad():
+            nn.init.zeros_(self.fc_reg.bias)
+            nn.init.zeros_(self.fc_bin.bias)
 
     def forward(
         self,
-        past_obs: torch.Tensor,   # (B,T,n_past)
-        fut_known: torch.Tensor,  # (B,1,n_future)
-        static_cat: torch.Tensor  # (B,n_static_cat)
-    ) -> torch.Tensor:
+        x: torch.Tensor,
+        lengths: torch.Tensor,
+    ) -> Tuple[torch.Tensor, torch.Tensor]:
+        """
+        x:       (B, T, E)
+        lengths: (B,)
 
-        B, T, _ = past_obs.shape
+        Returns
+        -------
+        y_reg : (B,)
+            Continuous regression prediction (e.g. yards).
+        logits_bin : (B,)
+            Logits for over/under classification.
+            Get probabilities via:
+                probs = torch.sigmoid(logits_bin)
+        """
+        h_last = self.backbone(x, lengths)      # (B, d_model)
 
-        # ---- Static ----
-        static_embs = []
-        for i, emb in enumerate(self.static_emb_layers):
-            static_embs.append(emb(static_cat[:, i]))  # (B,hidden)
-        static_embs = torch.stack(static_embs, dim=1)   # (B,S_static,hidden)
+        y_reg = self.fc_reg(h_last).squeeze(-1)      # (B,)
+        logits_bin = self.fc_bin(h_last).squeeze(-1) # (B,)
 
-        static_repr = self.static_vsn(static_embs.unsqueeze(1))  # (B,1,hidden)
-        static_repr = static_repr.squeeze(1)                     # (B,hidden)
-        # static_repr currently unused, but kept for extensibility
+        return y_reg, logits_bin
 
-        # ---- Past observed ----
-        past_obs_exp = past_obs.unsqueeze(-1)  # (B,T,n_past,1)
-        z_past = self.past_vsn(past_obs_exp)   # (B,T,hidden)
-
-        # ---- Known future ----
-        fut_known_exp = fut_known.unsqueeze(-1)  # (B,1,n_future,1)
-        z_fut = self.future_vsn(fut_known_exp)   # (B,1,hidden)
-
-        # ---- LSTM encoder/decoder ----
-        enc_out, (h, c) = self.encoder(z_past)   # enc_out: (B,T,H)
-        dec_out, _ = self.decoder(z_fut, (h, c)) # dec_out: (B,1,H)
-
-        # ---- Attention over encoder output ----
-        attn_out, _ = self.attn(dec_out, enc_out, enc_out)  # (B,1,H)
-
-        logits = self.fc(attn_out).squeeze(1).squeeze(-1)   # (B,)
-        return logits
-
-
-# ============================================================
-# 4. FACTORY + EVAL HELPER
-# ============================================================
 
 def build_tft_model(
-    cfg: TFTConfig,
-    n_static_cat: int,
-    n_future: int,
-    n_past: int,
-    static_cardinalities: List[int],
-    device: torch.device | str = "cpu",
-) -> TemporalFusionTransformer:
+    input_size: int,
+    d_model: int = 128,
+    n_heads: int = 4,
+    num_layers: int = 2,
+    dropout: float = 0.1,
+) -> nn.Module:
+    """
+    Factory to create a dual-head TFT-style model.
 
-    model = TemporalFusionTransformer(
-        hidden_size=cfg.hidden_size,
-        n_static_cat=n_static_cat,
-        n_future=n_future,
-        n_past=n_past,
-        static_cardinalities=static_cardinalities,
-        num_heads=cfg.num_heads,
-        dropout=cfg.dropout,
-    ).to(device)
-    return model
+    Parameters
+    ----------
+    input_size : int
+        Number of input features per time step (E).
+    d_model : int
+        Transformer model dimension.
+    n_heads : int
+        Number of attention heads.
+    num_layers : int
+        Number of TransformerEncoder layers.
+    dropout : float
+        Dropout rate in encoder layers.
+
+    Returns
+    -------
+    nn.Module
+        An untrained DualHeadTFTModel.
+    """
+    return DualHeadTFTModel(
+        input_size=input_size,
+        d_model=d_model,
+        n_heads=n_heads,
+        num_layers=num_layers,
+        dropout=dropout,
+    )
 
 
-@torch.no_grad()
-def evaluate_tft_binary(
-    model: nn.Module,
-    dataloader,
-    device: torch.device | str = "cpu",
-):
+# ============================================================
+# 6. TRAINING HELPER: TFT CLASSIFIER (BCE ON CLASSIFICATION HEAD)
+# ============================================================
 
-    model.eval()
+def _resolve_device(device_str: str) -> torch.device:
+    """
+    Helper to resolve the device based on a string.
+    """
+    if device_str == "auto":
+        return torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    else:
+        return torch.device(device_str)
+
+
+def train_tft_classifier(
+    X: Any,
+    y: Any,
+    lengths: Any,
+    d_model: int = 128,
+    n_heads: int = 4,
+    num_layers: int = 2,
+    dropout: float = 0.1,
+    cfg: TrainConfig = TrainConfig(),
+) -> Dict[str, Any]:
+    """
+    Train a DualHeadTFTModel as a binary classifier using BCE on the
+    classification head only.
+
+    Parameters
+    ----------
+    X : np.ndarray or torch.Tensor
+        Input sequences, shape (N, T, E).
+    y : np.ndarray or torch.Tensor
+        Binary labels (0/1), shape (N,).
+    lengths : np.ndarray or torch.Tensor
+        Sequence lengths, shape (N,). Currently assumed constant (T).
+    d_model, n_heads, num_layers, dropout : int/float
+        Transformer hyperparameters.
+    cfg : TrainConfig
+        Training configuration (epochs, batch size, lr, device, verbose).
+
+    Returns
+    -------
+    result : dict
+        {
+          "model": trained DualHeadTFTModel,
+          "history": List[dict] with per-epoch training loss
+        }
+    """
+    device = _resolve_device(cfg.device)
+
+    # Convert inputs to tensors if needed
+    if not isinstance(X, torch.Tensor):
+        X_t = torch.tensor(X, dtype=torch.float32)
+    else:
+        X_t = X.float()
+
+    if not isinstance(y, torch.Tensor):
+        y_t = torch.tensor(y, dtype=torch.float32)
+    else:
+        y_t = y.float()
+
+    if not isinstance(lengths, torch.Tensor):
+        lengths_t = torch.tensor(lengths, dtype=torch.long)
+    else:
+        lengths_t = lengths.long()
+
+    N, T, E = X_t.shape
+
+    # Build model
+    model = build_tft_model(
+        input_size=E,
+        d_model=d_model,
+        n_heads=n_heads,
+        num_layers=num_layers,
+        dropout=dropout,
+    )
+    model = model.to(device)
+
+    # Dataset & DataLoader
+    dataset = TensorDataset(X_t, y_t, lengths_t)
+    dataloader = DataLoader(dataset, batch_size=cfg.batch_size, shuffle=True)
+
+    # Loss & optimizer
     criterion = nn.BCEWithLogitsLoss()
+    optimizer = optim.Adam(model.parameters(), lr=cfg.lr)
 
-    total_loss = 0.0
-    total_correct = 0
-    total_examples = 0
+    history: List[Dict[str, float]] = []
 
-    for past_obs, fut_known, static_cat, y in dataloader:
-        past_obs   = past_obs.to(device)
-        fut_known  = fut_known.to(device)
-        static_cat = static_cat.to(device)
-        y          = y.to(device)
+    # Training loop
+    for epoch in range(1, cfg.n_epochs + 1):
+        model.train()
+        total_loss = 0.0
 
-        logits = model(past_obs, fut_known, static_cat)
-        loss = criterion(logits, y)
+        for X_b, y_b, len_b in dataloader:
+            X_b = X_b.to(device)
+            y_b = y_b.to(device)
+            len_b = len_b.to(device)
 
-        probs = torch.sigmoid(logits)
-        preds = (probs >= 0.5).float()
+            optimizer.zero_grad()
 
-        total_loss += loss.item() * y.size(0)
-        total_correct += (preds == y).sum().item()
-        total_examples += y.numel()
+            # Dual-head forward: ignore regression head in loss
+            y_reg, logits = model(X_b, len_b)  # y_reg unused here
 
-    avg_loss = total_loss / total_examples if total_examples > 0 else 0.0
-    acc = total_correct / total_examples if total_examples > 0 else 0.0
+            loss = criterion(logits, y_b)
+            loss.backward()
+            optimizer.step()
+
+            total_loss += loss.item() * y_b.size(0)
+
+        avg_loss = total_loss / N
+        history.append({"epoch": epoch, "train_bce": avg_loss})
+
+        if cfg.verbose:
+            print(f"[TFT] Epoch {epoch:02d} | Train BCE loss: {avg_loss:.4f}")
 
     return {
-        "loss": avg_loss,
-        "accuracy": acc,
+        "model": model,
+        "history": history,
     }

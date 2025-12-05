@@ -1,0 +1,61 @@
+{
+  "timestamp": "2025-12-05T10:59:21.064166",
+  "stat_col": "YDS",
+  "line_value": 37.5,
+  "n_past_games": 5,
+  "hidden_size": 128,
+  "train_cfg": {
+    "n_epochs": 10,
+    "batch_size": 64,
+    "lr": 0.001,
+    "device": "auto"
+  },
+  "train_history": [
+    {
+      "epoch": 1,
+      "train_bce": 0.5257015054622348
+    },
+    {
+      "epoch": 2,
+      "train_bce": 0.5160074027744185
+    },
+    {
+      "epoch": 3,
+      "train_bce": 0.5149856857809398
+    },
+    {
+      "epoch": 4,
+      "train_bce": 0.513774558892786
+    },
+    {
+      "epoch": 5,
+      "train_bce": 0.5118908755770495
+    },
+    {
+      "epoch": 6,
+      "train_bce": 0.5116930001617676
+    },
+    {
+      "epoch": 7,
+      "train_bce": 0.5099768608466488
+    },
+    {
+      "epoch": 8,
+      "train_bce": 0.509993982451875
+    },
+    {
+      "epoch": 9,
+      "train_bce": 0.5100585396597095
+    },
+    {
+      "epoch": 10,
+      "train_bce": 0.5099394361061343
+    }
+  ],
+  "test_metrics": {
+    "auc": 0.7889181415347692,
+    "ece": 0.032255920256561724,
+    "pace2": 0.15239096179415537,
+    "n_test": 4448
+  }
+}
