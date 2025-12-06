@@ -2,11 +2,6 @@ import pandas as pd
 import numpy as np
 from typing import List, Optional, Tuple
 
-
-# ============================================================
-# 1. BASIC HELPERS
-# ============================================================
-
 def _ensure_datetime(df: pd.DataFrame, time_col: str = "date") -> pd.DataFrame:
     """
     Ensure the time_col is a proper datetime.
@@ -28,10 +23,6 @@ def _add_home_away_flag(df: pd.DataFrame, col: str = "home_away") -> pd.DataFram
         df["home_away_flag"] = 0.0
     return df
 
-
-# ============================================================
-# 2. SEQUENCE PREPARATION (FOR LSTM / TFT)
-# ============================================================
 
 def prepare_sequences_from_long_df(
     df: pd.DataFrame,
@@ -126,11 +117,6 @@ def prepare_receiving_sequences(
         n_past_games=n_past_games,
         feature_cols=feature_cols,
     )
-
-
-# ============================================================
-# 3. SEQUENCE → TABULAR (FOR XGBOOST / OTHER MODELS)
-# ============================================================
 
 def sequences_to_tabular(
     X: np.ndarray,

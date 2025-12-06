@@ -6,55 +6,34 @@ from torch.utils.data import TensorDataset, DataLoader
 from dataclasses import dataclass
 from typing import Tuple, Dict, Any, List
 
-
-# ============================================================
-# 1. CONFIGS
-# ============================================================
-
 @dataclass
 class StatSeqConfig:
-    """
-    Configuration for sequence-based stat models.
-    (Mostly for reference; training uses TrainConfig below.)
-    """
+
     n_past_games: int = 5
     batch_size: int = 64
     hidden_size: int = 128
     n_epochs: int = 20
     lr: float = 1e-3
 
-
 @dataclass
 class TrainConfig:
-    """
-    Configuration for training the dual-head LSTM classifier.
-    """
+
     n_epochs: int = 15
     batch_size: int = 64
     lr: float = 1e-3
-    device: str = "auto"   # "auto", "cpu", or "cuda"
+    device: str = "auto"  
     verbose: bool = True
 
-
-# ============================================================
-# 2. LSTM BUILDING BLOCKS
-# ============================================================
-
 class LSTMCell(nn.Module):
-    """
-    Custom LSTM cell (not using nn.LSTM).
-    Takes [x_t, h_{t-1}] and outputs h_t, c_t.
-    """
+
     def __init__(self, input_size: int, hidden_size: int):
         super().__init__()
         self.hidden_size = hidden_size
-        # One big linear for all 4 gates: [f, i, o, g]
         self.W = nn.Linear(input_size + hidden_size, 4 * hidden_size)
 
         with torch.no_grad():
             nn.init.xavier_uniform_(self.W.weight)
             nn.init.zeros_(self.W.bias)
-            # Forget gate bias trick: initialize forget bias to 1
             self.W.bias[:hidden_size] = 1.0
 
     def forward(
@@ -63,11 +42,7 @@ class LSTMCell(nn.Module):
         h_prev: torch.Tensor,
         c_prev: torch.Tensor,
     ) -> Tuple[torch.Tensor, torch.Tensor]:
-        """
-        x_t:    (B, E)
-        h_prev: (B, H)
-        c_prev: (B, H)
-        """
+
         z = self.W(torch.cat([x_t, h_prev], dim=1))  # (B, 4H)
         H = self.hidden_size
         f, i, o, g = z.chunk(4, dim=1)
@@ -83,20 +58,13 @@ class LSTMCell(nn.Module):
 
 
 class LSTMSequence(nn.Module):
-    """
-    Runs the LSTMCell over a sequence.
-    Currently assumes all sequences have the same length T.
-    """
+
     def __init__(self, input_size: int, hidden_size: int):
         super().__init__()
         self.cell = LSTMCell(input_size, hidden_size)
 
     def forward(self, x: torch.Tensor, lengths: torch.Tensor) -> torch.Tensor:
-        """
-        x:       (B, T, E)
-        lengths: (B,) - currently unused, kept for API consistency
-        returns: final hidden state (B, H)
-        """
+
         B, T, E = x.shape
         H = self.cell.hidden_size
 
@@ -112,21 +80,8 @@ class LSTMSequence(nn.Module):
         return h  # (B, H)
 
 
-# ============================================================
-# 3. DUAL-HEAD MODEL (REGRESSION + BINARY)
-# ============================================================
-
 class DualHeadStatModel(nn.Module):
-    """
-    Shared LSTM encoder with two heads:
 
-      - Regression head: predicts a continuous stat (e.g. yards).
-      - Binary head: predicts logits for over/under classification.
-
-    For betting, you typically:
-      - use the classification head: probs = sigmoid(logits_bin)
-      - optionally inspect y_reg as an auxiliary signal.
-    """
     def __init__(self, input_size: int, hidden_size: int):
         super().__init__()
         self.sequence = LSTMSequence(input_size, hidden_size)
@@ -145,61 +100,25 @@ class DualHeadStatModel(nn.Module):
         x: torch.Tensor,
         lengths: torch.Tensor,
     ) -> Tuple[torch.Tensor, torch.Tensor]:
-        """
-        x:       (B, T, E)
-        lengths: (B,)
 
-        Returns
-        -------
-        y_reg : (B,)
-            Continuous regression prediction (e.g. yards).
-        logits_bin : (B,)
-            Logits for over/under classification.
-            Get probabilities via:
-                probs = torch.sigmoid(logits_bin)
-        """
-        h_last = self.sequence(x, lengths)           # (B, H)
+        h_last = self.sequence(x, lengths)      
 
-        y_reg = self.fc_reg(h_last).squeeze(-1)      # (B,)
-        logits_bin = self.fc_bin(h_last).squeeze(-1) # (B,)
+        y_reg = self.fc_reg(h_last).squeeze(-1)      
+        logits_bin = self.fc_bin(h_last).squeeze(-1) 
 
         return y_reg, logits_bin
 
-
-# ============================================================
-# 4. FACTORY FUNCTION
-# ============================================================
 
 def build_lstm_model(
     input_size: int,
     hidden_size: int = 128,
 ) -> nn.Module:
-    """
-    Factory to create a dual-head LSTM-based model.
 
-    Parameters
-    ----------
-    input_size : int
-        Number of input features per time step (E).
-    hidden_size : int
-        LSTM hidden dimension (H).
-
-    Returns
-    -------
-    nn.Module
-        An untrained DualHeadStatModel.
-    """
     return DualHeadStatModel(input_size, hidden_size)
 
 
-# ============================================================
-# 5. TRAINING HELPER: DUAL-HEAD CLASSIFIER (BCE ON CLASSIFICATION HEAD)
-# ============================================================
-
 def _resolve_device(device_str: str) -> torch.device:
-    """
-    Helper to resolve the device based on a string.
-    """
+
     if device_str == "auto":
         return torch.device("cuda" if torch.cuda.is_available() else "cpu")
     else:
@@ -213,31 +132,7 @@ def train_dual_head_classifier(
     hidden_size: int = 128,
     cfg: TrainConfig = TrainConfig(),
 ) -> Dict[str, Any]:
-    """
-    Train a DualHeadStatModel as a binary classifier using BCE on the
-    classification head only.
 
-    Parameters
-    ----------
-    X : np.ndarray or torch.Tensor
-        Input sequences, shape (N, T, E).
-    y : np.ndarray or torch.Tensor
-        Binary labels (0/1), shape (N,).
-    lengths : np.ndarray or torch.Tensor
-        Sequence lengths, shape (N,). Currently assumed constant (T).
-    hidden_size : int
-        Hidden size for the LSTM.
-    cfg : TrainConfig
-        Training configuration (epochs, batch size, lr, device, verbose).
-
-    Returns
-    -------
-    result : dict
-        {
-          "model": trained DualHeadStatModel,
-          "history": List[dict] with per-epoch training loss
-        }
-    """
     device = _resolve_device(cfg.device)
 
     # Convert inputs to tensors if needed
@@ -258,21 +153,17 @@ def train_dual_head_classifier(
 
     N, T, E = X_t.shape
 
-    # Build model
     model = build_lstm_model(input_size=E, hidden_size=hidden_size)
     model = model.to(device)
 
-    # Dataset & DataLoader
     dataset = TensorDataset(X_t, y_t, lengths_t)
     dataloader = DataLoader(dataset, batch_size=cfg.batch_size, shuffle=True)
 
-    # Loss & optimizer
     criterion = nn.BCEWithLogitsLoss()
     optimizer = optim.Adam(model.parameters(), lr=cfg.lr)
 
     history: List[Dict[str, float]] = []
 
-    # Training loop
     for epoch in range(1, cfg.n_epochs + 1):
         model.train()
         total_loss = 0.0
@@ -284,8 +175,7 @@ def train_dual_head_classifier(
 
             optimizer.zero_grad()
 
-            # Dual-head forward: ignore regression head in loss
-            y_reg, logits = model(X_b, len_b)  # y_reg unused here
+            y_reg, logits = model(X_b, len_b) 
 
             loss = criterion(logits, y_b)
             loss.backward()

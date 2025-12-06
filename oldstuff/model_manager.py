@@ -50,11 +50,6 @@ def xgb_paths(base_tag: str):
         os.path.join("metrics", f"xgb_{base_tag}_metrics.json"),
     )
 
-
-# ============================================================
-# BUILD SEQUENCES (SHARED FOR ALL MODELS)
-# ============================================================
-
 def build_sequences_for_prop(train_df, test_df, stat_col: str, line_value: float):
     # Copy so we don't mutate original dfs in cache
     train_df = train_df.copy()
@@ -169,10 +164,6 @@ def train_or_load_lstm(
 
     return model_cpu, test_metrics
 
-
-# ============================================================
-# TRAIN OR LOAD: TFT
-# ============================================================
 
 def train_or_load_tft(
     base_tag: str,

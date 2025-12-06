@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-12-06T16:09:56.563323",
+  "stat_col": "YDS",
+  "line_value": 37.5,
+  "n_past_games": 5,
+  "train_file": "receiving_2019_2023.csv",
+  "test_file": "receiving_24tocurrent.csv",
+  "raw": {
+    "auc": 0.7820600841642353,
+    "ece": 0.013185873133525667,
+    "brier": 0.1732617429667927
+  },
+  "calibrated": {
+    "auc": 0.7820600841642353,
+    "ece": 0.047671638514591955,
+    "brier": 0.17625541231546324
+  }
+}

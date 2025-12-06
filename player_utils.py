@@ -58,15 +58,7 @@ def predict_player_over_prob(
     model_type: ModelType = "lstm",         # <--- NEW
     device: Union[str, torch.device] = "auto",
 ) -> float:
-    """
-    Generic player prop predictor that works for:
-      - model_type="lstm"   : dual-head LSTM (PyTorch)
-      - model_type="tft"    : dual-head TFT (PyTorch)
-      - model_type="xgboost": XGBoost / sklearn-like model with predict_proba
 
-    Returns:
-      prob_over : float in [0, 1]
-    """
 
     # 1) Build player's sequences
     X_p, y_p, lengths_p, meta_p = build_player_sequence(

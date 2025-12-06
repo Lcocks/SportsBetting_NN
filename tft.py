@@ -8,9 +8,7 @@ from typing import Tuple, Dict, Any, List
 
 @dataclass
 class TrainConfig:
-    """
-    Configuration for training the TFT-style classifier.
-    """
+
     n_epochs: int = 15
     batch_size: int = 64
     lr: float = 1e-3
@@ -19,10 +17,7 @@ class TrainConfig:
 
 
 class PositionalEncoding(nn.Module):
-    """
-    Standard sinusoidal positional encoding.
-    Expects input shape (T, B, D) and returns same shape.
-    """
+
     def __init__(self, d_model: int, max_len: int = 500):
         super().__init__()
 
@@ -40,28 +35,12 @@ class PositionalEncoding(nn.Module):
         self.register_buffer("pe", pe)
 
     def forward(self, x: torch.Tensor) -> torch.Tensor:
-        """
-        x: (T, B, D)
-        """
+
         T = x.size(0)
         return x + self.pe[:T]
 
-
-# ============================================================
-# 3. TFT-STYLE BACKBONE (TRANSFORMER ENCODER)
-# ============================================================
-
 class SimpleTFTBackbone(nn.Module):
-    """
-    A simplified TFT-style backbone:
-      - Linear projection from E -> d_model
-      - Sinusoidal positional encoding
-      - TransformerEncoder over time dimension
-      - Uses last time step hidden state as summary
 
-    Input:  x (B, T, E), lengths (B,)  [lengths currently unused]
-    Output: h_last (B, d_model)
-    """
     def __init__(
         self,
         input_size: int,
@@ -89,46 +68,23 @@ class SimpleTFTBackbone(nn.Module):
         self.d_model = d_model
 
     def forward(self, x: torch.Tensor, lengths: torch.Tensor) -> torch.Tensor:
-        """
-        x:       (B, T, E)
-        lengths: (B,) - currently unused (assumes full sequences)
-        returns: (B, d_model) - representation of last time step
-        """
+
         B, T, E = x.shape
 
-        # Project to model dimension
-        x_proj = self.input_proj(x)      # (B, T, d_model)
+        x_proj = self.input_proj(x) 
 
-        # TransformerEncoder expects (T, B, D)
-        x_proj = x_proj.transpose(0, 1)  # (T, B, d_model)
+        x_proj = x_proj.transpose(0, 1)  
 
-        # Add positional encoding
-        x_pe = self.pos_encoder(x_proj)  # (T, B, d_model)
+        x_pe = self.pos_encoder(x_proj)  
 
-        # Encode
-        enc_out = self.encoder(x_pe)     # (T, B, d_model)
+        enc_out = self.encoder(x_pe)   
 
-        # Use last time step as summary
-        h_last = enc_out[-1]             # (B, d_model)
+        h_last = enc_out[-1]          
 
         return h_last
 
-
-# ============================================================
-# 4. DUAL-HEAD TFT MODEL (REGRESSION + BINARY)
-# ============================================================
-
 class DualHeadTFTModel(nn.Module):
-    """
-    TFT-style sequence encoder with two heads:
 
-      - Regression head: predicts a continuous stat (e.g. yards).
-      - Binary head: predicts logits for over/under classification.
-
-    For betting, you typically:
-      - use the classification head: probs = sigmoid(logits_bin)
-      - optionally inspect y_reg as an auxiliary signal.
-    """
     def __init__(
         self,
         input_size: int,
@@ -160,19 +116,7 @@ class DualHeadTFTModel(nn.Module):
         x: torch.Tensor,
         lengths: torch.Tensor,
     ) -> Tuple[torch.Tensor, torch.Tensor]:
-        """
-        x:       (B, T, E)
-        lengths: (B,)
 
-        Returns
-        -------
-        y_reg : (B,)
-            Continuous regression prediction (e.g. yards).
-        logits_bin : (B,)
-            Logits for over/under classification.
-            Get probabilities via:
-                probs = torch.sigmoid(logits_bin)
-        """
         h_last = self.backbone(x, lengths)      # (B, d_model)
 
         y_reg = self.fc_reg(h_last).squeeze(-1)      # (B,)
@@ -188,27 +132,7 @@ def build_tft_model(
     num_layers: int = 2,
     dropout: float = 0.1,
 ) -> nn.Module:
-    """
-    Factory to create a dual-head TFT-style model.
 
-    Parameters
-    ----------
-    input_size : int
-        Number of input features per time step (E).
-    d_model : int
-        Transformer model dimension.
-    n_heads : int
-        Number of attention heads.
-    num_layers : int
-        Number of TransformerEncoder layers.
-    dropout : float
-        Dropout rate in encoder layers.
-
-    Returns
-    -------
-    nn.Module
-        An untrained DualHeadTFTModel.
-    """
     return DualHeadTFTModel(
         input_size=input_size,
         d_model=d_model,
@@ -217,10 +141,6 @@ def build_tft_model(
         dropout=dropout,
     )
 
-
-# ============================================================
-# 6. TRAINING HELPER: TFT CLASSIFIER (BCE ON CLASSIFICATION HEAD)
-# ============================================================
 
 def _resolve_device(device_str: str) -> torch.device:
     """
@@ -242,31 +162,7 @@ def train_tft_classifier(
     dropout: float = 0.1,
     cfg: TrainConfig = TrainConfig(),
 ) -> Dict[str, Any]:
-    """
-    Train a DualHeadTFTModel as a binary classifier using BCE on the
-    classification head only.
 
-    Parameters
-    ----------
-    X : np.ndarray or torch.Tensor
-        Input sequences, shape (N, T, E).
-    y : np.ndarray or torch.Tensor
-        Binary labels (0/1), shape (N,).
-    lengths : np.ndarray or torch.Tensor
-        Sequence lengths, shape (N,). Currently assumed constant (T).
-    d_model, n_heads, num_layers, dropout : int/float
-        Transformer hyperparameters.
-    cfg : TrainConfig
-        Training configuration (epochs, batch size, lr, device, verbose).
-
-    Returns
-    -------
-    result : dict
-        {
-          "model": trained DualHeadTFTModel,
-          "history": List[dict] with per-epoch training loss
-        }
-    """
     device = _resolve_device(cfg.device)
 
     # Convert inputs to tensors if needed

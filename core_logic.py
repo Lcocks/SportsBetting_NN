@@ -4,7 +4,7 @@ from typing import List, Dict, Tuple
 
 import pandas as pd
 
-from model_manager import (
+from oldstuff.model_manager import (
     make_base_tag,
     build_sequences_for_prop,
     train_or_load_lstm,
