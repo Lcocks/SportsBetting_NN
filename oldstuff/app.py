@@ -1,3 +1,4 @@
+# app.py
 import os
 
 import streamlit as st
@@ -9,190 +10,26 @@ from model_manager import (
     train_or_load_lstm,
     train_or_load_tft,
     train_or_load_xgb,
-    N_PAST_GAMES,   # constant defined in model_manager.py
+    N_PAST_GAMES,
 )
-
 from player_utils import predict_player_over_prob
 
+# ✅ import the testable logic
+from core_logic import (
+    DATA_CONFIG,
+    load_data as load_data_core,
+    get_model_for_prop,
+    compute_parlay_prob,
+)
 
 # ============================================================
-# DATA SOURCES (MATCHES YOUR FILENAME SCHEME)
+# STREAMLIT-WRAPPED DATA LOADER (adds caching)
 # ============================================================
-
-DATA_DIR = "data"  # folder where your *_2019_2023.csv etc. live
-
-DATA_CONFIG = {
-    "Receiving": {
-        "prefix": "receiving",
-        "default_stat_col": "YDS",
-    },
-    "Rushing": {
-        "prefix": "rushing",
-        "default_stat_col": "YDS",
-    },
-    "Passing": {
-        "prefix": "passing",
-        "default_stat_col": "YDS",
-    },
-    "Defensive": {
-        "prefix": "defensive",
-        "default_stat_col": "YDS",
-    },
-    "Fumbles": {
-        "prefix": "fumbles",
-        "default_stat_col": "YDS",
-    },
-    "Interceptions": {
-        "prefix": "interceptions",
-        "default_stat_col": "YDS",
-    },
-    "Kicking": {
-        "prefix": "kicking",
-        "default_stat_col": "YDS",
-    },
-    "Kick Returns": {
-        "prefix": "kickreturns",
-        "default_stat_col": "YDS",
-    },
-    "Punting": {
-        "prefix": "punting",
-        "default_stat_col": "YDS",
-    },
-    "Punt Returns": {
-        "prefix": "puntreturn",
-        "default_stat_col": "YDS",
-    },
-}
-
 
 @st.cache_data
 def load_data(yard_type: str):
-    """
-    Load train/test/full dataframes for a given yard type,
-    based on the filename pattern:
-        <prefix>_2019_2023.csv
-        <prefix>_24tocurrent.csv
-    """
-    cfg = DATA_CONFIG[yard_type]
-    prefix = cfg["prefix"]
-
-    train_path = os.path.join(DATA_DIR, f"{prefix}_2019_2023.csv")
-    test_path  = os.path.join(DATA_DIR, f"{prefix}_24tocurrent.csv")
-
-    train_df = pd.read_csv(train_path)
-    test_df  = pd.read_csv(test_path)
-    full_df  = pd.concat([train_df, test_df], ignore_index=True)
-
-    return train_df, test_df, full_df
-
-
-# ============================================================
-# HELPERS FOR MULTI-PROP PARLAYS
-# ============================================================
-
-def get_model_for_prop(
-    yard_type: str,
-    stat_col: str,
-    line_value: float,
-    model_family: str,       # "LSTM" | "TFT" | "XGBoost"
-    train_df,
-    test_df,
-):
-    """
-    Train or load the chosen family (LSTM/TFT/XGB) for a given
-    (yard_type, stat_col, line_value) prop.
-    """
-    base_tag = make_base_tag(yard_type, stat_col, line_value)
-
-    X_train, y_train, lengths_train, X_test, y_test, lengths_test = build_sequences_for_prop(
-        train_df, test_df, stat_col, line_value
-    )
-
-    if model_family == "LSTM":
-        model, metrics = train_or_load_lstm(
-            base_tag,
-            X_train, y_train, lengths_train,
-            X_test,  y_test,  lengths_test,
-            stat_col, line_value,
-        )
-    elif model_family == "TFT":
-        model, metrics = train_or_load_tft(
-            base_tag,
-            X_train, y_train, lengths_train,
-            X_test,  y_test,  lengths_test,
-            stat_col, line_value,
-        )
-    else:  # "XGBoost"
-        model, metrics = train_or_load_xgb(
-            base_tag,
-            X_train, y_train, lengths_train,
-            X_test,  y_test,  lengths_test,
-            stat_col, line_value,
-        )
-
-    return model, metrics
-
-
-def compute_parlay_prob(
-    parlay_legs,
-    yard_type: str,
-    parlay_model_choice: str,  # "LSTM" | "TFT" | "XGBoost"
-    train_df,
-    test_df,
-    full_df,
-):
-    """
-    parlay_legs: list of dicts with keys:
-        - player
-        - stat_col
-        - line_value
-
-    All legs share the same yard_type, but can have different stat_col + line.
-    """
-    # Cache models per (stat_col, line_value) so we don't retrain or reload twice
-    model_cache = {}
-    leg_probs = []
-
-    for leg in parlay_legs:
-        player     = leg["player"]
-        stat_col   = leg["stat_col"]
-        line_value = leg["line_value"]
-
-        prop_key = (stat_col, line_value)
-
-        if prop_key not in model_cache:
-            model, _ = get_model_for_prop(
-                yard_type=yard_type,
-                stat_col=stat_col,
-                line_value=line_value,
-                model_family=parlay_model_choice,
-                train_df=train_df,
-                test_df=test_df,
-            )
-            model_cache[prop_key] = model
-        else:
-            model = model_cache[prop_key]
-
-        model_type_str = parlay_model_choice.lower()  # "lstm" / "tft" / "xgboost"
-
-        p_leg = predict_player_over_prob(
-            model=model,
-            df=full_df,
-            player_name=player,
-            stat_col=stat_col,
-            line_value=line_value,
-            n_past_games=N_PAST_GAMES,
-            model_type=model_type_str,
-            device="cpu",
-        )
-
-        leg_probs.append((leg, p_leg))
-
-    parlay_prob = 1.0
-    for _, p_leg in leg_probs:
-        parlay_prob *= p_leg
-
-    return parlay_prob, leg_probs
+    # just wraps the pure function for caching
+    return load_data_core(yard_type)
 
 
 # ============================================================
@@ -327,10 +164,8 @@ if st.button("Train / Load Models and Compute"):
             # ------------------------------------------------------------
             # 1) SINGLE-LEG: train/load all 3 model families for that prop
             # ------------------------------------------------------------
-            # single prop tag
             single_base_tag = make_base_tag(yard_type, single_stat_col, single_line_value)
 
-            # shared sequences for this single-leg prop
             X_train_s, y_train_s, lengths_train_s, X_test_s, y_test_s, lengths_test_s = build_sequences_for_prop(
                 train_df, test_df, single_stat_col, single_line_value
             )
@@ -339,7 +174,7 @@ if st.button("Train / Load Models and Compute"):
             lstm_model_s, lstm_metrics_s = train_or_load_lstm(
                 single_base_tag,
                 X_train_s, y_train_s, lengths_train_s,
-                X_test_s, y_test_s, lengths_test_s,
+                X_test_s,  y_test_s,  lengths_test_s,
                 single_stat_col, single_line_value,
             )
 
@@ -347,7 +182,7 @@ if st.button("Train / Load Models and Compute"):
             tft_model_s, tft_metrics_s = train_or_load_tft(
                 single_base_tag,
                 X_train_s, y_train_s, lengths_train_s,
-                X_test_s, y_test_s, lengths_test_s,
+                X_test_s,  y_test_s,  lengths_test_s,
                 single_stat_col, single_line_value,
             )
 
@@ -355,11 +190,11 @@ if st.button("Train / Load Models and Compute"):
             xgb_model_s, xgb_metrics_s = train_or_load_xgb(
                 single_base_tag,
                 X_train_s, y_train_s, lengths_train_s,
-                X_test_s, y_test_s, lengths_test_s,
+                X_test_s,  y_test_s,  lengths_test_s,
                 single_stat_col, single_line_value,
             )
 
-            # single-leg probabilities for that prop and player
+            # --- single-leg probabilities ---
             prob_lstm = predict_player_over_prob(
                 model=lstm_model_s,
                 df=full_df,
@@ -393,7 +228,7 @@ if st.button("Train / Load Models and Compute"):
             )
 
             # ------------------------------------------------------------
-            # 2) PARLAY: multi-prop, using chosen model family
+            # 2) PARLAY: use the core `compute_parlay_prob` function
             # ------------------------------------------------------------
             parlay_legs = [
                 {

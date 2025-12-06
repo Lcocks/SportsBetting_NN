@@ -1,0 +1,14 @@
+dash
+jupyterlab
+jupyter-dash
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+torch
+torchvision
+torchaudio
+xgboost
+tqdm
+requests
