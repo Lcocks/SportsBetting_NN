@@ -1,6 +1,6 @@
 # SportsBetting_NN
 
-Predictive model for leg parlay betting of NFL games.
+This repository contains machine learning models for predicting NFL player prop outcomes using LSTM, TFT (Temporal Fusion Transformer), and XGBoost algorithms. The models analyze historical player performance data to predict the probability of players hitting over/under lines for various statistics and in multi-leg parlays.
 
 ## Requirements
 ```
@@ -14,6 +14,18 @@ requests
 concurrent.futures
 functools
 dataclasses
+dash
+jupyterlab
+jupyter-dash
+plotly
+torch
+torchvision
+torchaudio
+xgboost
+tqdm
+requests
+json
+seaborn
 ```
 
 # Files
@@ -46,51 +58,207 @@ Training: `defensive_2019_2023.csv`, `receiving_2019_2023.csv`, `rushing_2019_20
 Holdout: Same files with `_24tocurrent.csv` suffix for model validation
 
 
-## DataTransfandXGBOOST.ipynb
 
-End-to-end machine learning pipeline for predicting NFL player props (Over/Under betting lines) using XGBoost with Expected Calibration Error (ECE) evaluation. The system trains separate models for receiving, rushing, and passing props using player-level rolling averages and historical performance features. This is the code for creating the baseline XGBoost model to compare with the LSTM model. Each cell has separate steps for actions like data transformations, model building, model running, testing and plotting. 
 
-  Execute the notebook sections sequentially:
-- **Section 1**: Loads 10 datasets (receiving, rushing, passing, defensive, etc.) from `data/` directory
-- **Section 2**: Defines ECE calculation functions for model calibration evaluation (Walsh & Joshi, 2024)
-- **Section 3**: Feature engineering with rolling averages (3/5/8 games), season stats, and prop hit rates
-- **Section 4**: Single model training test on 2000 receiving records to validate pipeline
-- **Section 5**: Inference function for predicting probabilities given player name, stat, and threshold
-- **Section 6**: Configuration of 8 props to train (e.g., Receiving YDS Over 50/65/75)
-- **Section 7**: Multi-prop training loop that trains all models and saves to `models/` directory
-- **Section 8**: Summary report showing best calibrated (lowest ECE) and discriminative (highest AUC) models
-- **Section 9**: Example predictions on top players from the dataset
+## Repository Structure
+```
+├── data/                      # Historical NFL player statistics datasets
+├── models/                    # Saved trained model files (.pt, .json)
+├── metrics/                   # Model performance metrics (JSON format)
+├── plots/                     # Visualization outputs from test.ipynb
+├── figures/                   # Additional charts and analysis visualizations
+├── ablation_results/          # Results from ablation studies (results and plots) 
+├── trained_models/            # Production-ready trained models
+├── testing/                   # Test scripts and validation code
+├── PDFS/                      # Documentation and research papers
+├── oldstuff/                  # Archived/deprecated code
+├── test.ipynb                 # **Main testing notebook** - Primary interface
+├── Ablation_Studies.ipynb     # **Secondary testing notebook** - Ablation study experiments
+├── core_logic.py              # Core functions for parlay probability computation
+├── data_prep.py               # Data preprocessing and sequence preparation
+├── lstm.py                    # LSTM model implementation
+├── tft.py                     # Temporal Fusion Transformer implementation
+├── xgb.py                     # XGBoost model implementation
+├── metrics.py                 # Evaluation metrics (ECE, PaCE, AUC)
+├── player_utils.py            # Player-specific prediction utilities
+├── requirements.txt           # Python package dependencies
+├── LICENSE                    # Repository license
+└── README.md                  # Introduction to repo
+```
 
-Models achieve AUC > 0.60 validation threshold with calibration curves saved to `plots/`. Final models output probability distributions for betting decisions with confidence scores and ECE metrics.
+## Key Features
 
-## lstm.ipynb
+- **Multiple Model Architectures**: Compare LSTM, TFT, and XGBoost for different prediction scenarios
+- **Multi-Leg Parlay Support**: Calculate probabilities for parlays with multiple player props
+- **Comprehensive Metrics**: Evaluate models using AUC, ECE (Expected Calibration Error), and PaCE (Parlay Calibration Error)
+- **Flexible Statistics**: Support for receiving, rushing, passing, defensive, and special teams statistics
+- **Ablation Studies**: Systematic analysis of hyperparameter (model and data based) effects on model performance
 
-NFL Player Prop LSTM with Kelly Criterion & Parlay Analysis
+## Getting Started
 
-These are the class and functions used to train and load datasets for a specified parlay and output a probability
+### Main Usage
 
-After running the first code cell to define the functions, there are example usages under "Single Leg Parlay" and "Multi Leg Parlay" specifing a certain player prop statistic for a player and will output the probability of that player hitting that target.
+The primary interface is `test.ipynb`, a Jupyter notebook that provides:
 
-Under the "Implement Kelly ROI" section there is code to sample parlay legs from the test datasets to output the ECE, PCE and Flat ROI per parlay to serve as a metric for the model's performance as well as the example usage code at the last code cell.
+1. **Single Model Training & Evaluation**
+2. **Single-Leg Probability Predictions**
+3. **Multi-Leg Parlay Probability Calculations**
 
-  Execute notebook sections sequentially:
-- **Section 1**: Configuration and data loading - `StatSeqConfig` sets window length (5 games), batch size (64), hidden size (128), epochs (20), learning rate (1e-3). `load_stat_df()` loads training (2019-2023) and holdout (2024-current) data for any stat category
-- **Section 2**: Dataset creation - `StatSequenceDataset` and `make_train_test_sequences()` build sliding windows of past N games to predict next game outcome, split by season (≤2023 train, >2023 test)
-- **Section 3**: Custom LSTM - `LSTMCell` implements forget/input/output gates from scratch with Xavier initialization and forget gate bias=1.0. `LSTMSequence` handles variable-length sequences with masking
-- **Section 4**: Model architectures - `StatFromScratch` for regression, `StatFromScratchBinary` for Over/Under classification with BCEWithLogitsLoss and gradient clipping (max_norm=5.0)
-- **Section 5**: `create_binary_model_from_dataset()` generates binary labels (stat ≥ threshold), filters features, creates train/test DataLoaders with custom collate function for variable lengths
-- **Section 6**: `train_binary_model()` trains with Adam optimizer, reports train/test loss and accuracy per epoch
-- **Section 7**: Single-leg example - Train passing yards model (Patrick Mahomes Over 305.5), predict probability using `predict_over_probability()` with last 5 games
-- **Section 8**: Multi-leg parlay - Train separate models for passing (Mahomes) and rushing (Pacheco), compute joint probability with `parlay_model_prob()` by multiplying individual leg probabilities
-- **Section 9**: Kelly Criterion implementation - `kelly_fraction_even()` computes optimal bet sizing (f* = 2p - 1 for even-money odds), `sample_parlays()` generates M random L-leg parlays from test set
-- **Section 10**: Calibration metrics - `expected_calibration_error()` (ECE) bins single-leg predictions, `parlay_calibration_error()` (PCE) measures |predicted_prob - actual_outcome| for parlays
-- **Section 11**: ROI calculation - `compute_kelly_and_flat_roi()` compares flat betting (equal stakes) vs Kelly sizing on sampled parlays
-- **Section 12**: Full experiment pipeline - `run_parlay_experiment()` combines ECE, PCE, flat/Kelly ROI into single summary report with 1000 sampled 2-leg parlays
+#### Quick Start Example
+```python
+# Configure your prediction
+yard_type = "receiving"  # Options: receiving, passing, rushing, defensive, etc.
+    """this is set at the beginning of LSTM model type (first model type) and is reset within EACH MODEL to follow a new naming convetion. See core_logic.py"""
+STAT_COL = "YDS"         # The statistic to predict (e.g., YDS, REC, TD, etc.)
+LINE_VALUE = 80          # The over/under threshold
+N_PAST_GAMES = 5         # Number of historical games to use
+HIDDEN_SIZE = 128 # number of hidden layers
+D_MODEL = 128 # dimension of the tft model
 
-Model predicts Over/Under probabilities for any player prop, combines multiple legs into parlay probability, and evaluates profitability with Kelly optimal bet sizing.
+# Train a model and make predictions using test.ipynb
+```
 
-### Key Metrics
-- **ECE**: Single-leg calibration error (lower = better probability estimates)
-- **PCE**: Parlay calibration error (measures multi-leg prediction quality)
-- **Kelly ROI**: Expected return with optimal bet sizing
-- **Flat ROI**: Baseline return with equal-weight betting
+## Supported Statistics
+
+### Receiving
+- **REC** – Receptions
+- **YDS** – Receiving Yards
+- **AVG** – Avg Yards/Reception
+- **TD** – Receiving TDs
+- **LONG** – Longest Reception
+- **TGTS** – Targets
+
+### Rushing
+- **CAR** – Carries (Rushing Attempts)
+- **YDS** – Rushing Yards
+- **AVG** – Avg Yards/Carry
+- **TD** – Rushing TDs
+- **LONG** – Longest Rush
+
+### Passing
+- **C_ATT** – Completions/Attempts
+- **YDS** – Passing Yards
+- **AVG** – Avg Yards/Attempt
+- **TD** – Passing TDs
+- **INT** – Interceptions Thrown
+- **SACKS** – Times Sacked
+- **QBR** – QB Rating (ESPN)
+- **RTG** – Passer Rating (NFL)
+
+### Defensive
+- **TOT** – Total Tackles
+- **SOLO** – Solo Tackles
+- **SACKS** – Sacks
+- **TFL** – Tackles for Loss
+- **PD** – Passes Defended
+- **QB_HTS** – QB Hits
+- **TD** – Defensive TDs
+
+### Other Categories
+- **Fumbles**: FUM, LOST, REC
+- **Interceptions**: INT, YDS, TD
+- **Kicking**: FG, PCT, LONG, XP, PTS
+- **Kick Returns**: NO, YDS, AVG, LONG, TD
+- **Punt Returns**: NO, YDS, AVG, LONG, TD
+- **Punting**: NO, YDS, AVG, TB, IN_20, LONG
+
+## Model Configuration
+
+### LSTM Configuration
+```python
+HIDDEN_SIZE = 128    # Number of hidden units
+N_PAST_GAMES = 5     # Sequence length
+n_epochs = 10
+batch_size = 64
+lr = 1e-3
+```
+
+### TFT Configuration
+```python
+D_MODEL = 128        # Model dimension
+n_heads = 4          # Attention heads
+num_layers = 2       # Transformer layers
+dropout = 0.1
+lr = 1e-3
+
+```
+
+### XGBoost Configuration
+```python
+n_estimators = 300
+max_depth = 4
+learning_rate = 0.05
+subsample = 0.9
+colsample_bytree = 0.9
+```
+
+## Evaluation Metrics
+
+- **AUC (Area Under ROC Curve)**: Overall classification performance
+- **ECE (Expected Calibration Error)**: Measures probability calibration quality
+- **PaCE-2 (Parlay Calibration Error)**: Evaluates 2-leg parlay predictions
+
+## Ablation Studies
+
+Run systematic experiments to find optimal hyperparameters:
+```python
+# See Ablation_Studies.ipynb for m (1) model hyperparameter (2) N_PAST_GAMES analysis (3) compared raw sigmoid outputs, Platt scaling, and isotonic regression calibration for XGBoost receiving yards.
+# Results saved to ablation_results/
+```
+
+## Multi-Leg Parlay Example
+```python
+parlay_legs = [
+    {
+        "player": "George Kittle",
+        "stat_col": "YDS",
+        "line_value": 55.5,
+    },
+    {
+        "player": "Brandon Aiyuk",
+        "stat_col": "TGTS",
+        "line_value": 2,
+    },
+]
+
+parlay_prob, leg_probs = compute_parlay_prob(
+    parlay_legs=parlay_legs,
+    yard_type="Receiving",
+    parlay_model_choice="LSTM",  # or "TFT" or "XGBoost"
+    train_df=train_df,
+    test_df=test_df,
+    full_df=full_df,
+)
+```
+
+## Output
+
+- **Models**: Saved to `models/` directory as `.pt` (PyTorch) or `.json` (XGBoost) files
+- **Metrics**: Performance metrics saved to `metrics/` as JSON files
+- **Plots**: Visualizations saved to `plots/` directory
+- **Ablation Results**: Study results in `ablation_results/`
+
+## Project Workflow
+
+1. **Data Preparation**: Load and preprocess historical player statistics using `testing/apicodes_recovered.ipynb`
+2. **Model Training**: Train LSTM, TFT, or XGBoost models using `test.ipynb`
+3. **Evaluation**: Assess model performance using AUC, ECE, and PaCE metrics
+4. **Prediction**: Generate single-leg or multi-leg parlay probabilities
+5. **Ablation**: Optimize hyperparameters using systematic experiments
+
+## Notes
+
+- **Single Yard Type Per Parlay**: Multi-leg parlays must use the same yard type (e.g., all receiving stats)
+- **Model Retraining**: If a leg configuration hasn't been trained, the model will be trained automatically
+- **Sequence Length**: N_PAST_GAMES typically ranges from 3-8 games
+
+## Contributing
+
+    -   **Rheyan Ampoyo** (@rheyoampoyo) 
+
+## Contact
+
+    - epx8hh@virginia.edu
+
+
+

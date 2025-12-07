@@ -1,0 +1,61 @@
+{
+  "timestamp": "2025-12-06T18:58:31.777312",
+  "stat_col": "TGTS",
+  "line_value": 2,
+  "n_past_games": 5,
+  "d_model": 128,
+  "train_cfg": {
+    "n_epochs": 10,
+    "batch_size": 64,
+    "lr": 0.001,
+    "device": "auto"
+  },
+  "train_history": [
+    {
+      "epoch": 1,
+      "train_bce": 0.5488158621830443
+    },
+    {
+      "epoch": 2,
+      "train_bce": 0.5415743929073423
+    },
+    {
+      "epoch": 3,
+      "train_bce": 0.5357686801693413
+    },
+    {
+      "epoch": 4,
+      "train_bce": 0.535624307170809
+    },
+    {
+      "epoch": 5,
+      "train_bce": 0.5331638965946558
+    },
+    {
+      "epoch": 6,
+      "train_bce": 0.5313848088537931
+    },
+    {
+      "epoch": 7,
+      "train_bce": 0.533267574463872
+    },
+    {
+      "epoch": 8,
+      "train_bce": 0.5317669212409021
+    },
+    {
+      "epoch": 9,
+      "train_bce": 0.5329056555812032
+    },
+    {
+      "epoch": 10,
+      "train_bce": 0.5295722804115472
+    }
+  ],
+  "test_metrics": {
+    "auc": 0.7988188202046571,
+    "ece": 0.022362145514850565,
+    "pace2": 0.3764515357362127,
+    "n_test": 4448
+  }
+}

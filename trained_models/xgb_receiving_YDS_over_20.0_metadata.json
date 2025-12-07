@@ -1,0 +1,34 @@
+{
+  "test_metrics": {
+    "ece": 0.0994597236769911,
+    "roc_auc": 0.7632496513249651,
+    "pce": 0.2480431597135063,
+    "test_samples": 1377
+  },
+  "feature_cols": [
+    "team_encoded",
+    "opposing_team_encoded",
+    "position_encoded",
+    "home_away_encoded",
+    "season",
+    "yds_rolling_3",
+    "yds_rolling_5",
+    "yds_rolling_8",
+    "rec_rolling_3",
+    "rec_rolling_8",
+    "td_rolling_3",
+    "td_rolling_8",
+    "tgts_rolling_3",
+    "tgts_rolling_8",
+    "prop_hit_rate_8",
+    "yds_season_avg",
+    "prop_season_hit_rate",
+    "yds_std_8",
+    "trend",
+    "game_num",
+    "career_games"
+  ],
+  "category": "receiving",
+  "stat": "YDS",
+  "threshold": 20.0
+}

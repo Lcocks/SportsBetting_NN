@@ -1,0 +1,32 @@
+{
+  "test_metrics": {
+    "ece": 0.07744436894738396,
+    "roc_auc": 0.5495391705069124,
+    "pce": 0.3074542367642479,
+    "test_samples": 215
+  },
+  "feature_cols": [
+    "team_encoded",
+    "opposing_team_encoded",
+    "position_encoded",
+    "home_away_encoded",
+    "season",
+    "int_rolling_3",
+    "int_rolling_5",
+    "int_rolling_8",
+    "yds_rolling_3",
+    "yds_rolling_8",
+    "td_rolling_3",
+    "td_rolling_8",
+    "prop_hit_rate_8",
+    "int_season_avg",
+    "prop_season_hit_rate",
+    "int_std_8",
+    "trend",
+    "game_num",
+    "career_games"
+  ],
+  "category": "passing",
+  "stat": "INT",
+  "threshold": 0.0
+}
