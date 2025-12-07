@@ -2,6 +2,10 @@
 
 This repository contains machine learning models for predicting NFL player prop outcomes using LSTM, TFT (Temporal Fusion Transformer), and XGBoost algorithms. The models analyze historical player performance data to predict the probability of players hitting over/under lines for various statistics and in multi-leg parlays.
 
+## Equal Contributors
+
+-   **Rheyan Ampoyo** (@[rheyoampoyo](https://github.com/rheyoampoyo)) 
+
 ## Requirements
 ```
 pandas
@@ -251,10 +255,6 @@ parlay_prob, leg_probs = compute_parlay_prob(
 - **Single Yard Type Per Parlay**: Multi-leg parlays must use the same yard type (e.g., all receiving stats)
 - **Model Retraining**: If a leg configuration hasn't been trained, the model will be trained automatically
 - **Sequence Length**: N_PAST_GAMES typically ranges from 3-8 games
-
-## Contributing
-
--   **Rheyan Ampoyo** (@[rheyoampoyo](https://github.com/rheyoampoyo)) 
 
 ## Contact
 
