@@ -254,7 +254,7 @@ parlay_prob, leg_probs = compute_parlay_prob(
 
 ## Contributing
 
-    -   **Rheyan Ampoyo** (@rheyoampoyo) 
+-   **Rheyan Ampoyo** (@[rheyoampoyo](https://github.com/rheyoampoyo)) 
 
 ## Contact
 
